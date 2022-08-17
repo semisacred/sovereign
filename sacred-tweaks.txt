@@ -182,7 +182,7 @@ AddSpEffect 525003 (single frame)
 #-------------------------------------------
 
 
-# FX#---------------------------------------
+# FX----------------------------------------
 [use FXMLR to convert .fxr to .xml]
 
 Ruinous Black Flame Sword FX:
