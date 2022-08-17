@@ -166,7 +166,7 @@ SpEffectParam(6202002, 6202003, 6202004, 6202005)
 (c0000.anibnd.dcx)
 
 Ruinous Black Flame Weapon Art Cast FX:
-a821.tae (ghostflame to black flame)
+a821_040000
 
 Quick Buff Erudition:
 a000_081031
