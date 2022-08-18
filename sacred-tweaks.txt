@@ -3,6 +3,19 @@
 #-------------------------------------------
 
 
+# GAME SETTINGS------------------
+GameSystemCommonParam:
+AI Sight Multiplier - Morning - 1->2
+AI Sight Multiplier - Noon - 1->2
+AI Sight Multiplier - Evening - 1->2
+AI Sight Multiplier - Night - 0.5->1
+AI Sight Multiplier - Midnight - 0.5->1
+AI Sight Multiplier - Sunloss - Light - 1->2
+AI Sight Multiplier - Sunloss - Darkness - 0.9->1.8
+AI Sight Multiplier - Sunloss - Total Darkness - 0.8->1.6
+#-------------------------------------------
+
+
 # MAIN WEAPONS------------------------------
 Godslayer's Greatsword: (50 Kills = 20% HP, FP, SP, Damage)
 EquipParamWeapon(4070000) - Behavior Variation ID 404->300, Weight 17.5->15.5, Reinforcement Price 1180->3540, Correction: STR 31->42, Correction: DEX 52->28, Correction: FTH 40->54, Passive SpEffect 1 -1->1626004, Passive SpEffect 2 1626006, Damage: Physical 119->77, Damage: Fire 77->33, Weapon Motion Category 26->25, Special Motion Category 137->0, Requirement: STR 20->24, Requirement: DEX  22->16, Requirement: FTH 20->30, Sword Arts Param ID 1170->1021
@@ -105,7 +118,7 @@ Duplicate SpEffectParam 3295->3296 [SACRED] Numen's Rune [Chain] - Chain SpEffec
 Duplicate SpEffectParam 3282->3297 [SACRED] Numen's Rune Erudition - Current HP % 0, Current FP % 0, Rune Gain + 0, Chain SpEffect ID 3298, Cycle SpEffect ID 1605000
 Duplicate SpEffectParam 3288->3298 [SACRED] Numen's Rune Erudition Rune Loss - Rune Gain + -20000, Chain SpEffect ID 3294
 Duplicate ShopLineupParam_Recipe 30100->35001 [SACRED] Numen's Rune - Reference ID 2913, Sell Price Overwrite 10000, Required Material ID 35001
-Duplicate EquipMtrlSetParam 0->35001 [SACRED] Numen's Rune - Material ID [1] 2900
+Duplicate EquipMtrlSetParam 0->35001 [SACRED] Numen's Rune - Material ID [1] 1760
 
 Soap:
 SpEffectParam(502120) - Cycle SpEffect ID 3507
@@ -138,13 +151,17 @@ Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Rune Arc - Reference ID 1
 Duplicate EquipMtrlSetParam 0->35000 [SACRED] Rune Arc - Material ID [1] 20795
 
 Memory Stone:
-EquipParamGoods(10030) - Max Amount 8->14
+EquipParamGoods(10030) - Max Amount 8->12
+
+Starlight Shards:
+Duplicate ShopLineupParam_Recipe 30100->35002 [SACRED] Starlight Shards - Reference ID 1290, Required Material ID 35002
+Duplicate EquipMtrlSetParam 0->35002 [SACRED] Starlight Shards - Material ID [1] 20780, Material ID [2] 11025, Material Amount [1] 10, Material Amount [2] 1
 #-------------------------------------------
 
 
 # MERCHANTS---------------------------------
 Merchant - Ainsel River:
-ShopLineupParam(100953) - Reference ID 10070->10030, Sell Price Overwrite 3000->100000, Amount to Sell 1->6
+ShopLineupParam(100953) - Reference ID 10070->10030, Sell Price Overwrite 3000->100000, Amount to Sell 1->4
 
 Merchant - Siofra River:
 ShopLineupParam(100940) - Sell Price Overwrite 400->4000, Amount to Sell 3->-1

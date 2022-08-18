@@ -2,6 +2,10 @@
 # 5.2-1.06
 #------------------------------------------
 
+# Game Settings
+- 2x AI Sight 
+ - Enemies aggro from farther away
+
 # Weapons
 - Eclipse Crest Greatshield
  - [30 FTH]
@@ -14,9 +18,10 @@
 
 # Merchants
 - Merchant - Ainsel River
- - 6 Memory Stones for sale for 100,000 runes each
+ - 4 Memory Stones for sale for 100,000 runes each
 
 # Crafting
 - Rune Arcs now craftable for a Santuary Stone and 50,000 runes
-- Numen's Rune now craftable for a Golden Rune [1] and 10,000 runes
+- Numen's Rune now craftable for 5 Ruin Fragments and 10,000 runes
+- Starlight Shards now craftable for 10 Cracked Crystals and requires Cerulean Hidden Tear but does not consume it.
 - Opaline Bubblesoup now requires Opaline Bubbletear but does not consume it
