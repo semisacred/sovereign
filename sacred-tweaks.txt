@@ -155,7 +155,7 @@ EquipParamGoods(10030) - Max Amount 8->12
 
 Starlight Shards:
 Duplicate ShopLineupParam_Recipe 30100->35002 [SACRED] Starlight Shards - Reference ID 1290, Required Material ID 35002
-Duplicate EquipMtrlSetParam 0->35002 [SACRED] Starlight Shards - Material ID [1] 20780, Material ID [2] 11025, Material Amount [1] 10, Material Amount [2] 1
+Duplicate EquipMtrlSetParam 0->35002 [SACRED] Starlight Shards - Material ID [1] 20780, Material ID [2] 11025, Material Amount [1] 10, Material Amount [2] 1, Material Category [2] 4
 #-------------------------------------------
 
 
