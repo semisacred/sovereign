@@ -137,8 +137,11 @@ EquipMtrlSetParam(307040) - Material ID [2] 20825, Material ID [3] 20651, Materi
 
 Margit's Shackle:
 Duplicate BehaviorParam_PC 2500->2501 [SACRED] Margit's Shackle Darkness - Reference ID 10653000
-Bullet(10214000) - Shooter SpEffect ID 525001
-Duplicate SpEffectParam 525000->525001 [SACRED] Margit's Shackle Darkness - Behavior ID 2501
+Bullet(10214000) - Shooter SpEffect ID 525001, Target SpEffect ID [0] 1654000
+Duplicate SpEffectParam 525000->525001 [SACRED] Margit's Shackle Darkness - Behavior ID 2501, Cycle SpEffect ID 1468000
+Duplicate SpEffectParam 1467000->1468000 [SACRED] Margit's Shackle Unseen Form - Duration 6, Enemy Vision Adjustment 0.2
+Duplicate SpEffectParam 1653000->1654000 [SACRED] Margit's Shackle Darkness - Chain SpEffect ID 1654001
+Duplicate SpEffectParam 1653001->1654001 [SACRED] Margit's Shackle Darkness [Chain] - Duration 3
 
 Mohg's Shackle:
 Duplicate BehaviorParam_PC 2501->2502 [SACRED] Mohg's Shackle Wrath - Reference ID 10641000
