@@ -23,4 +23,4 @@
 # Crafting
 - Rune Arcs now craftable for a Santuary Stone and 50,000 runes
 - Numen's Rune now craftable for 5 Ruin Fragments and 10,000 runes
-- Starlight Shards are now craftable for 1 Crystal Bud, 1 Cracked Crystal, and 1 Glintstone Firefly
+- Starlight Shards are now craftable for 1 Cracked Crystal, 1 Crystal Bud, 1 Glintstone Firefly, and 1 Nascent Butterfly

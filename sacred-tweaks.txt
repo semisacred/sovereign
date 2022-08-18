@@ -18,26 +18,36 @@ AI Sight Multiplier - Sunloss - Total Darkness - 0.8->1.6
 
 # MAIN WEAPONS------------------------------
 Godslayer's Greatsword: (50 Kills = 20% HP, FP, SP, Damage)
-EquipParamWeapon(4070000) - Behavior Variation ID 404->300, Weight 17.5->15.5, Reinforcement Price 1180->3540, Correction: STR 31->42, Correction: DEX 52->28, Correction: FTH 40->54, Passive SpEffect 1 -1->1626004, Passive SpEffect 2 1626006, Damage: Physical 119->77, Damage: Fire 77->33, Weapon Motion Category 26->25, Special Motion Category 137->0, Requirement: STR 20->24, Requirement: DEX  22->16, Requirement: FTH 20->30, Sword Arts Param ID 1170->1021
+EquipParamWeapon(4070000) - Behavior Variation ID 404->300, Weight 17.5->15.5, Reinforcement Price 1180->3540, Correction: STR 31->42, Correction: DEX 52->28, 
+Correction: FTH 40->54, Passive SpEffect 1 -1->1626004, Passive SpEffect 2 1626006, Damage: Physical 119->77, Damage: Fire 77->33, Weapon Motion Category 26->25, 
+Special Motion Category 137->0, Requirement: STR 20->24, Requirement: DEX  22->16, Requirement: FTH 20->30, Sword Arts Param ID 1170->1021
 Duplicate SpEffectParam 5031400->1626002 [SACRED] GG BFB [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626003
 Duplicate SpEffectParam 1626000->1626003 [SACRED] GG BFB - Duration 37, Cycle SpEffect ID 1626002, Effect Category 20, Correction +: FTH 54
 Duplicate SpEffectParam 1626002->1626004 [SACRED] GG Soul Burn [Kill Trigger] - Kill SpEffect ID 1626005
-Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Soul Burn - Icon ID 20295, Duration -1, Max HP 1.004, Max FP 1.004, Max Stamina 1.004, Current HP % 0, Current HP + 0, Effect Category 10 - Stack Self, Erase on Bonfire Rest Check, Effect VFX 0 -1, Damage %: ALL 1.004
+Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Soul Burn - Icon ID 20295, Duration -1, Max HP 1.004, Max FP 1.004, Max Stamina 1.004, Current HP % 0, 
+Current HP + 0, Effect Category 10 - Stack Self, Erase on Bonfire Rest Check, Effect VFX 0 -1, Damage %: ALL 1.004
 Duplicate SpEffectParam 1626004->1626006 [SACRED] GG Soul Burn VFX [Kill Trigger] - Kill SpEffect ID 1626007
 Duplicate SpEffectParam 1626005->1626007 [SACRED] GG Soul Burn VFX - Icon ID -1, Duration 1, Max HP 1, Max FP 1, Max SP 1, Effect VFX 0 9010
-Duplicate SpEffectParam 320800->1626008 [SACRED] GG Ruinous Black Flame [Hit Trigger] - Icon ID -1, Duration 7, Accumulator - Over Value - SpEffect ID 1806, Accumulator - Over Value 2, Accumulator - Increment Value -9999
+Duplicate SpEffectParam 320800->1626008 [SACRED] GG Ruinous Black Flame [Hit Trigger] - Icon ID -1, Duration 7, Accumulator - Over Value - SpEffect ID 1806, 
+Accumulator - Over Value 2, Accumulator - Increment Value -9999
 Duplicate SpEffectParam 1691->1626009 [SACRED] GG Ruinous Black Flame - Duration 7, Attack %: All 1.5, Rune Gain % 1.5, Effect Category 20, Effect VFX [0] 8590->8655
-Duplicate SpEffectParam 1626006->1626010 [SACRED] GG Ruinous Black Flame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, Kill SpEffect ID 0
+Duplicate SpEffectParam 1626006->1626010 [SACRED] GG Ruinous Black Flame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, 
+Kill SpEffect ID 0
 SpEffectVfxParam(8655) - Trace SFX ID Offset Type 19->17
 SwordArtsParam(1021) - FP Consumption - L2 20->30
-SpEffectParam(1806) - Duration 30->0.1, Damage +: Magic 50->0, Chain SpEffect ID 1626010, Cycle SpEffect ID 1626003, Attack SpEffect ID 1809->-1, Effect VFX [0] 8655->-1
+SpEffectParam(1806) - Duration 30->0.1, Damage +: Magic 50->0, Chain SpEffect ID 1626010, Cycle SpEffect ID 1626003, Attack SpEffect ID 1809->-1, 
+Effect VFX [0] 8655->-1
 
 Bloodstained Gildblade:
-EquipParamWeapon(2090000) - Behavior Variation ID 300->200, Reinforcement Price 580->1740, Passive SpEffect 1 1626020, Passive SpEffect 2 1626022, Damage: Physical 98->74, Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Motion Category 128->0, Weapon Hold Position - 1H 2->0, Weapon Hold Position - 2H 12->10, Requirement: FTH 20->26, Is Buffable Check, Damage: Holy 98->74, Sword Arts Param ID 201->222
-Duplicate SpEffectParam 320800->1626020 [SACRED] Gildblade Boon [Hit Trigger] - Icon ID -1, Accumulator - Over Value - SpEffect ID 1626021, Accumulator - Over Value 17->2
+EquipParamWeapon(2090000) - Behavior Variation ID 300->200, Reinforcement Price 580->1740, Passive SpEffect 1 1626020, Passive SpEffect 2 1626022, 
+Damage: Physical 98->74, Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Motion Category 128->0, Weapon Hold Position - 1H 2->0, 
+Weapon Hold Position - 2H 12->10, Requirement: FTH 20->26, Is Buffable Check, Damage: Holy 98->74, Sword Arts Param ID 201->222
+Duplicate SpEffectParam 320800->1626020 [SACRED] Gildblade Boon [Hit Trigger] - Icon ID -1, Accumulator - Over Value - SpEffect ID 1626021, 
+Accumulator - Over Value 17->2
 Duplicate SpEffectParam 1643000->1626021 [SACRED] Gildblade Boon - Duration 1, Current HP + -4, Effect Category 0
 Duplicate SpEffectParam 1632000->1626022 [SACRED] Gildblade Bloodflame - Duration -1, Cycle SpEffect ID 1626023
-Duplicate SpEffectParam 320800->1626023 [SACRED] Gildblade Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Effect Category 0, Accumulator - Over Value - SpEffect ID 1626024, Accumulator - Over Value 2, Accumulator - Increment Value -9999
+Duplicate SpEffectParam 320800->1626023 [SACRED] Gildblade Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Effect Category 0, 
+Accumulator - Over Value - SpEffect ID 1626024, Accumulator - Over Value 2, Accumulator - Increment Value -9999
 Duplicate SpEffectParam 5151200->1626024 [SACRED] Gildblade Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
 SpEffectParam(350500) - Icon ID 20215->-1
 SpEffectParam(350501) - Cycle SpEffect ID 1626022
@@ -93,7 +103,8 @@ Magic(6971) - FP Consumption - Default 20->55, Stamina Consumption - Default 20-
 SpEffectParam(1697100) - Icon ID 20469->-1, Duration 70->0.1, Trigger Interval 0.06->0.2, Chain SpEffect ID 1697102, Cycle SpEffect ID 1626040, Effect Category 151->20
 Duplicate SpEffectParam 1697100->1697102 [SACRED] - Icon ID 20469, Duration 600, Trigger Interval 0.06, Chain SpEffect ID -1, Cycle SpEffect ID 1697101
 SpEffectVfxParam(1697100) - Play Category 3->0
-Duplicate SpEffectParam 1626030->1626040 [SACRED] Lightning Damage - Icon ID -1, Duration 2, Max HP % 1, Max FP % 1, Max Stamina % 1, Current HP % 20, Current HP + 170, Effect Category 0
+Duplicate SpEffectParam 1626030->1626040 [SACRED] Lightning Damage - Icon ID -1, Duration 2, Max HP % 1, Max FP % 1, Max Stamina % 1, Current HP % 20, Current HP + 170, 
+Effect Category 0
 
 Electrify Armament:
 Magic(6960) - FP Consumption - Default 27->45, Stamina Consumption - Default 10->20, Reference Category [2] 0->2, Reference ID [2] 1626040
@@ -135,7 +146,8 @@ Bullet(10215000) - Shooter SpEffect ID 525002
 Duplicate SpEffectParam 525000->525002 [SACRED] Mohg's Shackle Wrath - Behavior ID 2502
 
 Traveler's Hat:
-EquipParamProtector(100000) - Resist - Sleep 29->58, Resist - Sleep 29->58, Resist - Poison 23->46, Resist - Scarlet Rot 23->46, Resist - Hemorrhage 9->18, Resist - Blight 27->54, Resist - Frost 9->18
+EquipParamProtector(100000) - Resist - Sleep 29->58, Resist - Sleep 29->58, Resist - Poison 23->46, Resist - Scarlet Rot 23->46, Resist - Hemorrhage 9->18, 
+Resist - Blight 27->54, Resist - Frost 9->18
 
 Helphen's Steeple:
 EquipParamWeapon(3130000) - Sword Arts Param ID 1021->1048
@@ -155,13 +167,14 @@ EquipParamGoods(10030) - Max Amount 8->12
 
 Starlight Shards:
 Duplicate ShopLineupParam_Recipe 30100->35002 [SACRED] Starlight Shards - Reference ID 1290, Required Material ID 35002
-Duplicate EquipMtrlSetParam 0->35002 [SACRED] Starlight Shards - Material ID [1] 20750, Material ID [2] 20780, Material ID [3] 20812, Material Amount [1] 1, Material Amount [2] 1, Material Amount [3] 1, Material Category [2] 4, Material Category [3] 4
+Duplicate EquipMtrlSetParam 0->35002 [SACRED] Starlight Shards - Material ID [1] 20780, Material ID [2] 20750, Material ID [3] 20812, Material ID [4] 20800, 
+Material Amount [1] 1, Material Amount [2] 1, Material Amount [3] 1, Material Amount [4] 1, Material Category [2] 4, Material Category [3] 4, Material Category [4] 4
 #-------------------------------------------
 
 
 # MERCHANTS---------------------------------
 Merchant - Ainsel River:
-ShopLineupParam(100953) - Reference ID 10070->10030, Sell Price Overwrite 3000->100000, Amount to Sell 1->4
+ShopLineupParam(100953) - Reference ID 10070->10030, Sell Price Overwrite 3000->100000, Quantity - Event Flag ID 190530->190531, Amount to Sell 1->4
 
 Merchant - Siofra River:
 ShopLineupParam(100940) - Sell Price Overwrite 400->4000, Amount to Sell 3->-1
