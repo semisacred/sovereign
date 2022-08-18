@@ -14,7 +14,9 @@
 
 # Merchants
 - Merchant - Ainsel River
- - Memory Stone
+ - 6 Memory Stones for sale for 100,000 runes each
 
 # Crafting
-- Rune Arcs now craftable for runes
+- Rune Arcs now craftable for a Santuary Stone and 50,000 runes
+- Numen's Rune now craftable for a Golden Rune [1] and 10,000 runes
+- Opaline Bubblesoup now requires Opaline Bubbletear but does not consume it

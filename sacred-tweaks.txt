@@ -104,12 +104,12 @@ Duplicate SpEffectParam 3294->3295 [SACRED] Numen's Rune [Chain] - Chain SpEffec
 Duplicate SpEffectParam 3295->3296 [SACRED] Numen's Rune [Chain] - Chain SpEffect ID 1697102, Cycle SpEffect ID -1
 Duplicate SpEffectParam 3282->3297 [SACRED] Numen's Rune Erudition - Current HP % 0, Current FP % 0, Rune Gain + 0, Chain SpEffect ID 3298, Cycle SpEffect ID 1605000
 Duplicate SpEffectParam 3288->3298 [SACRED] Numen's Rune Erudition Rune Loss - Rune Gain + -20000, Chain SpEffect ID 3294
-Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Numen's Rune - Reference ID 2913, Required Material ID 35000, Amount on Purchase 5
-Duplicate EquipMtrlSetParam 0->35000 [SACRED] Numen's Rune - Material ID [1] 190
+Duplicate ShopLineupParam_Recipe 30100->35001 [SACRED] Numen's Rune - Reference ID 2913, Sell Price Overwrite 10000, Required Material ID 35001
+Duplicate EquipMtrlSetParam 0->35001 [SACRED] Numen's Rune - Material ID [1] 2900
 
 Soap:
 SpEffectParam(502120) - Cycle SpEffect ID 3507
-EquipMtrlSetParam(307040) - Material ID [2] 20825, Material ID [3] 20651, Material Amount [2] 1, Material Amount [3] 1
+EquipMtrlSetParam(307040) - Material ID [2] 20825, Material ID [3] 20651, Material ID [4] 11008, Material Amount [2] 1, Material Amount [3] 1, Material Amount [4] 1          
 
 Margit's Shackle:
 Duplicate BehaviorParam_PC 2500->2501 [SACRED] Margit's Shackle Darkness - Reference ID 10653000
@@ -134,7 +134,8 @@ EquipParamAccessory(5050) - Reference ID 350500->320980
 EquipParamAccessory(5060) - Reference ID 350600->320981
 
 Rune Arc:
-
+Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Rune Arc - Reference ID 190, Sell Price Overwrite 50000, Required Material ID 35000
+Duplicate EquipMtrlSetParam 0->35000 [SACRED] Rune Arc - Material ID [1] 20795
 
 Memory Stone:
 EquipParamGoods(10030) - Max Amount 8->14
