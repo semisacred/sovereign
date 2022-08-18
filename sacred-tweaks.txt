@@ -6,26 +6,26 @@
 # MAIN WEAPONS------------------------------
 Godslayer's Greatsword: (50 Kills = 20% HP, FP, SP, Damage)
 EquipParamWeapon(4070000) - Behavior Variation ID 404->300, Weight 17.5->15.5, Reinforcement Price 1180->3540, Correction: STR 31->42, Correction: DEX 52->28, Correction: FTH 40->54, Passive SpEffect 1 -1->1626004, Passive SpEffect 2 1626006, Damage: Physical 119->77, Damage: Fire 77->33, Weapon Motion Category 26->25, Special Motion Category 137->0, Requirement: STR 20->24, Requirement: DEX  22->16, Requirement: FTH 20->30, Sword Arts Param ID 1170->1021
-Duplicate SpEffectParam 5031400->1626002 [Sacred] GG BFB [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626003
-Duplicate SpEffectParam 1626000->1626003 [Sacred] GG BFB - Duration 37, Cycle SpEffect ID 1626002, Effect Category 20, Correction +: FTH 54
-Duplicate SpEffectParam 1626002->1626004 [Sacred] GG Soul Burn [Kill Trigger] - Kill SpEffect ID 1626005
-Duplicate SpEffectParam 5031401->1626005 [Sacred] GG Soul Burn - Icon ID 20295, Duration -1, Max HP 1.004, Max FP 1.004, Max Stamina 1.004, Current HP % 0, Current HP + 0, Effect Category 10 - Stack Self, Erase on Bonfire Rest Check, Effect VFX 0 -1, Damage %: ALL 1.004
-Duplicate SpEffectParam 1626004->1626006 [Sacred] GG Soul Burn VFX [Kill Trigger] - Kill SpEffect ID 1626007
-Duplicate SpEffectParam 1626005->1626007 [Sacred] GG Soul Burn VFX - Icon ID -1, Duration 1, Max HP 1, Max FP 1, Max SP 1, Effect VFX 0 9010
-Duplicate SpEffectParam 320800->1626008 [Sacred] GG Ruinous Black Flame [Hit Trigger] - Icon ID -1, Duration 7, Accumulator - Over Value - SpEffect ID 1806, Accumulator - Over Value 2, Accumulator - Increment Value -9999
-Duplicate SpEffectParam 1691->1626009 [Sacred] GG Ruinous Black Flame - Duration 7, Attack %: All 1.5, Rune Gain % 1.5, Effect Category 20, Effect VFX [0] 8590->8655
-Duplicate SpEffectParam 1626006->1626010 [Sacred] GG Ruinous Black Flame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, Kill SpEffect ID 0
+Duplicate SpEffectParam 5031400->1626002 [SACRED] GG BFB [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626003
+Duplicate SpEffectParam 1626000->1626003 [SACRED] GG BFB - Duration 37, Cycle SpEffect ID 1626002, Effect Category 20, Correction +: FTH 54
+Duplicate SpEffectParam 1626002->1626004 [SACRED] GG Soul Burn [Kill Trigger] - Kill SpEffect ID 1626005
+Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Soul Burn - Icon ID 20295, Duration -1, Max HP 1.004, Max FP 1.004, Max Stamina 1.004, Current HP % 0, Current HP + 0, Effect Category 10 - Stack Self, Erase on Bonfire Rest Check, Effect VFX 0 -1, Damage %: ALL 1.004
+Duplicate SpEffectParam 1626004->1626006 [SACRED] GG Soul Burn VFX [Kill Trigger] - Kill SpEffect ID 1626007
+Duplicate SpEffectParam 1626005->1626007 [SACRED] GG Soul Burn VFX - Icon ID -1, Duration 1, Max HP 1, Max FP 1, Max SP 1, Effect VFX 0 9010
+Duplicate SpEffectParam 320800->1626008 [SACRED] GG Ruinous Black Flame [Hit Trigger] - Icon ID -1, Duration 7, Accumulator - Over Value - SpEffect ID 1806, Accumulator - Over Value 2, Accumulator - Increment Value -9999
+Duplicate SpEffectParam 1691->1626009 [SACRED] GG Ruinous Black Flame - Duration 7, Attack %: All 1.5, Rune Gain % 1.5, Effect Category 20, Effect VFX [0] 8590->8655
+Duplicate SpEffectParam 1626006->1626010 [SACRED] GG Ruinous Black Flame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, Kill SpEffect ID 0
 SpEffectVfxParam(8655) - Trace SFX ID Offset Type 19->17
 SwordArtsParam(1021) - FP Consumption - L2 20->30
 SpEffectParam(1806) - Duration 30->0.1, Damage +: Magic 50->0, Chain SpEffect ID 1626010, Cycle SpEffect ID 1626003, Attack SpEffect ID 1809->-1, Effect VFX [0] 8655->-1
 
 Bloodstained Gildblade:
 EquipParamWeapon(2090000) - Behavior Variation ID 300->200, Reinforcement Price 580->1740, Passive SpEffect 1 1626020, Passive SpEffect 2 1626022, Damage: Physical 98->74, Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Motion Category 128->0, Weapon Hold Position - 1H 2->0, Weapon Hold Position - 2H 12->10, Requirement: FTH 20->26, Is Buffable Check, Damage: Holy 98->74, Sword Arts Param ID 201->222
-Duplicate SpEffectParam 320800->1626020 [Sacred] Gildblade Boon [Hit Trigger] - Icon ID -1, Accumulator - Over Value - SpEffect ID 1626021, Accumulator - Over Value 17->2
-Duplicate SpEffectParam 1643000->1626021 [Sacred] Gildblade Boon - Duration 1, Current HP + -4, Effect Category 0
-Duplicate SpEffectParam 1632000->1626022 [Sacred] Gildblade Bloodflame - Duration -1, Cycle SpEffect ID 1626023
-Duplicate SpEffectParam 320800->1626023 [Sacred] Gildblade Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Effect Category 0, Accumulator - Over Value - SpEffect ID 1626024, Accumulator - Over Value 2, Accumulator - Increment Value -9999
-Duplicate SpEffectParam 5151200->1626024 [Sacred] Gildblade Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
+Duplicate SpEffectParam 320800->1626020 [SACRED] Gildblade Boon [Hit Trigger] - Icon ID -1, Accumulator - Over Value - SpEffect ID 1626021, Accumulator - Over Value 17->2
+Duplicate SpEffectParam 1643000->1626021 [SACRED] Gildblade Boon - Duration 1, Current HP + -4, Effect Category 0
+Duplicate SpEffectParam 1632000->1626022 [SACRED] Gildblade Bloodflame - Duration -1, Cycle SpEffect ID 1626023
+Duplicate SpEffectParam 320800->1626023 [SACRED] Gildblade Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Effect Category 0, Accumulator - Over Value - SpEffect ID 1626024, Accumulator - Over Value 2, Accumulator - Increment Value -9999
+Duplicate SpEffectParam 5151200->1626024 [SACRED] Gildblade Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
 SpEffectParam(350500) - Icon ID 20215->-1
 SpEffectParam(350501) - Cycle SpEffect ID 1626022
 SpEffectParam(350502) - Effect VFX [0] 350500->5031401
@@ -33,12 +33,12 @@ Bullet(2611, 2616, 2621) - Duration 0.5->1
 SwordArtsParam(222) - FP Consumption - L2 9->18, FP Consumption - R2 9->18
 
 Eclipse Crest Greatshield: (50 Uses = -20% HP, FP, SP, Damage)
-EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Sword Arts Param ID 10->701, Ash of War Type 2->0
-Duplicate SpEffectParam 1626005->1626030 [Sacred] Black Sun Sacrifice - Icon ID 20229, Max HP 0.996, Max FP 0.996, Max Stamina 0.996, Erase on Bonfire Rest Check, Damage %: ALL 0.996
-Duplicate SpEffectParam 525002->525003 [Sacred] Vow Wrath - Duration 0.5, Trigger Interval 1, Behavior ID 2503, Chain SpEffect ID 1626030
-Duplicate BehaviorParam_PC 2502->2503 [Sacred] Vow Wrath - Reference ID 10641100
-Duplicate Bullet 10641000->10641100 [Sacred] Vow Wrath - AtkParam ID 64110
-Duplicate AtkParam_Pc 64100->64110 [Sacred] Vow Wrath - Knockback Distance 1->0.5, Damage: Stamina 221->110, Damage Level 7->3, Damage: Holy 350->175
+EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Requirement: FTH 0->30, Sword Arts Param ID 10->701, Ash of War Type 2->0
+Duplicate SpEffectParam 1626005->1626030 [SACRED] Black Sun Sacrifice - Icon ID 20229, Max HP 0.996, Max FP 0.996, Max Stamina 0.996, Erase on Bonfire Rest Check, Damage %: ALL 0.996
+Duplicate SpEffectParam 525002->525003 [SACRED] Vow Wrath - Duration 0.5, Trigger Interval 1, Behavior ID 2503, Chain SpEffect ID 1626030
+Duplicate BehaviorParam_PC 2502->2503 [SACRED] Vow Wrath - Reference ID 10641100
+Duplicate Bullet 10641000->10641100 [SACRED] Vow Wrath - AtkParam ID 64110
+Duplicate AtkParam_Pc 64100->64110 [SACRED] Vow Wrath - Knockback Distance 1->0.5, Damage: Stamina 221->110, Damage Level 7->3, Damage: Holy 350->175
 SwordArtsParam(701) - FP Consumption - L2 20->30
 EquipParamGem(70100) - Affinity: ALL Uncheck
 #-------------------------------------------
@@ -55,6 +55,10 @@ Bullet(10621000) - Duration 1.5->4.5
 Bullet(10621050) - Duration 2.5->7.5
 Bullet(10621051) - Final Hit Radius 1.5->2.5
 
+Black Flame Blade:
+Magic(6250) - FP Consumption - Default 15->30, Stamina Consumption - Default 10->20, Requirement: FTH 17->20
+SpEffectParam(1626000) - Duration 7->14
+
 Flame of the Fell God:
 Magic(6110) - 42->100 FP Consumption, Stamina Consumption - Default 42->84, Number of Uses -1->1
 Bullet(10611001) - Initial Velocity 2->6, Acceleration: In Range 2->6, Acceleration: Out of Range -2->-6, Max Velocity 5->15, Min Velocity 2->6
@@ -69,14 +73,14 @@ AtkParam_Pc(61101) - Damage: Fire 35->70, Damage: Stamina 20->40
 Indomitable Flame:
 Magic(6050) - FP Consumption - Default 28->42, Stamina Consumption - Default 16->24, Requirement: FTH 15->20
 SpEffectParam(1605000) - Duration 30->90, Chain SpEffect ID 1605003, Cast Speed 0->30, Toughness Absorption % 1->0.66(34%), Weapon Stamina Consumption % 1.2
-Duplicate SpEffectParam 1605002->1605003 [Sacred] Flame of the Indomitable Exhaustion - Icon ID 20468, Duration 90, Stamina Recovery Speed -5, Cycle SpEffect ID -1, Weapon Stamina Consumption % 1.2
+Duplicate SpEffectParam 1605002->1605003 [SACRED] Flame of the Indomitable Exhaustion - Icon ID 20231, Duration 45, Stamina Recovery Speed -5, Cycle SpEffect ID -1
 
 Dragonbolt Blessing:
 Magic(6971) - FP Consumption - Default 20->55, Stamina Consumption - Default 20->40
 SpEffectParam(1697100) - Icon ID 20469->-1, Duration 70->0.1, Trigger Interval 0.06->0.2, Chain SpEffect ID 1697102, Cycle SpEffect ID 1626040, Effect Category 151->20
-Duplicate SpEffectParam 1697100->1697102 [Sacred] - Icon ID 20469, Duration 600, Trigger Interval 0.06, Chain SpEffect ID -1, Cycle SpEffect ID 1697101
+Duplicate SpEffectParam 1697100->1697102 [SACRED] - Icon ID 20469, Duration 600, Trigger Interval 0.06, Chain SpEffect ID -1, Cycle SpEffect ID 1697101
 SpEffectVfxParam(1697100) - Play Category 3->0
-Duplicate SpEffectParam 1626030->1626040 [Sacred] Lightning Damage - Icon ID -1, Duration 2, Max HP % 1, Max FP % 1, Max Stamina % 1, Current HP % 20, Current HP + 170, Effect Category 0
+Duplicate SpEffectParam 1626030->1626040 [SACRED] Lightning Damage - Icon ID -1, Duration 2, Max HP % 1, Max FP % 1, Max Stamina % 1, Current HP % 20, Current HP + 170, Effect Category 0
 
 Electrify Armament:
 Magic(6960) - FP Consumption - Default 27->45, Stamina Consumption - Default 10->20, Reference Category [2] 0->2, Reference ID [2] 1626040
@@ -91,37 +95,31 @@ AtkParam_Pc(69502) - Damage: Lightning 167->334, Damage: Stamina 60->120, Damage
 
 
 # ITEMS-------------------------------------
-Merchants:
-ShopLineupParam(101861) - Sell Price Overwrite 4000->50000, Amount to Sell 5->-1
-ShopLineupParam(101859) - Sell Price Overwrite 3000->100000, Amount to Sell 1->-1
-EquipParamGoods(10030) - Max Amount 8->14
-ShopLineupParam(100940) - Sell Price Overwrite 400->4000, Amount to Sell 3->-1
-
-Margit's Shackle:
-Duplicate BehaviorParam_PC 2500->2501 [Sacred] Margit's Shackle Darkness - Reference ID 10653000
-Bullet(10214000) - Shooter SpEffect ID 525001
-Duplicate SpEffectParam 525000->525001 [Sacred] Margit's Shackle Darkness - Behavior ID 2501
-
-Mohg's Shackle:
-Duplicate BehaviorParam_PC 2501->2502 [Sacred] Mohg's Shackle Wrath - Reference ID 10641000
-Bullet(10215000) - Shooter SpEffect ID 525002
-Duplicate SpEffectParam 525000->525002 [Sacred] Mohg's Shackle Wrath - Behavior ID 2502
-
 Numen's Rune:
 EquipParamGoods(2913) - Sell Value 1000, Sort ID 9140->521
 EquipParamGoods(190) - Sell Value 5000
 SpEffectParam(3282) - Current HP % -125, Current FP % -100, Rune Gain + 0, Chain SpEffect ID 3294, Cycle SpEffect ID 1605000
-Duplicate SpEffectParam 3288->3294 [Sacred] Numen's Rune [Chain] - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643000
-Duplicate SpEffectParam 3294->3295 [Sacred] Numen's Rune [Chain] - Chain SpEffect ID 3296, Cycle SpEffect ID 3507
-Duplicate SpEffectParam 3295->3296 [Sacred] Numen's Rune [Chain] - Chain SpEffect ID 1697102, Cycle SpEffect ID -1
-Duplicate SpEffectParam 3282->3297 [Sacred] Numen's Rune Erudition - Current HP % 0, Current FP % 0, Rune Gain + 0, Chain SpEffect ID 3298, Cycle SpEffect ID 1605000
-Duplicate SpEffectParam 3288->3298 [Sacred] Numen's Rune Erudition Rune Loss - Rune Gain + -20000, Chain SpEffect ID 3294
-Duplicate ShopLineupParam_Recipe 30100->35000 [Sacred] Numen's Rune - Reference ID 2913, Required Material ID 35000, Amount on Purchase 5
-Duplicate EquipMtrlSetParam 0->35000 [Sacred] Numen's Rune - Material ID [1] 190
+Duplicate SpEffectParam 3288->3294 [SACRED] Numen's Rune [Chain] - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643000
+Duplicate SpEffectParam 3294->3295 [SACRED] Numen's Rune [Chain] - Chain SpEffect ID 3296, Cycle SpEffect ID 3507
+Duplicate SpEffectParam 3295->3296 [SACRED] Numen's Rune [Chain] - Chain SpEffect ID 1697102, Cycle SpEffect ID -1
+Duplicate SpEffectParam 3282->3297 [SACRED] Numen's Rune Erudition - Current HP % 0, Current FP % 0, Rune Gain + 0, Chain SpEffect ID 3298, Cycle SpEffect ID 1605000
+Duplicate SpEffectParam 3288->3298 [SACRED] Numen's Rune Erudition Rune Loss - Rune Gain + -20000, Chain SpEffect ID 3294
+Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Numen's Rune - Reference ID 2913, Required Material ID 35000, Amount on Purchase 5
+Duplicate EquipMtrlSetParam 0->35000 [SACRED] Numen's Rune - Material ID [1] 190
 
 Soap:
 SpEffectParam(502120) - Cycle SpEffect ID 3507
 EquipMtrlSetParam(307040) - Material ID [2] 20825, Material ID [3] 20651, Material Amount [2] 1, Material Amount [3] 1
+
+Margit's Shackle:
+Duplicate BehaviorParam_PC 2500->2501 [SACRED] Margit's Shackle Darkness - Reference ID 10653000
+Bullet(10214000) - Shooter SpEffect ID 525001
+Duplicate SpEffectParam 525000->525001 [SACRED] Margit's Shackle Darkness - Behavior ID 2501
+
+Mohg's Shackle:
+Duplicate BehaviorParam_PC 2501->2502 [SACRED] Mohg's Shackle Wrath - Reference ID 10641000
+Bullet(10215000) - Shooter SpEffect ID 525002
+Duplicate SpEffectParam 525000->525002 [SACRED] Mohg's Shackle Wrath - Behavior ID 2502
 
 Traveler's Hat:
 EquipParamProtector(100000) - Resist - Sleep 29->58, Resist - Sleep 29->58, Resist - Poison 23->46, Resist - Scarlet Rot 23->46, Resist - Hemorrhage 9->18, Resist - Blight 27->54, Resist - Frost 9->18
@@ -130,25 +128,40 @@ Helphen's Steeple:
 EquipParamWeapon(3130000) - Sword Arts Param ID 1021->1048
 
 Assassin's Dagger Talismans:
-Duplicate SpEffectParam 320900->320980 [Sacred] Assassin's Crimson Dagger - Max HP % 0.85, Attack %: All 1.17 -> 1.34
-Duplicate SpEffectParam 320980->320981 [Sacred] Assassin's Cerulean Dagger - Max HP % 1, Max FP % 0.85
+Duplicate SpEffectParam 320900->320980 [SACRED] Assassin's Crimson Dagger - Max HP % 0.85, Attack %: All 1.17 -> 1.34
+Duplicate SpEffectParam 320980->320981 [SACRED] Assassin's Cerulean Dagger - Max HP % 1, Max FP % 0.85
 EquipParamAccessory(5050) - Reference ID 350500->320980
 EquipParamAccessory(5060) - Reference ID 350600->320981
+
+Rune Arc:
+
+
+Memory Stone:
+EquipParamGoods(10030) - Max Amount 8->14
+#-------------------------------------------
+
+
+# MERCHANTS---------------------------------
+Merchant - Ainsel River:
+ShopLineupParam(100953) - Reference ID 10070->10030, Sell Price Overwrite 3000->100000, Amount to Sell 1->6
+
+Merchant - Siofra River:
+ShopLineupParam(100940) - Sell Price Overwrite 400->4000, Amount to Sell 3->-1
 #-------------------------------------------
 
 
 # FALL DAMAGE REWORK------------------------
 EquipParamAccessory(6040) - SpEffect ID [1] 360401
 SpEffectParam(360400) - State Info 47
-Duplicate SpEffectParam 360400->360401 [Sacred] Longtail Cat Talisman Fall Immunity - State Info 266
-Duplicate SpEffectParam 360400->360402 [Sacred] Bubble Fall Immunity - Duration 0, Cycle SpEffect ID 360403
-Duplicate SpEffectParam 360401->360403 [Sacred] Bubble Fall Immunity - Duration 0
+Duplicate SpEffectParam 360400->360401 [SACRED] Longtail Cat Talisman Fall Immunity - State Info 266
+Duplicate SpEffectParam 360400->360402 [SACRED] Bubble Fall Immunity - Duration 0, Cycle SpEffect ID 360403
+Duplicate SpEffectParam 360401->360403 [SACRED] Bubble Fall Immunity - Duration 0
 SpEffectParam(503500) - Cycle SpEffect ID 360402
 SpEffectParam(3507) -  Cycle SpEffect ID 360402
-Duplicate Bullet 10642000->10642050 [Sacred] Hard Landing Damage - AtkParam ID 64205, Projectile SFX ID -1, Target SpEffect ID [0] 0
-Duplicate AtkParam_Pc 64200->64205 [Sacred] Hard Landing Damage - Damage: Physical 75
-Duplicate BehaviorParam_PC 2105->2500 [Sacred] Hard Landing Damage - Reference ID 10642050
-Duplicate SpEffectParam 511081->525000 [Sacred] Hard Landing Damage - Behavior ID 2500, Effect VFX [0] -1
+Duplicate Bullet 10642000->10642050 [SACRED] Hard Landing Damage - AtkParam ID 64205, Projectile SFX ID -1, Target SpEffect ID [0] 0
+Duplicate AtkParam_Pc 64200->64205 [SACRED] Hard Landing Damage - Damage: Physical 75
+Duplicate BehaviorParam_PC 2105->2500 [SACRED] Hard Landing Damage - Reference ID 10642050
+Duplicate SpEffectParam 511081->525000 [SACRED] Hard Landing Damage - Behavior ID 2500, Effect VFX [0] -1
 #-------------------------------------------
 
 

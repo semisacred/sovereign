@@ -1,0 +1,20 @@
+#------------------------------------------
+# 5.2-1.06
+#------------------------------------------
+
+# Weapons
+- Eclipse Crest Greatshield
+ - [30 FTH]
+
+# Spells
+- Black Flame Blade
+ - [20 FTH] 2x FP Cost, 2x Duration
+- Indomitable Flame 
+ - Exhaustion Icon Change, 90->45 Duration, Weapon Stamina Consumption 1.2->1
+
+# Merchants
+- Merchant - Ainsel River
+ - Memory Stone
+
+# Crafting
+- Rune Arcs now craftable for runes
