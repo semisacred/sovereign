@@ -17,16 +17,19 @@
  - Exhaustion Icon Change, 90->45 Duration, Weapon Stamina Consumption 1.2->1
 
  # Items
+- Numen's Rune
+ - Craftable: 5 Ruin Fragments and 10,000 runes
+ - Max Amount 3 
+- Opaline Bubblesoap
+ - Sold by Siofra River Merchant for 4400 runes  
 - Margit's Shackle
  - Casts Unseen Form for 6s on the player
  - Applies the Darkness effect to all in a 140 range for 3s
+-Rune Arc
+ - Craftable: 1 Sanctuary Stone and 50,000 runes
 - Starlight Shards
- - 5 minute duration, less effective
+ - 5 Minute Duration, 1 FP/s, Max Amount 5
+ - Sold by Sorceress Sellen for 7200 runes
 
 # Talismans
 - 
-
-# Crafting
-- Rune Arcs are now craftable for a Sanctuary Stone and 50,000 runes
-- Numen's Runes are now craftable for 5 Ruin Fragments and 10,000 runes
-- Starlight Shards are now craftable for 1 Cracked Crystal, 1 Crystal Bud, 1 Glintstone Firefly, and 1 Nascent Butterfly

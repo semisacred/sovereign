@@ -22,18 +22,12 @@ SpEffectParam(6202002, 6202003, 6202004, 6202005)
 
 
 # QUICK BUFF--------------------------------
-Numen's Rune:
-EquipParamGoods(2913) - Sell Value 1000, Sort ID 9140->521
-SpEffectParam(3282) - Current HP % -100, Current FP % -100, Rune Gain + 0, Chain SpEffect ID 3294, Cycle SpEffect ID 1605000
-Duplicate SpEffectParam 3288->3294 [SACRED] Numen's/Erudition [Quick Buff 2] - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643000
-Duplicate SpEffectParam 3294->3295 [SACRED] Numen's/Erudition [Quick Buff 3] - Chain SpEffect ID 3296, Cycle SpEffect ID 3507
-Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - Chain SpEffect ID 1697102, Cycle SpEffect ID -1
-Duplicate ShopLineupParam_Recipe 30100->35001 [SACRED] Numen's Rune - Reference ID 2913, Sell Price Overwrite 10000, Required Material ID 35001
-Duplicate EquipMtrlSetParam 0->35001 [SACRED] Numen's Rune - Material ID [1] 1760
-
 Erudition:
 Duplicate SpEffectParam 3282->3297 [SACRED] Erudition [Quick Buff 1] - Current HP % 0, Current FP % 0, Rune Gain + 0, Chain SpEffect ID 3298, Cycle SpEffect ID 1605000
 Duplicate SpEffectParam 3288->3298 [SACRED] Erudition Rune Loss [Chain] - Rune Gain + -20000, Chain SpEffect ID 3294
+Duplicate SpEffectParam 3288->3294 [SACRED] Numen's/Erudition [Quick Buff 2] - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643000
+Duplicate SpEffectParam 3294->3295 [SACRED] Numen's/Erudition [Quick Buff 3] - Chain SpEffect ID 3296, Cycle SpEffect ID 3507
+Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - Chain SpEffect ID 1697102, Cycle SpEffect ID -1
 #-------------------------------------------
 
 
@@ -160,6 +154,12 @@ AtkParam_Pc(69502) - Damage: Lightning 167->334, Damage: Stamina 60->120, Damage
 
 
 # ITEMS-------------------------------------
+Numen's Rune:
+EquipParamGoods(2913) - Sell Value 1000, Sort ID 9140->521, Max Amount 99->3
+SpEffectParam(3282) - Current HP % -100, Current FP % -100, Rune Gain + 0, Chain SpEffect ID 3294, Cycle SpEffect ID 1605000
+Duplicate ShopLineupParam_Recipe 30100->35001 [SACRED] Numen's Rune - Reference ID 2913, Sell Price Overwrite 10000, Required Material ID 35001
+Duplicate EquipMtrlSetParam 0->35001 [SACRED] Numen's Rune - Material ID [1] 1760
+
 Opaline Bubblesoap:
 SpEffectParam(502120) - Cycle SpEffect ID 3507
 EquipMtrlSetParam(307040) - Material ID [2] 20825, Material ID [3] 20651, Material Amount [2] 1, Material Amount [3] 1
@@ -184,7 +184,9 @@ Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Rune Arc - Reference ID 1
 Duplicate EquipMtrlSetParam 0->35000 [SACRED] Rune Arc - Material ID [1] 20795
 
 Starlight Shards:
+EquipParamGoods(1290) - Max Amount 10->5
 SpEffectParam(501290) - Duration 60->300, Current FP + -2->-1
+Duplicate ShopLineupParam 100062->100063 [SACRED] [Sorceress Sellen] Starlight Shards - Reference ID 1290, Sell Price Overwrite 5000, Quantity - Event Flag ID 0, Amount to Sell -1
 Duplicate ShopLineupParam_Recipe 30100->35002 [SACRED] Starlight Shards - Reference ID 1290, Required Material ID 35002
 Duplicate EquipMtrlSetParam 0->35002 [SACRED] Starlight Shards - Material ID [1] 20780, Material ID [2] 20750, Material ID [3] 20812, Material ID [4] 20800, 
 Material Amount [1] 1, Material Amount [2] 1, Material Amount [3] 1, Material Amount [4] 1, Material Category [2] 4, Material Category [3] 4, Material Category [4] 4
@@ -238,7 +240,6 @@ f000303122.fxr (blue tint to pure white)
 
 
 # TEXT--------------------------------------
-
 SwordArts(1021): Ruinous Black Flame
 ------------------------------
 Unique Skill: Ruinous Black Flame
