@@ -169,7 +169,7 @@ Memory Stone:
 EquipParamGoods(10030) - Max Amount 8->12
 
 Starlight Shards:
-SpEffectParam(501290) - Duration 60->600, Current FP + -2->-1
+SpEffectParam(501290) - Duration 60->300, Current FP + -2->-1
 Duplicate ShopLineupParam_Recipe 30100->35002 [SACRED] Starlight Shards - Reference ID 1290, Required Material ID 35002
 Duplicate EquipMtrlSetParam 0->35002 [SACRED] Starlight Shards - Material ID [1] 20780, Material ID [2] 20750, Material ID [3] 20812, Material ID [4] 20800, 
 Material Amount [1] 1, Material Amount [2] 1, Material Amount [3] 1, Material Amount [4] 1, Material Category [2] 4, Material Category [3] 4, Material Category [4] 4

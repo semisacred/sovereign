@@ -21,7 +21,7 @@
  - Casts Unseen Form for 6s on the player
  - Applies the Darkness effect to all in a 140 range for 3s
 - Starlight Shards
- - 10 minute duration, less effective
+ - 5 minute duration, less effective
 
 # Merchants
 - Merchant - Ainsel River
