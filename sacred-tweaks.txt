@@ -3,7 +3,7 @@
 #-------------------------------------------
 
 
-# GAME SETTINGS------------------
+# GAME SETTINGS-----------------------------
 GameSystemCommonParam:
 AI Sight Multiplier - Morning - 1->2
 AI Sight Multiplier - Noon - 1->2
@@ -13,6 +13,46 @@ AI Sight Multiplier - Midnight - 0.5->1
 AI Sight Multiplier - Sunloss - Light - 1->2
 AI Sight Multiplier - Sunloss - Darkness - 0.9->1.8
 AI Sight Multiplier - Sunloss - Total Darkness - 0.8->1.6
+#-------------------------------------------
+
+
+# DEFLECT/TIMED BLOCK-----------------------
+SpEffectParam(6202002, 6202003, 6202004, 6202005)
+#-------------------------------------------
+
+
+# QUICK BUFF--------------------------------
+Quick Buff - Numen's Rune/Erudition:
+EquipParamGoods(2913) - Sell Value 1000, Sort ID 9140->521
+EquipParamGoods(190) - Sell Value 5000
+SpEffectParam(3282) - Current HP % -100, Current FP % -100, Rune Gain + 0, Chain SpEffect ID 3294, Cycle SpEffect ID 1605000
+Duplicate SpEffectParam 3288->3294 [SACRED] Numen's/Erudition [Quick Buff 2] - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643000
+Duplicate SpEffectParam 3294->3295 [SACRED] Numen's/Erudition [Quick Buff 3] - Chain SpEffect ID 3296, Cycle SpEffect ID 3507
+Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - Chain SpEffect ID 1697102, Cycle SpEffect ID -1
+Duplicate SpEffectParam 3282->3297 [SACRED] Erudition [Quick Buff 1] - Current HP % 0, Current FP % 0, Rune Gain + 0, Chain SpEffect ID 3298, Cycle SpEffect ID 1605000
+Duplicate SpEffectParam 3288->3298 [SACRED] Erudition Rune Loss [Chain] - Rune Gain + -20000, Chain SpEffect ID 3294
+Duplicate ShopLineupParam_Recipe 30100->35001 [SACRED] Numen's Rune - Reference ID 2913, Sell Price Overwrite 10000, Required Material ID 35001
+Duplicate EquipMtrlSetParam 0->35001 [SACRED] Numen's Rune - Material ID [1] 1760
+#-------------------------------------------
+
+
+# FALL DAMAGE REWORK------------------------
+EquipParamAccessory(6040) - SpEffect ID [1] 360401
+SpEffectParam(360400) - State Info 47
+Duplicate SpEffectParam 360400->360401 [SACRED] Longtail Cat Talisman Fall Immunity - State Info 266
+Duplicate SpEffectParam 360400->360402 [SACRED] Bubble Fall Immunity - Duration 0, Cycle SpEffect ID 360403
+Duplicate SpEffectParam 360401->360403 [SACRED] Bubble Fall Immunity - Duration 0
+SpEffectParam(503500) - Cycle SpEffect ID 360402
+SpEffectParam(3507) -  Cycle SpEffect ID 360402
+Duplicate Bullet 10642000->10642050 [SACRED] Hard Landing Damage - AtkParam ID 64205, Projectile SFX ID -1, Target SpEffect ID [0] 0
+Duplicate AtkParam_Pc 64200->64205 [SACRED] Hard Landing Damage - Damage: Physical 75
+Duplicate BehaviorParam_PC 2105->2500 [SACRED] Hard Landing Damage - Reference ID 10642050
+Duplicate SpEffectParam 511081->525000 [SACRED] Hard Landing Damage - Behavior ID 2500, Effect VFX [0] -1
+#-------------------------------------------
+
+
+# LAVA DAMAGE REWORK------------------------
+AtkParam_Npc(280000) - Damage: Fire 172->516
 #-------------------------------------------
 
 
@@ -82,6 +122,11 @@ Black Flame Blade:
 Magic(6250) - FP Consumption - Default 15->30, Stamina Consumption - Default 10->20, Requirement: FTH 17->20
 SpEffectParam(1626000) - Duration 7->14
 
+Indomitable Flame:
+Magic(6050) - FP Consumption - Default 28->42, Stamina Consumption - Default 16->24, Requirement: FTH 15->20
+SpEffectParam(1605000) - Duration 30->90, Chain SpEffect ID 1605003, Cast Speed 0->30, Toughness Absorption % 1->0.66(34%), Weapon Stamina Consumption % 1.2
+Duplicate SpEffectParam 1605002->1605003 [SACRED] Flame of the Indomitable Exhaustion - Icon ID 20231, Duration 45, Stamina Recovery Speed -5, Cycle SpEffect ID -1
+
 Flame of the Fell God:
 Magic(6110) - 42->100 FP Consumption, Stamina Consumption - Default 42->84, Number of Uses -1->1
 Bullet(10611001) - Initial Velocity 2->6, Acceleration: In Range 2->6, Acceleration: Out of Range -2->-6, Max Velocity 5->15, Min Velocity 2->6
@@ -92,11 +137,6 @@ Bullet(10611005) - Final Hit Radius 3.5->10, Bullet Count 1->10
 Bullet(10611009) - Duration 6->30
 AtkParam_Pc(61100) - Damage: Fire 415->999, Damage: Stamina 190->450
 AtkParam_Pc(61101) - Damage: Fire 35->70, Damage: Stamina 20->40
-
-Indomitable Flame:
-Magic(6050) - FP Consumption - Default 28->42, Stamina Consumption - Default 16->24, Requirement: FTH 15->20
-SpEffectParam(1605000) - Duration 30->90, Chain SpEffect ID 1605003, Cast Speed 0->30, Toughness Absorption % 1->0.66(34%), Weapon Stamina Consumption % 1.2
-Duplicate SpEffectParam 1605002->1605003 [SACRED] Flame of the Indomitable Exhaustion - Icon ID 20231, Duration 45, Stamina Recovery Speed -5, Cycle SpEffect ID -1
 
 Dragonbolt Blessing:
 Magic(6971) - FP Consumption - Default 20->55, Stamina Consumption - Default 20->40
@@ -119,18 +159,6 @@ AtkParam_Pc(69502) - Damage: Lightning 167->334, Damage: Stamina 60->120, Damage
 
 
 # ITEMS-------------------------------------
-Quick Buff - Numen's Rune/Erudition:
-EquipParamGoods(2913) - Sell Value 1000, Sort ID 9140->521
-EquipParamGoods(190) - Sell Value 5000
-SpEffectParam(3282) - Current HP % -100, Current FP % -100, Rune Gain + 0, Chain SpEffect ID 3294, Cycle SpEffect ID 1605000
-Duplicate SpEffectParam 3288->3294 [SACRED] Numen's/Erudition [Quick Buff 2] - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643000
-Duplicate SpEffectParam 3294->3295 [SACRED] Numen's/Erudition [Quick Buff 3] - Chain SpEffect ID 3296, Cycle SpEffect ID 3507
-Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - Chain SpEffect ID 1697102, Cycle SpEffect ID -1
-Duplicate SpEffectParam 3282->3297 [SACRED] Erudition [Quick Buff 1] - Current HP % 0, Current FP % 0, Rune Gain + 0, Chain SpEffect ID 3298, Cycle SpEffect ID 1605000
-Duplicate SpEffectParam 3288->3298 [SACRED] Erudition Rune Loss [Chain] - Rune Gain + -20000, Chain SpEffect ID 3294
-Duplicate ShopLineupParam_Recipe 30100->35001 [SACRED] Numen's Rune - Reference ID 2913, Sell Price Overwrite 10000, Required Material ID 35001
-Duplicate EquipMtrlSetParam 0->35001 [SACRED] Numen's Rune - Material ID [1] 1760
-
 Soap:
 SpEffectParam(502120) - Cycle SpEffect ID 3507
 EquipMtrlSetParam(307040) - Material ID [2] 20825, Material ID [3] 20651, Material Amount [2] 1, Material Amount [3] 1         
@@ -167,31 +195,6 @@ Material Amount [1] 1, Material Amount [2] 1, Material Amount [3] 1, Material Am
 # MERCHANTS---------------------------------
 Merchant - Siofra River:
 ShopLineupParam(100940) - Sell Price Overwrite 400->4000, Amount to Sell 3->-1
-#-------------------------------------------
-
-
-# FALL DAMAGE REWORK------------------------
-EquipParamAccessory(6040) - SpEffect ID [1] 360401
-SpEffectParam(360400) - State Info 47
-Duplicate SpEffectParam 360400->360401 [SACRED] Longtail Cat Talisman Fall Immunity - State Info 266
-Duplicate SpEffectParam 360400->360402 [SACRED] Bubble Fall Immunity - Duration 0, Cycle SpEffect ID 360403
-Duplicate SpEffectParam 360401->360403 [SACRED] Bubble Fall Immunity - Duration 0
-SpEffectParam(503500) - Cycle SpEffect ID 360402
-SpEffectParam(3507) -  Cycle SpEffect ID 360402
-Duplicate Bullet 10642000->10642050 [SACRED] Hard Landing Damage - AtkParam ID 64205, Projectile SFX ID -1, Target SpEffect ID [0] 0
-Duplicate AtkParam_Pc 64200->64205 [SACRED] Hard Landing Damage - Damage: Physical 75
-Duplicate BehaviorParam_PC 2105->2500 [SACRED] Hard Landing Damage - Reference ID 10642050
-Duplicate SpEffectParam 511081->525000 [SACRED] Hard Landing Damage - Behavior ID 2500, Effect VFX [0] -1
-#-------------------------------------------
-
-
-# LAVA DAMAGE REWORK------------------------
-AtkParam_Npc(280000) - Damage: Fire 172->516
-#-------------------------------------------
-
-
-# DEFLECT/TIMED BLOCK-----------------------
-SpEffectParam(6202002, 6202003, 6202004, 6202005)
 #-------------------------------------------
 
 
