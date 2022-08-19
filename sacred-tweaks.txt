@@ -207,12 +207,12 @@ Green Turtle Talisman:
 SpEffectParam(311500) - Stamina Recovery Speed 8->16
 
 Marika's Scarseal:
-Duplicate SpEffectParam 501290->312220 [SACRED] Marika's Scarseal FP Regen - Icon ID -1, Duration 0, Trigger Interval 4, Current FP + -1
-SpEffectParam(312200) - Cycle SpEffect ID 312220
+Duplicate SpEffectParam 501290->312220 [SACRED] Marika's Scarseal FP Regen - Icon ID -1, Duration 1, Trigger Interval 4, Current FP + -1, Effect VFX [0] -1
+EquipParamAccessory(1220) - SpEffect ID [1] 312220
 
 Marika's Soreseal:
 Duplicate SpEffectParam 312220->312221 [SACRED] Marika's Soreseal FP Regen - Trigger Interval 2
-SpEffectParam(312210) - Cycle SpEffect ID 312221
+EquipParamAccessory(1221) - SpEffect ID [1] 312221
 #-------------------------------------------
 
 
