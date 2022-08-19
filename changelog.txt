@@ -21,6 +21,7 @@
  - Craftable: 5 Ruin Fragments and 10,000 runes
  - Max Amount 3 
 - Opaline Bubblesoap
+ - Craftable: 3 Melted Mushrooms, 1 Silver Tear Husk, and 1 Trina's Lily.
  - Sold by Siofra River Merchant for 4400 runes  
 - Margit's Shackle
  - Casts Unseen Form for 6s on the player
@@ -29,6 +30,7 @@
  - Craftable: 1 Sanctuary Stone and 50,000 runes
 - Starlight Shards
  - 5 Minute Duration, 1 FP/s, Max Amount 5
+ - Craftable: 3 Cracked Crystal, 2 Crystal Bud, 2 Glintstone Firefly, and 1 Nascent Butterfly
  - Sold by Sorceress Sellen for 7200 runes
 
 # Talismans
