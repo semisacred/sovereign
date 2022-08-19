@@ -119,15 +119,15 @@ AtkParam_Pc(69502) - Damage: Lightning 167->334, Damage: Stamina 60->120, Damage
 
 
 # ITEMS-------------------------------------
-Numen's Rune:
+Quick Buff - Numen's Rune/Erudition:
 EquipParamGoods(2913) - Sell Value 1000, Sort ID 9140->521
 EquipParamGoods(190) - Sell Value 5000
-SpEffectParam(3282) - Current HP % -125, Current FP % -100, Rune Gain + 0, Chain SpEffect ID 3294, Cycle SpEffect ID 1605000
-Duplicate SpEffectParam 3288->3294 [SACRED] Numen's Rune [Chain] - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643000
-Duplicate SpEffectParam 3294->3295 [SACRED] Numen's Rune [Chain] - Chain SpEffect ID 3296, Cycle SpEffect ID 3507
-Duplicate SpEffectParam 3295->3296 [SACRED] Numen's Rune [Chain] - Chain SpEffect ID 1697102, Cycle SpEffect ID -1
-Duplicate SpEffectParam 3282->3297 [SACRED] Numen's Rune Erudition - Current HP % 0, Current FP % 0, Rune Gain + 0, Chain SpEffect ID 3298, Cycle SpEffect ID 1605000
-Duplicate SpEffectParam 3288->3298 [SACRED] Numen's Rune Erudition Rune Loss - Rune Gain + -20000, Chain SpEffect ID 3294
+SpEffectParam(3282) - Current HP % -100, Current FP % -100, Rune Gain + 0, Chain SpEffect ID 3294, Cycle SpEffect ID 1605000
+Duplicate SpEffectParam 3288->3294 [SACRED] Numen's/Erudition [Quick Buff 2] - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643000
+Duplicate SpEffectParam 3294->3295 [SACRED] Numen's/Erudition [Quick Buff 3] - Chain SpEffect ID 3296, Cycle SpEffect ID 3507
+Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - Chain SpEffect ID 1697102, Cycle SpEffect ID -1
+Duplicate SpEffectParam 3282->3297 [SACRED] Erudition [Quick Buff 1] - Current HP % 0, Current FP % 0, Rune Gain + 0, Chain SpEffect ID 3298, Cycle SpEffect ID 1605000
+Duplicate SpEffectParam 3288->3298 [SACRED] Erudition Rune Loss [Chain] - Rune Gain + -20000, Chain SpEffect ID 3294
 Duplicate ShopLineupParam_Recipe 30100->35001 [SACRED] Numen's Rune - Reference ID 2913, Sell Price Overwrite 10000, Required Material ID 35001
 Duplicate EquipMtrlSetParam 0->35001 [SACRED] Numen's Rune - Material ID [1] 1760
 
@@ -152,21 +152,9 @@ Traveler's Hat:
 EquipParamProtector(100000) - Resist - Sleep 29->58, Resist - Sleep 29->58, Resist - Poison 23->46, Resist - Scarlet Rot 23->46, Resist - Hemorrhage 9->18, 
 Resist - Blight 27->54, Resist - Frost 9->18
 
-Helphen's Steeple:
-EquipParamWeapon(3130000) - Sword Arts Param ID 1021->1048
-
-Assassin's Dagger Talismans:
-Duplicate SpEffectParam 320900->320980 [SACRED] Assassin's Crimson Dagger - Max HP % 0.85, Attack %: All 1.17 -> 1.34
-Duplicate SpEffectParam 320980->320981 [SACRED] Assassin's Cerulean Dagger - Max HP % 1, Max FP % 0.85
-EquipParamAccessory(5050) - Reference ID 350500->320980
-EquipParamAccessory(5060) - Reference ID 350600->320981
-
 Rune Arc:
 Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Rune Arc - Reference ID 190, Sell Price Overwrite 50000, Required Material ID 35000
 Duplicate EquipMtrlSetParam 0->35000 [SACRED] Rune Arc - Material ID [1] 20795
-
-Memory Stone:
-EquipParamGoods(10030) - Max Amount 8->12
 
 Starlight Shards:
 SpEffectParam(501290) - Duration 60->300, Current FP + -2->-1
@@ -177,9 +165,6 @@ Material Amount [1] 1, Material Amount [2] 1, Material Amount [3] 1, Material Am
 
 
 # MERCHANTS---------------------------------
-Merchant - Ainsel River:
-ShopLineupParam(100953) - Reference ID 10070->10030, Sell Price Overwrite 3000->100000, Quantity - Event Flag ID 190530->190531, Amount to Sell 1->4
-
 Merchant - Siofra River:
 ShopLineupParam(100940) - Sell Price Overwrite 400->4000, Amount to Sell 3->-1
 #-------------------------------------------
@@ -207,6 +192,18 @@ AtkParam_Npc(280000) - Damage: Fire 172->516
 
 # DEFLECT/TIMED BLOCK-----------------------
 SpEffectParam(6202002, 6202003, 6202004, 6202005)
+#-------------------------------------------
+
+
+# COLLATERAL DAMAGE-----------------------
+Helphen's Steeple:
+EquipParamWeapon(3130000) - Sword Arts Param ID 1021->1048
+
+Assassin's Dagger Talismans:
+Duplicate SpEffectParam 320900->320980 [SACRED] Assassin's Crimson Dagger - Max HP % 0.85, Attack %: All 1.17 -> 1.34
+Duplicate SpEffectParam 320980->320981 [SACRED] Assassin's Cerulean Dagger - Max HP % 1, Max FP % 0.85
+EquipParamAccessory(5050) - Reference ID 350500->320980
+EquipParamAccessory(5060) - Reference ID 350600->320981
 #-------------------------------------------
 
 

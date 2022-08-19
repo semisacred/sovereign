@@ -23,9 +23,8 @@
 - Starlight Shards
  - 5 minute duration, less effective
 
-# Merchants
-- Merchant - Ainsel River
- - 4 Memory Stones for sale for 100,000 runes each
+# Talismans
+- 
 
 # Crafting
 - Rune Arcs are now craftable for a Sanctuary Stone and 50,000 runes
