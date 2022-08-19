@@ -193,6 +193,28 @@ Material Amount [1] 1, Material Amount [2] 1, Material Amount [3] 1, Material Am
 #-------------------------------------------
 
 
+# TALISMANS---------------------------------
+Radagon's Scarseal:
+SpEffectParam(310500) - Stamina Recovery Speed 0->5
+
+Radagon's Soreseal:
+SpEffectParam(310510) - Stamina Recovery Speed 0->5
+
+Marika's Scarseal:
+Duplicate SpEffectParam 501290->312220 [SACRED] Marika FP Regen - Icon ID -1, Duration 0, Trigger Interval 2, Current FP + -1
+SpEffectParam(312200) - Cycle SpEffect ID 312220
+
+Marika's Soreseal:
+SpEffectParam(312210) - Cycle SpEffect ID 312220
+
+Moon of Nokstella:
+SpEffectParam(311400) - Magic Attunement Slot 2->4
+
+Green Turtle Talisman:
+SpEffectParam(311500) - Stamina Recovery Speed 8->10
+#-------------------------------------------
+
+
 # MISCELLANEOUS-----------------------
 Traveler's Hat:
 EquipParamProtector(100000) - Resist - Sleep 29->58, Resist - Sleep 29->58, Resist - Poison 23->46, Resist - Scarlet Rot 23->46, Resist - Hemorrhage 9->18, 
