@@ -35,12 +35,12 @@
 -Radagon's Scarseal:
   -Added Stamina Recovery Speed 5
 -Radagon's Soreseal:
-  -Added Stamina Recovery Speed 5
--Marika's Scarseal:
-  -Added 0.5 FP/s
--Marika's Soreseal:
-  -Added 0.5 FP/s
+  -Added Stamina Recovery Speed 10
 -Moon of Nokstella:
   -Magic Attunement Slot 2->4
 -Green Turtle Talisman:
-  -Stamina Recovery Speed 8->10
+  -Stamina Recovery Speed 8->16
+-Marika's Scarseal:
+  -Added 0.25 FP/s
+-Marika's Soreseal:
+  -Added 0.5 FP/s

@@ -198,20 +198,21 @@ Radagon's Scarseal:
 SpEffectParam(310500) - Stamina Recovery Speed 0->5
 
 Radagon's Soreseal:
-SpEffectParam(310510) - Stamina Recovery Speed 0->5
-
-Marika's Scarseal:
-Duplicate SpEffectParam 501290->312220 [SACRED] Marika FP Regen - Icon ID -1, Duration 0, Trigger Interval 2, Current FP + -1
-SpEffectParam(312200) - Cycle SpEffect ID 312220
-
-Marika's Soreseal:
-SpEffectParam(312210) - Cycle SpEffect ID 312220
+SpEffectParam(310510) - Stamina Recovery Speed 0->10
 
 Moon of Nokstella:
 SpEffectParam(311400) - Magic Attunement Slot 2->4
 
 Green Turtle Talisman:
-SpEffectParam(311500) - Stamina Recovery Speed 8->10
+SpEffectParam(311500) - Stamina Recovery Speed 8->16
+
+Marika's Scarseal:
+Duplicate SpEffectParam 501290->312220 [SACRED] Marika's Scarseal FP Regen - Icon ID -1, Duration 0, Trigger Interval 4, Current FP + -1
+SpEffectParam(312200) - Cycle SpEffect ID 312220
+
+Marika's Soreseal:
+Duplicate SpEffectParam 312220->312221 [SACRED] Marika's Soreseal FP Regen - Trigger Interval 2
+SpEffectParam(312210) - Cycle SpEffect ID 312221
 #-------------------------------------------
 
 
@@ -318,6 +319,59 @@ Craftable item.
 Provides significant damage negation once, and will expire after a certain duration. Cleans off filth and other accumulations on the body.
 
 The mushrooms that grow in the false night amongst the caverns of the Eternal City have special properties.
+------------------------------
+
+Rings(1050): Radagon's Scarseal
+Raises attributes and stamina recovery, but also increases damage taken
+------------------------------
+An eye engraved with an Elden Rune.
+Said to be the seal of King Consort Radagon.
+
+Raises vigor, endurance, strength, dexterity, and stamina recovery, but also increases damage taken.
+
+These seals represent the lifelong duty of those chosen by the gods.
+------------------------------
+
+Rings(1051): Radagon's Soreseal
+Greatly raises attributes and stamina recovery, but also increases damage taken
+------------------------------
+This legendary talisman is an eye engraved with an Elden Rune, said to be the seal of King Consort Radagon.
+
+Greatly raises vigor, endurance, strength, dexterity, and stamina recovery, but also increases damage taken by a similar measure.
+
+Solemn duty weighs upon the one beholden; not unlike a gnawing curse from which there is no deliverance.
+------------------------------
+
+Rings(1150): Green Turtle Talisman
+Greatly raises stamina recovery speed
+------------------------------
+A talisman in the shape of a green turtle.
+Greatly raises stamina recovery speed.
+
+Turtles are known as a nutritious ingredient, symbolic of inexhaustible power.
+
+However, those who hold turtles to be wise creatures consider the practice of eating their meat to be barbarous.
+------------------------------
+
+Rings(1220): Marika's Scarseal
+Raises attributes and slowly restores FP, but also increases damage taken
+------------------------------
+An eye engraved with an Elden Rune.
+Said to be the seal of Queen Marika.
+
+Raises mind, intelligence, faith, arcane, and slowly restores FP, but also increases damage taken.
+
+These seals represent the lifelong duty of those chosen by the gods.
+------------------------------
+
+Rings(1221): Marika's Soreseal
+Greatly raises attributes and restores FP, but also increases damage taken
+------------------------------
+This legendary talisman is an eye engraved with an Elden Rune, said to be the seal of Queen Marika.
+
+Greatly raises mind, intelligence, faith, arcane, and restores FP, but also increases damage taken by a similar measure.
+
+Solemn duty weighs upon the one beholden; not unlike a gnawing curse from which there is no deliverance.
 ------------------------------
 
 Rings(5050): Assassin's Crimson Dagger
