@@ -3,10 +3,10 @@
 #------------------------------------------
 
 # Difficulty
-- 50% more Enemy HP, FP, SP, and Damage 
-- 2x AI Vision/Listen Correction
+- 50% more enemy HP, FP, SP, and damage 
+- 2x AI Vision/Listen correction
  - Enemies are more perceptive and aggro from farther away
-- 2x Hemorrhage Resistance
+- 2x Hemorrhage resistance
 
 # Weapons
 - Eclipse Crest Greatshield
@@ -54,3 +54,7 @@
   -Added 0.25 FP/s
 -Marika's Soreseal
   -Added 0.5 FP/s
+
+# Bugfix
+- Guard Counter Accumulator Fix
+

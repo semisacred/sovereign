@@ -235,6 +235,12 @@ EquipParamAccessory(5060) - Reference ID 350600->320981
 #-------------------------------------------
 
 
+# BUGFIX------------------------------------
+Guard Counter Accumulator Fix:
+Duplicate SpEffectParam 1626010->6202006 [SACRED] Guard Counter Accumulator Fix - Chain SpEffect ID -1, Cycle SpEffect ID -1, Accumulator - Increment Value 2
+#-------------------------------------------
+
+
 # ANIMATIONS--------------------------------
 (c0000.anibnd.dcx)
 
@@ -252,6 +258,10 @@ AddSpEffect 511084
 Black Sun's Zenith:
 a751_040040
 AddSpEffect 525003 (single frame)
+
+Guard Counter Accumulator Fix:
+a025_032700, a025_030700
+AddSpEffect 6202006
 #-------------------------------------------
 
 
