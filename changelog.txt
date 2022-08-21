@@ -4,7 +4,7 @@
 
 # Difficulty
 - 50% more enemy HP, FP, SP, and damage 
-- 2x AI Vision / 3x AI Hearing
+- 3x AI Vision/Hearing
  - Enemies are more perceptive and aggro from farther away
 - 2x Hemorrhage resistance
 

@@ -6,7 +6,7 @@
 # DIFFICULTY MODIFIER-----------------------
 SpEffectParam(7000 through 7280) - Cycle SpEffect ID 7399
 Duplicate SpEffectParam 7280->7399 [SACRED] Difficulty Modifier - Duration -1, Max HP % 1.5, Max FP % 1.5, Max Stamina % 1.5, Attack %: ALL 1.5, Defence %: ALL 1, 
-Attack %: Stamina 1.5, Aux Resist %: ALL 1, Aux Resist %: Hemorrhage 2, Cycle SpEffect ID -1, AI Vision Correction 2, Listen Search Correction 3
+Attack %: Stamina 1.5, Aux Resist %: ALL 1, Aux Resist %: Hemorrhage 2, Cycle SpEffect ID -1, AI Vision Correction 3, Listen Search Correction 3
 #-------------------------------------------
 
 
