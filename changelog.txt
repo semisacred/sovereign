@@ -2,9 +2,11 @@
 # 5.2-1.06
 #------------------------------------------
 
-# Game Settings
-- 2x AI Sight 
- - Enemies aggro from farther away
+# Difficulty
+- 50% more Enemy HP, FP, SP, and Damage 
+- 2x AI Vision/Listen Correction
+ - Enemies are more perceptive and aggro from farther away
+- 2x Hemorrhage Resistance
 
 # Weapons
 - Eclipse Crest Greatshield
