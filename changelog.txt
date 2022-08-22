@@ -24,7 +24,7 @@
  - Max Amount 3 
 - Opaline Bubblesoap
  - Craftable: 3 Melted Mushrooms, 1 Silver Tear Husk, and 1 Trina's Lily.
- - Sold by Siofra River Merchant for 2800 runes  
+ - Sold by Siofra River Merchant for 3600 runes  
 - Margit's Shackle
  - Casts Unseen Form for 6s on the player
  - Applies the Darkness effect to all in a 140 range for 3s
@@ -33,7 +33,7 @@
 - Starlight Shards
  - 5 Minute Duration, 1 FP/s, Max Amount 5
  - Craftable: 3 Cracked Crystal, 2 Crystal Bud, 2 Glintstone Firefly, and 1 Nascent Butterfly
- - Sold by Sorceress Sellen for 3200 runes
+ - Sold by Sorceress Sellen for 4200 runes
 
 # Talismans
 -Arsenal Charm
@@ -56,5 +56,5 @@
   -Added 0.5 FP/s
 
 # Bugfix
-- Guard Counter Accumulator Fix
+- Guard Counter now increment the accumulator
 

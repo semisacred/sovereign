@@ -66,6 +66,7 @@ SpEffectVfxParam(8655) - Trace SFX ID Offset Type 19->17
 SwordArtsParam(1021) - FP Consumption - L2 20->30
 SpEffectParam(1806) - Duration 30->0.1, Damage +: Magic 50->0, Chain SpEffect ID 1626010, Cycle SpEffect ID 1626003, Attack SpEffect ID 1809->-1, 
 Effect VFX [0] 8655->-1
+AtkParam_Pc(300180, 300380) - Target SpEffect [0] 6904
 
 Bloodstained Gildblade:
 EquipParamWeapon(2090000) - Behavior Variation ID 300->200, Reinforcement Price 580->1740, Passive SpEffect 1 1626020, Passive SpEffect 2 1626022, 
@@ -157,7 +158,7 @@ Duplicate EquipMtrlSetParam 0->35001 [SACRED] Numen's Rune - Material ID [1] 176
 Opaline Bubblesoap:
 SpEffectParam(502120) - Cycle SpEffect ID 3507
 EquipMtrlSetParam(307040) - Material ID [2] 20825, Material ID [3] 20651, Material Amount [1] 3, Material Amount [2] 1, Material Amount [3] 1
-ShopLineupParam(100940) - Sell Price Overwrite 400->4400, Amount to Sell 3->-1         
+ShopLineupParam(100940) - Sell Price Overwrite 400->3600, Amount to Sell 3->-1         
 
 Margit's Shackle:
 Duplicate BehaviorParam_PC 2500->2501 [SACRED] Margit's Shackle Darkness - Reference ID 10653000
@@ -180,7 +181,7 @@ Duplicate EquipMtrlSetParam 0->35000 [SACRED] Rune Arc - Material ID [1] 20795
 Starlight Shards:
 EquipParamGoods(1290) - Max Amount 10->5
 SpEffectParam(501290) - Duration 60->300, Current FP + -2->-1
-Duplicate ShopLineupParam 100062->100063 [SACRED] [Sorceress Sellen] Starlight Shards - Reference ID 1290, Sell Price Overwrite 3200, Quantity - Event Flag ID 0, Amount to Sell -1
+Duplicate ShopLineupParam 100062->100063 [SACRED] [Sorceress Sellen] Starlight Shards - Reference ID 1290, Sell Price Overwrite 4200, Quantity - Event Flag ID 0, Amount to Sell -1
 Duplicate ShopLineupParam_Recipe 30100->35002 [SACRED] Starlight Shards - Reference ID 1290, Required Material ID 35002
 Duplicate EquipMtrlSetParam 0->35002 [SACRED] Starlight Shards - Material ID [1] 20780, Material ID [2] 20750, Material ID [3] 20812, Material ID [4] 20800, 
 Material Amount [1] 3, Material Amount [2] 2, Material Amount [3] 2, Material Amount [4] 1, Material Category [2] 4, Material Category [3] 4, Material Category [4] 4
@@ -235,12 +236,6 @@ EquipParamAccessory(5060) - Reference ID 350600->320981
 #-------------------------------------------
 
 
-# BUGFIX------------------------------------
-Guard Counter Accumulator Fix:
-Duplicate SpEffectParam 1626010->6202006 [SACRED] Guard Counter Accumulator Fix - Chain SpEffect ID -1, Cycle SpEffect ID -1, Accumulator - Increment Value 2
-#-------------------------------------------
-
-
 # ANIMATIONS--------------------------------
 (c0000.anibnd.dcx)
 
@@ -258,10 +253,6 @@ AddSpEffect 511084
 Black Sun's Zenith:
 a751_040040
 AddSpEffect 525003 (single frame)
-
-Guard Counter Accumulator Fix:
-a025_032700, a025_030700
-AddSpEffect 6202006
 #-------------------------------------------
 
 
