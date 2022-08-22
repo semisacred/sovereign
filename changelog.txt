@@ -56,5 +56,5 @@
   -Added 0.5 FP/s
 
 # Bugfix
-- Guard Counter now increment the accumulator
+- (Greatsword/Straight Sword) Guard Counters now increment the accumulator
 

@@ -84,6 +84,7 @@ SpEffectParam(350501) - Cycle SpEffect ID 1626022
 SpEffectParam(350502) - Effect VFX [0] 350500->5031401
 Bullet(2611, 2616, 2621) - Duration 0.5->1
 SwordArtsParam(222) - FP Consumption - L2 9->18, FP Consumption - R2 9->18
+AtkParam_Pc(200180, 200380) - Target SpEffect [0] 6904
 
 Eclipse Crest Greatshield: (50 Uses = -20% HP, FP, SP, Damage)
 EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Requirement: FTH 0->30, Sword Arts Param ID 10->701, Ash of War Type 2->0
