@@ -3,11 +3,10 @@
 #------------------------------------------
 
 # Difficulty
-- 50% more enemy HP, FP, SP, and damage 
-- 3x AI Vision/Hearing
+- 1.5x more enemy HP, FP, SP, damage, and defences
+- 2x AI Vision/Hearing
  - Enemies are more perceptive and aggro from farther away
 - 2x Hemorrhage resistance
-- Receive 75% damage to Poise
 
 # Torrent
 - Can summon Torrent anywhere
