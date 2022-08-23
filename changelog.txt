@@ -3,7 +3,7 @@
 #------------------------------------------
 
 # Difficulty
-- 1.5x more enemy HP, FP, SP, damage, and defences
+- 1.5x enemy HP, FP, SP, damage, and defenses
 - 2x AI Vision/Hearing
  - Enemies are more perceptive and aggro from farther away
 - 2x Hemorrhage resistance
@@ -18,6 +18,7 @@
 # Spells
 - Black Flame Blade
  - [20 FTH] 2x FP Cost, 2x Duration
+ - Attack Effect: Duration 2->1 (2%HP->1%HP)
 - Indomitable Flame 
  - Exhaustion Icon Change, 90->45 Duration, Weapon Stamina Consumption 1.2->1
 

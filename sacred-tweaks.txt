@@ -112,6 +112,7 @@ Bullet(10621051) - Final Hit Radius 1.5->2.5
 Black Flame Blade:
 Magic(6250) - FP Consumption - Default 15->30, Stamina Consumption - Default 10->20, Requirement: FTH 17->20
 SpEffectParam(1626000) - Duration 7->14
+SpEffectParam(1626001) - Duration 2->1
 
 Indomitable Flame:
 Magic(6050) - FP Consumption - Default 28->42, Stamina Consumption - Default 16->24, Requirement: FTH 15->20
