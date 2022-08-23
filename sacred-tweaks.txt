@@ -68,7 +68,7 @@ SpEffectParam(1806) - Duration 30->0.1, Damage +: Magic 50->0, Chain SpEffect ID
 Effect VFX [0] 8655->-1
 AtkParam_Pc(300180, 300380) - Target SpEffect [0] 6904
 
-Bloodstained Gildblade:
+Bloodstained Gildblade (Inseparable Sword):
 EquipParamWeapon(2090000) - Behavior Variation ID 300->200, Reinforcement Price 580->1740, Passive SpEffect 1 1626020, Passive SpEffect 2 1626022, 
 Damage: Physical 98->74, Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Motion Category 128->0, Weapon Hold Position - 1H 2->0, 
 Weapon Hold Position - 2H 12->10, Requirement: FTH 20->26, Is Buffable Check, Damage: Holy 98->74, Sword Arts Param ID 201->222
@@ -114,10 +114,10 @@ Magic(6250) - FP Consumption - Default 15->30, Stamina Consumption - Default 10-
 SpEffectParam(1626000) - Duration 7->14
 SpEffectParam(1626001) - Duration 2->1
 
-Indomitable Flame:
+Indomitable Flame (Flame, Grant Me Strength):
 Magic(6050) - FP Consumption - Default 28->42, Stamina Consumption - Default 16->24, Requirement: FTH 15->20
 SpEffectParam(1605000) - Duration 30->90, Chain SpEffect ID 1605003, Cast Speed 0->30, Toughness Absorption % 1->0.66(34%), Weapon Stamina Consumption % 1.2
-Duplicate SpEffectParam 1605002->1605003 [SACRED] Flame of the Indomitable Exhaustion - Icon ID 20231, Duration 45, Stamina Recovery Speed -5, Cycle SpEffect ID -1
+Duplicate SpEffectParam 1605002->1605003 [SACRED] Flame, Grant Me Strength Exhaustion - Icon ID 20231, Duration 45, Stamina Recovery Speed -5, Cycle SpEffect ID -1
 
 Flame of the Fell God:
 Magic(6110) - 42->100 FP Consumption, Stamina Consumption - Default 42->84, Number of Uses -1->1
@@ -157,7 +157,7 @@ SpEffectParam(3282) - Current HP % -100, Current FP % -100, Rune Gain + 0, Chain
 Duplicate ShopLineupParam_Recipe 30100->35001 [SACRED] Numen's Rune - Reference ID 2913, Sell Price Overwrite 6000, Required Material ID 35001
 Duplicate EquipMtrlSetParam 0->35001 [SACRED] Numen's Rune - Material ID [1] 1760, Material Amount [1] 4
 
-Opaline Bubblesoap:
+Opaline Bubblesoap (Soap):
 SpEffectParam(502120) - Cycle SpEffect ID 3507
 EquipMtrlSetParam(307040) - Material ID [2] 20825, Material ID [3] 20651, Material Amount [1] 3, Material Amount [2] 1, Material Amount [3] 1
 ShopLineupParam(100940) - Sell Price Overwrite 400->3600, Amount to Sell 3->-1         

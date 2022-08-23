@@ -17,10 +17,10 @@
 
 # Spells
 - Black Flame Blade
- - [20 FTH] 2x FP Cost, 2x Duration
- - Attack Effect: Duration 2->1 (2%HP->1%HP)
+ - [20 FTH] 2x FP cost, 2x duration
+ - Attack Effect: duration 2->1 (2%HP->1%HP)
 - Indomitable Flame 
- - Exhaustion Icon Change, 90->45 Duration, Weapon Stamina Consumption 1.2->1
+ - Exhaustion Icon Change, 90->45 duration, Weapon Stamina Consumption 1.2->1
 
  # Items
 - Numen's Rune
@@ -35,7 +35,7 @@
 -Rune Arc
  - Craftable: 1 Sanctuary Stone and 12,000 runes
 - Starlight Shards
- - 5 Minute Duration, 1 FP/s, Max Amount 5
+ - 300s duration, 1 FP/s, Max Amount 5
  - Craftable: 3 Cracked Crystal, 2 Crystal Bud, 2 Glintstone Firefly, and 1 Nascent Butterfly
  - Sold by Sorceress Sellen for 4200 runes
 
