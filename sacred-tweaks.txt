@@ -34,6 +34,12 @@ NpcParam(100000010 through 170002000) - SpEffect ID [3] 7398
 #-------------------------------------------
 
 
+# MELINA------------------------------------
+Duplicate NpcParam 21809000->21809001 [SACRED] Melina - Team Type 47
+BuddyParam(20000000) - NPC Param ID 121000000->21809001, NPC Think Param ID 121000000->21800000
+#-------------------------------------------
+
+
 # FALL DAMAGE REWORK------------------------
 EquipParamAccessory(6040) - SpEffect ID [1] 360401
 SpEffectParam(360400) - State Info 47
