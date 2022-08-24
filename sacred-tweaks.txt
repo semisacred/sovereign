@@ -7,9 +7,6 @@
 SpEffectParam(7000 through 7280) - Cycle SpEffect ID 7399
 Duplicate SpEffectParam 7280->7399 [SACRED] Difficulty Modifier - Duration -1, Max HP % 1.5, Max FP % 1.5, Max Stamina % 1.5, Attack %: ALL 1.5, Defence %: ALL 1.5, 
 Attack %: Stamina 1.5, Aux Resist %: ALL 1, Aux Resist %: Hemorrhage 2, Cycle SpEffect ID -1, AI Vision Correction 2, Listen Search Correction 2
-Duplicate SpEffectParam 7399->7398 [SACRED] Summon Modifier - Max HP % 0.5, Max FP % 1, Max Stamina % 1, Attack %: ALL 1, Defence %: ALL 1, 
-Attack %: Stamina 1, Aux Resist %: Hemorrhage 1, AI Vision Correction 1, Listen Search Correction 1
-NpcParam(100000010 through 170002000) - SpEffect ID [3] 7398
 #-------------------------------------------
 
 
@@ -25,6 +22,15 @@ Duplicate SpEffectParam 3288->3298 [SACRED] Erudition Rune Loss [Chain] - Rune G
 Duplicate SpEffectParam 3288->3294 [SACRED] Numen's/Erudition [Quick Buff 2] - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643000
 Duplicate SpEffectParam 3294->3295 [SACRED] Numen's/Erudition [Quick Buff 3] - Chain SpEffect ID 3296, Cycle SpEffect ID 3507
 Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - Chain SpEffect ID 1697102, Cycle SpEffect ID -1
+#-------------------------------------------
+
+
+# SUMMONS-----------------------------------
+BuddyStoneParam(ALL) - Defeat Target List Entity ID 0, Summoned Event Flag ID 0, Activation Distance 65535, Overwrite Return Range -1, 
+Overwrite Activation Region Entity ID 0, Warn Region Entity ID 0
+Duplicate SpEffectParam 7399->7398 [SACRED] Summon Modifier - Max HP % 0.5, Max FP % 1, Max Stamina % 1, Attack %: ALL 0.5, Defence %: ALL 1, 
+Attack %: Stamina 1, Aux Resist %: Hemorrhage 1, AI Vision Correction 1, Listen Search Correction 1
+NpcParam(100000010 through 170002000) - SpEffect ID [3] 7398
 #-------------------------------------------
 
 
@@ -91,7 +97,8 @@ AtkParam_Pc(200180, 200380) - Target SpEffect [0] 6904
 
 Eclipse Crest Greatshield: (50 Uses = -20% HP, FP, SP, Damage)
 EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Requirement: FTH 0->30, Sword Arts Param ID 10->701, Ash of War Type 2->0
-Duplicate SpEffectParam 1626005->1626030 [SACRED] Black Sun Sacrifice - Icon ID 20229, Max HP 0.996, Max FP 0.996, Max Stamina 0.996, Erase on Bonfire Rest Check, Damage %: ALL 0.996
+Duplicate SpEffectParam 1626005->1626030 [SACRED] Black Sun Sacrifice - Icon ID 20229, Max HP 0.996, Max FP 0.996, Max Stamina 0.996, Erase on Bonfire Rest Check, 
+Damage %: ALL 0.996
 Duplicate SpEffectParam 525002->525003 [SACRED] Vow Wrath - Duration 0.5, Trigger Interval 1, Behavior ID 2503, Chain SpEffect ID 1626030
 Duplicate BehaviorParam_PC 2502->2503 [SACRED] Vow Wrath - Reference ID 10641100
 Duplicate Bullet 10641000->10641100 [SACRED] Vow Wrath - AtkParam ID 64110
@@ -186,7 +193,8 @@ Duplicate EquipMtrlSetParam 0->35000 [SACRED] Rune Arc - Material ID [1] 20795
 Starlight Shards:
 EquipParamGoods(1290) - Max Amount 10->5
 SpEffectParam(501290) - Duration 60->300, Current FP + -2->-1
-Duplicate ShopLineupParam 100062->100063 [SACRED] [Sorceress Sellen] Starlight Shards - Reference ID 1290, Sell Price Overwrite 4200, Quantity - Event Flag ID 0, Amount to Sell -1
+Duplicate ShopLineupParam 100062->100063 [SACRED] [Sorceress Sellen] Starlight Shards - Reference ID 1290, Sell Price Overwrite 4200, Quantity - Event Flag ID 0, 
+Amount to Sell -1
 Duplicate ShopLineupParam_Recipe 30100->35002 [SACRED] Starlight Shards - Reference ID 1290, Required Material ID 35002
 Duplicate EquipMtrlSetParam 0->35002 [SACRED] Starlight Shards - Material ID [1] 20780, Material ID [2] 20750, Material ID [3] 20812, Material ID [4] 20800, 
 Material Amount [1] 3, Material Amount [2] 2, Material Amount [3] 2, Material Amount [4] 1, Material Category [2] 4, Material Category [3] 4, Material Category [4] 4
