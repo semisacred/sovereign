@@ -1,6 +1,12 @@
 #-------------------------------------------
 # SACRED TWEAKS
 #-------------------------------------------
+TODO: 
+melina gets summon-related speffects from Tiche
+finger snap melina summon
+summons not summonable everywhere but won't fade out (less limitations)
+summon balance changes, maybe higher difficulty an dless poise damage done
+R SORESEAL - EquipParamAccessory(1051) SpEffect ID [1] 9530 (summon check, IS THIS NEEDED?)
 
 
 # DIFFICULTY MODIFIER-----------------------
