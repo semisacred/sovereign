@@ -1,18 +1,15 @@
 #-------------------------------------------
 # SACRED TWEAKS
 #-------------------------------------------
-TODO: 
-melina gets summon-related speffects from Tiche
-finger snap melina summon
-summons not summonable everywhere but won't fade out (less limitations)
-summon balance changes, maybe higher difficulty an dless poise damage done
-R SORESEAL - EquipParamAccessory(1051) SpEffect ID [1] 9530 (summon check, IS THIS NEEDED?)
 
 
 # DIFFICULTY MODIFIER-----------------------
 SpEffectParam(7000 through 7280) - Cycle SpEffect ID 7399
 Duplicate SpEffectParam 7280->7399 [SACRED] Difficulty Modifier - Duration -1, Max HP % 1.5, Max FP % 1.5, Max Stamina % 1.5, Attack %: ALL 1.5, Defence %: ALL 1.5, 
 Attack %: Stamina 1.5, Aux Resist %: ALL 1, Aux Resist %: Hemorrhage 2, Cycle SpEffect ID -1, AI Vision Correction 2, Listen Search Correction 2
+Duplicate SpEffectParam 7399->7398 [SACRED] Summon Modifier - Max HP % 0.5, Max FP % 1, Max Stamina % 1, Attack %: ALL 0.5, Defence %: ALL 1, 
+Attack %: Stamina 1, Aux Resist %: Hemorrhage 1, AI Vision Correction 1, Listen Search Correction 1, Poise Damage % 0.5
+NpcParam(100000010 through 170002000) - SpEffect ID [3] 7398
 #-------------------------------------------
 
 
@@ -28,21 +25,6 @@ Duplicate SpEffectParam 3288->3298 [SACRED] Erudition Rune Loss [Chain] - Rune G
 Duplicate SpEffectParam 3288->3294 [SACRED] Numen's/Erudition [Quick Buff 2] - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643000
 Duplicate SpEffectParam 3294->3295 [SACRED] Numen's/Erudition [Quick Buff 3] - Chain SpEffect ID 3296, Cycle SpEffect ID 3507
 Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - Chain SpEffect ID 1697102, Cycle SpEffect ID -1
-#-------------------------------------------
-
-
-# SUMMONS-----------------------------------
-BuddyStoneParam(ALL) - Defeat Target List Entity ID 0, Summoned Event Flag ID 0, Activation Distance 65535, Overwrite Return Range -1, 
-Overwrite Activation Region Entity ID 0, Warn Region Entity ID 0
-Duplicate SpEffectParam 7399->7398 [SACRED] Summon Modifier - Max HP % 0.5, Max FP % 1, Max Stamina % 1, Attack %: ALL 0.5, Defence %: ALL 1, 
-Attack %: Stamina 1, Aux Resist %: Hemorrhage 1, AI Vision Correction 1, Listen Search Correction 1
-NpcParam(100000010 through 170002000) - SpEffect ID [3] 7398
-#-------------------------------------------
-
-
-# MELINA------------------------------------
-Duplicate NpcParam 21809000->21809001 [SACRED] Melina - Team Type 47
-BuddyParam(20000000) - NPC Param ID 121000000->21809001, NPC Think Param ID 121000000->21800000
 #-------------------------------------------
 
 

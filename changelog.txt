@@ -2,10 +2,9 @@
 # 5.4-1.06
 #------------------------------------------
 
-# Summons
- - 50% total HP
- - Summon anywhere
- - Melina replaces Black Knife Tiche
+# Difficulty
+- Summons
+ - 0.5x HP, damage, poise damage
 
 #------------------------------------------
 # 5.3-1.06
