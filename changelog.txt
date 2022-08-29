@@ -12,6 +12,8 @@
 - Godslayer's Greatsword
  - Soul Burn now is only active during Ruinous Black Flame
   - 1.004 -> 1.005 % per kill (10 Kills = 5% HP, FP, SP, Damage)
+- Bloodstained Gildblade
+ - Damage lowered by 14%
 
   # Items
 - Margit's Shackle -> Fell Omen Shackle

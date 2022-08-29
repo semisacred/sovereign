@@ -72,8 +72,8 @@ AtkParam_Pc(300180, 300380) - Target SpEffect [0] 6904
 
 Bloodstained Gildblade (Inseparable Sword):
 EquipParamWeapon(2090000) - Behavior Variation ID 300->200, Reinforcement Price 580->1740, Passive SpEffect 1 1626020, Passive SpEffect 2 1626022, 
-Damage: Physical 98->74, Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Motion Category 128->0, Weapon Hold Position - 1H 2->0, 
-Weapon Hold Position - 2H 12->10, Requirement: FTH 20->26, Is Buffable Check, Damage: Holy 98->74, Sword Arts Param ID 201->222
+Damage: Physical 98->65, Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Motion Category 128->0, Weapon Hold Position - 1H 2->0, 
+Weapon Hold Position - 2H 12->10, Requirement: FTH 20->26, Is Buffable Check, Damage: Holy 98->65, Sword Arts Param ID 201->222
 Duplicate SpEffectParam 320800->1626020 [SACRED] Gildblade Boon [Hit Trigger] - Icon ID -1, Accumulator - Over Value - SpEffect ID 1626021, 
 Accumulator - Over Value 17->2
 Duplicate SpEffectParam 1643000->1626021 [SACRED] Gildblade Boon - Duration 1, Current HP + -4, Effect Category 0
