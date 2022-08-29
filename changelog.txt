@@ -9,6 +9,9 @@
  # Weapons
 - Eclipse Crest Greatshield
  - Black Sun's Zenith inflicts 70 death blight instead of reducing overall stats
+- Godslayer's Greatsword
+ - Soul Burn now is only active during Ruinous Black Flame
+  - 1.004 -> 1.005 % per kill (10 Kills = 5% HP, FP, SP, Damage)
 
   # Items
 - Margit's Shackle -> Fell Omen Shackle

@@ -49,21 +49,20 @@ AtkParam_Npc(280000) - Damage: Fire 172->516
 
 
 # MAIN WEAPONS------------------------------
-Godslayer's Greatsword: (50 Kills = 20% HP, FP, SP, Damage)
+Godslayer's Greatsword: (10 Kills = 5% HP, FP, SP, Damage)
 EquipParamWeapon(4070000) - Behavior Variation ID 404->300, Weight 17.5->15.5, Reinforcement Price 1180->3540, Correction: STR 31->42, Correction: DEX 52->28, 
-Correction: FTH 40->54, Passive SpEffect 1 -1->1626004, Passive SpEffect 2 1626006, Damage: Physical 119->77, Damage: Fire 77->33, Weapon Motion Category 26->25, 
+Correction: FTH 40->54, Damage: Physical 119->77, Damage: Fire 77->33, Weapon Motion Category 26->25, 
 Special Motion Category 137->0, Requirement: STR 20->24, Requirement: DEX  22->16, Requirement: FTH 20->30, Sword Arts Param ID 1170->1021
 Duplicate SpEffectParam 5031400->1626002 [SACRED] GG BFB [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626003
 Duplicate SpEffectParam 1626000->1626003 [SACRED] GG BFB - Duration 37, Cycle SpEffect ID 1626002, Effect Category 20, Correction +: FTH 54
-Duplicate SpEffectParam 1626002->1626004 [SACRED] GG Soul Burn [Kill Trigger] - Kill SpEffect ID 1626005
-Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Soul Burn - Icon ID 20295, Duration -1, Max HP 1.004, Max FP 1.004, Max Stamina 1.004, Current HP % 0, 
-Current HP + 0, Effect Category 10 - Stack Self, Erase on Bonfire Rest Check, Effect VFX 0 -1, Damage %: ALL 1.004
-Duplicate SpEffectParam 1626004->1626006 [SACRED] GG Soul Burn VFX [Kill Trigger] - Kill SpEffect ID 1626007
-Duplicate SpEffectParam 1626005->1626007 [SACRED] GG Soul Burn VFX - Icon ID -1, Duration 1, Max HP 1, Max FP 1, Max SP 1, Effect VFX 0 9010
-Duplicate SpEffectParam 320800->1626008 [SACRED] GG Ruinous Black Flame [Hit Trigger] - Icon ID -1, Duration 7, Accumulator - Over Value - SpEffect ID 1806, 
+Duplicate SpEffectParam 1626002->1626004 [SACRED] GG Soul Burn [Kill Trigger] - Duration 0, Kill SpEffect ID 1626005
+Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Soul Burn VFX - Icon ID -1, Duration 1, Current HP % 0, Current HP + 0, Chain SpEffect ID 1626006, Effect VFX 0 9010
+Duplicate SpEffectParam 5031401->1626006 [SACRED] GG Soul Burn - Icon ID 20295, Duration -1, Max HP 1.005, Max FP 1.005, Max Stamina 1.005, Current HP % 0, 
+Current HP + 0, Effect Category 10 - Stack Self, Effect VFX 0 -1, Damage %: ALL 1.005
+Duplicate SpEffectParam 320800->1626008 [SACRED] GG Ruinous Black Flame [Hit Trigger] - Icon ID -1, Duration 7, Cycle SpEffect ID 1626004, Accumulator - Over Value - SpEffect ID 1806, 
 Accumulator - Over Value 2, Accumulator - Increment Value -9999
 Duplicate SpEffectParam 1691->1626009 [SACRED] GG Ruinous Black Flame - Duration 7, Attack %: All 1.5, Rune Gain % 1.5, Effect Category 20, Effect VFX [0] 8590->8655
-Duplicate SpEffectParam 1626006->1626010 [SACRED] GG Ruinous Black Flame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, 
+Duplicate SpEffectParam 1626004->1626010 [SACRED] GG Ruinous Black Flame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, 
 Kill SpEffect ID 0
 SpEffectVfxParam(8655) - Trace SFX ID Offset Type 19->17
 SwordArtsParam(1021) - FP Consumption - L2 20->30
@@ -169,10 +168,10 @@ Fell Omen Shackle (Margit's Shackle):
 Duplicate BehaviorParam_PC 2500->2501 [SACRED] Margit's Shackle Darkness - Reference ID 10653000
 Bullet(10214000) - Shooter SpEffect ID 525001, Target SpEffect ID [0] 1654000
 Duplicate SpEffectParam 525000->525001 [SACRED] Margit's Shackle Darkness - Behavior ID 2501, Cycle SpEffect ID 1468000
-Duplicate SpEffectParam 1467000->1468000 [SACRED] Margit's Shackle Unseen Form - Icon ID -1, Duration 6, Enemy Vision Adjustment 0.1, Enemy Listen Adjustment 0.1, 
+Duplicate SpEffectParam 1467000->1468000 [SACRED] Margit's Shackle Unseen Form - Icon ID -1, Duration 3, Enemy Vision Adjustment 0.1, Enemy Listen Adjustment 0.1, 
 Cycle SpEffect ID 1468001, Effect VFX [0] -1
-Duplicate SpEffectParam 1678000->1468001 [SACRED] Margit's Shackle Cure Blight - Cycle SpEffect ID 1468002
-Duplicate SpEffectParam 1678001->1468002 [SACRED] Margit's Shackle Cure Blight - 
+Duplicate SpEffectParam 1678000->1468001 [SACRED] Margit's Shackle Cure Blight - Cycle SpEffect ID 1468002, Effect VFX [0] -1
+Duplicate SpEffectParam 1678001->1468002 [SACRED] Margit's Shackle Cure Blight
 Duplicate SpEffectParam 1653000->1654000 [SACRED] Margit's Shackle Darkness - Chain SpEffect ID 1654001
 Duplicate SpEffectParam 1653001->1654001 [SACRED] Margit's Shackle Darkness [Chain] - Duration 3
 
@@ -289,7 +288,7 @@ SwordArts(701): Black Sun's Zenith
 Skill: Black Sun's Zenith
 
 Hold shield aloft to imbue yourself with golden power, granting momentary invincibility and expelling a golden shockwave.
-Death blight creeps closer with every use.
+Death blight creeps closer with each use.
 ------------------------------
 
 Weapons(2090000): Bloodstained Gildblade
