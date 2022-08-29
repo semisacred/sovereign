@@ -91,9 +91,8 @@ AtkParam_Pc(200180, 200380) - Target SpEffect [0] 6904
 
 Eclipse Crest Greatshield: (50 Uses = -20% HP, FP, SP, Damage)
 EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Requirement: FTH 0->30, Sword Arts Param ID 10->701, Ash of War Type 2->0
-Duplicate SpEffectParam 1626005->1626030 [SACRED] Black Sun Sacrifice - Icon ID 20229, Max HP 0.996, Max FP 0.996, Max Stamina 0.996, Erase on Bonfire Rest Check, 
-Damage %: ALL 0.996
-Duplicate SpEffectParam 525002->525003 [SACRED] Vow Wrath - Duration 0.5, Trigger Interval 1, Behavior ID 2503, Chain SpEffect ID 1626030
+Duplicate SpEffectParam 1794->1626030 [SACRED] Black Sun Blight - Duration 0.5, Trigger Interval 0.6, Aux Inflict +: Blight 70, Weapon Parameter Change 0, Target Self Check
+Duplicate SpEffectParam 525002->525003 [SACRED] Vow Wrath - Duration 0.5, Trigger Interval 1, Behavior ID 2503, Cycle SpEffect ID 1626030
 Duplicate BehaviorParam_PC 2502->2503 [SACRED] Vow Wrath - Reference ID 10641100
 Duplicate Bullet 10641000->10641100 [SACRED] Vow Wrath - AtkParam ID 64110
 Duplicate AtkParam_Pc 64100->64110 [SACRED] Vow Wrath - Knockback Distance 1->0.5, Damage: Stamina 221->110, Damage Level 7->3, Damage: Holy 350->175
@@ -166,13 +165,17 @@ SpEffectParam(502120) - Cycle SpEffect ID 3507
 EquipMtrlSetParam(307040) - Material ID [2] 20825, Material ID [3] 20651, Material Amount [1] 3, Material Amount [2] 1, Material Amount [3] 1
 ShopLineupParam(100940) - Sell Price Overwrite 400->3600, Amount to Sell 3->-1         
 
-Margit's Shackle:
+Fell Omen Shackle (Margit's Shackle):
 Duplicate BehaviorParam_PC 2500->2501 [SACRED] Margit's Shackle Darkness - Reference ID 10653000
 Bullet(10214000) - Shooter SpEffect ID 525001, Target SpEffect ID [0] 1654000
 Duplicate SpEffectParam 525000->525001 [SACRED] Margit's Shackle Darkness - Behavior ID 2501, Cycle SpEffect ID 1468000
-Duplicate SpEffectParam 1467000->1468000 [SACRED] Margit's Shackle Unseen Form - Duration 6, Enemy Vision Adjustment 0.2
+Duplicate SpEffectParam 1467000->1468000 [SACRED] Margit's Shackle Unseen Form - Icon ID -1, Duration 6, Enemy Vision Adjustment 0.1, Enemy Listen Adjustment 0.1, 
+Cycle SpEffect ID 1468001, Effect VFX [0] -1
+Duplicate SpEffectParam 1678000->1468001 [SACRED] Margit's Shackle Cure Blight - Cycle SpEffect ID 1468002
+Duplicate SpEffectParam 1678001->1468002 [SACRED] Margit's Shackle Cure Blight - 
 Duplicate SpEffectParam 1653000->1654000 [SACRED] Margit's Shackle Darkness - Chain SpEffect ID 1654001
 Duplicate SpEffectParam 1653001->1654001 [SACRED] Margit's Shackle Darkness [Chain] - Duration 3
+
 
 Mohg's Shackle:
 Duplicate BehaviorParam_PC 2501->2502 [SACRED] Mohg's Shackle Wrath - Reference ID 10641000
@@ -286,7 +289,7 @@ SwordArts(701): Black Sun's Zenith
 Skill: Black Sun's Zenith
 
 Hold shield aloft to imbue yourself with golden power, granting momentary invincibility and expelling a golden shockwave.
-Your life's essence is consumed with each use.
+Death blight creeps closer with every use.
 ------------------------------
 
 Weapons(2090000): Bloodstained Gildblade
@@ -330,6 +333,15 @@ Craftable item.
 Provides significant damage negation once, and will expire after a certain duration. Cleans off filth and other accumulations on the body.
 
 The mushrooms that grow in the false night amongst the caverns of the Eternal City have special properties.
+------------------------------
+
+Goods(2140): Fell Omen Shackle
+Converts death blight into a veil of darkness that conceals the caster and blinds enemies
+------------------------------
+A fetish bathed in golden magic.
+Shackles were used to bind the accursed people called the Omen, and this one was made to keep a particular Omen under strictest confinement.
+
+This shackle has been repurposed to draw in blight and expel it as a blinding shroud.
 ------------------------------
 
 Rings(1050): Radagon's Scarseal
