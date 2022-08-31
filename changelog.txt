@@ -16,6 +16,14 @@
 - Bloodstained Gildblade
  - Damage lowered by 14%
 
+# Spells
+- Blessing's Boon / Blessing of the Erdtree
+ - 2x duration
+- Indomitable Flame
+ - 2x duration 
+- Fortification/Protection Spells
+ - 2x cost, 2x duration, stacks
+
   # Items
 - Margit's Shackle -> Dark Omen Shackle
  - Alleviates death blight buildup

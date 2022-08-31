@@ -116,10 +116,18 @@ Magic(6250) - FP Consumption - Default 15->30, Stamina Consumption - Default 10-
 SpEffectParam(1626000) - Duration 7->14
 SpEffectParam(1626001) - Duration 2->1
 
+Blessing's Boon:
+SpEffectParam(1643000) - Duration 90->180
+SpEffectParam(1643001) - Duration 90->180
+
+Blessing of the Erdtree:
+SpEffectParam(1643100) - Duration 90->180
+SpEffectParam(1643101) - Duration 90->180
+
 Indomitable Flame (Flame, Grant Me Strength):
 Magic(6050) - FP Consumption - Default 28->42, Stamina Consumption - Default 16->24, Requirement: FTH 15->20
-SpEffectParam(1605000) - Duration 30->90, Chain SpEffect ID 1605003, Cast Speed 0->30, Toughness Absorption % 1->0.66(34%), Weapon Stamina Consumption % 1.2
-Duplicate SpEffectParam 1605002->1605003 [SACRED] Flame, Grant Me Strength Exhaustion - Icon ID 20231, Duration 45, Stamina Recovery Speed -5, Cycle SpEffect ID -1
+SpEffectParam(1605000) - Duration 30->180, Chain SpEffect ID 1605003, Cast Speed 0->30, Toughness Absorption % 1->0.66(34%), Weapon Stamina Consumption % 1.2
+Duplicate SpEffectParam 1605002->1605003 [SACRED] Flame, Grant Me Strength Exhaustion - Icon ID 20231, Duration 90, Stamina Recovery Speed -5, Cycle SpEffect ID -1
 
 Flame of the Fell God:
 Magic(6110) - 42->100 FP Consumption, Stamina Consumption - Default 42->84, Number of Uses -1->1
@@ -149,6 +157,36 @@ Magic(6950) - FP Consumption - Default 28->56, Stamina Consumption - Default 45-
 AtkParam_Pc(69500) - Damage: Lightning 325->650, Damage: Stamina 230->460, Damage Level 7->11
 AtkParam_Pc(69501) - Damage: Lightning 325->650, Damage: Stamina 230->460, Damage Level 7->11
 AtkParam_Pc(69502) - Damage: Lightning 167->334, Damage: Stamina 60->120, Damage Level 2->4
+
+Black Flame's Protection:
+Magic(6260) - FP Consumption - Default 30->60, Stamina Consumption - Default 13->26
+SpEffectParam(1627000) - Duration 70->140, Effect Category 151->20
+SpEffectVfxParam(1627000) - Play Category 3->0
+
+Flame Fortification:
+Magic(6450) - FP Consumption - Default 20->40, Stamina Consumption - Default 13->26
+SpEffectParam(1645000) - Duration 90->180, Effect Category 151->20
+SpEffectVfxParam(1645000) - Play Category 3->0
+
+Magic Fortification:
+Magic(6460) - FP Consumption - Default 20->40, Stamina Consumption - Default 13->26
+SpEffectParam(1646000) - Duration 90->180, Effect Category 151->20
+SpEffectVfxParam(1646000) - Play Category 3->0
+
+Lightning Fortification:
+Magic(6470) - FP Consumption - Default 20->40, Stamina Consumption - Default 13->26
+SpEffectParam(1647000) - Duration 90->180, Effect Category 151->20
+SpEffectVfxParam(1647000) - Play Category 3->0
+
+Divine Fortification:
+Magic(6480) - FP Consumption - Default 20->40, Stamina Consumption - Default 13->26
+SpEffectParam(1648000) - Duration 90->180, Effect Category 151->20
+SpEffectVfxParam(1648000) - Play Category 3->0
+
+Lord's Divine Fortification:
+Magic(6490) - FP Consumption - Default 30->60, Stamina Consumption - Default 20->40
+SpEffectParam(1649000) - Duration 70->140, Effect Category 151->20
+SpEffectVfxParam(1649000) - Play Category 3->0
 #-------------------------------------------
 
 
