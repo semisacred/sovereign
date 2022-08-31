@@ -28,7 +28,7 @@
 - Margit's Shackle -> Dark Omen Shackle
  - Alleviates death blight buildup
 - Starlight Shards
- - 5->3 max held
+ - 5->3 max held, vfx stacks with other vfx
 
 
 #------------------------------------------
