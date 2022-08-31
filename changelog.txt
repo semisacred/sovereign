@@ -3,6 +3,7 @@
 #------------------------------------------
 
 # Difficulty
+- Overall Difficulty Modifiers 1.5x->2x
 - Summons
  - 0.5x HP, damage, poise damage
 
@@ -11,13 +12,16 @@
  - Black Sun's Zenith inflicts 70 death blight instead of reducing overall stats
 - Godslayer's Greatsword
  - Soul Burn now is only active during Ruinous Black Flame
-  - 1.004 -> 1.005 % per kill (10 Kills = 5% HP, FP, SP, Damage)
+  - 1.004 -> 1.005 % per kill (50 Kills = 25% HP, FP, SP)
 - Bloodstained Gildblade
  - Damage lowered by 14%
 
   # Items
-- Margit's Shackle -> Fell Omen Shackle
+- Margit's Shackle -> Dark Omen Shackle
  - Alleviates death blight buildup
+- Starlight Shards
+ - 5->3 max held
+
 
 #------------------------------------------
 # 5.3-1.06
