@@ -4,6 +4,7 @@
 
 # Difficulty
 - Overall Difficulty Modifiers 1.5x->2x
+- Resist %: Hemorrhage 2x->4x
 - Summons
  - 0.5x HP, damage, poise damage
 

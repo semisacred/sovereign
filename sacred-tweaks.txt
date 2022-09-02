@@ -6,7 +6,7 @@
 # DIFFICULTY MODIFIER-----------------------
 SpEffectParam(7000 through 7280) - Cycle SpEffect ID 7399
 Duplicate SpEffectParam 7280->7399 [SACRED] Difficulty Modifier - Duration -1, Max HP % 2, Max FP % 2, Max Stamina % 2, Attack %: ALL 2, Defence %: ALL 2, 
-Attack %: Stamina 2, Aux Resist %: ALL 1, Aux Resist %: Hemorrhage 2, Cycle SpEffect ID -1, AI Vision Correction 2, Listen Search Correction 2
+Attack %: Stamina 2, Aux Resist %: ALL 1, Aux Resist %: Hemorrhage 4, Cycle SpEffect ID -1, AI Vision Correction 2, Listen Search Correction 2
 Duplicate SpEffectParam 7399->7398 [SACRED] Summon Modifier - Max HP % 0.5, Max FP % 1, Max Stamina % 1, Attack %: ALL 0.5, Defence %: ALL 1, 
 Attack %: Stamina 1, Aux Resist %: Hemorrhage 1, AI Vision Correction 1, Listen Search Correction 1, Poise Damage % 0.5
 NpcParam(100000010 through 170002000) - SpEffect ID [3] 7398
@@ -211,7 +211,7 @@ Cycle SpEffect ID 1468001, Effect VFX [0] -1
 Duplicate SpEffectParam 1678000->1468001 [SACRED] Margit's Shackle Cure Blight - Cycle SpEffect ID 1468002, Effect VFX [0] -1
 Duplicate SpEffectParam 1678001->1468002 [SACRED] Margit's Shackle Cure Blight
 Duplicate SpEffectParam 1653000->1654000 [SACRED] Margit's Shackle Darkness - Chain SpEffect ID 1654001
-Duplicate SpEffectParam 1653001->1654001 [SACRED] Margit's Shackle Darkness [Chain] - Duration 3
+Duplicate SpEffectParam 1653001->1654001 [SACRED] Margit's Shackle Darkness [Chain] - Duration 1
 
 Mohg's Shackle:
 Duplicate BehaviorParam_PC 2501->2502 [SACRED] Mohg's Shackle Wrath - Reference ID 10641000
