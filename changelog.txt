@@ -2,7 +2,13 @@
 # 5.5-1.06
 #------------------------------------------
 
+# Difficulty
+- Summons
+ - 1x poise damage
 
+# Spells
+- Black Flame Blade
+ - Attack Effect: duration 1->2 (reverted)
 
 #------------------------------------------
 # 5.4-1.06
