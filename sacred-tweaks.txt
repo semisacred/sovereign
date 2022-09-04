@@ -335,7 +335,7 @@ Weapons(32240000): Eclipse Crest Greatshield
 ------------------------------
 Metal greatshield painted with a sun in eclipse. Bestowed by Godwyn the Golden to his strongest knights.
 
-The eclipsed sun, drained of color, is the protective star of the soulless. Through sacrifice to the Black Sun, a lost radiance to thwart even Destined Death can be called upon once more.
+The eclipsed sun, drained of color, is the protective star of the soulless. Through prayer to the Black Sun, a lost radiance to thwart even Destined Death can called upon once more.
 ------------------------------
 
 Goods(6050): Indomitable Flame

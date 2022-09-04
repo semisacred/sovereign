@@ -8,8 +8,10 @@
  - 1x poise damage
 
  # Weapons
+- Godslayer's Greatsword
+ - Ruinous Black Flame 1.5x -> 2x damage
 - Bloodstained Gildblade -> Ravenous Hallowbrand
- - Complete rework & texture edit
+ - Complete rework & texture/icon edit
 
 # Spells
 - Black Flame Blade
