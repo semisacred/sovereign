@@ -6,7 +6,7 @@
 # DIFFICULTY MODIFIER-----------------------
 SpEffectParam(7000 through 7280) - Cycle SpEffect ID 7399
 Duplicate SpEffectParam 7280->7399 [SACRED] Difficulty Modifier - Duration -1, Max HP % 2, Max FP % 2, Max Stamina % 2, Attack %: ALL 2, Defence %: ALL 2, 
-Attack %: Stamina 2, Aux Resist %: ALL 1, Aux Resist %: Hemorrhage 4, Cycle SpEffect ID -1, AI Vision Correction 2, Listen Search Correction 2
+Attack %: Stamina 2, Aux Resist %: ALL 1, Aux Resist %: Hemorrhage 2, Cycle SpEffect ID -1, AI Vision Correction 2, Listen Search Correction 2
 Duplicate SpEffectParam 7399->7398 [SACRED] Summon Modifier - Max HP % 0.5, Max FP % 1, Max Stamina % 1, Attack %: ALL 0.5, Defence %: ALL 1, 
 Attack %: Stamina 1, Aux Resist %: Hemorrhage 1, AI Vision Correction 1, Listen Search Correction 1
 NpcParam(100000010 through 170002000) - SpEffect ID [3] 7398
@@ -59,9 +59,9 @@ Duplicate SpEffectParam 1626002->1626004 [SACRED] GG Soul Burn [Kill Trigger] - 
 Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Soul Burn VFX - Icon ID -1, Duration 1, Current HP % 0, Current HP + 0, Chain SpEffect ID 1626006, Effect VFX 0 9010
 Duplicate SpEffectParam 5031401->1626006 [SACRED] GG Soul Burn - Icon ID 20295, Duration -1, Max HP 1.005, Max FP 1.005, Max Stamina 1.005, Current HP % 0, 
 Current HP + 0, Effect Category 10 - Stack Self, Effect VFX 0 -1
-Duplicate SpEffectParam 320800->1626008 [SACRED] GG Ruinous Black Flame [Hit Trigger] - Icon ID -1, Duration 7, Cycle SpEffect ID 1626004, Accumulator - Over Value - SpEffect ID 1806, 
+Duplicate SpEffectParam 320800->1626008 [SACRED] GG Ruinous Black Flame [Hit Trigger] - Icon ID -1, Duration 7, Cycle SpEffect ID 1626004, Weapon Parameter Change 1, Accumulator - Over Value - SpEffect ID 1806, 
 Accumulator - Over Value 2, Accumulator - Increment Value -9999
-Duplicate SpEffectParam 1691->1626009 [SACRED] GG Ruinous Black Flame - Duration 7, Attack %: All 1.5, Rune Gain % 1.5, Effect Category 20, Effect VFX [0] 8590->8655
+Duplicate SpEffectParam 1691->1626009 [SACRED] GG Ruinous Black Flame - Duration 7, Attack %: All 2, Rune Gain % 2, Effect Category 20, Effect VFX [0] 8590->8655
 Duplicate SpEffectParam 1626004->1626010 [SACRED] GG Ruinous Black Flame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, 
 Kill SpEffect ID 0
 SpEffectVfxParam(8655) - Trace SFX ID Offset Type 19->17
@@ -71,21 +71,17 @@ Effect VFX [0] 8655->-1
 AtkParam_Pc(300180, 300380) - Target SpEffect [0] 6904
 
 Ravenous Hallowbrand (Inseparable Sword):
-EquipParamWeapon(2090000) - Behavior Variation ID 300->200, Reinforcement Price 580->1740, Passive SpEffect 1 1626020, Passive SpEffect 2 1626022, 
-Damage: Physical 98->65, Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Motion Category 128->0, Weapon Hold Position - 1H 2->0, 
-Weapon Hold Position - 2H 12->10, Requirement: FTH 20->26, Is Buffable Check, Damage: Holy 98->65, Sword Arts Param ID 201->222
-Duplicate SpEffectParam 320800->1626020 [SACRED] Gildblade Boon [Hit Trigger] - Icon ID -1, Accumulator - Over Value - SpEffect ID 1626021, 
-Accumulator - Over Value 17->2
-Duplicate SpEffectParam 1643000->1626021 [SACRED] Gildblade Boon - Duration 1, Current HP + -4, Effect Category 0
-Duplicate SpEffectParam 1632000->1626022 [SACRED] Gildblade Bloodflame - Duration -1, Cycle SpEffect ID 1626023
-Duplicate SpEffectParam 320800->1626023 [SACRED] Gildblade Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Effect Category 0, 
+EquipParamWeapon(2090000) - Behavior Variation ID 300->200, Reinforcement Price 580->1740, Correction: STR 27->50, Correction: DEX 27-50, Correction: FTH 60->0, Passive SpEffect 1 350500, 
+Damage Multiplier %: Type B 1.2->1, Damage: Physical 98->115, Critical Multiplier 0->30, Weapon Motion Category 25->23, Special Attribute 13->0, Special Motion Category 128->0, Weapon Hold Position - 1H 2->0, 
+Weapon Hold Position - 2H 12->10, Requirement: FTH 20->0, Is Buffable Check, Damage: Holy 98->0, Sword Arts Param ID 201->100
+Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 30, Cycle SpEffect ID 1626023, Effect Category 10
+Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration -1, Trigger Interval 0.1
 Accumulator - Over Value - SpEffect ID 1626024, Accumulator - Over Value 2, Accumulator - Increment Value -9999
-Duplicate SpEffectParam 5151200->1626024 [SACRED] Gildblade Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
+Duplicate SpEffectParam 5151200->1626024 [SACRED] Ravenous Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
+Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Duration 2, Trigger Interval 3, Chain SpEffect ID -1, Cycle SpEffect ID 1626022, Effect Category 0
 SpEffectParam(350500) - Icon ID 20215->-1
-SpEffectParam(350501) - Cycle SpEffect ID 1626022
+SpEffectParam(350501) - Cycle SpEffect ID 1626025
 SpEffectParam(350502) - Effect VFX [0] 350500->5031401
-Bullet(2611, 2616, 2621) - Duration 0.5->1
-SwordArtsParam(222) - FP Consumption - L2 9->18, FP Consumption - R2 9->18
 AtkParam_Pc(200180, 200380) - Target SpEffect [0] 6904
 
 Eclipse Crest Greatshield: (50 Uses = -20% HP, FP, SP, Damage)
@@ -274,7 +270,7 @@ Resist - Blight 27->54, Resist - Frost 9->18
 Helphen's Steeple: (a consequence of Godslayer Greatsword changes)
 EquipParamWeapon(3130000) - Sword Arts Param ID 1021->1048
 
-Assassin's Dagger Talismans: (a consequence of Bloodstained Gildblade changes)
+Assassin's Dagger Talismans: (a consequence of Ravenous Hallowbrand changes)
 Duplicate SpEffectParam 320900->320980 [SACRED] Assassin's Crimson Dagger - Max HP % 0.85, Attack %: All 1.17 -> 1.34
 Duplicate SpEffectParam 320980->320981 [SACRED] Assassin's Cerulean Dagger - Max HP % 1, Max FP % 0.85
 EquipParamAccessory(5050) - Reference ID 350500->320980
@@ -328,11 +324,11 @@ Hold shield aloft to imbue yourself with golden power, granting momentary invinc
 Death blight creeps closer with each use.
 ------------------------------
 
-Weapons(2090000): Bloodstained Gildblade
+Weapons(2090000): Ravenous Hallowbrand
 ------------------------------
-A sacred sword that channels grace, forged by compounding silver and gold. Fia's black blood, saturated with the vitality of champions, still stains the blade that slew her.
+A sacred sword cursed by Death. Fia's black blood, saturated with the vitality of champions, has darkened the blade that slew her.
 
-Before his abandonment of the Golden Order, Miquella felt a kinship with the accursed inseparable twins, granting them a set of special blades made from gold and silver intertwined.
+Soak the blade in the blood of the living to have it erupt into a Ravenous Bloodflame.
 ------------------------------
 
 Weapons(32240000): Eclipse Crest Greatshield

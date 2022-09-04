@@ -3,12 +3,13 @@
 #------------------------------------------
 
 # Difficulty
+- Resist %: Hemorrhage 4x->2x
 - Summons
  - 1x poise damage
 
  # Weapons
 - Bloodstained Gildblade -> Ravenous Hallowbrand
- - texture edit
+ - Complete rework & texture edit
 
 # Spells
 - Black Flame Blade
