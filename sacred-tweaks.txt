@@ -326,9 +326,9 @@ Death blight creeps closer with each use.
 
 Weapons(2090000): Ravenous Hallowbrand
 ------------------------------
-A sacred sword cursed by Death. Fia's black blood, saturated with the vitality of champions, has darkened the blade that slew her.
+A once sacred sword cursed by Death. Fia's black blood, saturated with the vitality of champions, has darkened the blade that slew her.
 
-Soak the blade in the blood of the living to have it erupt into a Ravenous Bloodflame.
+Soak the blade in the blood of the living to have it erupt with a ravenous bloodflame.
 ------------------------------
 
 Weapons(32240000): Eclipse Crest Greatshield
