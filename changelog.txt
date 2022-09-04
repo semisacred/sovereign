@@ -6,6 +6,10 @@
 - Summons
  - 1x poise damage
 
+ # Weapons
+- Bloodstained Gildblade -> Ravenous Hallowbrand
+ - texture edit
+
 # Spells
 - Black Flame Blade
  - Attack Effect: duration 1->2 (reverted)

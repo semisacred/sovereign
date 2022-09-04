@@ -70,7 +70,7 @@ SpEffectParam(1806) - Duration 30->0.1, Damage +: Magic 50->0, Chain SpEffect ID
 Effect VFX [0] 8655->-1
 AtkParam_Pc(300180, 300380) - Target SpEffect [0] 6904
 
-Bloodstained Gildblade (Inseparable Sword):
+Ravenous Hallowbrand (Inseparable Sword):
 EquipParamWeapon(2090000) - Behavior Variation ID 300->200, Reinforcement Price 580->1740, Passive SpEffect 1 1626020, Passive SpEffect 2 1626022, 
 Damage: Physical 98->65, Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Motion Category 128->0, Weapon Hold Position - 1H 2->0, 
 Weapon Hold Position - 2H 12->10, Requirement: FTH 20->26, Is Buffable Check, Damage: Holy 98->65, Sword Arts Param ID 201->222
