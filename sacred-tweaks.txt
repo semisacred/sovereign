@@ -53,9 +53,8 @@ Godslayer's Greatsword: (50 Kills = 25% HP, FP, SP)
 EquipParamWeapon(4070000) - Behavior Variation ID 404->300, Weight 17.5->15.5, Reinforcement Price 1180->3540, Correction: STR 31->42, Correction: DEX 52->28, 
 Correction: FTH 40->54, Damage: Physical 119->77, Damage: Fire 77->33, Weapon Motion Category 26->25, 
 Special Motion Category 137->0, Requirement: STR 20->24, Requirement: DEX  22->16, Requirement: FTH 20->30, Sword Arts Param ID 1170->1021
-Duplicate SpEffectParam 5031400->1626002 [SACRED] GG BFB [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626003
-Duplicate SpEffectParam 1626000->1626003 [SACRED] GG BFB - Duration 37, Cycle SpEffect ID 1626002, Effect Category 20, Correction +: FTH 54
-Duplicate SpEffectParam 1626002->1626004 [SACRED] GG Soul Burn [Kill Trigger] - Duration 0, Kill SpEffect ID 1626005
+Duplicate SpEffectParam 1626000->1626003 [SACRED] GG BFB - Duration 60, Effect Category 20, Correction +: FTH 54
+Duplicate SpEffectParam 5031400->1626004 [SACRED] GG Soul Burn [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626005
 Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Soul Burn VFX - Icon ID -1, Duration 1, Current HP % 0, Current HP + 0, Chain SpEffect ID 1626006, Effect VFX 0 9010
 Duplicate SpEffectParam 5031401->1626006 [SACRED] GG Soul Burn - Icon ID 20295, Duration -1, Max HP 1.005, Max FP 1.005, Max Stamina 1.005, Current HP % 0, 
 Current HP + 0, Effect Category 10 - Stack Self, Effect VFX 0 -1
@@ -71,9 +70,9 @@ Effect VFX [0] 8655->-1
 AtkParam_Pc(300180, 300380) - Target SpEffect [0] 6904
 
 Ravenous Hallowbrand (Inseparable Sword):
-EquipParamWeapon(2090000) - Behavior Variation ID 300->200, Reinforcement Price 580->1740, Correction: STR 27->50, Correction: DEX 27-50, Correction: FTH 60->0, Passive SpEffect 1 350500, 
-Damage Multiplier %: Type B 1.2->1, Damage: Physical 98->115, Critical Multiplier 0->30, Weapon Motion Category 25->23, Special Attribute 13->0, Special Motion Category 128->0, Weapon Hold Position - 1H 2->0, 
-Weapon Hold Position - 2H 12->10, Requirement: FTH 20->0, Is Buffable Check, Damage: Holy 98->0, Sword Arts Param ID 201->100
+EquipParamWeapon(2090000) - Behavior Variation ID 300->200, Reinforcement Price 580->1740, Correction: STR 27->35, Correction: DEX 27->35, Correction: FTH 60->0, Passive SpEffect 1 350500, 
+Damage Multiplier %: Type B 1.2->1, Damage: Physical 98->110, Critical Multiplier 0->30, Weapon Motion Category 25->23, Special Attribute 13->0, Special Motion Category 128->0, Weapon Hold Position - 1H 2->0, 
+Weapon Hold Position - 2H 12->10, Requirement: FTH 20->0, Is Buffable Check, Damage: Holy 98->0, Requirement: ARC 12, Sword Arts Param ID 201->100, Correction: ARC 30
 Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 20, Cycle SpEffect ID 1626023, Effect Category 10
 Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration -1, Trigger Interval 0.1
 Accumulator - Over Value - SpEffect ID 1626024, Accumulator - Over Value 2, Accumulator - Increment Value -9999

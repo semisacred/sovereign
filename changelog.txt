@@ -9,7 +9,10 @@
 
  # Weapons
 - Godslayer's Greatsword
- - Ruinous Black Flame 1.5x -> 2x damage
+ - Ruinous Black Flame 1.5x->2x damage
+ - Black Flame Blade
+  - 37s->60s duration
+  - No longer refreshed on kill
 - Bloodstained Gildblade -> Ravenous Hallowbrand
  - Complete rework & texture/icon edit
 
