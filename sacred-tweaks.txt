@@ -74,7 +74,7 @@ Ravenous Hallowbrand (Inseparable Sword):
 EquipParamWeapon(2090000) - Behavior Variation ID 300->200, Reinforcement Price 580->1740, Correction: STR 27->50, Correction: DEX 27-50, Correction: FTH 60->0, Passive SpEffect 1 350500, 
 Damage Multiplier %: Type B 1.2->1, Damage: Physical 98->115, Critical Multiplier 0->30, Weapon Motion Category 25->23, Special Attribute 13->0, Special Motion Category 128->0, Weapon Hold Position - 1H 2->0, 
 Weapon Hold Position - 2H 12->10, Requirement: FTH 20->0, Is Buffable Check, Damage: Holy 98->0, Sword Arts Param ID 201->100
-Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 30, Cycle SpEffect ID 1626023, Effect Category 10
+Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 20, Cycle SpEffect ID 1626023, Effect Category 10
 Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration -1, Trigger Interval 0.1
 Accumulator - Over Value - SpEffect ID 1626024, Accumulator - Over Value 2, Accumulator - Increment Value -9999
 Duplicate SpEffectParam 5151200->1626024 [SACRED] Ravenous Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
