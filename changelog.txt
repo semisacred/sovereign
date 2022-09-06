@@ -13,7 +13,7 @@
  - Black Flame Blade
   - 37s->60s duration
   - No longer refreshed on kill
-- Bloodstained Gildblade -> Ravenous Hallowbrand
+- Bloodstained Gildblade -> Hallowbrand
  - Complete rework & texture/icon edit
 
 # Spells
