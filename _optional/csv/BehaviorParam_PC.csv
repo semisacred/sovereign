@@ -5791,6 +5791,7 @@ Row ID;Row Name;variationId;behaviorJudgeId;ezStateBehaviorType_old;refType;refI
 109999470;;9999;470;1;0;9999470;0;0;0;0;0;
 300000000;[Ash of War] Lion's Claw;0;0;1;0;300300820;0;45;0;12;0;
 300000001;[Ash of War] Lion's Claw;0;1;1;0;300300821;0;45;0;12;0;
+300000002;[SACRED] Baleful Strike;0;2;1;1;10630002;0;0;0;12;0;
 300000010;[Ash of War] Impaling Thrust;0;10;1;0;300000010;0;40;0;12;0;
 300000011;[Ash of War] Impaling Thrust;0;11;1;0;300000011;0;40;0;12;0;
 300000012;[Ash of War] Piercing Fang;0;12;1;0;300000050;0;30;0;12;0;

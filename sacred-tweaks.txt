@@ -49,42 +49,42 @@ AtkParam_Npc(280000) - Damage: Fire 172->516
 
 
 # MAIN WEAPONS------------------------------
-Godslayer's Greatsword: (50 Kills = 25% HP, FP, SP)
+Godslayer's Greatsword: (1 Kill = 0.5% HP, FP, SP)
 EquipParamWeapon(4070000) - Behavior Variation ID 404->300, Weight 17.5->15.5, Reinforcement Price 1180->3540, Correction: STR 31->42, Correction: DEX 52->28, 
 Correction: FTH 40->54, Damage: Physical 119->77, Damage: Fire 77->33, Weapon Motion Category 26->25, 
 Special Motion Category 137->0, Requirement: STR 20->24, Requirement: DEX  22->16, Requirement: FTH 20->30, Sword Arts Param ID 1170->1021
 Duplicate SpEffectParam 1626000->1626003 [SACRED] GG BFB - Duration 60, Effect Category 20, Correction +: FTH 54
-Duplicate SpEffectParam 5031400->1626004 [SACRED] GG Soul Burn [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626005
-Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Soul Burn VFX - Icon ID -1, Duration 1, Current HP % 0, Current HP + 0, Chain SpEffect ID 1626006, Effect VFX 0 9010
-Duplicate SpEffectParam 5031401->1626006 [SACRED] GG Soul Burn - Icon ID 20295, Duration -1, Max HP 1.005, Max FP 1.005, Max Stamina 1.005, Current HP % 0, 
+Duplicate SpEffectParam 5031400->1626004 [SACRED] GG Soul Rend [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626005
+Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Soul Rend VFX - Icon ID -1, Duration 1, Current HP % 0, Current HP + 0, Chain SpEffect ID 1626006, Effect VFX 0 9010
+Duplicate SpEffectParam 5031401->1626006 [SACRED] GG Soul Rend - Icon ID 20295, Duration -1, Max HP 1.005, Max FP 1.005, Max Stamina 1.005, Current HP % 0, 
 Current HP + 0, Effect Category 10 - Stack Self, Effect VFX 0 -1
-Duplicate SpEffectParam 320800->1626008 [SACRED] GG Ruinous Black Flame [Hit Trigger] - Icon ID -1, Duration 7, Cycle SpEffect ID 1626004, Weapon Parameter Change 1, Accumulator - Over Value - SpEffect ID 1806, 
+Duplicate SpEffectParam 320800->1626008 [SACRED] GG Sacred Black Flame [Hit Trigger] - Icon ID -1, Duration 7, Cycle SpEffect ID 1626004, Weapon Parameter Change 1, Accumulator - Over Value - SpEffect ID 1806, 
 Accumulator - Over Value 2, Accumulator - Increment Value -9999
-Duplicate SpEffectParam 1691->1626009 [SACRED] GG Ruinous Black Flame - Duration 7, Attack %: All 2, Rune Gain % 2, Effect Category 20, Effect VFX [0] 8590->8655
-Duplicate SpEffectParam 1626004->1626010 [SACRED] GG Ruinous Black Flame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, 
+Duplicate SpEffectParam 1691->1626009 [SACRED] GG Sacred Black Flame - Duration 7, Attack %: Physical 2, Attack %: Fire 2, Rune Gain % 2, Effect Category 20, Effect VFX [0] 8590->8655
+Duplicate SpEffectParam 1626004->1626010 [SACRED] GG Sacred Black Flame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, 
 Kill SpEffect ID 0
 SpEffectVfxParam(8655) - Trace SFX ID Offset Type 19->17
-SwordArtsParam(1021) - FP Consumption - L2 20->30
+SwordArtsParam(1021) - FP Consumption - L2 20->100
 SpEffectParam(1806) - Duration 30->0.1, Damage +: Magic 50->0, Chain SpEffect ID 1626010, Cycle SpEffect ID 1626003, Attack SpEffect ID 1809->-1, 
 Effect VFX [0] 8655->-1
-AtkParam_Pc(300180, 300380) - Target SpEffect [0] 6904
 
 Hallowbrand (Inseparable Sword):
 EquipParamWeapon(2090000) - Behavior Variation ID 300->200, Reinforcement Price 580->1740, Correction: FTH 60->40, Passive SpEffect 1 350500, Damage: Physical 98->65, Critical Multiplier 0->20, 
 Weapon Motion Category 25->23, Special Attribute 13->0, Special Motion Category 128->0, Weapon Hold Position - 1H 2->0, Weapon Hold Position - 2H 12->10, Damage: Holy 98->65, 
 Requirement: ARC 12, Sword Arts Param ID 201->100, Correction: ARC 20
-Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Max HP % 1.02, Cycle SpEffect ID 1626023, Effect Category 10, Damage +: Holy -20
-Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration -1, Trigger Interval 0.1
-Accumulator - Over Value - SpEffect ID 1626024, Accumulator - Over Value 2, Accumulator - Increment Value -9999
+Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Max HP % 1.02, Attack %: Fire 1.1, Cycle SpEffect ID 1626023, Effect Category 10, Use Faith Correction Uncheck, Damage +: Holy -40
+Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration -1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626024, 
+Accumulator - Over Value 2, Accumulator - Increment Value -9999
 Duplicate SpEffectParam 5151200->1626024 [SACRED] Ravenous Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
-Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Duration 2, Trigger Interval 3, Chain SpEffect ID -1, Cycle SpEffect ID 1626022, Effect Category 0
+Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Duration 2, Trigger Interval 3, Chain SpEffect ID -1, Cycle SpEffect ID 1626022, Effect Category 0, Trigger on State Info [1] 0
+Duplicate SpEffectParam 1626025->1626026 [SACRED] Ravenous Bloodflame Skill Cost - Duration 180, Trigger Interval 0, Cycle SpEffect ID -1, Effect Category 20, Skill FP Consumption % 0.5
 SpEffectParam(350500) - Icon ID 20215->-1
 SpEffectParam(350501) - Cycle SpEffect ID 1626025
-SpEffectParam(350502) - Effect VFX [0] 350500->5031401
-AtkParam_Pc(200180, 200380) - Target SpEffect [0] 6904
-Duplicate BehaviorParam_PC 2500->2504 [SACRED] Baleful Strike - Reference ID 10630000
-Duplicate Bullet 10630000->10630002 [SACRED] Baleful Strike - Duration 0.1
-Duplicate SpEffectParam 525000->525004 [SACRED] Lion's Claw - Behavior ID 2504
+SpEffectParam(350502) - Cycle SpEffect ID 1626026, Effect VFX [0] 350500->5031401
+SwordArtsParam(100) - FP Consumption - L2 20->40
+EquipParamGem(40 through 100) - Affinity: ALL Uncheck
+Duplicate BehaviorParam_PC 300000000->300000002 [SACRED] Baleful Strike - Behavior Judge ID 2, Reference Type 1, Reference ID 10630002, Stamina Cost 0
+Duplicate Bullet 10630000->10630002 [SACRED] Baleful Strike - Duration 0.01
 
 Eclipse Crest Greatshield: (50 Uses = -20% HP, FP, SP, Damage)
 EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Requirement: FTH 0->30, Sword Arts Param ID 10->701, Ash of War Type 2->0
@@ -272,18 +272,27 @@ Resist - Blight 27->54, Resist - Frost 9->18
 Helphen's Steeple: (a consequence of Godslayer Greatsword changes)
 EquipParamWeapon(3130000) - Sword Arts Param ID 1021->1048
 
+Claymore: (a consequence of Hallowbrand changes)
+EquipParamWeapon(3180000 through 3181200) - Sword Arts Param ID 100->112
+
 Assassin's Dagger Talismans: (a consequence of Hallowbrand changes)
 Duplicate SpEffectParam 320900->320980 [SACRED] Assassin's Crimson Dagger - Max HP % 0.85, Attack %: All 1.17 -> 1.34
 Duplicate SpEffectParam 320980->320981 [SACRED] Assassin's Cerulean Dagger - Max HP % 1, Max FP % 0.85
 EquipParamAccessory(5050) - Reference ID 350500->320980
 EquipParamAccessory(5060) - Reference ID 350600->320981
+
+Guard Counters & Critical Hits increment the accumulator: (Straight Sword & Greatsword)
+AtkParam_Pc(200180, 200380) - Target SpEffect [0] 6904
+AtkParam_Pc(200510, 200520, 200530, 200540, 200550, 200561) - Target SpEffect [2] 6904
+AtkParam_Pc(300180, 300380) - Target SpEffect [0] 6904
+AtkParam_Pc(300500, 300510, 300520, 300530, 300540, 300550, 300561) - Target SpEffect [2] 6904
 #-------------------------------------------
 
 
 # ANIMATIONS--------------------------------
 (c0000.anibnd.dcx)
 
-Ruinous Black Flame Weapon Art Cast FX:
+Sacred Black Flame Weapon Art Cast FX:
 a821_040000
 
 Quick Buff Erudition:
@@ -299,15 +308,15 @@ a751_040040
 AddSpEffect 525003 (single frame)
 
 Baleful Strike:
-a600_040000, a600_040005
-AddSpEffect 525004 (single framewow)
+a600_040000
+InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3002, Offset -1, Unk12 255
 #-------------------------------------------
 
 
 # FX----------------------------------------
 [use FXMLR to convert .fxr to .xml]
 
-Ruinous Black Flame Sword FX:
+Sacred Black Flame Sword FX:
 (sfxbnd_commoneffects.ffxbnd.dcx)
 f000303121.fxr
 f000303122.fxr (blue tint to pure white)
@@ -315,11 +324,11 @@ f000303122.fxr (blue tint to pure white)
 
 
 # TEXT--------------------------------------
-SwordArts(1021): Ruinous Black Flame
+SwordArts(100): Baleful Strike
 ------------------------------
-Unique Skill: Ruinous Black Flame
+Skill: Baleful Strike
 
-Set the blade ablaze with an empowered god-slaying black flame.
+Somersault forwards, striking foes with armament and unleashing a blast of bloodflame.
 ------------------------------
 
 SwordArts(701): Black Sun's Zenith
@@ -328,6 +337,13 @@ Skill: Black Sun's Zenith
 
 Hold shield aloft to imbue yourself with golden power, granting momentary invincibility and expelling a golden shockwave.
 Death blight creeps closer with each use.
+------------------------------
+
+SwordArts(1021): Sacred Black Flame
+------------------------------
+Unique Skill: Sacred Black Flame
+
+Set the blade ablaze with a black flame potent enough to slay gods.
 ------------------------------
 
 Weapons(2090000): Hallowbrand
