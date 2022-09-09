@@ -4,8 +4,8 @@
 
  # Weapons
 - Godslayer's Greatsword
- - Ruinous Black Flame -> Sacred Black Flame
-  - 30->100 FP cost
+ - Ruinous Black Flame
+  - 30->60 FP cost
 
 # Bugfix
 - (Greatsword/Straight Sword) Critical hits now increment the accumulator
