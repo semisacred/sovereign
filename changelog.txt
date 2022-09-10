@@ -6,6 +6,8 @@
 - Godslayer's Greatsword
  - Ruinous Black Flame
   - 30->60 FP cost
+- Hallowbrand
+ - Bug fixes
 
 # Bugfix
 - (Greatsword/Straight Sword) Critical hits now increment the accumulator
