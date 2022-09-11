@@ -223,7 +223,7 @@ Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Rune Arc - Reference ID 1
 Duplicate EquipMtrlSetParam 0->35000 [SACRED] Rune Arc - Material ID [1] 20795
 
 Starlight Shards:
-EquipParamGoods(1290) - Max Amount 10->3
+EquipParamGoods(1290) - Max Amount 10->5
 SpEffectParam(501290) - Duration 60->300, Current FP + -2->-1
 SpEffectVfxParam(5842) - Play Category 3->0
 Duplicate ShopLineupParam 100062->100063 [SACRED] [Sorceress Sellen] Starlight Shards - Reference ID 1290, Sell Price Overwrite 4200, Quantity - Event Flag ID 0, 

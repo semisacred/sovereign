@@ -11,7 +11,11 @@
 # Weapons
 - Godslayer's Greatsword
  - Ruinous Black Flame -> Destined Black Flame
-  - Damage Reworked - 2x Fire damage
+  - White Flame Damage Reworked: 2x Fire Damage + 60 FTH Correction
+
+# Items
+- Starlight Shards
+ - 3->5 max held
 
 #------------------------------------------
 # 5.6.1-1.06
@@ -83,7 +87,7 @@
 - Fortification/Protection Spells
  - 2x cost, 2x duration, stacks
 
-  # Items
+# Items
 - Margit's Shackle -> Dark Omen Shackle
  - Alleviates death blight buildup
 - Starlight Shards
