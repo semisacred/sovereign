@@ -1,4 +1,21 @@
 #------------------------------------------
+# 5.7-1.06
+#------------------------------------------
+
+# Difficulty
+- Overall Difficulty Modifiers 2x->1.5x
+- Resist %: Hemorrhage 2x->3x
+- Summons
+ - 0.5x poise damage
+
+# Weapons
+- Godslayer's Greatsword
+ - Ruinous Black Flame
+  - Damage Reworked - 2x Fire damage
+ - GG Black Flame Blade 
+  - Damage Reworked - 100 Fire damage, 100 FTH Correction
+
+#------------------------------------------
 # 5.6.1-1.06
 #------------------------------------------
 
