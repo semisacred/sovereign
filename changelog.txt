@@ -12,6 +12,9 @@
 - Godslayer's Greatsword
  - Ruinous Black Flame -> Destined Black Flame
   - White Flame Damage Reworked: 2x Fire Damage + 60 FTH Correction
+- Eclipse Crest Greatshield
+ - Black Sun's Zenith 
+  - 70->60 Death Blight
 
 # Items
 - Starlight Shards
@@ -72,7 +75,7 @@
 
  # Weapons
 - Eclipse Crest Greatshield
- - Black Sun's Zenith inflicts 70 death blight instead of reducing overall stats
+ - Black Sun's Zenith inflicts 70 Death Blight instead of reducing overall stats
 - Godslayer's Greatsword
  - Soul Burn now is only active during Ruinous Black Flame
   - 1.004 -> 1.005 % per kill (50 Kills = 25% HP, FP, SP)
@@ -89,7 +92,7 @@
 
 # Items
 - Margit's Shackle -> Dark Omen Shackle
- - Alleviates death blight buildup
+ - Alleviates Death Blight buildup
 - Starlight Shards
  - 5->3 max held, vfx stacks with other vfx
 

@@ -89,7 +89,7 @@ Duplicate Bullet 10630000->10630002 [SACRED] Baleful Strike - Duration 0.01
 
 Eclipse Crest Greatshield: (50 Uses = -20% HP, FP, SP, Damage)
 EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Requirement: FTH 0->30, Sword Arts Param ID 10->701, Ash of War Type 2->0
-Duplicate SpEffectParam 1794->1626030 [SACRED] Black Sun Blight - Duration 0.5, Trigger Interval 0.6, Aux Inflict +: Blight 70, Weapon Parameter Change 0, Target Self Check
+Duplicate SpEffectParam 1794->1626030 [SACRED] Black Sun Blight - Duration 0.5, Trigger Interval 0.6, Aux Inflict +: Blight 60, Weapon Parameter Change 0, Target Self Check
 Duplicate SpEffectParam 525002->525003 [SACRED] Vow Wrath - Duration 0.5, Trigger Interval 1, Behavior ID 2503, Cycle SpEffect ID 1626030
 Duplicate BehaviorParam_PC 2502->2503 [SACRED] Vow Wrath - Reference ID 10641100
 Duplicate Bullet 10641000->10641100 [SACRED] Vow Wrath - AtkParam ID 64110
