@@ -113,7 +113,6 @@ Bullet(10621051) - Final Hit Radius 1.5->2.5
 Black Flame Blade:
 Magic(6250) - FP Consumption - Default 15->30, Stamina Consumption - Default 10->20, Requirement: FTH 17->20
 SpEffectParam(1626000) - Duration 7->14
-SpEffectParam(1626001) - Duration 2->1
 
 Blessing's Boon:
 SpEffectParam(1643000) - Duration 90->180
@@ -141,7 +140,7 @@ AtkParam_Pc(61101) - Damage: Fire 35->70, Damage: Stamina 20->40
 
 Dragonbolt Blessing:
 Magic(6971) - FP Consumption - Default 20->55, Stamina Consumption - Default 20->40
-SpEffectParam(1697100) - Icon ID 20469->-1, Duration 70->0.1, Trigger Interval 0.06->0.2, Chain SpEffect ID 1697102, Cycle SpEffect ID 1626040, Effect Category 151->20
+SpEffectParam(1697100) - Icon ID 20469->-1, Duration 70->600, Trigger Interval 0.06->0.2, Chain SpEffect ID 1697102, Cycle SpEffect ID 1626040, Effect Category 151->20
 Duplicate SpEffectParam 1697100->1697102 [SACRED] - Icon ID 20469, Duration 600, Trigger Interval 0.06, Chain SpEffect ID -1, Cycle SpEffect ID 1697101
 SpEffectVfxParam(1697100) - Play Category 3->0
 Duplicate SpEffectParam 1626030->1626040 [SACRED] Lightning Damage - Icon ID -1, Duration 2, Max HP % 1, Max FP % 1, Max Stamina % 1, Current HP % 20, Current HP + 170, 
