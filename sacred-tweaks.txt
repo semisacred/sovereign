@@ -93,7 +93,7 @@ Duplicate SpEffectParam 1794->1626030 [SACRED] Black Sun Blight - Duration 0.5, 
 Duplicate SpEffectParam 525002->525003 [SACRED] Vow Wrath - Duration 0.5, Trigger Interval 1, Behavior ID 2503, Cycle SpEffect ID 1626030
 Duplicate BehaviorParam_PC 2502->2503 [SACRED] Vow Wrath - Reference ID 10641100
 Duplicate Bullet 10641000->10641100 [SACRED] Vow Wrath - AtkParam ID 64110
-Duplicate AtkParam_Pc 64100->64110 [SACRED] Vow Wrath - Knockback Distance 1->0.5, Damage: Stamina 221->110, Damage Level 7->3, Damage: Holy 350->175
+Duplicate AtkParam_Pc 64100->64110 [SACRED] Vow Wrath - Knockback Distance 1->0.5, Conditional Category [1] 112, Damage: Stamina 221->110, Damage Level 7->3, Damage: Poise 8, Damage: Holy 200
 SwordArtsParam(701) - FP Consumption - L2 20->30
 EquipParamGem(70100) - Affinity: ALL Uncheck
 
