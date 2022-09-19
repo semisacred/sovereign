@@ -5,6 +5,7 @@
 # Weapons
 - Erdtree Seal
  - New Weapon Art: Golden Retaliation
+  - 10% stacking Holy Skill Damage for 180s on successful cast
 
 #------------------------------------------
 # 5.7-1.06
