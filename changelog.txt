@@ -4,7 +4,10 @@
 
  # Weapons
 - Eclipse Crest Greatshield
- - Black Sun's Zenith Wrath counts as a skill attack
+ - Black Sun's Zenith 
+   - Counts as a skill attack
+   - 12->8 poise damage
+   - 175->200 holy damage
 
 #------------------------------------------
 # 5.8-1.06
