@@ -101,6 +101,7 @@ Erdtree Seal:
 EquipParamWeapon(34070000) - Behavior Variation ID 3400->3208, Reinforcement Price 50->150, Sword Arts Param ID 10->1196
 Bullet(2842) - Shooter SpEffect ID 1626050
 Duplicate SpEffectParam 312310->1626050 [SACRED] Golden Retaliation Skill Damage - Icon ID -1, Duration 180, Attack %: Physical/Magic/Fire/Lightning 1, Effect Category 10, Attack %: Holy 1.1
+SwordArtsParam(1196) - FP Consumption - L2 4->8
 #-------------------------------------------
 
 

@@ -3,11 +3,14 @@
 #------------------------------------------
 
  # Weapons
-- Eclipse Crest Greatshield
- - Black Sun's Zenith 
+ - Eclipse Crest Greatshield
+  - Black Sun's Zenith 
    - Counts as a skill attack
    - 12->8 poise damage
    - 175->200 holy damage
+   
+- Erdtree Seal
+ - Golden Retaliation FP Cost 4->8
 
 #------------------------------------------
 # 5.8-1.06
