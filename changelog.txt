@@ -11,15 +11,11 @@
  - Erdtree Seal
   - Golden Retaliation 
    - FP Cost 4->10
-   - skill damage buff removed
-   - heals 5% HP
-   - damage reduced by ~40% to account for FTH scaling
+   - Skill damage buff removed
+   - Heals 5% HP
+   - Damage reduced by ~40% to account for FTH scaling
  - Erdtree Greatshield
-  - increased FTH scaling to even out Golden Retaliation damage  
-
- # Spells
- - Black Flame Blade
-  - Attack Effect: duration 2->1 (2%HP->1%HP)
+  - Increased FTH scaling to even out Golden Retaliation damage  
 
 #------------------------------------------
 # 5.8-1.06
