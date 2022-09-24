@@ -100,7 +100,7 @@ EquipParamGem(70100) - Affinity: ALL Uncheck
 Erdtree Seal:
 EquipParamWeapon(34070000) - Behavior Variation ID 3400->3208, Reinforcement Price 50->150, Sword Arts Param ID 10->1196
 AtkParam_Pc(303208905) - Damage: Holy 250->150
-AtkParam_Pc(303208906) - Damage: Holy 150->100
+AtkParam_Pc(303208906) - Damage: Holy 150->90
 Bullet(2842) - Shooter SpEffect ID 1626050
 Duplicate SpEffectParam 1642000->1626050 [SACRED] Golden Retaliation Heal - Duration 1, Trigger Interval 2, Current HP % -5, Current HP + 0, Chain SpEffect ID 1626051, Effect Category 0
 SwordArtsParam(1196) - FP Consumption - L2 4->10
@@ -304,7 +304,7 @@ AtkParam_Pc(300500, 300510, 300520, 300530, 300540, 300550, 300561) - Target SpE
 # ANIMATIONS--------------------------------
 (c0000.anibnd.dcx)
 
-Destined Black Flame Weapon Art Cast FX:
+Blazing Black Flame Weapon Art Cast FX:
 a821_040000
 
 Quick Buff Erudition:
@@ -328,7 +328,7 @@ InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3002, Offset -1, Unk1
 # FX----------------------------------------
 [use FXMLR to convert .fxr to .xml]
 
-Destined Black Flame Sword FX:
+Blazing Black Flame Sword FX:
 (sfxbnd_commoneffects.ffxbnd.dcx)
 f000303121.fxr
 f000303122.fxr (blue tint to pure white)
@@ -351,9 +351,9 @@ Hold shield aloft to imbue yourself with golden power, granting momentary invinc
 Reaching for the eclipsed sun will draw in death blight with each use.
 ------------------------------
 
-SwordArts(1021): Destined Black Flame
+SwordArts(1021): Blazing Black Flame
 ------------------------------
-Unique Skill: Destined Black Flame
+Unique Skill: Blazing Black Flame
 
 Set the blade ablaze with the god-slaying black flame.
 ------------------------------
