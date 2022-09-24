@@ -360,7 +360,7 @@ Set the blade ablaze with the god-slaying black flame.
 
 Weapons(2090000): Hallowbrand
 ------------------------------
-A sacred sword touched by Death. Fia's black blood, saturated with the vitality of champions, has darkened the blade that slew her.
+A sacred weapon forged to hunt Those Who Live in Death. Fia's black blood, saturated with the vigor of champions, has darkened the blade that slew her granting it a voracious hunger.
 
 Soak the blade in the blood of the living to have it erupt with a ravenous bloodflame.
 ------------------------------
