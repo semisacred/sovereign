@@ -2,9 +2,7 @@
 # 6.0-1.06
 #------------------------------------------
 
-# Weapons
-- Godslayer's Greatsword
- - Destined Black Flame -> Blazing Black Flame
+
 
 #------------------------------------------
 # 5.9-1.06
@@ -13,7 +11,7 @@
  # Weapons
  - Eclipse Crest Greatshield
   - Black Sun's Zenith 
-   - counts as a skill attack
+   - Counts as a skill attack
    - 12->8 poise damage
    - 175->200 holy damage
  - Erdtree Seal

@@ -304,7 +304,7 @@ AtkParam_Pc(300500, 300510, 300520, 300530, 300540, 300550, 300561) - Target SpE
 # ANIMATIONS--------------------------------
 (c0000.anibnd.dcx)
 
-Blazing Black Flame Weapon Art Cast FX:
+Destined Black Flame Weapon Art Cast FX:
 a821_040000
 
 Quick Buff Erudition:
@@ -328,7 +328,7 @@ InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3002, Offset -1, Unk1
 # FX----------------------------------------
 [use FXMLR to convert .fxr to .xml]
 
-Blazing Black Flame Sword FX:
+Destined Black Flame Sword FX:
 (sfxbnd_commoneffects.ffxbnd.dcx)
 f000303121.fxr
 f000303122.fxr (blue tint to pure white)
@@ -351,9 +351,9 @@ Hold shield aloft to imbue yourself with golden power, granting momentary invinc
 Reaching for the eclipsed sun will draw in death blight with each use.
 ------------------------------
 
-SwordArts(1021): Blazing Black Flame
+SwordArts(1021): Destined Black Flame
 ------------------------------
-Unique Skill: Blazing Black Flame
+Unique Skill: Destined Black Flame
 
 Set the blade ablaze with the god-slaying black flame.
 ------------------------------
