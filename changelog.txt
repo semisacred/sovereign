@@ -2,7 +2,9 @@
 # 6.0-1.06
 #------------------------------------------
 
-
+# Weapons
+- Godslayer's Greatsword
+ - Ruinous Black Flame -> Unyielding Black Flame
 
 #------------------------------------------
 # 5.9-1.06
