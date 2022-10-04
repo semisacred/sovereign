@@ -4,7 +4,7 @@
 
 # Weapons
 - Godslayer's Greatsword
- - Ruinous Black Flame -> Unyielding Black Flame
+ - Destined Black Flame -> Ruinous Black Flame
 
 #------------------------------------------
 # 5.9-1.06

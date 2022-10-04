@@ -304,7 +304,7 @@ AtkParam_Pc(300500, 300510, 300520, 300530, 300540, 300550, 300561) - Target SpE
 # ANIMATIONS--------------------------------
 (c0000.anibnd.dcx)
 
-Unyielding Black Flame Weapon Art Cast FX:
+Ruinous Black Flame Weapon Art Cast FX:
 a821_040000
 
 Quick Buff Erudition:
@@ -328,7 +328,7 @@ InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3002, Offset -1, Unk1
 # FX----------------------------------------
 [use FXMLR to convert .fxr to .xml]
 
-Unyielding Black Flame Sword FX:
+Ruinous Black Flame Sword FX:
 (sfxbnd_commoneffects.ffxbnd.dcx)
 f000303121.fxr
 f000303122.fxr (blue tint to pure white)
@@ -351,9 +351,9 @@ Hold shield aloft to imbue yourself with golden power, granting momentary invinc
 Reaching for the eclipsed sun will draw in death blight with each use.
 ------------------------------
 
-SwordArts(1021): Unyielding Black Flame
+SwordArts(1021): Ruinous Black Flame
 ------------------------------
-Unique Skill: Unyielding Black Flame
+Unique Skill: Ruinous Black Flame
 
 Set the blade ablaze with the god-slaying black flame.
 ------------------------------
@@ -369,7 +369,7 @@ Weapons(32240000): Eclipse Crest Greatshield
 ------------------------------
 Metal greatshield painted with a sun in eclipse. Bestowed by Godwyn the Golden to his strongest knights.
 
-The eclipsed sun, drained of color, is the protective star of the soulless. Through prayer to the Black Sun, a lost radiance to thwart even Unyielding Death can called upon once more.
+The eclipsed sun, drained of color, is the protective star of the soulless. Through prayer to the Black Sun, a lost radiance to thwart even Ruinous Death can called upon once more.
 ------------------------------
 
 Goods(6050): Indomitable Flame
