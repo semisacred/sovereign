@@ -166,6 +166,8 @@ Row ID;Row Name;equipId;value;mtrlId;eventFlag_forStock;eventFlag_forRelease;sel
 100441;[Miriel - Dragon Cult Prayerbook] Electrify Armament;6960;4000;-1;140410;1037469314;1;3;0;1;0;1;-1;-1;-1;-1;
 100442;[Miriel - Ancient Dragon Prayerbook] Ancient Dragons' Lightning Spear;6940;8500;-1;140420;1037469315;1;3;0;1;0;1;-1;-1;-1;-1;
 100443;[Miriel - Ancient Dragon Prayerbook] Ancient Dragons' Lightning Strike;6910;10000;-1;140430;1037469315;1;3;0;1;0;1;-1;-1;-1;-1;
+100025;Memory Stone;10030;3000;-1;100250;0;1;3;0;1;0;1;-1;-1;-1;-1;
+100026;Stonesword Key;8000;4000;-1;100260;0;1;3;0;1;0;1;-1;-1;-1;-1;
 100500;[Merchant Kale] Note: Flask of Wondrous Physick;8702;200;-1;69620;0;1;3;0;1;0;1;-1;8752;-1;-1;
 100501;[Merchant Kale] Crafting Kit;8500;300;-1;60120;0;1;3;0;1;0;1;-1;-1;-1;-1;
 100502;[Merchant Kale] Nomadic Warrior's Cookbook [1];9300;500;-1;67000;0;1;3;0;1;0;1;-1;-1;-1;-1;
