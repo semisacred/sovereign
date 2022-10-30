@@ -9,7 +9,7 @@
 # Weapons
 - Godslayer's Greatsword
  - Destined Black Flame -> Ruinous Black Flame
- - Behavior Variation ID updated
+ - Behavior Variation ID fixed
 - Hallowbrand
  - Ravenous Bloodflame simplified 
   - no max hp, increased fire damage %, or -holy damage
