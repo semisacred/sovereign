@@ -144,7 +144,6 @@ Bullet(10611004) - Initial Velocity 1->3, Max Velocity 1->3, Min Velocity 1->3
 Bullet(10611005) - Final Hit Radius 3.5->10, Bullet Count 1->10
 Bullet(10611009) - Duration 6->30
 AtkParam_Pc(61100) - Damage: Fire 415->1000, Damage: Stamina 190->450
-AtkParam_Pc(61101) - Damage: Fire 35->70, Damage: Stamina 20->40
 
 Dragonbolt Blessing:
 Magic(6971) - FP Consumption - Default 20->55, Stamina Consumption - Default 20->40
@@ -225,7 +224,7 @@ Bullet(10215000) - Shooter SpEffect ID 525002
 Duplicate SpEffectParam 525000->525002 [SACRED] Mohg's Shackle Wrath - Behavior ID 2502
 
 Rune Arc:
-EquipParamGoods(190) - Sell Value 5000
+EquipParamGoods(190) - Sell Value 4000
 Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Rune Arc - Reference ID 190, Sell Price Overwrite 12000, Required Material ID 35000
 Duplicate EquipMtrlSetParam 0->35000 [SACRED] Rune Arc - Material ID [1] 20795
 
@@ -479,4 +478,10 @@ An assassin's dagger, misshapen and stained in cerulean.
 Greatly enhance critical hits at the cost of max FP.
 
 This charm is modelled after the darkly gleaming blades used in the Night of Black Knives. Those which gave the demigods their first taste of Death.
+#-------------------------------------------
+
+# MASS EDIT---------------------------------
+Yapped Cleanup:
+param X: prop finalDamageRateId 0: finalDamageRateId: = vanillafield finalDamageRateId;
+param NpcParam: id .*: superArmorRecoverCorrection: = vanillafield superArmorRecoverCorrection;
 #-------------------------------------------
