@@ -1,6 +1,10 @@
 #------------------------------------------
-# 6.0-1.06
+# 6.0-1.07.1
 #------------------------------------------
+
+# General
+ - Update to 1.07.1
+ - Modified files packed in .dcx added to "_" folder for easier updating
 
 # Weapons
 - Godslayer's Greatsword
