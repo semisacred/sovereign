@@ -12,7 +12,7 @@
  - Behavior Variation ID fixed
 - Hallowbrand
  - Ravenous Bloodflame simplified 
-  - no max hp, increased fire damage %, or -holy damage
+  - No max hp, increased fire damage %, or -holy damage
   - 180s->infinite duration
   - 20 fire damage, stacks on crit indefinitely until weapon swap, death, or game load
 
