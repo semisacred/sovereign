@@ -16,6 +16,13 @@
   - 180s->infinite duration
   - 20 fire damage, stacks on crit indefinitely until weapon swap, death, or game load
 
+# Spells
+- Flame of the Fell God
+ - Default damage for ground fire
+
+ # Items
+- Rune Arc sellin price 5000->4000
+
 #------------------------------------------
 # 5.9-1.06
 #------------------------------------------
