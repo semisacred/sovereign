@@ -50,7 +50,7 @@ AtkParam_Npc(280000) - Damage: Fire 172->516
 
 # MAIN WEAPONS------------------------------
 Godslayer's Greatsword: (1 Kill = 0.5% HP, FP, SP)
-EquipParamWeapon(4070000) - Behavior Variation ID 404->300, Weight 17.5->15.5, Reinforcement Price 1180->3540, Correction: STR 31->40, Correction: DEX 52->20, 
+EquipParamWeapon(4070000) - Behavior Variation ID 404->319, Weight 17.5->15.5, Reinforcement Price 1180->3540, Correction: STR 31->40, Correction: DEX 52->20, 
 Correction: FTH 40->60, Damage: Physical 119->66, Damage: Fire 77->33, Weapon Motion Category 26->25, Special Motion Category 137->0, Requirement: STR 20->24, 
 Requirement: DEX  22->16, Requirement: FTH 20->30, Sword Arts Param ID 1170->1021
 Duplicate SpEffectParam 1626000->1626003 [SACRED] GG Black Flame - Duration 60, Damage +: Fire 65, Effect Category 20, Correction +: FTH 60
