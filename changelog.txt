@@ -9,6 +9,11 @@
 # Weapons
 - Godslayer's Greatsword
  - Destined Black Flame -> Ruinous Black Flame
+- Hallowbrand
+ - Ravenous Bloodflame simplified 
+  - no max hp, increased fire damage %, or -holy damage
+  - 180s->infinite duration
+  - 20 fire damage, stacks on crit indefinitely until weapon swap, death, or game load
 
 #------------------------------------------
 # 5.9-1.06

@@ -73,12 +73,12 @@ Hallowbrand (Inseparable Sword):
 EquipParamWeapon(2090000) - Behavior Variation ID 300->200, Reinforcement Price 580->1740, Passive SpEffect 1 350500, Damage: Physical 98->65, Critical Multiplier 0->20, 
 Weapon Motion Category 25->23, Special Attribute 13->0, Special Motion Category 128->0, Weapon Hold Position - 1H 2->0, Weapon Hold Position - 2H 12->10, Damage: Holy 98->65, 
 Requirement: ARC 12, Sword Arts Param ID 201->100, Correction: ARC 20
-Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Max HP % 1.02, Attack %: Fire 1.1, Cycle SpEffect ID 1626023, Effect Category 10, Use Faith Correction Uncheck, Damage +: Holy -40
+Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration -1, Damage +: Fire 20, Cycle SpEffect ID 1626023, Effect Category 10, Use Faith Correction Uncheck
 Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626024, 
 Accumulator - Over Value 2, Accumulator - Increment Value -9999
 Duplicate SpEffectParam 5151200->1626024 [SACRED] Ravenous Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
 Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Duration 2, Trigger Interval 3, Chain SpEffect ID -1, Cycle SpEffect ID 1626022, Effect Category 0, Trigger on State Info [1] 0
-Duplicate SpEffectParam 1626025->1626026 [SACRED] Ravenous Bloodflame Skill Cost - Duration 180, Trigger Interval 0, Cycle SpEffect ID -1, Effect Category 20, Weapon Parameter Change 1, Skill FP Consumption % 0.5
+Duplicate SpEffectParam 1626025->1626026 [SACRED] Ravenous Bloodflame Skill Cost - Duration -1, Trigger Interval 0, Cycle SpEffect ID -1, Effect Category 20, Weapon Parameter Change 1, Skill FP Consumption % 0.5
 SpEffectParam(350500) - Icon ID 20215->-1
 SpEffectParam(350501) - Cycle SpEffect ID 1626025
 SpEffectParam(350502) - Cycle SpEffect ID 1626026, Effect VFX [0] 350500->5031401
