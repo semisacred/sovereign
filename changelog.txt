@@ -21,7 +21,7 @@
  - Default damage for ground fire
 
  # Items
-- Rune Arc sellin price 5000->4000
+- Rune Arc selling price 5000->4000
 
 #------------------------------------------
 # 5.9-1.06
