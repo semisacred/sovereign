@@ -1,4 +1,16 @@
 #------------------------------------------
+# 6.1-1.07.1
+#------------------------------------------
+
+# Weapons
+- Godslayer's Greatsword
+ - Black Flame 180 FTH Correction
+ - White Flame 360 FTH Correction, fire damage % removed
+- Hallowbrand -> Blasphemous Blade
+ - Ravenous Bloodflame
+  - 50 FTH Correction per stack
+
+#------------------------------------------
 # 6.0-1.07.1
 #------------------------------------------
 
