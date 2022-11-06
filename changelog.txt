@@ -2,8 +2,21 @@
 # 6.2-1.07.1
 #------------------------------------------
 
+# Great Runes
+ - Great Runes Revisited added (excluding BETA Renalla's Rune)
+
 # Spells
 - Fix Dragonbolt Blessing
+
+ # Items
+ -Rune Arc
+ - 12000->8000 runecost
+- Numen's Rune
+ - 6000->4000 runecost
+- Opaline Bubblesoap
+ - 3600->2200 runecost
+- Starlight Shards
+ - 4200->3500 runecost
 
 #------------------------------------------
 # 6.1-1.07.1

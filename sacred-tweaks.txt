@@ -198,6 +198,11 @@ SpEffectVfxParam(1649000) - Play Category 3->0
 
 
 # ITEMS-------------------------------------
+Rune Arc:
+EquipParamGoods(190) - Sell Value 4000
+Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Rune Arc - Reference ID 190, Sell Price Overwrite 12000, Required Material ID 35000
+Duplicate EquipMtrlSetParam 0->35000 [SACRED] Rune Arc - Material ID [1] 20795
+
 Numen's Rune:
 EquipParamGoods(2913) - Sell Value 1000, Sort ID 9140->521, Max Amount 99->3
 SpEffectParam(3282) - Current HP % -100, Current FP % -100, Rune Gain + 0, Chain SpEffect ID 3294, Cycle SpEffect ID 1605000
@@ -224,11 +229,6 @@ Mohg's Shackle:
 Duplicate BehaviorParam_PC 2501->2502 [SACRED] Mohg's Shackle Wrath - Reference ID 10641000
 Bullet(10215000) - Shooter SpEffect ID 525002
 Duplicate SpEffectParam 525000->525002 [SACRED] Mohg's Shackle Wrath - Behavior ID 2502
-
-Rune Arc:
-EquipParamGoods(190) - Sell Value 4000
-Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Rune Arc - Reference ID 190, Sell Price Overwrite 12000, Required Material ID 35000
-Duplicate EquipMtrlSetParam 0->35000 [SACRED] Rune Arc - Material ID [1] 20795
 
 Starlight Shards:
 EquipParamGoods(1290) - Max Amount 10->5
