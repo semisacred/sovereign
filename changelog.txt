@@ -15,6 +15,7 @@
  - White Flame 360 FTH Correction, fire damage % removed
 - Hallowbrand -> Blasphemous Blade
  - Ravenous Bloodflame
+  - 180s duration once again
   - 50 FTH Correction per stack
 
 #------------------------------------------
