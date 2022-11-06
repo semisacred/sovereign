@@ -198,6 +198,10 @@ SpEffectVfxParam(1649000) - Play Category 3->0
 
 
 # ITEMS-------------------------------------
+Great Runes:
+SpEffectParam(630) - Trigger Interval 1, Current HP + 12
+SpEffectParam(631) - Effect VFX [0] -1
+
 Rune Arc:
 EquipParamGoods(190) - Sell Value 4000
 Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Rune Arc - Reference ID 190, Sell Price Overwrite 12000, Required Material ID 35000
