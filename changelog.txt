@@ -5,6 +5,12 @@
 # Great Runes
  - Great Runes Revisited added (excluding BETA Renalla's Rune)
 
+# Weapons
+- Blasphemous Blade
+ - Baleful Strike
+  - 40->70 FP cost
+  - Grants Indomitable Flame
+
 # Spells
 - Fix Dragonbolt Blessing
 
