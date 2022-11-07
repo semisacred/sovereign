@@ -21,7 +21,7 @@ SpEffectParam(6202002, 6202003, 6202004, 6202005)
 # QUICK BUFF--------------------------------
 Erudition:
 Duplicate SpEffectParam 3282->3297 [SACRED] Erudition [Quick Buff 1] - Current HP % 0, Current FP % 0, Rune Gain + 0, Chain SpEffect ID 3298, Cycle SpEffect ID 1605000
-Duplicate SpEffectParam 3288->3298 [SACRED] Erudition Rune Loss [Chain] - Rune Gain + -20000, Chain SpEffect ID 3294
+Duplicate SpEffectParam 3288->3298 [SACRED] Erudition Rune Loss [Chain] - Rune Gain + -8000, Chain SpEffect ID 3294
 Duplicate SpEffectParam 3288->3294 [SACRED] Numen's/Erudition [Quick Buff 2] - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643000
 Duplicate SpEffectParam 3294->3295 [SACRED] Numen's/Erudition [Quick Buff 3] - Chain SpEffect ID 3296, Cycle SpEffect ID 3507
 Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - Chain SpEffect ID 1697102, Cycle SpEffect ID -1
@@ -149,7 +149,7 @@ AtkParam_Pc(61100) - Damage: Fire 415->1000, Damage: Stamina 190->450
 
 Dragonbolt Blessing:
 Magic(6971) - FP Consumption - Default 20->55, Stamina Consumption - Default 20->40
-SpEffectParam(1697100) - Icon ID 20469->-1, Duration 70->600, Trigger Interval 0.06->0.2, Chain SpEffect ID 1697102, Cycle SpEffect ID 1626040, Effect Category 151->20
+SpEffectParam(1697100) - Icon ID 20469->-1, Duration 70->0.1, Trigger Interval 0.06->0.2, Chain SpEffect ID 1697102, Cycle SpEffect ID 1626040, Effect Category 151->20
 Duplicate SpEffectParam 1697100->1697102 [SACRED] Dragonbolt Blessing - Icon ID 20469, Duration 600, Trigger Interval 0.06, Chain SpEffect ID -1, Cycle SpEffect ID 1697101
 SpEffectVfxParam(1697100) - Play Category 3->0
 Duplicate SpEffectParam 1626030->1626040 [SACRED] Lightning Damage - Icon ID -1, Duration 2, Max HP % 1, Max FP % 1, Max Stamina % 1, Current HP % 20, Current HP + 170, 
@@ -198,16 +198,6 @@ SpEffectVfxParam(1649000) - Play Category 3->0
 
 
 # ITEMS-------------------------------------
-Great Runes:
-SpEffectParam(630) - Trigger Interval 1, Current HP + -4
-SpEffectParam(631) - Effect VFX [0] -1
-SpEffectParam(500030) - Current HP % -14, Current HP + -160 ,Effect VFX [0] -1
-
-Rune Arc:
-EquipParamGoods(190) - Sell Value 4000
-Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Rune Arc - Reference ID 190, Sell Price Overwrite 8000, Required Material ID 35000
-Duplicate EquipMtrlSetParam 0->35000 [SACRED] Rune Arc - Material ID [1] 20795
-
 Numen's Rune:
 EquipParamGoods(2913) - Sell Value 1000, Sort ID 9140->521, Max Amount 99->3
 SpEffectParam(3282) - Current HP % -100, Current FP % -100, Rune Gain + 0, Chain SpEffect ID 3294, Cycle SpEffect ID 1605000
@@ -234,6 +224,11 @@ Mohg's Shackle:
 Duplicate BehaviorParam_PC 2501->2502 [SACRED] Mohg's Shackle Wrath - Reference ID 10641000
 Bullet(10215000) - Shooter SpEffect ID 525002
 Duplicate SpEffectParam 525000->525002 [SACRED] Mohg's Shackle Wrath - Behavior ID 2502
+
+Rune Arc:
+EquipParamGoods(190) - Sell Value 4000
+Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Rune Arc - Reference ID 190, Sell Price Overwrite 8000, Required Material ID 35000
+Duplicate EquipMtrlSetParam 0->35000 [SACRED] Rune Arc - Material ID [1] 20795
 
 Starlight Shards:
 EquipParamGoods(1290) - Max Amount 10->5
