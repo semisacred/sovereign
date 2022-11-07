@@ -1,1 +1,0 @@
-Every param touched in regulation.bin has [SACRED] in the name for easy merging/updating.
