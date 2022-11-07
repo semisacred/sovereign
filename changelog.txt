@@ -1,4 +1,25 @@
 #------------------------------------------
+# 6.3-1.07.1
+#------------------------------------------
+
+# Weapons
+- Godslayer's Greatsword
+ - Ruinous Black Flame -> Devouring Soul Flame
+  - Soul Flame
+   - Rune Gain % 2->0
+  - Soul Burn -> Devour
+   - Duration -1->600s 
+   - Max HP 1.005->1.01, Max FP 1.005->1.01, Max Stamina 1.005->1.01
+   - Fullbody Black Flame VFX added
+- Blasphemous Blade
+ - Ravenous Bloodflame
+  - 1.1x Rune Gain per stack
+
+# Gestures
+- Erudition
+ - 20000->8000 runecost
+
+#------------------------------------------
 # 6.2.1-1.07.1
 #------------------------------------------
 
