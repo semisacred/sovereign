@@ -3,7 +3,7 @@
 #------------------------------------------
 
 # Spells
-- Actuallyy fix Dragonbolt Blessing
+- Actually fix Dragonbolt Blessing
 
 #------------------------------------------
 # 6.2-1.07.1
