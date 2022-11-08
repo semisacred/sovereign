@@ -56,7 +56,7 @@ Requirement: DEX  22->16, Requirement: FTH 20->30, Sword Arts Param ID 1170->102
 Duplicate SpEffectParam 1626000->1626003 [SACRED] GG Black Flame - Duration 60, Damage +: Fire 65, Effect Category 20, Correction +: FTH 180
 Duplicate SpEffectParam 5031400->1626004 [SACRED] GG Devour [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626005
 Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Devour - Icon ID 20295, Duration 600, Max HP 1.01, Max FP 1.01, Max Stamina 1.01, Current HP % 0, 
-Current HP + 0, Effect Category 10 - Stack Self, Effect VFX 0 9010
+Current HP + 0, Effect Category 10 - Stack Self, Effect VFX 0 9010, Toughness Absorption % 0.99(1%)
 Duplicate SpEffectParam 320800->1626008 [SACRED] GG Soul Flame [Hit Trigger] - Icon ID -1, Duration 7, Cycle SpEffect ID 1626004, Weapon Parameter Change 1, 
 Accumulator - Over Value - SpEffect ID 1806, Accumulator - Over Value 2, Accumulator - Increment Value -9999
 Duplicate SpEffectParam 1691->1626009 [SACRED] GG Soul Flame - Duration 7, Attack %: ALL 1, Attack %: Stamina 2, Rune Gain % 0, Cycle SpEffect ID 1626004, 
@@ -88,7 +88,7 @@ SpEffectParam(350502) - Cycle SpEffect ID 1626026, Effect VFX [0] 350500->503140
 SwordArtsParam(100) - FP Consumption - L2 20->40
 EquipParamGem(40 through 100) - Affinity: ALL Uncheck
 Duplicate BehaviorParam_PC 300000000->300000002 [SACRED] Baleful Strike - Behavior Judge ID 2, Reference Type 1, Reference ID 10630002, Stamina Cost 0, Shooter SpEffect ID 1605000 
-Duplicate Bullet 10630000->10630002 [SACRED] Baleful Strike - Duration 0.01
+Duplicate Bullet 10630000->10630002 [SACRED] Baleful Strike - Duration 0.01, AtkParam ID 63000
 
 Eclipse Crest Greatshield:
 EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Requirement: FTH 0->30, Sword Arts Param ID 10->701, Ash of War Type 2->0
@@ -135,7 +135,7 @@ SpEffectParam(1643101) - Duration 90->180
 
 Indomitable Flame (Flame, Grant Me Strength):
 Magic(6050) - FP Consumption - Default 28->42, Stamina Consumption - Default 16->24, Requirement: FTH 15->20
-SpEffectParam(1605000) - Duration 30->180, Chain SpEffect ID 1605003, Cast Speed 0->30, Toughness Absorption % 1->0.66(34%), Weapon Stamina Consumption % 1.2
+SpEffectParam(1605000) - Duration 30->180, Chain SpEffect ID 1605003, Cast Speed 0->30, Toughness Absorption % 1->0.8(20%), Weapon Stamina Consumption % 1.2
 Duplicate SpEffectParam 1605002->1605003 [SACRED] Flame, Grant Me Strength Exhaustion - Icon ID 20231, Duration 90, Stamina Recovery Speed -5, Cycle SpEffect ID -1
 
 Flame of the Fell God:
@@ -202,7 +202,7 @@ SpEffectVfxParam(1649000) - Play Category 3->0
 Great Runes:
 SpEffectParam(630) - Trigger Interval 1, Current HP + -4
 SpEffectParam(631) - Effect VFX [0] -1
-SpEffectParam(500030) - Current HP % -14, Current HP + -160, Effect VFX [1] 9012, Attack %: ALL 1.3
+SpEffectParam(500030) - Current HP % -14, Current HP + -160, Effect Category 20, Effect VFX [1] 9012, Attack %: ALL 1.3
 
 Rune Arc:
 EquipParamGoods(190) - Sell Value 4000
