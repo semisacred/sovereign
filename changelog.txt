@@ -15,7 +15,7 @@
  - Poise % 34->20
 
 # Great Runes
- - Rykard's Kill buff reset on apply
+ - Rykard's Kill buff/heal fixed
 
 #------------------------------------------
 # 6.3-1.07.1
