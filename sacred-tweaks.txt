@@ -6,7 +6,7 @@
 # DIFFICULTY MODIFIER-----------------------
 SpEffectParam(7000 through 7280) - Cycle SpEffect ID 7399
 Duplicate SpEffectParam 7280->7399 [SACRED] Difficulty Modifier - Duration -1, Max HP % 1.5, Max FP % 1.5, Max Stamina % 1.5, Attack %: ALL 1.5, Defence %: ALL 1.5, 
-Attack %: Stamina 1.5, Aux Resist %: ALL 1, Aux Resist %: Hemorrhage 3, Cycle SpEffect ID -1, AI Vision Correction 2, Listen Search Correction 2
+Attack %: Stamina 1.5, Aux Resist %: ALL 1, Aux Resist %: Hemorrhage 2, Cycle SpEffect ID -1, AI Vision Correction 2, Listen Search Correction 2
 Duplicate SpEffectParam 7399->7398 [SACRED] Summon Modifier - Max HP % 0.5, Max FP % 1, Max Stamina % 1, Attack %: ALL 0.5, Defence %: ALL 1, 
 Attack %: Stamina 1, Aux Resist %: Hemorrhage 1, AI Vision Correction 1, Listen Search Correction 1, Poise Damage % 0.5
 NpcParam(100000010 through 170002000) - SpEffect ID [3] 7398
@@ -63,6 +63,8 @@ Duplicate SpEffectParam 1691->1626009 [SACRED] GG Soul Flame - Duration 7, Attac
 Effect Category 20, Effect VFX [0] 8655, Correction +: FTH 360
 Duplicate SpEffectParam 1626004->1626010 [SACRED] GG Soul Flame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, 
 Kill SpEffect ID 0
+Duplicate SpEffectParam 6500->1626011 [SACRED] GG Soul Flame HP Cost - Duration 0.2, Trigger Interval 0.1, Current HP % 0, Current HP + 2, Effect Category 0, State Info 0, Aux Inflict +: Poison 0, Use Status Ailment AP Correction Uncheck, 
+Cycle SpEffect ID -1, Effect VFX [0] -1
 SpEffectVfxParam(8655) - Trace SFX ID Offset Type 19->17
 SwordArtsParam(1021) - FP Consumption - L2 20->60
 SpEffectParam(1806) - Duration 30->0.1, Damage +: Magic 50->0, Chain SpEffect ID 1626010, Cycle SpEffect ID 1626003, Attack SpEffect ID 1809->-1, 

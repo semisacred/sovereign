@@ -2,14 +2,19 @@
 # 6.3-1.07.1
 #------------------------------------------
 
+# Difficulty
+- Resist %: Hemorrhage 3x->2x
+
 # Weapons
 - Godslayer's Greatsword
  - Ruinous Black Flame -> Devouring Soul Flame
   - Soul Flame
    - Rune Gain % 2->0
+   - Take 20 HP/s damage while active
   - Soul Burn -> Devour
    - Duration -1->600s 
    - Max HP 1.005->1.01, Max FP 1.005->1.01, Max Stamina 1.005->1.01
+   - Poise + 1
    - Fullbody Black Flame VFX added
 - Blasphemous Blade
  - Ravenous Bloodflame
