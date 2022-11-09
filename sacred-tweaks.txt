@@ -93,8 +93,8 @@ Duplicate Bullet 10630000->10630002 [SACRED] Baleful Strike - AtkParam ID 63000,
 
 Eclipse Crest Greatshield:
 EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Requirement: FTH 0->30, Sword Arts Param ID 10->701, Ash of War Type 2->0
-Duplicate SpEffectParam 1794->1626031 [SACRED] Black Sun Blight - Duration 0.5, Trigger Interval 0.6, Aux Inflict +: Blight 60, Weapon Parameter Change 0, Target Self Check
-Duplicate SpEffectParam 525002->525004 [SACRED] Vow Wrath - Duration 0.5, Trigger Interval 1, Behavior ID 2504, Cycle SpEffect ID 1626031
+Duplicate SpEffectParam 1794->1626032 [SACRED] Black Sun Blight - Duration 0.5, Trigger Interval 0.6, Aux Inflict +: Blight 60, Weapon Parameter Change 0, Target Self Check
+Duplicate SpEffectParam 525002->525004 [SACRED] Vow Wrath - Duration 0.5, Trigger Interval 1, Behavior ID 2504, Cycle SpEffect ID 1626032
 Duplicate BehaviorParam_PC 2502->2504 [SACRED] Vow Wrath - Reference ID 10641100
 Duplicate Bullet 10641000->10641100 [SACRED] Vow Wrath - AtkParam ID 64110
 Duplicate AtkParam_Pc 64100->64110 [SACRED] Vow Wrath - Knockback Distance 1->0.5, Conditional Category [1] 112, Damage: Stamina 221->110, Damage Level 7->3, Damage: Poise 8, Damage: Holy 200
@@ -153,7 +153,7 @@ Magic(6971) - FP Consumption - Default 20->55, Stamina Consumption - Default 20-
 SpEffectParam(1697100) - Icon ID 20469->-1, Duration 70->0.1, Trigger Interval 0.06->0.2, Chain SpEffect ID 1697102, Cycle SpEffect ID 1626040, Effect Category 151->20, Aux Resist +: ALL 0
 Duplicate SpEffectParam 1697100->1697102 [SACRED] Dragonbolt Blessing - Icon ID 20469, Duration 600, Trigger Interval 0.06, Chain SpEffect ID -1, Cycle SpEffect ID 1697101, Aux Resist +: ALL 0
 SpEffectVfxParam(1697100) - Play Category 3->0
-Duplicate SpEffectParam 1626031->1626040 [SACRED] Lightning Damage - Icon ID -1, Duration 2, Max HP % 1, Max FP % 1, Max Stamina % 1, Current HP % 20, Current HP + 170, 
+Duplicate SpEffectParam 1626032->1626040 [SACRED] Lightning Damage - Icon ID -1, Duration 2, Max HP % 1, Max FP % 1, Max Stamina % 1, Current HP % 20, Current HP + 170, 
 Effect Category 0
 
 Electrify Armament:
@@ -240,11 +240,12 @@ Bullet(10215000) - Duration 0.01, Shooter SpEffect ID 525002
 Duplicate Bullet 10630002->10215001 [SACRED] Mohg's Shackle Bloodflame Blast - Duration 0.5, Initial Hit Radius 4, Final Hit Radius 4, Hit Bullet ID 10630001, 
 Shooter SpEffect ID 1626028, Target SpEffect ID [0] 105275, Target SpEffect ID [1] 525002
 Duplicate SpEffectParam 525000->525002 [SACRED] Mohg's Shackle Bloodflame Blast - Behavior ID 2502
-Duplicate SpEffectParam 1626011->1626028 [SACRED] Mohg's Shackle Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 14, Current HP + 160, 
+Duplicate SpEffectParam 1626011->1626028 [SACRED] Mohg's Shackle Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 29, Current HP + 160, 
 Chain Speffect ID 1626029, Cycle Speffect ID 105275
 Duplicate SpEffectParam 1626028->1626029 [SACRED] Mohg's Shackle Apply 2 - Current HP % 0, Current HP + 0, Chain Speffect ID 1605000, Cycle Speffect ID 1626030
-Duplicate SpEffectParam 1655->1626030 [SACRED] Mohg's Shackle Bloodboil - Duration 600, Toughness Absorption % 1->0.7(30%), Absorption: ALL 1, 
+Duplicate SpEffectParam 1655->1626030 [SACRED] Mohg's Shackle Bloodboil - Duration 600, Toughness Absorption % 1->0.7(30%), Cycle Speffect ID 1626031, Absorption: ALL 1, 
 Aux Damage Correction %: Poison, Scarlet Rot, Frostbite, Sleep 0.5
+Duplicate SpEffectParam 340600->1626031 [SACRED] Mohg's Shackle Bloodboil Crit Protection
 SpEffectVfxParam(8570) - Play Category 3->0
 
 Starlight Shards:
