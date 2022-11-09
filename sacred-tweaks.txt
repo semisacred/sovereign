@@ -150,8 +150,8 @@ AtkParam_Pc(61100) - Damage: Fire 415->1000, Damage: Stamina 190->450
 
 Dragonbolt Blessing:
 Magic(6971) - FP Consumption - Default 20->55, Stamina Consumption - Default 20->40
-SpEffectParam(1697100) - Icon ID 20469->-1, Duration 70->0.1, Trigger Interval 0.06->0.2, Chain SpEffect ID 1697102, Cycle SpEffect ID 1626040, Effect Category 151->20
-Duplicate SpEffectParam 1697100->1697102 [SACRED] Dragonbolt Blessing - Icon ID 20469, Duration 600, Trigger Interval 0.06, Chain SpEffect ID -1, Cycle SpEffect ID 1697101
+SpEffectParam(1697100) - Icon ID 20469->-1, Duration 70->0.1, Trigger Interval 0.06->0.2, Chain SpEffect ID 1697102, Cycle SpEffect ID 1626040, Effect Category 151->20, Aux Resist +: ALL 0
+Duplicate SpEffectParam 1697100->1697102 [SACRED] Dragonbolt Blessing - Icon ID 20469, Duration 600, Trigger Interval 0.06, Chain SpEffect ID -1, Cycle SpEffect ID 1697101, Aux Resist +: ALL 0
 SpEffectVfxParam(1697100) - Play Category 3->0
 Duplicate SpEffectParam 1626031->1626040 [SACRED] Lightning Damage - Icon ID -1, Duration 2, Max HP % 1, Max FP % 1, Max Stamina % 1, Current HP % 20, Current HP + 170, 
 Effect Category 0
