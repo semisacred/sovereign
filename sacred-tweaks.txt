@@ -82,8 +82,7 @@ Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Dur
 Trigger on State Info [1] 0
 Duplicate SpEffectParam 1626025->1626026 [SACRED] Ravenous Bloodflame Skill Cost - Duration 180, Trigger Interval 0, Cycle SpEffect ID -1, Effect Category 20, Weapon Parameter Change 1, 
 Skill FP Consumption % 0.5
-Duplicate SpEffectParam 3190->1626035 [SACRED] Blasphemous Blade Blood Apply - Duration 0.1, Chain SpEffect ID 1626036, Effect Category 0
-Duplicate SpEffectParam 1626035->1626036 [SACRED] Blasphemous Blade Blood - Duration -1, Chain SpEffect ID -1
+Duplicate SpEffectParam 3190->1626035 [SACRED] Blasphemous Blade Blood - Duration -1, Effect Category 0
 SpEffectParam(350500) - Icon ID 20215->-1
 SpEffectParam(350501) - Cycle SpEffect ID 1626025
 SpEffectParam(350502) - Cycle SpEffect ID 1626026, Effect VFX [0] 350500->5031401
