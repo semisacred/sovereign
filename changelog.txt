@@ -2,6 +2,10 @@
 # 6.5-1.07.1
 #------------------------------------------
 
+# Weapons
+- Blasphemous Blade
+ - Removed passive bleed effect and VFX
+
 # Spells
 - Dragonbolt Blessing
  - Resistances removed
