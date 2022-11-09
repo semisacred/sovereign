@@ -8,7 +8,6 @@
 
  # Items
 - Mohg's Shackle -> Bloody Shackle
- - 14%->29% self HP damage 
  - Bloodboil 
   - +30% crit protection
 
