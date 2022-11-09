@@ -240,7 +240,7 @@ Bullet(10215000) - Duration 0.01, Shooter SpEffect ID 525002
 Duplicate Bullet 10630002->10215001 [SACRED] Mohg's Shackle Bloodflame Blast - Duration 0.5, Initial Hit Radius 4, Final Hit Radius 4, Hit Bullet ID 10630001, 
 Shooter SpEffect ID 1626028, Target SpEffect ID [0] 105275, Target SpEffect ID [1] 525002
 Duplicate SpEffectParam 525000->525002 [SACRED] Mohg's Shackle Bloodflame Blast - Behavior ID 2502
-Duplicate SpEffectParam 1626011->1626028 [SACRED] Mohg's Shackle Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 29, Current HP + 160, 
+Duplicate SpEffectParam 1626011->1626028 [SACRED] Mohg's Shackle Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 14, Current HP + 160, 
 Chain Speffect ID 1626029, Cycle Speffect ID 105275
 Duplicate SpEffectParam 1626028->1626029 [SACRED] Mohg's Shackle Apply 2 - Current HP % 0, Current HP + 0, Chain Speffect ID 1605000, Cycle Speffect ID 1626030
 Duplicate SpEffectParam 1655->1626030 [SACRED] Mohg's Shackle Bloodboil - Duration 600, Toughness Absorption % 1->0.7(30%), Cycle Speffect ID 1626031, Absorption: ALL 1, 
