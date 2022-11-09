@@ -71,7 +71,7 @@ SpEffectParam(1806) - Duration 30->0.1, Damage +: Magic 50->0, Chain SpEffect ID
 Effect VFX [0] 8655->-1
 
 Blasphemous Blade:
-EquipParamWeapon(3140000) - Behavior Variation ID 314->200, Reinforcement Price 750->2250, Passive SpEffect 1 5031400->350500, Damage: Physical 121->85, Damage: Fire 78->55, 
+EquipParamWeapon(3140000) - Behavior Variation ID 314->200, Reinforcement Price 750->2250, Passive SpEffect 1 5031400->350500, Passive SpEffect 2 1626035, Damage: Physical 121->85, Damage: Fire 78->55, 
 Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Attribute 10, Weapon Hold Position - 1H 2->0, Weapon Hold Position - 2H 12->10, Requirement: ARC 12, Sword Arts Param ID 1014->100, 
 Correction: ARC 20
 Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 10, Rune Gain % 1.1, Cycle SpEffect ID 1626023, Effect Category 10, Correction +: FTH 50
@@ -82,6 +82,7 @@ Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Dur
 Trigger on State Info [1] 0
 Duplicate SpEffectParam 1626025->1626026 [SACRED] Ravenous Bloodflame Skill Cost - Duration 180, Trigger Interval 0, Cycle SpEffect ID -1, Effect Category 20, Weapon Parameter Change 1, 
 Skill FP Consumption % 0.5
+Duplicate SpEffectParam 3190->1626035 [SACRED] Blasphemous Blade Blood - Duration -1, Effect Category 0
 SpEffectParam(350500) - Icon ID 20215->-1
 SpEffectParam(350501) - Cycle SpEffect ID 1626025
 SpEffectParam(350502) - Cycle SpEffect ID 1626026, Effect VFX [0] 350500->5031401
