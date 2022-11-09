@@ -10,7 +10,7 @@
 - Mohg's Shackle -> Bloody Shackle
  - 14%->29% self HP damage 
  - Bloodboil 
-  - +30% Crit Protection
+  - +30% crit protection
 
 #------------------------------------------
 # 6.4-1.07.1
