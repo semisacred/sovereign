@@ -4,18 +4,28 @@
 
 # Weapons
 - Godslayer's Greatsword
-  - Devour
+ - Black FLame
+  - -50% Skill FP Cost
+ - Devour
    - Poise + 0, Poise % 1
 - Blasphemous Blade
+ - Added passive bleed effect and VFX
  - Baleful Strike
+  - FP Cost 70->50
   - Correct bloodflame AtkParam
 
 # Spells
-- Indomitable Flame
- - Poise % 34->20
+- Indomitable Flame -> Flame, Grant Me Strength
+ - Poise % removed
+ - Exhaustion removed
 
 # Great Runes
  - Rykard's Kill buff/heal fixed
+
+# Items
+- Mohg's Shackle -> Bloody Shackle
+ - Blast of bloodflame that applies 120 Hemorrhage to you and surrounding enemies
+ - Grants Bloodboil and Flame, Grant Me Strength but you take 14% + 160 HP damage
 
 #------------------------------------------
 # 6.3-1.07.1

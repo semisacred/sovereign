@@ -24,7 +24,7 @@ Duplicate SpEffectParam 3282->3297 [SACRED] Erudition [Quick Buff 1] - Current H
 Duplicate SpEffectParam 3288->3298 [SACRED] Erudition Rune Loss [Chain] - Rune Gain + -8000, Chain SpEffect ID 3294
 Duplicate SpEffectParam 3288->3294 [SACRED] Numen's/Erudition [Quick Buff 2] - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643000
 Duplicate SpEffectParam 3294->3295 [SACRED] Numen's/Erudition [Quick Buff 3] - Chain SpEffect ID 3296, Cycle SpEffect ID 3507
-Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - Chain SpEffect ID 1697102, Cycle SpEffect ID -1
+Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - Chain SpEffect ID 1697102, Cycle SpEffect ID 1626029
 #-------------------------------------------
 
 
@@ -51,9 +51,9 @@ AtkParam_Npc(280000) - Damage: Fire 172->516
 # MAIN WEAPONS------------------------------
 Godslayer's Greatsword: (1 Kill = 0.5% HP, FP, SP)
 EquipParamWeapon(4070000) - Behavior Variation ID 404->319, Weight 17.5->15.5, Reinforcement Price 1180->3540, Correction: STR 31->40, Correction: DEX 52->20, 
-Correction: FTH 40->60, Damage: Physical 119->66, Damage: Fire 77->33, Weapon Motion Category 26->25, Special Motion Category 137->0, Requirement: STR 20->24, 
+Correction: FTH 40->60, Damage: Physical 119->66, Damage: Fire 77->33, Weapon Motion Category 26->25, Special Attribute 13, Special Motion Category 137->0, Requirement: STR 20->24, 
 Requirement: DEX  22->16, Requirement: FTH 20->30, Sword Arts Param ID 1170->1021
-Duplicate SpEffectParam 1626000->1626003 [SACRED] GG Black Flame - Duration 60, Damage +: Fire 65, Effect Category 20, Correction +: FTH 180
+Duplicate SpEffectParam 1626000->1626003 [SACRED] GG Black Flame - Duration 60, Damage +: Fire 65, Effect Category 20, Correction +: FTH 180, Skill FP Consumption % 0.5
 Duplicate SpEffectParam 5031400->1626004 [SACRED] GG Devour [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626005
 Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Devour - Icon ID 20295, Duration 600, Max HP 1.01, Max FP 1.01, Max Stamina 1.01, Current HP % 0, 
 Current HP + 0, Effect Category 10 - Stack Self, Effect VFX 0 9010, Toughness Absorption % 0.99(1%)
@@ -71,8 +71,8 @@ SpEffectParam(1806) - Duration 30->0.1, Damage +: Magic 50->0, Chain SpEffect ID
 Effect VFX [0] 8655->-1
 
 Blasphemous Blade:
-EquipParamWeapon(3140000) - Behavior Variation ID 314->200, Reinforcement Price 750->2250, Passive SpEffect 1 5031400->350500, Damage: Physical 121->85, Damage: Fire 78->55, 
-Critical Multiplier 0->10, Weapon Motion Category 25->23, Weapon Hold Position - 1H 2->0, Weapon Hold Position - 2H 12->10, Requirement: ARC 12, Sword Arts Param ID 1014->100, 
+EquipParamWeapon(3140000) - Behavior Variation ID 314->200, Reinforcement Price 750->2250, Passive SpEffect 1 5031400->350500, Passive SpEffect 2 1626027, Damage: Physical 121->85, Damage: Fire 78->55, 
+Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Attribute 10, Weapon Hold Position - 1H 2->0, Weapon Hold Position - 2H 12->10, Requirement: ARC 12, Sword Arts Param ID 1014->100, 
 Correction: ARC 20
 Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 10, Rune Gain % 1.1, Cycle SpEffect ID 1626023, Effect Category 10, Correction +: FTH 50
 Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626024, 
@@ -82,19 +82,20 @@ Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Dur
 Trigger on State Info [1] 0
 Duplicate SpEffectParam 1626025->1626026 [SACRED] Ravenous Bloodflame Skill Cost - Duration 180, Trigger Interval 0, Cycle SpEffect ID -1, Effect Category 20, Weapon Parameter Change 1, 
 Skill FP Consumption % 0.5
+Duplicate SpEffectParam 3190->1626027 [SACRED] Blasphemous Blade Blood - Duration -1, Effect Category 0
 SpEffectParam(350500) - Icon ID 20215->-1
 SpEffectParam(350501) - Cycle SpEffect ID 1626025
 SpEffectParam(350502) - Cycle SpEffect ID 1626026, Effect VFX [0] 350500->5031401
-SwordArtsParam(100) - FP Consumption - L2 20->40
+SwordArtsParam(100) - FP Consumption - L2 20->50
 EquipParamGem(40 through 100) - Affinity: ALL Uncheck
 Duplicate BehaviorParam_PC 300000000->300000002 [SACRED] Baleful Strike - Behavior Judge ID 2, Reference Type 1, Reference ID 10630002, Stamina Cost 0, Shooter SpEffect ID 1605000 
-Duplicate Bullet 10630000->10630002 [SACRED] Baleful Strike - Duration 0.01, AtkParam ID 63000
+Duplicate Bullet 10630000->10630002 [SACRED] Baleful Strike - AtkParam ID 63000, Duration 0.01
 
 Eclipse Crest Greatshield:
 EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Requirement: FTH 0->30, Sword Arts Param ID 10->701, Ash of War Type 2->0
-Duplicate SpEffectParam 1794->1626030 [SACRED] Black Sun Blight - Duration 0.5, Trigger Interval 0.6, Aux Inflict +: Blight 60, Weapon Parameter Change 0, Target Self Check
-Duplicate SpEffectParam 525002->525003 [SACRED] Vow Wrath - Duration 0.5, Trigger Interval 1, Behavior ID 2503, Cycle SpEffect ID 1626030
-Duplicate BehaviorParam_PC 2502->2503 [SACRED] Vow Wrath - Reference ID 10641100
+Duplicate SpEffectParam 1794->1626031 [SACRED] Black Sun Blight - Duration 0.5, Trigger Interval 0.6, Aux Inflict +: Blight 60, Weapon Parameter Change 0, Target Self Check
+Duplicate SpEffectParam 525002->525004 [SACRED] Vow Wrath - Duration 0.5, Trigger Interval 1, Behavior ID 2504, Cycle SpEffect ID 1626031
+Duplicate BehaviorParam_PC 2502->2504 [SACRED] Vow Wrath - Reference ID 10641100
 Duplicate Bullet 10641000->10641100 [SACRED] Vow Wrath - AtkParam ID 64110
 Duplicate AtkParam_Pc 64100->64110 [SACRED] Vow Wrath - Knockback Distance 1->0.5, Conditional Category [1] 112, Damage: Stamina 221->110, Damage Level 7->3, Damage: Poise 8, Damage: Holy 200
 SwordArtsParam(701) - FP Consumption - L2 20->30
@@ -133,10 +134,9 @@ Blessing of the Erdtree:
 SpEffectParam(1643100) - Duration 90->180
 SpEffectParam(1643101) - Duration 90->180
 
-Indomitable Flame (Flame, Grant Me Strength):
+Flame, Grant Me Strength:
 Magic(6050) - FP Consumption - Default 28->42, Stamina Consumption - Default 16->24, Requirement: FTH 15->20
-SpEffectParam(1605000) - Duration 30->180, Chain SpEffect ID 1605003, Cast Speed 0->30, Toughness Absorption % 1->0.8(20%), Weapon Stamina Consumption % 1.2
-Duplicate SpEffectParam 1605002->1605003 [SACRED] Flame, Grant Me Strength Exhaustion - Icon ID 20231, Duration 90, Stamina Recovery Speed -5, Cycle SpEffect ID -1
+SpEffectParam(1605000) - Duration 30->180, Cast Speed 0->30, Weapon Stamina Consumption % 1.2
 
 Flame of the Fell God:
 Magic(6110) - 42->100 FP Consumption, Stamina Consumption - Default 42->84, Number of Uses -1->1
@@ -153,7 +153,7 @@ Magic(6971) - FP Consumption - Default 20->55, Stamina Consumption - Default 20-
 SpEffectParam(1697100) - Icon ID 20469->-1, Duration 70->0.1, Trigger Interval 0.06->0.2, Chain SpEffect ID 1697102, Cycle SpEffect ID 1626040, Effect Category 151->20
 Duplicate SpEffectParam 1697100->1697102 [SACRED] Dragonbolt Blessing - Icon ID 20469, Duration 600, Trigger Interval 0.06, Chain SpEffect ID -1, Cycle SpEffect ID 1697101
 SpEffectVfxParam(1697100) - Play Category 3->0
-Duplicate SpEffectParam 1626030->1626040 [SACRED] Lightning Damage - Icon ID -1, Duration 2, Max HP % 1, Max FP % 1, Max Stamina % 1, Current HP % 20, Current HP + 170, 
+Duplicate SpEffectParam 1626031->1626040 [SACRED] Lightning Damage - Icon ID -1, Duration 2, Max HP % 1, Max FP % 1, Max Stamina % 1, Current HP % 20, Current HP + 170, 
 Effect Category 0
 
 Electrify Armament:
@@ -223,21 +223,29 @@ SpEffectParam(502120) - Cycle SpEffect ID 3507
 EquipMtrlSetParam(307040) - Material ID [2] 20825, Material ID [3] 20651, Material Amount [1] 3, Material Amount [2] 1, Material Amount [3] 1
 ShopLineupParam(100940) - Sell Price Overwrite 400->2200, Amount to Sell 3->-1         
 
-Dark Omen Shackle (Margit's Shackle):
+Fell Omen Shackle (Margit's Shackle):
 Duplicate BehaviorParam_PC 2500->2501 [SACRED] Margit's Shackle Darkness - Reference ID 10653000
-Bullet(10214000) - Shooter SpEffect ID 525001, Target SpEffect ID [0] 1654000
+Bullet(10214000) - Duration 0.01, Shooter SpEffect ID 525001, Target SpEffect ID [0] 1654000
 Duplicate SpEffectParam 525000->525001 [SACRED] Margit's Shackle Darkness - Behavior ID 2501, Cycle SpEffect ID 1468000
 Duplicate SpEffectParam 1467000->1468000 [SACRED] Margit's Shackle Unseen Form - Icon ID -1, Duration 3, Enemy Vision Adjustment 0.1, Enemy Listen Adjustment 0.1, 
 Cycle SpEffect ID 1468001, Effect VFX [0] -1
 Duplicate SpEffectParam 1678000->1468001 [SACRED] Margit's Shackle Cure Blight - Cycle SpEffect ID 1468002, Effect VFX [0] -1
-Duplicate SpEffectParam 1678001->1468002 [SACRED] Margit's Shackle Cure Blight
+Duplicate SpEffectParam 1678001->1468002 [SACRED] Margit's Shackle Cure Blight Buildup
 Duplicate SpEffectParam 1653000->1654000 [SACRED] Margit's Shackle Darkness - Chain SpEffect ID 1654001
 Duplicate SpEffectParam 1653001->1654001 [SACRED] Margit's Shackle Darkness [Chain] - Duration 1
 
-Mohg's Shackle:
-Duplicate BehaviorParam_PC 2501->2502 [SACRED] Mohg's Shackle Wrath - Reference ID 10641000
-Bullet(10215000) - Shooter SpEffect ID 525002
-Duplicate SpEffectParam 525000->525002 [SACRED] Mohg's Shackle Wrath - Behavior ID 2502
+Bloody Shackle (Mohg's Shackle):
+Duplicate BehaviorParam_PC 2501->2502 [SACRED] Mohg's Shackle Bloodflame Blast - Reference ID 10215001
+Bullet(10215000) - Duration 0.01, Shooter SpEffect ID 525002
+Duplicate Bullet 10630002->10215001 [SACRED] Mohg's Shackle Bloodflame Blast - Duration 0.5, Initial Hit Radius 4, Final Hit Radius 4, Hit Bullet ID 10630001, 
+Shooter SpEffect ID 1626028, Target SpEffect ID [0] 105275, Target SpEffect ID [1] 525002
+Duplicate SpEffectParam 525000->525002 [SACRED] Mohg's Shackle Bloodflame Blast - Behavior ID 2502
+Duplicate SpEffectParam 1626011->1626028 [SACRED] Mohg's Shackle Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 14, Current HP + 160, 
+Chain Speffect ID 1626029, Cycle Speffect ID 105275
+Duplicate SpEffectParam 1626028->1626029 [SACRED] Mohg's Shackle Apply 2 - Current HP % 0, Current HP + 0, Chain Speffect ID 1605000, Cycle Speffect ID 1626030
+Duplicate SpEffectParam 1655->1626030 [SACRED] Mohg's Shackle Bloodboil - Duration 600, Toughness Absorption % 1->0.7(30%), Absorption: ALL 1, 
+Aux Damage Correction %: Poison, Scarlet Rot, Frostbite, Sleep 0.5
+SpEffectVfxParam(8570) - Play Category 3->0
 
 Starlight Shards:
 EquipParamGoods(1290) - Max Amount 10->5
@@ -314,7 +322,7 @@ AtkParam_Pc(300500, 300510, 300520, 300530, 300540, 300550, 300561) - Target SpE
 # ANIMATIONS--------------------------------
 (c0000.anibnd.dcx)
 
-Ruinous Black Flame Weapon Art Cast FX:
+Devouring Soul Flame Weapon Art Cast FX:
 a821_040000
 
 Quick Buff Erudition:
@@ -327,7 +335,7 @@ AddSpEffect 511084
 
 Black Sun's Zenith:
 a751_040040
-AddSpEffect 525003 (single frame)
+AddSpEffect 525004 (single frame)
 
 Baleful Strike:
 a600_040000
@@ -385,12 +393,12 @@ Metal greatshield painted with a sun in eclipse. Bestowed by Godwyn the Golden t
 The eclipsed sun, drained of color, is the protective star of the soulless. Through prayer to the Black Sun, a lost radiance to thwart even Ruinous Death can called upon once more.
 ------------------------------
 
-Goods(6050): Indomitable Flame
-Raises physical attack power, fire-affinity attack power, stamina recovery, cast speed, poise, and weapon stamina consumption
+Goods(6050): Flame, Grant Me Strength
+Raises physical attack power, fire-affinity attack power, stamina recovery, cast speed, and weapon stamina consumption
 ------------------------------
 Superior incantation of the Fire Monks.
 
-Creates an invigorating fire that will hasten and bolster the caster but leave them exhausted for a while after.
+Creates an invigorating fire that will strengthen and hasten the caster but exhaust them faster.
 
 This incantation does not burn the caster, and so it is considered forbidden by the guardians of the Flame.
 ------------------------------
@@ -421,6 +429,15 @@ A fetish bathed in golden magic.
 Shackles were used to bind the accursed people called the Omen, and this one was made to keep a particular Omen under strictest confinement.
 
 This shackle has been repurposed to draw in blight and expel it as a blinding shroud.
+------------------------------
+
+Goods(2150): Bloody Shackle
+Lights your blood aflame to damage and bleed yourself and surrounding enemies
+------------------------------
+A fetish bathed in golden magic.
+Shackles were used to bind the accursed people called the Omen, and this one was made to keep a particular Omen under strictest confinement.
+
+This shackle has been repurposed to set your blood alight with a blast of bloodflame.
 ------------------------------
 
 Rings(1050): Radagon's Scarseal
@@ -498,4 +515,10 @@ This charm is modelled after the darkly gleaming blades used in the Night of Bla
 Yapped Cleanup:
 param X: prop finalDamageRateId 0: finalDamageRateId: = vanillafield finalDamageRateId;
 param NpcParam: id .*: superArmorRecoverCorrection: = vanillafield superArmorRecoverCorrection;
+#-------------------------------------------
+
+# VFX---------------------------------------
+5849 - Heart Energy
+8210 - Invisible
+51951 - Gold Chest
 #-------------------------------------------
