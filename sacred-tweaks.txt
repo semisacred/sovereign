@@ -74,17 +74,18 @@ Blasphemous Blade:
 EquipParamWeapon(3140000) - Behavior Variation ID 314->200, Reinforcement Price 750->2250, Passive SpEffect 1 5031400->350500, Passive SpEffect 2 1626035, Damage: Physical 121->85, Damage: Fire 78->55, 
 Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Attribute 10, Weapon Hold Position - 1H 2->0, Weapon Hold Position - 2H 12->10, Requirement: ARC 12, Sword Arts Param ID 1014->100, 
 Correction: ARC 20
+Duplicate SpEffectParam 525002->525003 [SACRED] Blasphemous Blade Critical Bloodflame - Behavior ID 300000003
 Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 10, Rune Gain % 1.1, Cycle SpEffect ID 1626023, Effect Category 10, Correction +: FTH 50
 Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626024, 
 Accumulator - Over Value 2, Accumulator - Increment Value -9999
 Duplicate SpEffectParam 5151200->1626024 [SACRED] Ravenous Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
-Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Duration 2, Trigger Interval 3, Chain SpEffect ID -1, Cycle SpEffect ID 1626022, Effect Category 0, 
+Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Duration 1.5, Trigger Interval 3, Chain SpEffect ID -1, Cycle SpEffect ID 1626022, Effect Category 0, 
 Trigger on State Info [1] 0
-Duplicate SpEffectParam 1626025->1626026 [SACRED] Ravenous Bloodflame Skill Cost - Duration 180, Trigger Interval 0, Cycle SpEffect ID -1, Effect Category 20, Weapon Parameter Change 1, 
+Duplicate SpEffectParam 1626025->1626026 1626026 [SACRED] Ravenous Bloodflame Skill Cost - Duration 180, Trigger Interval 0, Cycle SpEffect ID -1, Effect Category 20, Weapon Parameter Change 1, 
 Skill FP Consumption % 0.5
 Duplicate SpEffectParam 3190->1626035 [SACRED] Blasphemous Blade Blood - Duration -1, Effect Category 0
 SpEffectParam(350500) - Icon ID 20215->-1
-SpEffectParam(350501) - Cycle SpEffect ID 1626025
+SpEffectParam(350501) - Trigger Interval 0.5, Cycle SpEffect ID 1626025, Effect Category 0
 SpEffectParam(350502) - Cycle SpEffect ID 1626026, Effect VFX [0] 350500->5031401
 SwordArtsParam(100) - FP Consumption - L2 20->50
 EquipParamGem(40 through 100) - Affinity: ALL Uncheck
@@ -136,7 +137,7 @@ SpEffectParam(1643101) - Duration 90->180
 
 Flame, Grant Me Strength:
 Magic(6050) - FP Consumption - Default 28->42, Stamina Consumption - Default 16->24, Requirement: FTH 15->20
-SpEffectParam(1605000) - Duration 30->180, Cast Speed 0->30, Weapon Stamina Consumption % 1.2
+SpEffectParam(1605000) - Duration 30->180, Cast Speed 0->30, Weapon Stamina Consumption % 1.2, Absorption %: Fire 0.7
 
 Flame of the Fell God:
 Magic(6110) - 42->100 FP Consumption, Stamina Consumption - Default 42->84, Number of Uses -1->1

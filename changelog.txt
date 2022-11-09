@@ -3,6 +3,8 @@
 #------------------------------------------
 
 # Spells
+- Flame, Grant Me Strength
+ - +30% fire resistance
 - Dragonbolt Blessing
  - Resistances removed
 
