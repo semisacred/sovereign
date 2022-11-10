@@ -244,7 +244,7 @@ Duplicate SpEffectParam 525000->525002 [SACRED] Mohg's Shackle Bloodflame Blast 
 Duplicate SpEffectParam 1626011->1626028 [SACRED] Mohg's Shackle Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 14, Current HP + 160, 
 Chain Speffect ID 1626029, Cycle Speffect ID 105275
 Duplicate SpEffectParam 1626028->1626029 [SACRED] Mohg's Shackle Apply 2 - Current HP % 0, Current HP + 0, Chain Speffect ID 1605000, Cycle Speffect ID 1626030
-Duplicate SpEffectParam 1655->1626030 [SACRED] Mohg's Shackle Bloodboil - Duration 600, Toughness Absorption % 1->0.7(30%), Cycle Speffect ID 1626031, Absorption: ALL 1, 
+Duplicate SpEffectParam 1655->1626030 [SACRED] Mohg's Shackle Bloodboil - Duration 600, Toughness Absorption % 1->0.7(30%), Cycle Speffect ID 1626031, Effect Category 20, Absorption: ALL 1, 
 Aux Damage Correction %: Poison, Scarlet Rot, Frostbite, Sleep 0.5
 Duplicate SpEffectParam 340600->1626031 [SACRED] Mohg's Shackle Bloodboil Crit Protection
 SpEffectVfxParam(8570) - Play Category 3->0
@@ -342,6 +342,10 @@ AddSpEffect 525004 (single frame)
 Baleful Strike:
 a600_040000
 InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3002, Offset -1, Unk12 255
+
+Faster Sword Critical Hit:
+a023_031750
+Event(608) - 1.2x Speed  
 #-------------------------------------------
 
 

@@ -2,6 +2,9 @@
 # 6.5-1.07.1
 #------------------------------------------
 
+# Animation
+- 1.2x faster sword critical hit animation
+
 # Spells
 - Flame, Grant Me Strength
  - +30% fire resistance
