@@ -342,10 +342,6 @@ AddSpEffect 525004 (single frame)
 Baleful Strike:
 a600_040000
 InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3002, Offset -1, Unk12 255
-
-Faster Sword Critical Hit:
-a023_031750
-Event(608) - 1.2x Speed  
 #-------------------------------------------
 
 
