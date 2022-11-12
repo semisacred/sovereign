@@ -3,12 +3,17 @@
 #------------------------------------------
 
 # Weapons
+- Blasphemous Blade
+ - Stat requirements to vanilla values
 - Godslayer's Greatsword
+ -Requires 34->30 FTH
  - Devouring Soul Flame
   - Black Flame
    - FTH Correction 180->240
   - Soul Flame
    - FTH Correction 360->420
+- Eclipse Crest Greatshield
+ - Stat requirements to vanilla values
 
 # Items
 - Numen's Rune
