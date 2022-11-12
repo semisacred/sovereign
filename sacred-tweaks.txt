@@ -45,7 +45,7 @@ AtkParam_Npc(280000) - Damage: Fire 172->516
 # MAIN WEAPONS------------------------------
 Blasphemous Blade:
 EquipParamWeapon(3140000) - Behavior Variation ID 314->200, Reinforcement Price 750->2250, Passive SpEffect 1 5031400->350500, Passive SpEffect 2 1626035, Damage: Physical 121->85, Damage: Fire 78->55, 
-Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Attribute 10, Weapon Hold Position - 1H 2->0, Weapon Hold Position - 2H 12->10, Sword Arts Param ID 1014->100, Requirement: FTH 20->28, Is Buffable Check
+Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Attribute 10, Weapon Hold Position - 1H 2->0, Weapon Hold Position - 2H 12->10, Sword Arts Param ID 1014->100, Requirement: FTH 20->30, Is Buffable Check
 Duplicate SpEffectParam 525002->525003 [SACRED] Blasphemous Blade Critical Bloodflame - Behavior ID 300000003
 Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 10, Rune Gain % 1.1, Cycle SpEffect ID 1626023, Effect Category 10, Correction +: FTH 50
 Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626024, 
@@ -89,7 +89,7 @@ SpEffectParam(1806) - Duration 30->0.1, Damage +: Magic 50->0, Chain SpEffect ID
 Effect VFX [0] 8655->-1
 
 Eclipse Crest Greatshield:
-EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Requirement: FTH 0->32, Guard Absorption: Holy 59->90, Sword Arts Param ID 10->701, Ash of War Type 2->0
+EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Requirement: FTH 0->28, Guard Absorption: Holy 59->90, Sword Arts Param ID 10->701, Ash of War Type 2->0
 Duplicate SpEffectParam 1794->1626032 [SACRED] Black Sun Blight - Duration 0.5, Trigger Interval 0.6, Aux Inflict +: Blight 60, Weapon Parameter Change 0, Target Self Check
 Duplicate SpEffectParam 525002->525004 [SACRED] Vow Wrath - Duration 0.5, Trigger Interval 1, Behavior ID 2504, Cycle SpEffect ID 1626032
 Duplicate BehaviorParam_PC 2502->2504 [SACRED] Vow Wrath - Reference ID 10641100
