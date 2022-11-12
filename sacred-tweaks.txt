@@ -73,7 +73,7 @@ Effect VFX [0] 8655->-1
 Blasphemous Blade:
 EquipParamWeapon(3140000) - Behavior Variation ID 314->200, Reinforcement Price 750->2250, Passive SpEffect 1 5031400->350500, Passive SpEffect 2 1626035, Damage: Physical 121->85, Damage: Fire 78->55, 
 Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Attribute 10, Weapon Hold Position - 1H 2->0, Weapon Hold Position - 2H 12->10, Requirement: ARC 12, Sword Arts Param ID 1014->100, 
-Correction: ARC 20
+Correction: ARC 20, Is Buffable Check
 Duplicate SpEffectParam 525002->525003 [SACRED] Blasphemous Blade Critical Bloodflame - Behavior ID 300000003
 Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 10, Rune Gain % 1.1, Cycle SpEffect ID 1626023, Effect Category 10, Correction +: FTH 50
 Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626024, 
@@ -81,8 +81,8 @@ Accumulator - Over Value 2, Accumulator - Increment Value -9999
 Duplicate SpEffectParam 5151200->1626024 [SACRED] Ravenous Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
 Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Duration 1.5, Trigger Interval 3, Chain SpEffect ID -1, Cycle SpEffect ID 1626022, Effect Category 0, 
 Trigger on State Info [1] 0
-Duplicate SpEffectParam 1626025->1626026 1626026 [SACRED] Ravenous Bloodflame Skill Cost - Duration 180, Trigger Interval 0, Cycle SpEffect ID -1, Effect Category 20, Weapon Parameter Change 1, 
-Skill FP Consumption % 0.5
+Duplicate SpEffectParam 1626025->1626026 1626026 [SACRED] Ravenous Bloodflame Skill Cost - Duration 180, Trigger Interval 0, Cycle SpEffect ID -1, Effect Category 10, Weapon Parameter Change 1, 
+Skill FP Consumption % 0.9
 Duplicate SpEffectParam 3190->1626035 [SACRED] Blasphemous Blade Blood - Duration -1, Effect Category 0
 SpEffectParam(350500) - Icon ID 20215->-1
 SpEffectParam(350501) - Trigger Interval 0.5, Cycle SpEffect ID 1626025, Effect Category 0
@@ -90,7 +90,7 @@ SpEffectParam(350502) - Cycle SpEffect ID 1626026, Effect VFX [0] 350500->503140
 SwordArtsParam(100) - FP Consumption - L2 20->50
 EquipParamGem(40 through 100) - Affinity: ALL Uncheck
 Duplicate BehaviorParam_PC 300000000->300000002 [SACRED] Baleful Strike - Behavior Judge ID 2, Reference Type 1, Reference ID 10630002, Stamina Cost 0, Shooter SpEffect ID 1605000 
-Duplicate Bullet 10630000->10630002 [SACRED] Baleful Strike - AtkParam ID 63000, Duration 0.01
+Duplicate Bullet 10630000->10630002 [SACRED] Baleful Strike - Duration 0.01
 
 Eclipse Crest Greatshield:
 EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Requirement: FTH 0->30, Sword Arts Param ID 10->701, Ash of War Type 2->0
@@ -127,6 +127,11 @@ Black Flame Blade:
 Magic(6250) - FP Consumption - Default 15->30, Stamina Consumption - Default 10->20, Requirement: FTH 17->20
 SpEffectParam(1626000) - Duration 7->14
 
+Ravenous Bloodflame (Bloodflame Blade):
+Magic(6250) - Requirement: ARC 10->12, Requirement: FTH 12->21, Reference ID [1] 1626020
+Duplicate SpEffectParam 350503->1626020 [SACRED] Bloodflame Blade Apply - Duration 0.1, Trigger Interval 0.2, Current HP % 0, Current HP + 0, Chain SpEffect 1626021, Cycle SpEffect 1626026, Effect VFX [0] -1, Trigger on State Info [1] 0
+Duplicate SpEffectParam 1626022->1626021 - Arcane -1
+
 Blessing's Boon:
 SpEffectParam(1643000) - Duration 90->180
 SpEffectParam(1643001) - Duration 90->180
@@ -137,7 +142,7 @@ SpEffectParam(1643101) - Duration 90->180
 
 Flame, Grant Me Strength:
 Magic(6050) - FP Consumption - Default 28->42, Stamina Consumption - Default 16->24, Requirement: FTH 15->20
-SpEffectParam(1605000) - Duration 30->180, Cast Speed 0->30, Weapon Stamina Consumption % 1.2, Absorption %: Fire 0.7
+SpEffectParam(1605000) - Duration 30->180, Cast Speed 0->30, Weapon Stamina Consumption % 1.2, Absorption %: Fire 0.8
 
 Flame of the Fell God:
 Magic(6110) - 42->100 FP Consumption, Stamina Consumption - Default 42->84, Number of Uses -1->1
@@ -238,15 +243,16 @@ Duplicate SpEffectParam 1653001->1654001 [SACRED] Margit's Shackle Darkness [Cha
 Bloody Shackle (Mohg's Shackle):
 Duplicate BehaviorParam_PC 2501->2502 [SACRED] Mohg's Shackle Bloodflame Blast - Reference ID 10215001
 Bullet(10215000) - Duration 0.01, Shooter SpEffect ID 525002
-Duplicate Bullet 10630002->10215001 [SACRED] Mohg's Shackle Bloodflame Blast - Duration 0.5, Initial Hit Radius 4, Final Hit Radius 4, Hit Bullet ID 10630001, 
-Shooter SpEffect ID 1626028, Target SpEffect ID [0] 105275, Target SpEffect ID [1] 525002
+Duplicate Bullet 10630000->10215001 [SACRED] Mohg's Shackle Bloodflame Blast - Duration 0.5, Initial Hit Radius 4, Final Hit Radius 4, Hit Bullet ID 10215002, 
+Shooter SpEffect ID 1626028
+Duplicate Bullet 10630001->10215002 [SACRED] Mohg's Shackle Bloodflame Blast - Initial Hit Radius 4, Final Hit Radius 4,Target SpEffect ID [0] 105276, Target SpEffect ID [1] 1626027
+Duplicate SpEffectParam 105275->105276 [SACRED] Mohg's Shackle Bloodflame Blast Bleed - Aux Inflict +: Hemorrhage 240
 Duplicate SpEffectParam 525000->525002 [SACRED] Mohg's Shackle Bloodflame Blast - Behavior ID 2502
-Duplicate SpEffectParam 1626011->1626028 [SACRED] Mohg's Shackle Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 14, Current HP + 160, 
+Duplicate SpEffectParam 1626011->1626028 [SACRED] Mohg's Shackle Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 19, Current HP + 160, 
 Chain Speffect ID 1626029, Cycle Speffect ID 105275
 Duplicate SpEffectParam 1626028->1626029 [SACRED] Mohg's Shackle Apply 2 - Current HP % 0, Current HP + 0, Chain Speffect ID 1605000, Cycle Speffect ID 1626030
-Duplicate SpEffectParam 1655->1626030 [SACRED] Mohg's Shackle Bloodboil - Duration 600, Toughness Absorption % 1->0.7(30%), Cycle Speffect ID 1626031, Effect Category 20, Absorption: ALL 1, 
-Aux Damage Correction %: Poison, Scarlet Rot, Frostbite, Sleep 0.5
-Duplicate SpEffectParam 340600->1626031 [SACRED] Mohg's Shackle Bloodboil Crit Protection
+Duplicate SpEffectParam 1655->1626030 [SACRED] Mohg's Shackle Bloodboil - Duration 600, Toughness Absorption % 1->0.7(30%), Effect Category 20, Absorption: ALL 0.9, 
+Aux Damage Correction %: Poison, Scarlet Rot, Frostbite, Sleep 0.5, Aux Damage Correction %: Hemorrhage 1.5
 SpEffectVfxParam(8570) - Play Category 3->0
 
 Starlight Shards:
@@ -342,6 +348,10 @@ AddSpEffect 525004 (single frame)
 Baleful Strike:
 a600_040000
 InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3002, Offset -1, Unk12 255
+
+Ravenous Bloodflame:
+a512_045100 - AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 2
+a512_045110 - AnimSpeedGradient - SpeedAtStart 2, SPeedAtEnd 1.5
 #-------------------------------------------
 
 
@@ -403,6 +413,17 @@ Superior incantation of the Fire Monks.
 Creates an invigorating fire that will strengthen and hasten the caster but exhaust them faster.
 
 This incantation does not burn the caster, and so it is considered forbidden by the guardians of the Flame.
+------------------------------
+
+Goods(6320): Ravenous Bloodflame
+Enchants right-hand armament with a hungry bloodflame
+------------------------------
+A Blood Oath incantation, granted by the Lord of Blood.
+
+Engulfs armament held in the right hand with bloodflame.
+This incantation can be cast multiple times, as long as you have enough Arcane, to stack its effects.
+
+After dealing damage, bloodflame continues to build up onset of blood loss for a very short time.
 ------------------------------
 
 Goods(2913): Numen's Rune

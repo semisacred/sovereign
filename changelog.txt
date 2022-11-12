@@ -3,15 +3,25 @@
 #------------------------------------------
 
 # Spells
+- Bloodflame Blade -> Ravenous Bloodflame
+ - -1 ARC per stack (castable stacks = ARC - 12)
+ - -10% FP Skill Consumption per stack 
 - Flame, Grant Me Strength
- - +30% fire resistance
+ - +20% fire resistance
 - Dragonbolt Blessing
  - Resistances removed
 
  # Items
-- Mohg's Shackle -> Bloody Shackle
+- Bloody Shackle
+ - 14%->19% HP damage
+ - Inflicts 120->240 Hemorrhage to enemies
  - Bloodboil 
-  - +30% crit protection
+  - +10% damage negation
+  - +50% Hemorrhage gain
+
+# Animations
+ - Ravenous Bloodflame
+  - Up to 2x faster cast animation
 
 #------------------------------------------
 # 6.4-1.07.1
