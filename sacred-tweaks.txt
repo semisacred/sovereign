@@ -43,6 +43,28 @@ AtkParam_Npc(280000) - Damage: Fire 172->516
 #-------------------------------------------
 
 # MAIN WEAPONS------------------------------
+Blasphemous Blade:
+EquipParamWeapon(3140000) - Behavior Variation ID 314->200, Reinforcement Price 750->2250, Passive SpEffect 1 5031400->350500, Passive SpEffect 2 1626035, Damage: Physical 121->85, Damage: Fire 78->55, 
+Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Attribute 10, Weapon Hold Position - 1H 2->0, Weapon Hold Position - 2H 12->10, Requirement: ARC 12, Sword Arts Param ID 1014->100, 
+Correction: ARC 20, Is Buffable Check
+Duplicate SpEffectParam 525002->525003 [SACRED] Blasphemous Blade Critical Bloodflame - Behavior ID 300000003
+Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 10, Rune Gain % 1.1, Cycle SpEffect ID 1626023, Effect Category 10, Correction +: FTH 50
+Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626024, 
+Accumulator - Over Value 2, Accumulator - Increment Value -9999
+Duplicate SpEffectParam 5151200->1626024 [SACRED] Ravenous Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
+Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Duration 1.5, Trigger Interval 3, Chain SpEffect ID -1, Cycle SpEffect ID 1626022, Effect Category 0, 
+Trigger on State Info [1] 0
+Duplicate SpEffectParam 1626025->1626026 1626026 [SACRED] Ravenous Bloodflame Skill Cost - Duration 180, Trigger Interval 0, Cycle SpEffect ID -1, Effect Category 10, Weapon Parameter Change 1, 
+Skill FP Consumption % 0.9
+Duplicate SpEffectParam 3190->1626035 [SACRED] Blasphemous Blade Blood - Duration -1, Effect Category 0
+SpEffectParam(350500) - Icon ID 20215->-1
+SpEffectParam(350501) - Trigger Interval 0.5, Cycle SpEffect ID 1626025, Effect Category 0
+SpEffectParam(350502) - Cycle SpEffect ID 1626026, Effect VFX [0] 350500->5031401
+SwordArtsParam(100) - FP Consumption - L2 20->50
+EquipParamGem(40 through 100) - Affinity: ALL Uncheck
+Duplicate BehaviorParam_PC 300000000->300000002 [SACRED] Baleful Strike - Behavior Judge ID 2, Reference Type 1, Reference ID 10630002, Stamina Cost 0, Shooter SpEffect ID 1605000 
+Duplicate Bullet 10630000->10630002 [SACRED] Baleful Strike - Duration 0.01
+
 Godslayer's Greatsword:
 EquipParamWeapon(4070000) - Behavior Variation ID 404->319, Weight 17.5->15.5, Reinforcement Price 1180->3540, Correction: STR 31->40, Correction: DEX 52->20, 
 Correction: FTH 40->60, Damage: Physical 119->66, Damage: Fire 77->33, Weapon Motion Category 26->25, Special Attribute 13, Special Motion Category 137->0, Requirement: STR 20->24, 
@@ -66,28 +88,6 @@ SpEffectVfxParam(8655) - Trace SFX ID Offset Type 19->17
 SwordArtsParam(1021) - FP Consumption - L2 20->60
 SpEffectParam(1806) - Duration 30->0.1, Damage +: Magic 50->0, Chain SpEffect ID 1626010, Cycle SpEffect ID 1626003, Attack SpEffect ID 1809->-1, 
 Effect VFX [0] 8655->-1
-
-Blasphemous Blade:
-EquipParamWeapon(3140000) - Behavior Variation ID 314->200, Reinforcement Price 750->2250, Passive SpEffect 1 5031400->350500, Passive SpEffect 2 1626035, Damage: Physical 121->85, Damage: Fire 78->55, 
-Critical Multiplier 0->10, Weapon Motion Category 25->23, Special Attribute 10, Weapon Hold Position - 1H 2->0, Weapon Hold Position - 2H 12->10, Requirement: ARC 12, Sword Arts Param ID 1014->100, 
-Correction: ARC 20, Is Buffable Check
-Duplicate SpEffectParam 525002->525003 [SACRED] Blasphemous Blade Critical Bloodflame - Behavior ID 300000003
-Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 10, Rune Gain % 1.1, Cycle SpEffect ID 1626023, Effect Category 10, Correction +: FTH 50
-Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626024, 
-Accumulator - Over Value 2, Accumulator - Increment Value -9999
-Duplicate SpEffectParam 5151200->1626024 [SACRED] Ravenous Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
-Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Duration 1.5, Trigger Interval 3, Chain SpEffect ID -1, Cycle SpEffect ID 1626022, Effect Category 0, 
-Trigger on State Info [1] 0
-Duplicate SpEffectParam 1626025->1626026 1626026 [SACRED] Ravenous Bloodflame Skill Cost - Duration 180, Trigger Interval 0, Cycle SpEffect ID -1, Effect Category 10, Weapon Parameter Change 1, 
-Skill FP Consumption % 0.9
-Duplicate SpEffectParam 3190->1626035 [SACRED] Blasphemous Blade Blood - Duration -1, Effect Category 0
-SpEffectParam(350500) - Icon ID 20215->-1
-SpEffectParam(350501) - Trigger Interval 0.5, Cycle SpEffect ID 1626025, Effect Category 0
-SpEffectParam(350502) - Cycle SpEffect ID 1626026, Effect VFX [0] 350500->5031401
-SwordArtsParam(100) - FP Consumption - L2 20->50
-EquipParamGem(40 through 100) - Affinity: ALL Uncheck
-Duplicate BehaviorParam_PC 300000000->300000002 [SACRED] Baleful Strike - Behavior Judge ID 2, Reference Type 1, Reference ID 10630002, Stamina Cost 0, Shooter SpEffect ID 1605000 
-Duplicate Bullet 10630000->10630002 [SACRED] Baleful Strike - Duration 0.01
 
 Eclipse Crest Greatshield:
 EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Requirement: FTH 0->30, Guard Absorption: Holy 59->90, Sword Arts Param ID 10->701, Ash of War Type 2->0
