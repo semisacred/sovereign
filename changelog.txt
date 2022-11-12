@@ -2,6 +2,11 @@
 # 6.5-1.07.1
 #------------------------------------------
 
+# Weapons
+- Godslayer's Greatsword
+ - Devour
+  - +2% damage for Godslayer's Incantations per stack
+
 # Spells
 - Bloodflame Blade -> Ravenous Bloodflame
  - Cast it and take 7% + 80 HP damage and 60 Hemorrhage

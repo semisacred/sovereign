@@ -54,9 +54,12 @@ EquipParamWeapon(4070000) - Behavior Variation ID 404->319, Weight 17.5->15.5, R
 Correction: FTH 40->60, Damage: Physical 119->66, Damage: Fire 77->33, Weapon Motion Category 26->25, Special Attribute 13, Special Motion Category 137->0, Requirement: STR 20->24, 
 Requirement: DEX  22->16, Requirement: FTH 20->30, Sword Arts Param ID 1170->1021
 Duplicate SpEffectParam 1626000->1626003 [SACRED] GG Black Flame - Duration 60, Damage +: Fire 65, Effect Category 20, Correction +: FTH 180, Skill FP Consumption % 0.5
-Duplicate SpEffectParam 5031400->1626004 [SACRED] GG Devour [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626005
+Duplicate SpEffectParam 5031400->1626004 [SACRED] GG Devour [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626007
 Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Devour - Icon ID 20295, Duration 600, Max HP 1.01, Max FP 1.01, Max Stamina 1.01, Current HP % 0, 
 Current HP + 0, Effect Category 10 - Stack Self, Effect VFX 0 9010, Toughness Absorption % 0.99(1%)
+Duplicate SpEffectParam 1922->1626006 [SACRED] GG Devour Godslayer's Damage - Duration 600, Attack %: 1.1->1.02
+Duplicate SpEffectParam 350502->1626007 [SACRED] GG Devour Apply - Duration 0.1, Trigger Interval 0.2, Current HP % 0, Current HP + 0, Chain SpEffect 1626005, Cycle SpEffect 1626006, 
+Effect VFX [0] -1, Trigger on State Info [1] 0
 Duplicate SpEffectParam 320800->1626008 [SACRED] GG Soul Flame [Hit Trigger] - Icon ID -1, Duration 7, Cycle SpEffect ID 1626004, Weapon Parameter Change 1, 
 Accumulator - Over Value - SpEffect ID 1806, Accumulator - Over Value 2, Accumulator - Increment Value -9999
 Duplicate SpEffectParam 1691->1626009 [SACRED] GG Soul Flame - Duration 7, Attack %: ALL 1, Attack %: Stamina 2, Rune Gain % 0, Cycle SpEffect ID 1626004, 
@@ -130,7 +133,7 @@ SpEffectParam(1626000) - Duration 7->14
 Ravenous Bloodflame (Bloodflame Blade):
 Magic(6250) - Requirement: ARC 10->12, Requirement: FTH 12->21, Reference ID [1] 1626019
 Duplicate SpEffectParam 105275->105277 [SACRED] Bloodflame Blade Self Bleed - Aux Inflict +: Hemorrhage 60
-Duplicate SpEffectParam 350503->1626019 [SACRED] Bloodflame Blade Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % -7, Current HP + 80, Chain SpEffect 1626020, Cycle SpEffect 1626026, 
+Duplicate SpEffectParam 350502->1626019 [SACRED] Bloodflame Blade Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % -7, Current HP + 80, Chain SpEffect 1626020, Cycle SpEffect 1626026, 
 Effect VFX [0] -1, Trigger on State Info [1] 0
 Duplicate SpEffectParam 1626019->1626020 [SACRED] Bloodflame Blade Apply 2 - Current HP % 0, Current HP + 0, Chain SpEffect 105277, Cycle SpEffect 1626021
 Duplicate SpEffectParam 1626022->1626021 - Arcane -1
