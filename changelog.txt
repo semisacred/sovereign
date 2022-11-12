@@ -10,8 +10,9 @@
 
 # Weapons
 - Blasphemous Blade
- - Removed ARC requirement
+ - Removed ARC requirement, FTH 21->28
 - Godslayer's Greatsword
+ -Requires 30->34 FTH
  - Devour
   - +2% damage for Godslayer's Incantations per stack
 - Eclipse Crest Greatshield
