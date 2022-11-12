@@ -219,7 +219,7 @@ Numen's Rune:
 EquipParamGoods(2913) - Sell Value 1000, Sort ID 9140->521, Max Amount 99->3
 SpEffectParam(3282) - Current HP % -100, Current FP % -100, Rune Gain + 0, Chain SpEffect ID 3294, Cycle SpEffect ID 1605000
 Duplicate ShopLineupParam_Recipe 30100->35001 [SACRED] Numen's Rune - Reference ID 2913, Sell Price Overwrite 4000, Required Material ID 35001
-Duplicate EquipMtrlSetParam 0->35001 [SACRED] Numen's Rune - Material ID [1] 1760, Material Amount [1] 4
+Duplicate EquipMtrlSetParam 0->35001 [SACRED] Numen's Rune - Material ID [1] 1760, Material Amount [1] 1
 
 Opaline Bubblesoap (Soap):
 SpEffectParam(502120) - Cycle SpEffect ID 3507

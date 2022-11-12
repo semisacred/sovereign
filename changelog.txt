@@ -10,6 +10,10 @@
   - Soul Flame
    - FTH Correction 360->420
 
+# Items
+- Numen's Rune
+ - Craftable: 4->1 Ruin Fragment
+
 # Animations
  - Ravenous Bloodflame
   - 2x->1.5x faster cast animation   
