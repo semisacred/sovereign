@@ -93,7 +93,7 @@ Duplicate BehaviorParam_PC 300000000->300000002 [SACRED] Baleful Strike - Behavi
 Duplicate Bullet 10630000->10630002 [SACRED] Baleful Strike - Duration 0.01
 
 Eclipse Crest Greatshield:
-EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Requirement: FTH 0->30, Sword Arts Param ID 10->701, Ash of War Type 2->0
+EquipParamWeapon(32240000) - Reinforcement Price 900->2700, Passive SpEffect 1 5322400->-1, Requirement: FTH 0->30, Guard Absorption: Holy 59->90, Sword Arts Param ID 10->701, Ash of War Type 2->0
 Duplicate SpEffectParam 1794->1626032 [SACRED] Black Sun Blight - Duration 0.5, Trigger Interval 0.6, Aux Inflict +: Blight 60, Weapon Parameter Change 0, Target Self Check
 Duplicate SpEffectParam 525002->525004 [SACRED] Vow Wrath - Duration 0.5, Trigger Interval 1, Behavior ID 2504, Cycle SpEffect ID 1626032
 Duplicate BehaviorParam_PC 2502->2504 [SACRED] Vow Wrath - Reference ID 10641100
@@ -128,8 +128,11 @@ Magic(6250) - FP Consumption - Default 15->30, Stamina Consumption - Default 10-
 SpEffectParam(1626000) - Duration 7->14
 
 Ravenous Bloodflame (Bloodflame Blade):
-Magic(6250) - Requirement: ARC 10->12, Requirement: FTH 12->21, Reference ID [1] 1626020
-Duplicate SpEffectParam 350503->1626020 [SACRED] Bloodflame Blade Apply - Duration 0.1, Trigger Interval 0.2, Current HP % 0, Current HP + 0, Chain SpEffect 1626021, Cycle SpEffect 1626026, Effect VFX [0] -1, Trigger on State Info [1] 0
+Magic(6250) - Requirement: ARC 10->12, Requirement: FTH 12->21, Reference ID [1] 1626019
+Duplicate SpEffectParam 105275->105277 [SACRED] Bloodflame Blade Self Bleed - Aux Inflict +: Hemorrhage 60
+Duplicate SpEffectParam 350503->1626019 [SACRED] Bloodflame Blade Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % -7, Current HP + 80, Chain SpEffect 1626020, Cycle SpEffect 1626026, 
+Effect VFX [0] -1, Trigger on State Info [1] 0
+Duplicate SpEffectParam 1626019->1626020 [SACRED] Bloodflame Blade Apply 2 - Current HP % 0, Current HP + 0, Chain SpEffect 105277, Cycle SpEffect 1626021
 Duplicate SpEffectParam 1626022->1626021 - Arcane -1
 
 Blessing's Boon:

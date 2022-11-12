@@ -4,6 +4,7 @@
 
 # Spells
 - Bloodflame Blade -> Ravenous Bloodflame
+ - Cast it and take 7% + 80 HP damage and 60 Hemorrhage
  - -1 ARC per stack (castable stacks = ARC - 12)
  - -10% FP Skill Consumption per stack 
 - Flame, Grant Me Strength
@@ -11,7 +12,10 @@
 - Dragonbolt Blessing
  - Resistances removed
 
- # Items
+# Items
+- Eclipse Crest Greatshield
+ - Requires 31 STR / 30->26 FTH / +12 ARC
+ - Guard Absorption: Holy 59->90
 - Bloody Shackle
  - 14%->19% HP damage
  - Inflicts 120->240 Hemorrhage to enemies
