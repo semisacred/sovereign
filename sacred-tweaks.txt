@@ -344,8 +344,8 @@ a600_040000
 InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3002, Offset -1, Unk12 255
 
 Ravenous Bloodflame:
-a512_045100 - AnimSpeedGradient - SpeedAtStart 1, SPeedAtEnd 2
-a512_045110 - AnimSpeedGradient - SpeedAtStart 2, SPeedAtEnd 1.5
+a512_045100 - AnimSpeedGradient - SpeedAtStart 1, SPeedAtEnd 1.5
+a512_045110 - AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 1.5
 #-------------------------------------------
 
 # FX----------------------------------------
