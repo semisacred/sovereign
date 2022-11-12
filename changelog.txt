@@ -2,6 +2,12 @@
 # 6.6-1.07.1
 #------------------------------------------
 
+# Weapons
+- Blasphemous Blade
+ - Removed ARC requirement
+- Eclipse Crest Greatshield
+ - Removed ARC requirement, 26->32 FTH
+
 # Animations
  - Ravenous Bloodflame
   - Cast animation tweaked
@@ -14,6 +20,9 @@
 - Godslayer's Greatsword
  - Devour
   - +2% damage for Godslayer's Incantations per stack
+- Eclipse Crest Greatshield
+ - Requires 32 STR / 30->26 FTH / +13 ARC
+ - Guard Absorption: Holy 59->90
 
 # Spells
 - Black Flame Blade
@@ -28,9 +37,6 @@
  - Resistances removed
 
 # Items
-- Eclipse Crest Greatshield
- - Requires 32 STR / 30->26 FTH / +13 ARC
- - Guard Absorption: Holy 59->90
 - Bloody Shackle
  - 14%->19% HP damage
  - Inflicts 120->240 Hemorrhage to enemies
