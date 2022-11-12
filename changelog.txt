@@ -14,7 +14,7 @@
 
 # Items
 - Eclipse Crest Greatshield
- - Requires 31 STR / 30->26 FTH / +12 ARC
+ - Requires 32 STR / 30->26 FTH / +12 ARC
  - Guard Absorption: Holy 59->90
 - Bloody Shackle
  - 14%->19% HP damage
