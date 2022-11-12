@@ -68,7 +68,7 @@ Godslayer's Greatsword:
 EquipParamWeapon(4070000) - Behavior Variation ID 404->319, Weight 17.5->15.5, Reinforcement Price 1180->3540, Correction: STR 31->40, Correction: DEX 52->20, 
 Correction: FTH 40->60, Damage: Physical 119->66, Damage: Fire 77->33, Weapon Motion Category 26->25, Special Attribute 13, Special Motion Category 137->0, Requirement: STR 20->24, 
 Requirement: DEX  22->16, Requirement: FTH 20->34, Sword Arts Param ID 1170->1021
-Duplicate SpEffectParam 1626000->1626003 [SACRED] GG Black Flame - Duration 60, Damage +: Fire 65, Effect Category 20, Correction +: FTH 180, Skill FP Consumption % 0.5
+Duplicate SpEffectParam 1626000->1626003 [SACRED] GG Black Flame - Duration 60, Damage +: Fire 65, Effect Category 20, Correction +: FTH 240, Skill FP Consumption % 0.5
 Duplicate SpEffectParam 5031400->1626004 [SACRED] GG Devour [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626007
 Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Devour - Icon ID 20295, Duration 600, Max HP 1.01, Max FP 1.01, Max Stamina 1.01, Current HP % 0, 
 Current HP + 0, Effect Category 10 - Stack Self, Effect VFX 0 9010, Toughness Absorption % 0.99(1%)
@@ -78,7 +78,7 @@ Effect VFX [0] -1, Trigger on State Info [1] 0
 Duplicate SpEffectParam 320800->1626008 [SACRED] GG Soul Flame [Hit Trigger] - Icon ID -1, Duration 7, Cycle SpEffect ID 1626004, Weapon Parameter Change 1, 
 Accumulator - Over Value - SpEffect ID 1806, Accumulator - Over Value 2, Accumulator - Increment Value -9999
 Duplicate SpEffectParam 1691->1626009 [SACRED] GG Soul Flame - Duration 7, Attack %: ALL 1, Attack %: Stamina 2, Rune Gain % 0, Cycle SpEffect ID 1626004, 
-Effect Category 20, Effect VFX [0] 8655, Correction +: FTH 360
+Effect Category 20, Effect VFX [0] 8655, Correction +: FTH 420
 Duplicate SpEffectParam 1626004->1626010 [SACRED] GG Soul Flame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, 
 Kill SpEffect ID 0
 Duplicate SpEffectParam 6500->1626011 [SACRED] GG Soul Flame HP Cost - Duration 0.2, Trigger Interval 0.1, Current HP % 0, Current HP + 2, Effect Category 0, State Info 0, Aux Inflict +: Poison 0, Use Status Ailment AP Correction Uncheck, 

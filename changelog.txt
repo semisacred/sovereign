@@ -2,7 +2,13 @@
 # 6.6-1.07.1
 #------------------------------------------
 
-
+# Weapons
+- Godslayer's Greatsword
+ - Devouring Soul Flame
+  - Black Flame
+   - FTH Correction 180->240
+  - Soul Flame
+   - FTH Correction 360->420
 
 #------------------------------------------
 # 6.5-1.07.1
