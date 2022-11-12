@@ -2,7 +2,6 @@
 # SACRED TWEAKS
 #-------------------------------------------
 
-
 # DIFFICULTY MODIFIER-----------------------
 SpEffectParam(7000 through 7280) - Cycle SpEffect ID 7399
 Duplicate SpEffectParam 7280->7399 [SACRED] Difficulty Modifier - Duration -1, Max HP % 1.5, Max FP % 1.5, Max Stamina % 1.5, Attack %: ALL 1.5, Defence %: ALL 1.5, 
@@ -12,11 +11,9 @@ Attack %: Stamina 1, Aux Resist %: Hemorrhage 1, AI Vision Correction 1, Listen 
 NpcParam(100000010 through 170002000) - SpEffect ID [3] 7398
 #-------------------------------------------
 
-
 # DEFLECT/TIMED BLOCK-----------------------
 SpEffectParam(6202002, 6202003, 6202004, 6202005)
 #-------------------------------------------
-
 
 # QUICK BUFF--------------------------------
 Erudition:
@@ -26,7 +23,6 @@ Duplicate SpEffectParam 3288->3294 [SACRED] Numen's/Erudition [Quick Buff 2] - R
 Duplicate SpEffectParam 3294->3295 [SACRED] Numen's/Erudition [Quick Buff 3] - Chain SpEffect ID 3296, Cycle SpEffect ID 3507
 Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - Chain SpEffect ID 1697102, Cycle SpEffect ID 1626029
 #-------------------------------------------
-
 
 # FALL DAMAGE REWORK------------------------
 EquipParamAccessory(6040) - SpEffect ID [1] 360401
@@ -42,11 +38,9 @@ Duplicate BehaviorParam_PC 2105->2500 [SACRED] Hard Landing Damage - Reference I
 Duplicate SpEffectParam 511081->525000 [SACRED] Hard Landing Damage - Behavior ID 2500, Effect VFX [0] -1
 #-------------------------------------------
 
-
 # LAVA DAMAGE REWORK------------------------
 AtkParam_Npc(280000) - Damage: Fire 172->516
 #-------------------------------------------
-
 
 # MAIN WEAPONS------------------------------
 Godslayer's Greatsword: (1 Kill = 0.5% HP, FP, SP)
@@ -113,7 +107,6 @@ Bullet(2842) - Shooter SpEffect ID 1626050
 Duplicate SpEffectParam 1642000->1626050 [SACRED] Golden Retaliation Heal - Duration 1, Trigger Interval 2, Current HP % -5, Current HP + 0, Chain SpEffect ID 1626051, Effect Category 0
 SwordArtsParam(1196) - FP Consumption - L2 4->10
 #-------------------------------------------
-
 
 # SPELLS------------------------------------
 Flame Sling:
@@ -209,7 +202,6 @@ SpEffectParam(1649000) - Duration 70->140, Effect Category 151->20
 SpEffectVfxParam(1649000) - Play Category 3->0
 #-------------------------------------------
 
-
 # ITEMS-------------------------------------
 Great Runes:
 SpEffectParam(630) - Trigger Interval 1, Current HP + -4
@@ -272,7 +264,6 @@ Duplicate EquipMtrlSetParam 0->35002 [SACRED] Starlight Shards - Material ID [1]
 Material Amount [1] 3, Material Amount [2] 2, Material Amount [3] 2, Material Amount [4] 1, Material Category [2] 4, Material Category [3] 4, Material Category [4] 4
 #-------------------------------------------
 
-
 # TALISMANS---------------------------------
 Arsenal Charm:
 SpEffectParam(310300) - Max Equip Load % 1.15->1.2
@@ -304,7 +295,6 @@ Duplicate SpEffectParam 312220->312221 [SACRED] Marika's Soreseal FP Regen - Tri
 EquipParamAccessory(1221) - SpEffect ID [1] 312221
 #-------------------------------------------
 
-
 # MISCELLANEOUS-----------------------
 Traveler's Hat:
 EquipParamProtector(100000) - Resist - Sleep 29->58, Resist - Sleep 29->58, Resist - Poison 23->46, Resist - Scarlet Rot 23->46, Resist - Hemorrhage 9->18, 
@@ -331,7 +321,6 @@ AtkParam_Pc(200510, 200520, 200530, 200540, 200550, 200561) - Target SpEffect [2
 AtkParam_Pc(300180, 300380) - Target SpEffect [0] 6904
 AtkParam_Pc(300500, 300510, 300520, 300530, 300540, 300550, 300561) - Target SpEffect [2] 6904
 #-------------------------------------------
-
 
 # ANIMATIONS--------------------------------
 (c0000.anibnd.dcx)
@@ -360,7 +349,6 @@ a512_045100 - AnimSpeedGradient - SpeedAtStart 1, SPeedAtEnd 2
 a512_045110 - AnimSpeedGradient - SpeedAtStart 2, SPeedAtEnd 1.5
 #-------------------------------------------
 
-
 # FX----------------------------------------
 [use FXMLR to convert .fxr to .xml]
 
@@ -369,7 +357,6 @@ Ruinous Black Flame Sword FX:
 f000303121.fxr
 f000303122.fxr (blue tint to pure white)
 #-------------------------------------------
-
 
 # TEXT--------------------------------------
 SwordArts(100): Baleful Strike
