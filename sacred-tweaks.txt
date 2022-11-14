@@ -237,7 +237,7 @@ Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Rune Arc - Reference ID 1
 Duplicate EquipMtrlSetParam 0->35000 [SACRED] Rune Arc - Material ID [1] 20795
 
 Numen's Rune:
-EquipParamGoods(2913) - Sell Value 1000, Sort ID 521, Max Amount 3
+EquipParamGoods(2913) - Sell Value 1000, Sort ID 521, Max Amount 3, Auto Replenishment Type 2
 SpEffectParam(3282) - Current HP % -100, Current FP % -100, Rune Gain + 0, Chain SpEffect ID 3294, Cycle SpEffect ID 1605000
 Duplicate ShopLineupParam_Recipe 30100->35001 [SACRED] Numen's Rune - Reference ID 2913, Sell Price Overwrite 4000, Required Material ID 35001
 Duplicate EquipMtrlSetParam 0->35001 [SACRED] Numen's Rune - Material ID [1] 1760, Material Amount [1] 1
