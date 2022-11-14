@@ -2,9 +2,21 @@
 # 6.7-1.07.1
 #------------------------------------------
 
+# Weapons
+- Great Stars
+ - Reworked
+- Zweihander
+ - Reworked
+
 # Spells
+- Ravenous Bloodflame
+ - +5% Blood Incantation damage per stack
 - Electrify Armament
  - Fixed
+
+# Items
+- Assassin's Crimson/Cerulean Dagger
+ - Reverted to vanilla
 
 #------------------------------------------
 # 6.6-1.07.1
