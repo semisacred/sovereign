@@ -50,11 +50,10 @@ Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration
 Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626024, 
 Accumulator - Over Value 2, Accumulator - Increment Value -9999
 Duplicate SpEffectParam 5151200->1626024 [SACRED] Ravenous Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
-Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Duration 1.5, Trigger Interval 3, Chain SpEffect ID 1626027, Cycle SpEffect ID 1626022, Effect Category 0, 
+Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Duration 1.5, Trigger Interval 3, Chain SpEffect ID -1, Cycle SpEffect ID 1626022, Effect Category 0, 
 Trigger on State Info [1] 0
 Duplicate SpEffectParam 1626025->1626026 1626026 [SACRED] Ravenous Bloodflame Skill Cost - Duration 180, Trigger Interval 0, Cycle SpEffect ID -1, Effect Category 10, Weapon Parameter Change 1, 
 Skill FP Consumption % 0.9
-Duplicate SpEffectParam 2000->1626027 [SACRED] Ravenous Bloodflame Incantations - Icon ID -1, Duration 180, Attack %: Physical/Magic 0, Attack %: Fire 5, Effect Category 10
 Duplicate SpEffectParam 3190->1626035 [SACRED] Blasphemous Blade Blood - Duration -1, Effect Category 0
 Duplicate SpEffectParam 350500->350700 [SACRED] Blasphemous Blade Crit - Icon ID -1, State Info 7777
 Duplicate SpEffectParam 350501->350701 [SACRED] Blasphemous Blade Crit [Triggered] - Chain SpEffect 350702, Cycle SpEffect ID 1626025, Trigger on State Info [1] 7777
@@ -107,7 +106,7 @@ SwordArtsParam(1196) - FP Consumption - L2 10
 
 Great Stars:
 EquipParamWeapon(12180000) - Weight: 20, Requirement: STR 34, Sword Arts Param ID 650, Reinforce Type ID 100, Correction: STR 70, Correction Type: Physical 1, Prevent Affinity Change 1
-SpEffectParam(1681) -  Power %: Physical 1.1, Effect Category 20
+SpEffectParam(1681) -  Duration 20, Power %: Physical 1.15, Effect Category 20
 SpEffectVfxParam(8600) - Play Category 0
 
 Zweihander: 
