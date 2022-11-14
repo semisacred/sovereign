@@ -3,14 +3,33 @@
 #------------------------------------------
 
 # Weapons
+- Blasphemous Blade
+ - Requires 22->24 STR / 15 DEX / 21->24 FTH
+- Godslayer's Greatsword
+ - Devouring Soul Flame
+  - Black Flame
+   - 65->130 Fire damage -1x FTH Correction
+  - Soul Flame
+   - -1x FTH Correction
+ -Requires 24->30 STR
+- Eclipse Crest Greatshield
+ - Requires 34->32 FTH
 - Great Stars
  - Reworked
 - Zweihander
  - Reworked
 
 # Spells
+- Black Flame Blade
+ - vanilla duration, 2x damage
+- Black Flame
+ - 2x FP Cost, 1.5x damage
+- Scouring Black flame
+ - 2x FP Cost, 1.5x damage
+- Black Flame Ritual
+ - 2x FP Cost, 1.5x damage
 - Ravenous Bloodflame
- - +5% Blood Incantation damage per stack
+ - Requires 21->24 FTH
 - Electrify Armament
  - Fixed
 
