@@ -35,7 +35,9 @@
 
 # Items
 - Numen's Rune
- - Now replenishes from storage
+ - Replenishment not working. Max carried now 999
+- Starligth Shards
+ - Max carried 999
 - Assassin's Crimson/Cerulean Dagger
  - Reverted to vanilla
 
