@@ -119,7 +119,7 @@ Duplicate SpEffectParam 3185->1626036 [SACRED] Zweihander Holy Buff - Effect Cat
 Flame Sling:
 Bullet(10601000) - Duration 4.5
 Bullet(10601050) - Duration 7.5
-Bullet(10601051) - Initial Hit Radius 3
+Bullet(10601051) - Initial Hit Radius 2.5
 
 Black Flame:
 AtkParam_Pc(62100, 62101) - Damage: Fire 366, Damage: Stamina 225
@@ -127,7 +127,7 @@ AtkParam_Pc(62105, 62106) - Damage: Fire 450, Damage: Stamina 315
 Magic(6210) - FP Consumption - Default 36, Stamina Consumption - Default 50, Requirement: FTH 30
 Bullet(10621000) - Duration 4.5
 Bullet(10621050) - Duration 7.5
-Bullet(10621051) - Final Hit Radius 3
+Bullet(10621051) - Final Hit Radius 2.5
 
 Scouring Black Flame:
 AtkParam_Pc(62300) - Damage: Fire 383, Damage: Stamina 225
