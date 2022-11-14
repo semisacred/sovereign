@@ -110,7 +110,9 @@ SpEffectParam(1681) - Effect Category 20
 SpEffectVfxParam(8600) - Play Category 0
 
 Zweihander: 
-EquipParamWeapon(4040000 through 4041200) - Behavior Variation ID 319, Weapon Motion Category 25, Weight 14.5, Requirement: STR 28, Special Motion Category 0
+EquipParamWeapon(4040000 through 4041200) - Behavior Variation ID 319, Weapon Motion Category 25, Weight 14.5, Requirement: STR 28, Damage Multiplier %: Type B 1.2, Special Motion Category 0
+EquipParamWeapon(4040700) - Sword Arts Param ID 222, Prevent Affinity Change 1
+Duplicate SpEffectParam 3185->1626036 [SACRED] Zweihander Holy Buff - Use Faith Correction 1
 #-------------------------------------------
 
 # SPELLS------------------------------------
@@ -357,6 +359,9 @@ InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3002, Offset -1, Unk1
 Ravenous Bloodflame:
 a512_045100 - AnimSpeedGradient - SpeedAtStart 1, SPeedAtEnd 1.5
 a512_045110 - AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 1.5
+
+Zweihander Sacred Rings of Light:
+a670_040000 - AddSpEffect 1626036
 #-------------------------------------------
 
 # FX----------------------------------------
