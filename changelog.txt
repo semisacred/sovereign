@@ -2,6 +2,9 @@
 # 6.7-1.07.1
 #------------------------------------------
 
+# Quick Buff
+ - Now using Blessing of the Erdtree instead of Blessing's Boon
+
 # Weapons
 - Blasphemous Blade
  - Requires 22->24 STR / 15 DEX / 21->24 FTH
