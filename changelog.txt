@@ -41,6 +41,7 @@
  - Replenishment not working. Max carried now 999
 - Starligth Shards
  - Max carried 999
+ - +10 INT
 - Assassin's Crimson/Cerulean Dagger
  - Reverted to vanilla
 
