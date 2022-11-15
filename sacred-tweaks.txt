@@ -275,7 +275,7 @@ SpEffectVfxParam(8570) - Play Category 0
 
 Starlight Shards:
 EquipParamGoods(1290) - Max Amount 999
-SpEffectParam(501290) - Duration 300, Current FP + -1, Intelligence 10
+SpEffectParam(501290) - Duration 300, Current FP + -1, Intelligence 5
 SpEffectVfxParam(5842) - Play Category 0
 Duplicate ShopLineupParam 100062->100063 [SACRED] [Sorceress Sellen] Starlight Shards - Reference ID 1290, Sell Price Overwrite 3500, Quantity - Event Flag ID 0, 
 Amount to Sell -1
