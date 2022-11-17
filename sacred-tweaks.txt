@@ -44,9 +44,10 @@ AtkParam_Npc(280000) - Damage: Fire 516
 
 # MAIN WEAPONS------------------------------
 Blasphemous Blade:
-EquipParamWeapon(3140000) - Behavior Variation ID 200, Sword Arts Param ID 100, Weapon Motion Category 23, Weapon Hold Position - 1H 0, Weapon Hold Position - 2H 10, Weight 11.5, Reinforcement Price 1500, 
-Requirement: STR 24 , Requirement: FTH 24, Damage: Physical 85, Damage: Fire 55, Passive SpEffect 1 350700, Passive SpEffect 2 1626035, Critical Multiplier 10, Special Attribute 10, Is Buffable 1
-Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 10, Rune Gain % 1.1, Cycle SpEffect ID 1626023, Effect Category 10, Correction +: FTH 50
+EquipParamWeapon(3140000) - Behavior Variation ID 200, Sword Arts Param ID 100, Weapon Motion Category 23, Weapon Hold Position - 1H 0, Weapon Hold Position - 2H 10, Weight 11.5, 
+Reinforcement Price 1500, Requirement: STR 24 , Requirement: FTH 24, Damage: Physical 85, Damage: Fire 55, Correction: STR 50, Correction: DEX 20, Correction: FTH 90, 
+Passive SpEffect 1 350700, Passive SpEffect 2 1626035, Critical Multiplier 10, Special Attribute 10, Is Buffable 1
+Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 50, Rune Gain % 1.05, Cycle SpEffect ID 1626023, Effect Category 10
 Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626024, 
 Accumulator - Over Value 2, Accumulator - Increment Value -9999
 Duplicate SpEffectParam 5151200->1626024 [SACRED] Ravenous Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
@@ -66,8 +67,8 @@ AtkParam_Pc(200500, 200510, 200520, 200530, 200540, 200550, 200561) - Target SpE
 
 Godslayer's Greatsword:
 EquipParamWeapon(4070000) - Behavior Variation ID 319, Sword Arts Param ID 1021, Weapon Motion Category 25, Weight 15.5, Reinforcement Price 2360, Requirement: STR 30, Requirement: DEX  16, Requirement: FTH 30, 
-Damage: Physical 66, Damage: Fire 33, Correction: STR 40, Correction: DEX 20, Correction: FTH 60, Special Attribute 13, Special Motion Category 0
-Duplicate SpEffectParam 1626000->1626003 [SACRED] GG Black Flame - Duration 60, Damage +: Fire 65, Effect Category 20, Correction +: FTH 240, Skill FP Consumption % 0.5
+Damage: Physical 66, Damage: Fire 33, Correction: STR 60, Correction: DEX 30, Correction: FTH 120, Special Attribute 13, Special Motion Category 0
+Duplicate SpEffectParam 1626000->1626003 [SACRED] GG Black Flame - Duration 60, Damage +: Fire 130, Effect Category 20, Skill FP Consumption % 0.5
 Duplicate SpEffectParam 5031400->1626004 [SACRED] GG Devour [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626007
 Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Devour - Icon ID 20295, Duration 600, Max HP 1.01, Max FP 1.01, Max Stamina 1.01, Current HP % 0, 
 Current HP + 0, Effect Category 10 - Stack Self, Effect VFX 0 9010, Toughness Absorption % 0.99(1%)
@@ -76,7 +77,7 @@ Duplicate SpEffectParam 350502->1626007 [SACRED] GG Devour Apply - Duration 0.1,
 Effect VFX [0] -1, Trigger on State Info [1] 0
 Duplicate SpEffectParam 320800->1626008 [SACRED] GG Soul Flame [Hit Trigger] - Icon ID -1, Duration 7, Cycle SpEffect ID 1626004, Weapon Parameter Change 1, 
 Accumulator - Over Value - SpEffect ID 1806, Accumulator - Over Value 2, Accumulator - Increment Value -9999
-Duplicate SpEffectParam 1691->1626009 [SACRED] GG Soul Flame - Duration 7, Attack %: ALL 1, Attack %: Stamina 2, Rune Gain % 0, Cycle SpEffect ID 1626004, 
+Duplicate SpEffectParam 1691->1626009 [SACRED] GG Soul Flame - Duration 7, Attack %: ALL 1, Attack %: Fire 2, Attack %: Stamina 2, Rune Gain % 0, Cycle SpEffect ID 1626004, 
 Effect Category 20, Effect VFX [0] 8655, Correction +: FTH 420
 Duplicate SpEffectParam 1626004->1626010 [SACRED] GG Soul Flame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, 
 Kill SpEffect ID 0
@@ -92,7 +93,7 @@ Duplicate SpEffectParam 1794->1626032 [SACRED] Black Sun Blight - Duration 0.5, 
 Duplicate SpEffectParam 525002->525004 [SACRED] Vow Wrath - Duration 0.5, Trigger Interval 1, Behavior ID 2504, Cycle SpEffect ID 1626032
 Duplicate BehaviorParam_PC 2502->2504 [SACRED] Vow Wrath - Reference ID 10641100
 Duplicate Bullet 10641000->10641100 [SACRED] Vow Wrath - AtkParam ID 64110
-Duplicate AtkParam_Pc 64100->64110 [SACRED] Vow Wrath - Knockback Distance 0.5, Conditional Category [1] 112, Damage: Stamina 110, Damage Level 3, Damage: Poise 8, Damage: Holy 200
+Duplicate AtkParam_Pc 64100->64110 [SACRED] Vow Wrath - Knockback Distance 0.5, Conditional Category [1] 112, Damage: Stamina 120, Damage Level 3, Damage: Poise 6, Damage: Holy 175
 SwordArtsParam(701) - FP Consumption - L2 30
 EquipParamGem(70100) - Affinity: ALL 0
 
@@ -104,15 +105,16 @@ Bullet(2842) - Shooter SpEffect ID 1626050
 Duplicate SpEffectParam 1642000->1626050 [SACRED] Golden Retaliation Heal - Duration 1, Trigger Interval 2, Current HP % -5, Current HP + 0, Chain SpEffect ID 1626051, Effect Category 0
 SwordArtsParam(1196) - FP Consumption - L2 10
 
-Great Stars:
-EquipParamWeapon(12180000) - Sword Arts Param ID 650, Weight: 20, Reinforce Type ID 100, Requirement: STR 34, Correction: STR 70, Correction Type: Physical 1, Prevent Affinity Change 1
-SpEffectParam(1681) - Effect Category 20
-SpEffectVfxParam(8600) - Play Category 0
-
 Zweihander: 
 EquipParamWeapon(4040000 through 4041200) - Behavior Variation ID 319, Weapon Motion Category 25, Weight 14.5, Requirement: STR 28, Damage Multiplier %: Type B 1.2, Special Motion Category 0
 EquipParamWeapon(4040700) - Sword Arts Param ID 222, Prevent Affinity Change 1
 Duplicate SpEffectParam 3185->1626036 [SACRED] Zweihander Holy Buff - Effect Category 20, Use Faith Correction 1
+Duplicate BehaviorParam_PC 2504->300000003 [SACRED] Prayerful Strike Wrath - Reference ID 10641000
+
+Great Stars:
+EquipParamWeapon(12180000) - Sword Arts Param ID 650, Weight: 20, Reinforce Type ID 100, Requirement: STR 34, Correction: STR 70, Correction Type: Physical 1, Prevent Affinity Change 1
+SpEffectParam(1681) - Effect Category 20
+SpEffectVfxParam(8600) - Play Category 0
 #-------------------------------------------
 
 # SPELLS------------------------------------
@@ -146,7 +148,7 @@ SpEffectParam(1626000) - Damage: Fire 130
 Ravenous Bloodflame (Bloodflame Blade):
 Magic(6320) - Requirement: ARC 12, Requirement: FTH 24, Reference ID [1] 1626019
 Duplicate SpEffectParam 105275->105277 [SACRED] Bloodflame Blade Self Bleed - Aux Inflict +: Hemorrhage 60
-Duplicate SpEffectParam 350502->1626019 [SACRED] Bloodflame Blade Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % -7, Current HP + 80, Chain SpEffect 1626020, Cycle SpEffect 1626026, 
+Duplicate SpEffectParam 350502->1626019 [SACRED] Bloodflame Blade Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 7, Current HP + 80, Chain SpEffect 1626020, Cycle SpEffect 1626026, 
 Effect VFX [0] -1, Trigger on State Info [1] 0
 Duplicate SpEffectParam 1626019->1626020 [SACRED] Bloodflame Blade Apply 2 - Current HP % 0, Current HP + 0, Chain SpEffect 105277, Cycle SpEffect 1626021
 Duplicate SpEffectParam 1626022->1626021 - Arcane -1
@@ -360,8 +362,9 @@ Ravenous Bloodflame:
 a512_045100 - AnimSpeedGradient - SpeedAtStart 1, SPeedAtEnd 1.5
 a512_045110 - AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 1.5
 
-Zweihander Sacred Rings of Light:
-a670_040000 - AddSpEffect 1626036
+Zweihander Prayerful Strike:
+a657_040200 - AddSpEffect 1626036
+InvokeBulletBehavior - DummyPoly ID 10301, BehaviorJudgeID 3003, Offset -1, Unk12 255
 #-------------------------------------------
 
 # FX----------------------------------------
@@ -379,6 +382,13 @@ SwordArts(100): Baleful Strike
 Skill: Baleful Strike
 
 Somersault forwards, striking foes with armament and unleashing a blast of bloodflame.
+
+SwordArts(100): Prayerful Strike
+------------------------------
+Skill: Prayerful Strike
+
+Raise armament aloft in prayer, then slam it into the ground producing a holy shockwave.
+This inspired blow restores HP to the self and nearby allies if it successfully hits.
 ------------------------------
 
 SwordArts(701): Black Sun's Zenith

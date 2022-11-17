@@ -1,5 +1,5 @@
 #------------------------------------------
-# 6.7-1.07.1
+# 7.0-1.07.1
 #------------------------------------------
 
 # Quick Buff
@@ -8,15 +8,19 @@
 # Weapons
 - Blasphemous Blade
  - Requires 22->24 STR / 15 DEX / 21->24 FTH
+  - STR Correction 35->50, DEX Correction 35->20, FTH Correction 50->90
 - Godslayer's Greatsword
+ - Requires 24->30 STR
+ - STR Correction 40->60, DEX Correction 20->30, FTH Correction 60->120
  - Devouring Soul Flame
   - Black Flame
-   - 65->130 Fire damage -1x FTH Correction
+   - 65->130 Fire damage, 0 FTH Correction
   - Soul Flame
-   - -1x FTH Correction
- -Requires 24->30 STR
+   - 2x Fire damage, 0 FTH Correction
 - Eclipse Crest Greatshield
  - Requires 34->32 FTH
+ - Black Sun's Zenith
+  - Fixed: Now actually a half power Wrath of Gold
 - Great Stars
  - Reworked
 - Zweihander
@@ -33,13 +37,15 @@
  - 2x FP Cost, 1.5x damage
 - Ravenous Bloodflame
  - Requires 21->24 FTH
+ - 10->50 Fire damage, no FTH Correction
+ - 1.1->1.05 Rune Gain
 - Electrify Armament
  - Fixed
 
 # Items
 - Numen's Rune
  - Replenishment not working. Max carried now 999
-- Starligth Shards
+- Starlight Shards
  - Max carried 999
  - +5 INT
 - Assassin's Crimson/Cerulean Dagger
