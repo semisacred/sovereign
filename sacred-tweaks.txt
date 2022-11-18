@@ -45,7 +45,7 @@ AtkParam_Npc(280000) - Damage: Fire 516
 # MAIN WEAPONS------------------------------
 Blasphemous Blade:
 EquipParamWeapon(3140000) - Behavior Variation ID 200, Sword Arts Param ID 100, Weapon Motion Category 23, Weapon Hold Position - 1H 0, Weapon Hold Position - 2H 10, Weight 11.5, 
-Reinforcement Price 1500, Requirement: STR 24 , Requirement: FTH 24, Damage: Physical 85, Damage: Fire 55, Correction: STR 50, Correction: DEX 20, Correction: FTH 90, 
+Reinforcement Price 1500, Requirement: STR 24 , Requirement: FTH 24, Damage: Physical 65, Damage: Fire 45, Correction: STR 40, Correction: DEX 20, Correction: FTH 90, 
 Passive SpEffect 1 350700, Passive SpEffect 2 1626035, Critical Multiplier 10, Special Attribute 10, Is Buffable 1
 Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 50, Rune Gain % 1.05, Cycle SpEffect ID 1626023, Effect Category 10
 Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626024, 
@@ -105,14 +105,18 @@ Bullet(2842) - Shooter SpEffect ID 1626050
 Duplicate SpEffectParam 1642000->1626050 [SACRED] Golden Retaliation Heal - Duration 1, Trigger Interval 2, Current HP % -5, Current HP + 0, Chain SpEffect ID 1626051, Effect Category 0
 SwordArtsParam(1196) - FP Consumption - L2 10
 
-Zweihander: 
-EquipParamWeapon(4040000 through 4041200) - Behavior Variation ID 319, Weapon Motion Category 25, Weight 14.5, Requirement: STR 28, Damage Multiplier %: Type B 1.2, Special Motion Category 0
+Sacred Zweihander: 
+EquipParamWeapon(4040000 through 4041200) - Behavior Variation ID 319, Weapon Motion Category 25, Weight 14.5, Requirement: STR 28, Damage: ALL [MATH 75%], Damage Multiplier %: Type B 1.2, Special Motion Category 0
 EquipParamWeapon(4040700) - Sword Arts Param ID 222, Prevent Affinity Change 1
-Duplicate SpEffectParam 3185->1626036 [SACRED] Zweihander Holy Buff - Effect Category 20, Use Faith Correction 1
-Duplicate BehaviorParam_PC 2504->300000003 [SACRED] Prayerful Strike Wrath - Reference ID 10641000
+Duplicate BehaviorParam_PC 2504->300000003 [SACRED] Wrathful Strike - Reference ID 10641200
+Duplicate Bullet 10641000->10641200 [SACRED] Wrathful Strike - Initial Hit Radius 1, Final Hit Radius 3
+Duplicate SpEffectParam 3185->1626036 [SACRED] Zweihander Sunlight Blade - Effect Category 20, Use Faith Correction 1, Cycle SpEffect ID 1626037
+Duplicate SpEffectParam 320800->1626037 [SACRED] Zweihander Sunlight Blade Accumulator - Icon ID -1, Duration 1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626038, Accumulator - Over Value 2
+Duplicate SpEffectParam 1643100->1626038 [SACRED] Zweihander Sunlight Blade HP regen - Duration 3, Effect Category 20
+SwordArtsParam(208) - FP Consumption - L2 35
 
 Great Stars:
-EquipParamWeapon(12180000) - Sword Arts Param ID 650, Weight: 20, Reinforce Type ID 100, Requirement: STR 34, Correction: STR 70, Correction Type: Physical 1, Prevent Affinity Change 1
+EquipParamWeapon(12180000) - Sword Arts Param ID 650, Weight: 20, Reinforce Type ID 100, Requirement: STR 34, Correction: STR 60, Correction Type: Physical 1, Prevent Affinity Change 1
 SpEffectParam(1681) - Effect Category 20
 SpEffectVfxParam(8600) - Play Category 0
 #-------------------------------------------
@@ -362,15 +366,15 @@ Ravenous Bloodflame:
 a512_045100 - AnimSpeedGradient - SpeedAtStart 1, SPeedAtEnd 1.5
 a512_045110 - AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 1.5
 
-Zweihander Prayerful Strike:
-a657_040200 - AddSpEffect 1626036
+Zweihander Wrathful Strike: 
+a657_040200 - AddSpEffect 1626036, AnimSpeedGradient - SpeedAtStart 1, SPeedAtEnd 1.5
 InvokeBulletBehavior - DummyPoly ID 10301, BehaviorJudgeID 3003, Offset -1, Unk12 255
 #-------------------------------------------
 
 # FX----------------------------------------
 [use FXMLR to convert .fxr to .xml]
 
-Ruinous Black Flame Sword FX:
+Devouring Soul FLame FX:
 (sfxbnd_commoneffects.ffxbnd.dcx)
 f000303121.fxr
 f000303122.fxr (blue tint to pure white)
@@ -383,12 +387,12 @@ Skill: Baleful Strike
 
 Somersault forwards, striking foes with armament and unleashing a blast of bloodflame.
 
-SwordArts(100): Prayerful Strike
+SwordArts(208): Wrathful Strike
 ------------------------------
-Skill: Prayerful Strike
+Skill: Wrathful Strike
 
-Raise armament aloft in prayer, then slam it into the ground producing a holy shockwave.
-This inspired blow restores HP to the self and nearby allies if it successfully hits.
+Raise armament aloft and imbue it with golden sunlight, then slam it into the ground producing a holy shockwave.
+This devastating blow restores HP to the self and nearby allies if it successfully hits.
 ------------------------------
 
 SwordArts(701): Black Sun's Zenith
