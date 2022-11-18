@@ -4,12 +4,14 @@
 
 # Weapons
 - Blasphemous Blade
- - Correction: STR 50->40, 85->65 physical damage, 55->45 fire damage
-- Sacred Zweihander
+ - Correction: STR 50->40, 85->70 physical damage, 55->50 fire damage
+- Zweihander
  - 0.75x base damage
- - Prayerful Strike -> Wrathful Strike
-  - 20->35 FP Cost
-  - Gives Sunlight Blade: Holy Grease with 3s HP regen on hit
+ - Sacred Zweihander
+  - Correction: STR 15->30, Correction: FTH 34->50
+  - Prayerful Strike -> Wrathful Strike
+   - 20->35 FP Cost
+   - Gives Sunlight Blade: Holy Grease with 3s HP regen on hit
 - Great Stars
  - STR Correction 70->60
 

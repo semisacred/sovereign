@@ -81,7 +81,8 @@ Duplicate SpEffectParam 1691->1626009 [SACRED] GG Soul Flame - Duration 7, Attac
 Effect Category 20, Effect VFX [0] 8655, Correction +: FTH 420
 Duplicate SpEffectParam 1626004->1626010 [SACRED] GG Soul Flame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, 
 Kill SpEffect ID 0
-Duplicate SpEffectParam 6500->1626011 [SACRED] GG Soul Flame HP Cost - Duration 0.2, Trigger Interval 0.1, Current HP % 0, Current HP + 2, Effect Category 0, State Info 0, Aux Inflict +: Poison 0, Use Status Ailment AP Correction 0, 
+Duplicate SpEffectParam 6500->1626011 [SACRED] GG Soul Flame HP Cost - Duration 0.2, Trigger Interval 0.1, Current HP % 0, Current HP + 2, Effect Category 0, State Info 0, Aux Inflict +: Poison 0, 
+Use Status Ailment AP Correction 0
 Cycle SpEffect ID -1, Effect VFX [0] -1
 SpEffectVfxParam(8655) - Trace SFX ID Offset Type 17
 SwordArtsParam(1021) - FP Consumption - L2 60
@@ -107,7 +108,7 @@ SwordArtsParam(1196) - FP Consumption - L2 10
 
 Sacred Zweihander: 
 EquipParamWeapon(4040000 through 4041200) - Behavior Variation ID 319, Weapon Motion Category 25, Weight 14.5, Requirement: STR 28, Damage: ALL [MATH 75%], Damage Multiplier %: Type B 1.2, Special Motion Category 0
-EquipParamWeapon(4040700) - Sword Arts Param ID 222, Prevent Affinity Change 1
+EquipParamWeapon(4040700) - Sword Arts Param ID 222, Correction: STR 30, Correction: FTH 50, Prevent Affinity Change 1
 Duplicate BehaviorParam_PC 2504->300000003 [SACRED] Wrathful Strike - Reference ID 10641200
 Duplicate Bullet 10641000->10641200 [SACRED] Wrathful Strike - AtkParam ID 64110, Initial Hit Radius 1, Final Hit Radius 3
 Duplicate SpEffectParam 3185->1626036 [SACRED] Zweihander Sunlight Blade - Effect Category 20, Use Faith Correction 1, Cycle SpEffect ID 1626037
