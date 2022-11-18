@@ -109,7 +109,7 @@ Sacred Zweihander:
 EquipParamWeapon(4040000 through 4041200) - Behavior Variation ID 319, Weapon Motion Category 25, Weight 14.5, Requirement: STR 28, Damage: ALL [MATH 75%], Damage Multiplier %: Type B 1.2, Special Motion Category 0
 EquipParamWeapon(4040700) - Sword Arts Param ID 222, Prevent Affinity Change 1
 Duplicate BehaviorParam_PC 2504->300000003 [SACRED] Wrathful Strike - Reference ID 10641200
-Duplicate Bullet 10641000->10641200 [SACRED] Wrathful Strike - Initial Hit Radius 1, Final Hit Radius 3
+Duplicate Bullet 10641000->10641200 [SACRED] Wrathful Strike - AtkParam ID 64110, Initial Hit Radius 1, Final Hit Radius 3
 Duplicate SpEffectParam 3185->1626036 [SACRED] Zweihander Sunlight Blade - Effect Category 20, Use Faith Correction 1, Cycle SpEffect ID 1626037
 Duplicate SpEffectParam 320800->1626037 [SACRED] Zweihander Sunlight Blade Accumulator - Icon ID -1, Duration 1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626038, Accumulator - Over Value 2
 Duplicate SpEffectParam 1643100->1626038 [SACRED] Zweihander Sunlight Blade HP regen - Duration 3, Effect Category 20
