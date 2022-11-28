@@ -231,7 +231,7 @@ SpEffectVfxParam(1649000) - Play Category 0
 
 # ITEMS-------------------------------------
 Great Runes:
-SpEffectParam(630) - Trigger Interval 1, Current HP + -4
+SpEffectParam(630) - Trigger Interval 1, Current HP + -6
 SpEffectParam(630) - Kill SpEffect ID 500031
 SpEffectParam(631) - Effect VFX [0] -1
 SpEffectParam(500030) - Current HP % 0, Current HP + 0, Attack %: ALL 1.3, Effect Category 20, Effect VFX [0] 9012
