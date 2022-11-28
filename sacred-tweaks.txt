@@ -352,7 +352,7 @@ a000_081031
 AddSpEffect 3297
 
 Golden Order Totality Invincibility:
-a000_081060 - AnimSpeedGradient - SpeedAtStart 5, SPeedAtEnd 5
+a000_081060 - AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 1.5, AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 3
 a000_081061 - Copy a751_040040 into a000_081061
 
 Hard Landing Damage:
