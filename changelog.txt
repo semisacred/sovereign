@@ -6,6 +6,10 @@
  - Rykard's Rune
   - 4HP/s->6HP/s
 
+# Gestures
+ -  Golden Order Totality
+  - Become invincible while holding the pose of paradise
+
 #------------------------------------------
 # 7.1-1.07.1
 #------------------------------------------

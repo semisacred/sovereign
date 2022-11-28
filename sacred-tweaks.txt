@@ -15,7 +15,7 @@ NpcParam(100000010 through 170002000) - SpEffect ID [3] 7398
 SpEffectParam(6202002, 6202003, 6202004, 6202005)
 #-------------------------------------------
 
-# QUICK BUFF--------------------------------
+# GESTURES----------------------------------
 Erudition:
 Duplicate SpEffectParam 3282->3297 [SACRED] Erudition [Quick Buff 1] - Current HP % 0, Current FP % 0, Rune Gain + 0, Chain SpEffect ID 3298, Cycle SpEffect ID 1605000
 Duplicate SpEffectParam 3288->3298 [SACRED] Erudition Rune Loss [Chain] - Rune Gain + -8000, Chain SpEffect ID 3294
@@ -349,7 +349,11 @@ a821_040000
 
 Quick Buff Erudition:
 a000_081031
-AddSpEffect 3298
+AddSpEffect 3297
+
+Golden Order Totality Invincibility:
+a000_081060 - AnimSpeedGradient - SpeedAtStart 5, SPeedAtEnd 5
+a000_081061 - Copy a751_040040 into a000_081061
 
 Hard Landing Damage:
 a000_202140, a002_202140, a003_202140, a010_202140, a012_202140, a013_202140, a014_202140, a015_202140, a016_202140
