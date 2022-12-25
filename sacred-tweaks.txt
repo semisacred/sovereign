@@ -22,6 +22,9 @@ Duplicate SpEffectParam 3288->3298 [SACRED] Erudition Rune Loss [Chain] - Rune G
 Duplicate SpEffectParam 3288->3294 [SACRED] Numen's/Erudition [Quick Buff 2] - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643100
 Duplicate SpEffectParam 3294->3295 [SACRED] Numen's/Erudition [Quick Buff 3] - Chain SpEffect ID 3296, Cycle SpEffect ID 3507
 Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - Chain SpEffect ID 1697102, Cycle SpEffect ID 1626029
+
+Rapture:
+Duplicate SpEffectParam 3288->3350 [SACRED] Rapture HP Burn - Duration 1, Trigger Interval 0.1, Current HP % 0.995, Current HP + 10,  Effect VFX [0] 9012
 #-------------------------------------------
 
 # FALL DAMAGE REWORK------------------------
@@ -69,19 +72,18 @@ Godslayer's Greatsword:
 EquipParamWeapon(4070000) - Behavior Variation ID 319, Sword Arts Param ID 1021, Weapon Motion Category 25, Weight 15.5, Reinforcement Price 2360, Requirement: STR 30, Requirement: DEX  16, Requirement: FTH 30, 
 Damage: Physical 66, Damage: Fire 33, Correction: STR 60, Correction: DEX 30, Correction: FTH 120, Special Attribute 13, Special Motion Category 0
 Duplicate SpEffectParam 1626000->1626003 [SACRED] GG Black Flame - Duration 60, Damage +: Fire 130, Effect Category 20, Skill FP Consumption % 0.5
-Duplicate SpEffectParam 5031400->1626004 [SACRED] GG Devour [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626007
-Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Devour - Icon ID 20295, Duration 600, Max HP 1.01, Max FP 1.01, Max Stamina 1.01, Current HP % 0, 
-Current HP + 0, Effect Category 10 - Stack Self, Effect VFX 0 9010, Toughness Absorption % 0.99(1%)
-Duplicate SpEffectParam 1922->1626006 [SACRED] GG Devour Godslayer's Damage - Duration 600, Attack %: 1.02
-Duplicate SpEffectParam 350502->1626007 [SACRED] GG Devour Apply - Duration 0.1, Trigger Interval 0.2, Current HP % 0, Current HP + 0, Chain SpEffect 1626005, Cycle SpEffect 1626006, 
+Duplicate SpEffectParam 5031400->1626004 [SACRED] GG Heretical Flame [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626007
+Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Heretical Flame - Icon ID 20295, Duration 600, Trigger Interval 1, Max HP 1.01, Max FP 1.01, Max Stamina 1.01, Current HP % 0, Current HP + -1, 
+Stamina Recovery Speed 1, Effect Category 10 - Stack Self, Effect VFX 0 9010, Toughness Absorption % 0.99(1%), Absorption %: Fire 1.01, Damage %: Fire 1.01
+Duplicate SpEffectParam 350502->1626007 [SACRED] GG Heretical Flame Apply - Duration 0.1, Trigger Interval 0.2, Current HP % 0, Current HP + 0, Chain SpEffect 1626005,
 Effect VFX [0] -1, Trigger on State Info [1] 0
-Duplicate SpEffectParam 320800->1626008 [SACRED] GG Soul Flame [Hit Trigger] - Icon ID -1, Duration 7, Cycle SpEffect ID 1626004, Weapon Parameter Change 1, 
+Duplicate SpEffectParam 320800->1626008 [SACRED] GG Soulflame [Hit Trigger] - Icon ID -1, Duration 7, Cycle SpEffect ID 1626004, Weapon Parameter Change 1, 
 Accumulator - Over Value - SpEffect ID 1806, Accumulator - Over Value 2, Accumulator - Increment Value -9999
-Duplicate SpEffectParam 1691->1626009 [SACRED] GG Soul Flame - Duration 7, Attack %: ALL 1, Attack %: Fire 2, Attack %: Stamina 2, Rune Gain % 0, Cycle SpEffect ID 1626004, 
+Duplicate SpEffectParam 1691->1626009 [SACRED] GG Soulflame - Duration 7, Attack %: ALL 1, Attack %: Fire 2, Attack %: Stamina 2, Rune Gain % 0, Cycle SpEffect ID 1626004, 
 Effect Category 20, Effect VFX [0] 8655, Correction +: FTH 420
-Duplicate SpEffectParam 1626004->1626010 [SACRED] GG Soul Flame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, 
+Duplicate SpEffectParam 1626004->1626010 [SACRED] GG Soulflame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, 
 Kill SpEffect ID 0
-Duplicate SpEffectParam 6500->1626011 [SACRED] GG Soul Flame HP Cost - Duration 0.2, Trigger Interval 0.1, Current HP % 0, Current HP + 2, Effect Category 0, State Info 0, Aux Inflict +: Poison 0, 
+Duplicate SpEffectParam 6500->1626011 [SACRED] GG Soulflame HP Cost - Duration 0.2, Trigger Interval 0.1, Current HP % 0, Current HP + 2, Effect Category 0, State Info 0, Aux Inflict +: Poison 0, 
 Use Status Ailment AP Correction 0
 Cycle SpEffect ID -1, Effect VFX [0] -1
 SpEffectVfxParam(8655) - Trace SFX ID Offset Type 17
@@ -344,7 +346,7 @@ EquipParamWeapon(32080000) - Correction: FTH 89
 # ANIMATIONS--------------------------------
 (c0000.anibnd.dcx)
 
-Devouring Soul Flame Weapon Art Cast FX:
+Soulflame Heresy Weapon Art Cast FX:
 a821_040000
 
 Quick Buff Erudition:
@@ -354,6 +356,17 @@ AddSpEffect 3297
 Golden Order Totality Invincibility:
 a000_081060 - AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 1.5, AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 3
 a000_081061 - Copy a751_040040 into a000_081061
+
+Rapture Heretical Flame:
+a000_081020
+AnimSpeedGradient - SpeedAtStart 2, SPeedAtEnd 2
+a000_081021
+Delete InvokeEventEzStateFlag
+AddSpEffect 1626007
+AddSpEffect 3350
+AnimSpeedGradient - SpeedAtStart 3, SPeedAtEnd 3
+a000_081022
+AnimSpeedGradient - SpeedAtStart 2, SPeedAtEnd 2
 
 Hard Landing Damage:
 a000_202140, a002_202140, a003_202140, a010_202140, a012_202140, a013_202140, a014_202140, a015_202140, a016_202140
@@ -379,7 +392,7 @@ InvokeBulletBehavior - DummyPoly ID 10301, BehaviorJudgeID 3003, Offset -1, Unk1
 # FX----------------------------------------
 [use FXMLR to convert .fxr to .xml]
 
-Devouring Soul FLame FX:
+Soulflame Heresy FX:
 (sfxbnd_commoneffects.ffxbnd.dcx)
 f000303121.fxr
 f000303122.fxr (blue tint to pure white)
@@ -408,12 +421,13 @@ Hold shield aloft to imbue yourself with golden power, granting momentary invinc
 Reaching for the eclipsed sun will draw in death blight with each use.
 ------------------------------
 
-SwordArts(1021): Devouring Soul Flame
+SwordArts(1021): Soulflame Heresy
 ------------------------------
-Unique Skill: Devouring Soul Flame
+Unique Skill: Soulflame Heresy
 
 Set the blade ablaze with a white flame capable of slaying gods.
-Burn enemies' runes to ash and devour their essence to increase your power for a time.
+Burn enemies' runes to ash to fuel a heretical flame.
+
 ------------------------------
 
 Weapons(3140000): Blasphemous Blade

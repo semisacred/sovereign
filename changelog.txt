@@ -1,14 +1,32 @@
 #------------------------------------------
-# 7.2-1.07.1
+# 7.2-1.08
 #------------------------------------------
 
-# Great Runes
- - Rykard's Rune
-  - 4HP/s->6HP/s
+# General
+ - Update to 1.08
+
+ # Gestures
+ - Heretical Rapture
+  - Burn HP in return for stacks of Heretical Flame
+
+ # Weapons
+- Godslayer's Greatsword
+ - Devouring Soul Flame -> Soulflame Heresy
+ - Devour -> Heretical Flame
+  - +1% Fire absorption, +1% Fire damage, +1 Stamina Recovery Speed
+  - +2% damage for Godslayer's Incantations removed
+
+#------------------------------------------
+# 7.2-1.07.1
+#------------------------------------------
 
 # Gestures
  -  Golden Order Totality
   - Become invincible while holding the pose of paradise
+
+# Great Runes
+ - Rykard's Rune
+  - 4HP/s->6HP/s
 
 #------------------------------------------
 # 7.1-1.07.1
@@ -180,6 +198,10 @@
 # Difficulty
 - Resist %: Hemorrhage 3x->2x
 
+# Gestures
+- Erudition
+ - 20000->8000 runecost
+
 # Weapons
 - Godslayer's Greatsword
  - Ruinous Black Flame -> Devouring Soul Flame
@@ -194,10 +216,6 @@
 - Blasphemous Blade
  - Ravenous Bloodflame
   - 1.1x Rune Gain per stack
-
-# Gestures
-- Erudition
- - 20000->8000 runecost
 
 #------------------------------------------
 # 6.2.1-1.07.1
