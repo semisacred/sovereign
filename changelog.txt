@@ -3,15 +3,18 @@
 #------------------------------------------
 
 # Gestures
- - Heretical Rapture
-  - Burn HP in return for stacks of Heretical Flame
+ - Rapture Exalted Blasphemy
+  - Burn HP in return Exalted Blasphemy for 60s
 
  # Weapons
 - Godslayer's Greatsword
  - Devouring Soul Flame -> Soulflame Heresy
+  - HP cost removed
  - Devour -> Heretical Flame
   - +1% Fire absorption, +1% Fire damage, +1 Stamina Recovery Speed
   - +2% damage for Godslayer's Incantations removed
+- Eclipse Crest Greatshield
+ - Blight removed
 
 #------------------------------------------
 # 7.2-1.07.1
