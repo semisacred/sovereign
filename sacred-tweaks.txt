@@ -4,8 +4,8 @@
 
 # DIFFICULTY MODIFIER-----------------------
 SpEffectParam(7000 through 7280) - Cycle SpEffect ID 7399
-Duplicate SpEffectParam 7280->7399 [SACRED] Difficulty Modifier - Duration -1, Max HP % 1.5, Max FP % 1.5, Max Stamina % 1.5, Attack %: ALL 1.5, Defence %: ALL 1.5, 
-Attack %: Stamina 1.5, Aux Resist %: ALL 1, Aux Resist %: Hemorrhage 2, Cycle SpEffect ID -1, AI Vision Correction 2, Listen Search Correction 2
+Duplicate SpEffectParam 7280->7399 [SACRED] Difficulty Modifier - Duration -1, Max HP % 2, Max FP % 2, Max Stamina % 2, Attack %: ALL 2, Defence %: ALL 2, 
+Attack %: Stamina 2, Aux Resist %: ALL 1, Aux Resist %: Hemorrhage 2, Cycle SpEffect ID -1, AI Vision Correction 2, Listen Search Correction 2
 Duplicate SpEffectParam 7399->7398 [SACRED] Summon Modifier - Max HP % 0.5, Max FP % 1, Max Stamina % 1, Attack %: ALL 0.5, Defence %: ALL 1, 
 Attack %: Stamina 1, Aux Resist %: Hemorrhage 1, AI Vision Correction 1, Listen Search Correction 1, Poise Damage % 0.5
 NpcParam(100000010 through 170002000) - SpEffect ID [3] 7398
@@ -25,7 +25,7 @@ Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - C
 
 Rapture:
 Duplicate SpEffectParam 3288->3350 [SACRED] Rapture HP Burn - Duration 1, Trigger Interval 0.1, Current HP % 0.995, Current HP + 10,  Effect VFX [0] 9010
-Duplicate SpEffectParam 500030->500035 [SACRED] Exalted Blasphemy - Duration 60, Trigger Interval 60.1
+Duplicate SpEffectParam 500030->500035 [SACRED] Exalting Blasphemy - Duration 60, Trigger Interval 60.1
 #-------------------------------------------
 
 # FALL DAMAGE REWORK------------------------
@@ -51,7 +51,7 @@ Blasphemous Blade:
 EquipParamWeapon(3140000) - Behavior Variation ID 200, Sword Arts Param ID 100, Weapon Motion Category 23, Weapon Hold Position - 1H 0, Weapon Hold Position - 2H 10, Weight 11.5, 
 Reinforcement Price 1500, Requirement: STR 24 , Requirement: FTH 24, Damage: Physical 65, Damage: Fire 45, Correction: STR 40, Correction: DEX 20, Correction: FTH 90, 
 Passive SpEffect 1 350700, Passive SpEffect 2 1626035, Critical Multiplier 10, Special Attribute 10, Is Buffable 1
-Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 50, Rune Gain % 1.05, Cycle SpEffect ID 1626023, Effect Category 10
+Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 50, Rune Gain % 1.1, Cycle SpEffect ID 1626023, Effect Category 10
 Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626024, 
 Accumulator - Over Value 2, Accumulator - Increment Value -9999
 Duplicate SpEffectParam 5151200->1626024 [SACRED] Ravenous Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
@@ -80,8 +80,8 @@ Duplicate SpEffectParam 350502->1626007 [SACRED] GG Heretical Flame Apply - Dura
 Effect VFX [0] -1, Trigger on State Info [1] 0
 Duplicate SpEffectParam 320800->1626008 [SACRED] GG Soulflame [Hit Trigger] - Icon ID -1, Duration 7, Cycle SpEffect ID 1626004, Weapon Parameter Change 1, 
 Accumulator - Over Value - SpEffect ID 1806, Accumulator - Over Value 2, Accumulator - Increment Value -9999
-Duplicate SpEffectParam 1691->1626009 [SACRED] GG Soulflame - Duration 7, Attack %: ALL 1, Attack %: Fire 2, Attack %: Stamina 2, Rune Gain % 0, Cycle SpEffect ID 1626004, 
-Effect Category 20, Effect VFX [0] 8655, Correction +: FTH 420
+Duplicate SpEffectParam 1691->1626009 [SACRED] GG Soulflame - Duration 7, Attack %: ALL 1, Attack %: Fire 2, Attack %: Stamina 2, Rune Gain % 2, Cycle SpEffect ID 1626004, 
+Effect Category 20, Effect VFX [0] 8655
 Duplicate SpEffectParam 1626004->1626010 [SACRED] GG Soulflame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, 
 Kill SpEffect ID 0
 SpEffectVfxParam(8655) - Trace SFX ID Offset Type 17
@@ -241,6 +241,7 @@ Rune Arc:
 EquipParamGoods(190) - Sell Value 4000
 Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Rune Arc - Reference ID 190, Sell Price Overwrite 8000, Required Material ID 35000
 Duplicate EquipMtrlSetParam 0->35000 [SACRED] Rune Arc - Material ID [1] 20795
+SpEffectParam(3450) - ChainSpEffect ID 3282, Cycle SpEffect ID 500035
 
 Numen's Rune:
 EquipParamGoods(2913) - Sell Value 1000, Sort ID 521, Max Amount 999, Sort Group ID 10
@@ -354,7 +355,7 @@ Golden Order Totality Invincibility:
 a000_081060 - AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 1.5, AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 3
 a000_081061 - Copy a751_040040 into a000_081061
 
-Rapture Exalted Blasphemy:
+Rapture Exalting Blasphemy:
 a000_081020
 AnimSpeedGradient - SpeedAtStart 2, SPeedAtEnd 2
 a000_081021
@@ -423,8 +424,7 @@ SwordArts(1021): Soulflame Heresy
 Unique Skill: Soulflame Heresy
 
 Set the blade ablaze with a white flame capable of slaying gods.
-Burn enemies' runes to ash to fuel a heretical flame.
-
+Reduce enemies to ash and ruin to fuel a heretical flame.
 ------------------------------
 
 Weapons(3140000): Blasphemous Blade
@@ -462,6 +462,17 @@ Engulfs armament held in the right hand with bloodflame.
 This incantation can be cast multiple times, as long as you have enough Arcane, to stack its effects.
 
 After dealing damage, bloodflame continues to build up onset of blood loss for a very short time.
+------------------------------
+
+Goods(2913): Rune Arc
+Use to grant boons, fully restore HP and FP, and grants the blessing of an equipped Great Rune upon use
+------------------------------
+A shard of the shattered Elden Ring.
+Grants the blessing of an equipped Great Rune upon use.
+
+Even if no Great Rune is equipped, it will slightly increase maximum HP upon use.
+
+The lower arc of the Elden Ring is held to be the basin in which its blessings pool. Perhaps this shard originates from that very arc.
 ------------------------------
 
 Goods(2913): Numen's Rune
