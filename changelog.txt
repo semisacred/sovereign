@@ -2,6 +2,9 @@
 # 7.6-1.07.1
 #------------------------------------------
 
+# Difficulty
+- Overall Difficulty Modifiers 1.5x->2x
+
 # Gestures
  - Rapture 
   - Exalting Blasphemy -> Flames of Blasphemy
