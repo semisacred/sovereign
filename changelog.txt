@@ -1,4 +1,17 @@
 #------------------------------------------
+# 7.6-1.07.1
+#------------------------------------------
+
+# Gestures
+ - Rapture 
+  - Exalting Blasphemy -> Flames of Blasphemy
+
+# Weapons
+- Godslayer's Greatsword
+ - Soulflame Heresy
+  - Heretical Flame -> Heresy
+
+#------------------------------------------
 # 7.5-1.07.1
 #------------------------------------------
 

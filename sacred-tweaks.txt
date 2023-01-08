@@ -25,7 +25,7 @@ Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - C
 
 Rapture:
 Duplicate SpEffectParam 3288->3350 [SACRED] Rapture HP Burn - Duration 1, Trigger Interval 0.1, Current HP % 0.995, Current HP + 10,  Effect VFX [0] 9012
-Duplicate SpEffectParam 500030->500035 [SACRED] Exalting Blasphemy - Duration 60, Trigger Interval 60.1, Target Priority 0.1
+Duplicate SpEffectParam 500030->500035 [SACRED] Flames of Blasphemy - Duration 60, Trigger Interval 60.1, Target Priority 0.1
 #-------------------------------------------
 
 # FALL DAMAGE REWORK------------------------
@@ -73,10 +73,10 @@ Godslayer's Greatsword:
 EquipParamWeapon(4070000) - Behavior Variation ID 319, Sword Arts Param ID 1021, Weapon Motion Category 25, Weight 15.5, Reinforcement Price 2360, Requirement: STR 30, Requirement: DEX  16, Requirement: FTH 30, 
 Damage: Physical 66, Damage: Fire 33, Correction: STR 60, Correction: DEX 30, Correction: FTH 120, Special Attribute 13, Special Motion Category 0
 Duplicate SpEffectParam 1626000->1626003 [SACRED] GG Black Flame - Duration 60, Damage +: Fire 130, Effect Category 20, Skill FP Consumption % 0.5
-Duplicate SpEffectParam 5031400->1626004 [SACRED] GG Heretical Flame [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626007
-Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Heretical Flame - Icon ID 20295, Duration 600, Trigger Interval 1, Max HP 1.01, Max FP 1.01, Max Stamina 1.01, Current HP % 0, Current HP + -1, 
+Duplicate SpEffectParam 5031400->1626004 [SACRED] GG Heresy [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626007
+Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Heresy - Icon ID 20295, Duration 600, Trigger Interval 1, Max HP 1.01, Max FP 1.01, Max Stamina 1.01, Current HP % 0, Current HP + -1, 
 Stamina Recovery Speed 1, Effect Category 10 - Stack Self, Effect VFX 0 9010, Toughness Absorption % 0.99(1%), Absorption %: Fire 1.01, Damage %: Fire 1.01
-Duplicate SpEffectParam 350502->1626007 [SACRED] GG Heretical Flame Apply - Duration 0.1, Trigger Interval 0.2, Current HP % 0, Current HP + 0, Chain SpEffect 1626005,
+Duplicate SpEffectParam 350502->1626007 [SACRED] GG Heresy Apply - Duration 0.1, Trigger Interval 0.2, Current HP % 0, Current HP + 0, Chain SpEffect 1626005,
 Effect VFX [0] -1, Trigger on State Info [1] 0
 Duplicate SpEffectParam 320800->1626008 [SACRED] GG Soulflame [Hit Trigger] - Icon ID -1, Duration 7, Cycle SpEffect ID 1626004, Weapon Parameter Change 1, 
 Accumulator - Over Value - SpEffect ID 1806, Accumulator - Over Value 2, Accumulator - Increment Value -9999
@@ -355,7 +355,7 @@ Golden Order Totality Invincibility:
 a000_081060 - AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 1.5, AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 3
 a000_081061 - Copy a751_040040 into a000_081061
 
-Rapture Exalting Blasphemy:
+Rapture Flames of Blasphemy:
 a000_081020
 AnimSpeedGradient - SpeedAtStart 2, SPeedAtEnd 2
 a000_081021
@@ -424,7 +424,7 @@ SwordArts(1021): Soulflame Heresy
 Unique Skill: Soulflame Heresy
 
 Set the blade ablaze with a white flame capable of slaying gods.
-Reduce enemies to ash and ruin to fuel a heretical flame.
+Reduce enemies to ash and ruin to fuel a Heresy.
 ------------------------------
 
 Weapons(3140000): Blasphemous Blade
