@@ -21,7 +21,7 @@ Duplicate SpEffectParam 3294->3295 [SACRED] Numen's/Erudition [Quick Buff 3] - C
 Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - Chain SpEffect ID 1697102, Cycle SpEffect ID 1626029
 
 Rapture:
-Duplicate SpEffectParam 3288->3350 [SACRED] Rapture HP Burn - Duration 1, Trigger Interval 0.1, Current HP % 0.995, Current HP + 10,  Effect VFX [0] 9012
+Duplicate SpEffectParam 3288->3350 [SACRED] Rapture HP Burn - Duration 1, Trigger Interval 0.1, Current HP % 0.995, Current HP + 10,  Effect VFX [0] 9012, Effect VFX [1] 9010
 Duplicate SpEffectParam 500030->500035 [SACRED] Flames of Blasphemy - Duration 60, Trigger Interval 60.1, Target Priority 0.1
 #-------------------------------------------
 
