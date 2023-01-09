@@ -4,8 +4,12 @@
 
 # Weapons
 - Blasphemous Blade
+ - Ravenous Bloodflame
+  - -10% Skill Cost removed
  - New Passive: Blood Eater
   - Blood loss in area heals 7% + 80HP
+ - Baleful Strike
+  - Now grants Ravenous Bloodflame 
 - Eclipse Crest Greatshield
  - Black Sun's Zenith
   - 30->40 FP cost
