@@ -47,7 +47,7 @@ AtkParam_Npc(280000) - Damage: Fire 516
 Blasphemous Blade:
 EquipParamWeapon(3140000) - Behavior Variation ID 200, Sword Arts Param ID 100, Weapon Motion Category 23, Weapon Hold Position - 1H 0, Weapon Hold Position - 2H 10, Weight 11.5, 
 Reinforcement Price 1500, Requirement: STR 24 , Requirement: FTH 24, Damage: Physical 65, Damage: Fire 45, Correction: STR 40, Correction: DEX 20, Correction: FTH 90, 
-Passive SpEffect 1 350700, Passive SpEffect 2 1626035, Critical Multiplier 10, Special Attribute 10, Is Buffable 1
+Passive SpEffect 1 350700, Passive SpEffect 2 1626033, Passive SpEffect 2 1626035, Critical Multiplier 10, Special Attribute 10, Is Buffable 1
 Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 180, Damage +: Fire 50, Rune Gain % 1.1, Cycle SpEffect ID 1626023, Effect Category 10
 Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626024, 
 Accumulator - Over Value 2, Accumulator - Increment Value -9999
@@ -56,7 +56,9 @@ Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Dur
 Trigger on State Info [1] 0
 Duplicate SpEffectParam 1626025->1626026 1626026 [SACRED] Ravenous Bloodflame Skill Cost - Duration 180, Trigger Interval 0, Cycle SpEffect ID -1, Effect Category 10, Weapon Parameter Change 1, 
 Skill FP Consumption % 0.9
-Duplicate SpEffectParam 3190->1626035 [SACRED] Blasphemous Blade Blood - Duration -1, Effect Category 0
+Duplicate SpEffectParam 321600->1626033 [SACRED] Blasphemous Blade Exultation Heal - Icon ID -1, Cycle SpEffect ID 1626034
+Duplicate SpEffectParam 321601->1626034 [SACRED] Blasphemous Blade Exultation Heal [Cycle] -  Icon ID -1, Duration 1, Trigger Interval 2, Current HP % -7, Current HP + -80, Effect VFX [0] 5031401, Damage: ALL 1
+Duplicate SpEffectParam 3190->1626035 [SACRED] Blasphemous Blade Blood - Duration -1, Effect Category  
 Duplicate SpEffectParam 350500->350700 [SACRED] Blasphemous Blade Crit - Icon ID -1, State Info 7777
 Duplicate SpEffectParam 350501->350701 [SACRED] Blasphemous Blade Crit [Triggered] - Chain SpEffect 350702, Cycle SpEffect ID 1626025, Trigger on State Info [1] 7777
 Duplicate SpEffectParam 350502->350702 [SACRED] Blasphemous Blade Crit [Triggered] - Cycle SpEffect ID 1626026, Effect VFX [0] 5031401, Trigger on State Info [1] 7777
@@ -88,10 +90,8 @@ SpEffectParam(1806) - Duration 0.1, Damage +: Magic 0, Chain SpEffect ID 1626010
 Eclipse Crest Greatshield:
 EquipParamWeapon(32240000) - Sword Arts Param ID 701, Reinforcement Price 1800, Ash of War Type 0, Requirement: FTH 32, Passive SpEffect 1 -1, Guard Absorption: Holy 90
 Duplicate SpEffectParam 525002->525004 [SACRED] Vow Wrath - Duration 0.5, Trigger Interval 1, Behavior ID 2504
-Duplicate BehaviorParam_PC 2502->2504 [SACRED] Vow Wrath - Reference ID 10641100
-Duplicate Bullet 10641000->10641100 [SACRED] Vow Wrath - AtkParam ID 64110
-Duplicate AtkParam_Pc 64100->64110 [SACRED] Vow Wrath - Knockback Distance 0.5, Conditional Category [1] 112, Damage: Stamina 120, Damage Level 3, Damage: Poise 6, Damage: Holy 175
-SwordArtsParam(701) - FP Consumption - L2 30
+Duplicate BehaviorParam_PC 2502->2504 [SACRED] Vow Wrath - Reference ID 10641000
+SwordArtsParam(701) - FP Consumption - L2 40
 EquipParamGem(70100) - Affinity: ALL 0
 
 Erdtree Seal:

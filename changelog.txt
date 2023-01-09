@@ -1,4 +1,17 @@
 #------------------------------------------
+# 7.8-1.07.1
+#------------------------------------------
+
+ # Weapons
+- Blasphemous Blade
+ - New Passive: Blasphemous Blade Exultation Heal
+  - Blood loss in area heals 7% + 80HP
+- Eclipse Crest Greatshield
+ - Black Sun's Zenith
+  - 30->40 FP cost
+  - Now expels a full-strength Wrath of Gold
+
+#------------------------------------------
 # 7.7-1.07.1
 #------------------------------------------
 
