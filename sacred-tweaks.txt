@@ -56,8 +56,8 @@ Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Dur
 Trigger on State Info [1] 0
 Duplicate SpEffectParam 1626025->1626026 1626026 [SACRED] Ravenous Bloodflame Skill Cost - Duration 180, Trigger Interval 0, Cycle SpEffect ID -1, Effect Category 10, Weapon Parameter Change 1, 
 Skill FP Consumption % 0.9
-Duplicate SpEffectParam 321600->1626033 [SACRED] Blasphemous Blade Exultation Heal - Icon ID -1, Cycle SpEffect ID 1626034
-Duplicate SpEffectParam 321601->1626034 [SACRED] Blasphemous Blade Exultation Heal [Cycle] -  Icon ID -1, Duration 1, Trigger Interval 2, Current HP % -7, Current HP + -80, Effect VFX [0] 5031401, Damage: ALL 1
+Duplicate SpEffectParam 321600->1626033 [SACRED] Blasphemous Blade Blood Eater - Icon ID -1, Cycle SpEffect ID 1626034
+Duplicate SpEffectParam 321601->1626034 [SACRED] Blasphemous Blade Blood Eater [Cycle] -  Icon ID -1, Duration 1, Trigger Interval 2, Current HP % -7, Current HP + -80, Effect VFX [0] 5031401, Damage: ALL 1
 Duplicate SpEffectParam 3190->1626035 [SACRED] Blasphemous Blade Blood - Duration -1, Effect Category  
 Duplicate SpEffectParam 350500->350700 [SACRED] Blasphemous Blade Crit - Icon ID -1, State Info 7777
 Duplicate SpEffectParam 350501->350701 [SACRED] Blasphemous Blade Crit [Triggered] - Chain SpEffect 350702, Cycle SpEffect ID 1626025, Trigger on State Info [1] 7777

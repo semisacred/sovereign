@@ -2,9 +2,9 @@
 # 7.8-1.07.1
 #------------------------------------------
 
- # Weapons
+# Weapons
 - Blasphemous Blade
- - New Passive: Blasphemous Blade Exultation Heal
+ - New Passive: Blood Eater
   - Blood loss in area heals 7% + 80HP
 - Eclipse Crest Greatshield
  - Black Sun's Zenith
