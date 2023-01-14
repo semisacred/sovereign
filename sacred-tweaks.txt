@@ -52,10 +52,10 @@ Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration
 Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1, Accumulator - Over Value - SpEffect ID 1626024, 
 Accumulator - Over Value 2, Accumulator - Increment Value -9999
 Duplicate SpEffectParam 5151200->1626024 [SACRED] Ravenous Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
-Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Duration 1.5, Trigger Interval 3, Chain SpEffect ID -1, Cycle SpEffect ID 1626022, Effect Category 0, 
+Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Duration 1.5, Trigger Interval 3, Chain SpEffect ID 1626018, Cycle SpEffect ID 1626022, Effect Category 0, 
 Trigger on State Info [1] 0
 Duplicate SpEffectParam 321600->1626033 [SACRED] Blasphemous Blade Blood Eater - Icon ID -1, Cycle SpEffect ID 1626034
-Duplicate SpEffectParam 321601->1626034 [SACRED] Blasphemous Blade Blood Eater [Cycle] -  Icon ID -1, Duration 1, Trigger Interval 2, Current HP % -7, Current HP + -80, Effect VFX [0] 5031401, Damage: ALL 1
+Duplicate SpEffectParam 321601->1626034 [SACRED] Blasphemous Blade Blood Eater [Cycle] -  Icon ID -1, Duration 1, Trigger Interval 2, Current HP % -7, Current HP + -60, Effect VFX [0] 5031401, Damage: ALL 1
 Duplicate SpEffectParam 3190->1626035 [SACRED] Blasphemous Blade Blood - Duration -1, Effect Category  
 Duplicate SpEffectParam 350500->350700 [SACRED] Blasphemous Blade Crit - Icon ID -1, State Info 7777
 Duplicate SpEffectParam 350501->350701 [SACRED] Blasphemous Blade Crit [Triggered] - Chain SpEffect 350702, Cycle SpEffect ID 1626025, Trigger on State Info [1] 7777
@@ -97,7 +97,7 @@ EquipParamWeapon(34070000) - Behavior Variation ID 3208, Sword Arts Param ID 119
 AtkParam_Pc(303208905) - Damage: Holy 150
 AtkParam_Pc(303208906) - Damage: Holy 90
 Bullet(2842) - Shooter SpEffect ID 1626050
-Duplicate SpEffectParam 1642000->1626050 [SACRED] Golden Retaliation Heal - Duration 1, Trigger Interval 2, Current HP % -5, Current HP + 0, Chain SpEffect ID 1626051, Effect Category 0
+Duplicate SpEffectParam 1642000->1626050 [SACRED] Golden Retaliation Heal - Duration 1, Trigger Interval 2, Current HP % -5, Current HP + -45, Chain SpEffect ID 1626051, Effect Category 0
 SwordArtsParam(1196) - FP Consumption - L2 10
 
 Sacred Zweihander: 
@@ -147,7 +147,8 @@ SpEffectParam(1626000) - Damage: Fire 130
 Ravenous Bloodflame (Bloodflame Blade):
 Magic(6320) - Requirement: ARC 12, Requirement: FTH 24, Reference ID [1] 1626019
 Duplicate SpEffectParam 105275->105277 [SACRED] Bloodflame Blade Self Bleed - Aux Inflict +: Hemorrhage 60
-Duplicate SpEffectParam 350502->1626019 [SACRED] Bloodflame Blade Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 7, Current HP + 80, Chain SpEffect 1626020, Cycle SpEffect -1, 
+Duplicate SpEffectParam 2000->1626018 [SACRED] Bloodflame Blade Blood Ability Damage - Icon ID -1, Duration 180, Attack %: Physical/Magic/Fire 1.1, Effect Category 10
+Duplicate SpEffectParam 350502->1626019 [SACRED] Bloodflame Blade Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 7, Current HP + 80, Chain SpEffect 1626020, Cycle SpEffect 1626018, 
 Effect VFX [0] -1, Trigger on State Info [1] 0
 Duplicate SpEffectParam 1626019->1626020 [SACRED] Bloodflame Blade Apply 2 - Current HP % 0, Current HP + 0, Chain SpEffect 105277, Cycle SpEffect 1626021
 Duplicate SpEffectParam 1626022->1626021 - Arcane -1

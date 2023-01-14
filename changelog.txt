@@ -5,15 +5,19 @@
 # Weapons
 - Blasphemous Blade
  - Ravenous Bloodflame
-  - -10% Skill Cost removed
+  - -10% skill cost removed
+  - +10% blood ability damage added
  - New Passive: Blood Eater
-  - Blood loss in area heals 7% + 80HP
+  - Blood loss in area heals 7% + 60HP
  - Baleful Strike
   - Now grants Ravenous Bloodflame 
 - Eclipse Crest Greatshield
  - Black Sun's Zenith
   - 30->40 FP cost
   - Now expels a full-strength Wrath of Gold
+- Erdtree Seal
+  - Golden Retaliation 
+   - Heals 5% + 45 HP
 
 #------------------------------------------
 # 7.7-1.07.1
