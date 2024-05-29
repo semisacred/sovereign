@@ -1,19 +1,142 @@
 #------------------------------------------
+# 8.0-1.07.1
+#------------------------------------------
+
+# General
+- Many SpEffects given effect Duration extension elegibility ie. Lord's Talisman
+
+# Difficulty
+- Summons
+ - 4x HP Recovery Effectiveness
+
+# Gestures
+- Quick Buff Erudition
+ - 2x animation speed
+ - No longer costs runes
+- Golden Order Totality
+ - 1.5x->2x animation speed
+ - Grants Blessing of the Erdtree
+- Rapture Flames of Blasphemy
+ - 2x->3x animation speed
+ - Flames of Blasphemy 
+  - 60s->90s Duration
+  - Reworked: +40% damage, -20% damage received, 90% status effect resistance, and restore 2% HP/FP/SP per second.
+
+# Great Runes
+ - Rykard Rune Reworked
+  - Grants Flames of Blasphemy for 90s on apply and allows its activation via Rapture & Bloody Shackle
+  - Stack Crimson Hunger 0.5% HP/FP/SP/Rune Gain/Effect Duration per kill
+  - Removed: Flames of Blasphemy on kill, HP regen
+
+# Weapons
+- Godslayer's Greatsword
+ - Soulflame Heresy
+  - Soulflame
+   - 2x Fire Damage -> +300 Fire Damage
+   - 2x Crit Damage
+   - Applies Heresy on kill and on crit
+  - Black Flame 
+   - 60s->90s Duration
+   - Applies Soulflame on crit
+  - Heresy 
+   - 600s->15s Duration
+   - +20% Damage
+   - -10% Damage received
+   - +1% HP/FP/SP per second
+   - Stacks
+   - Removed: Stamina Recovery, Fire Damage, Fire Resistance
+- Eclipse Crest Greatshield
+ - Black Sun's Zenith
+  - 40->30 FP Cost 
+  - Grants Blessing of the Erdtree to yourself and allies
+- Erdtree Seal
+  - Golden Retaliation 
+   - Grants a 50% Damage reduction bubble for 30s. 2x Holy Damage while active.
+   - Reduced Damage
+
+# Spells
+- Ravenous Bloodflame
+ - +10% Blood Ability Damage removed
+ - +10% Hemorrhage gain per stack
+- Flame, Grant Me Strength
+ - 1.5x->2x FP Cost
+ - 5->8 Stamina Recovery
+ - 30->40 Cast Speed
+- Giantsflame Take Thee
+ - 2x FP Cost, 2x Damage, 10 uses per rest
+- Flame of the Fell God
+ - 1000 fire damage -> 1245 fire damage
+ - Ground flame 30s->60s Duration
+- Dragonbolt Blessing
+ - 2.75x->3x FP Cost
+ - +10% resistances
+ - Removed HP Cost
+- Electrify Armament
+ - Reverted to vanilla
+- Lansseax's Glaive
+ - 2x->3x FP Cost
+ - 2x->3x Damage
+- Flame, Protect Me, Barrier of Gold, Golden Lightning Fortification, Protection of the Erdtree
+ - 2x Cost, 180 Duration, stacks
+
+
+# Items
+- Rune Arc
+ - No longer grants Flames of Blasphemy, now only for Rykard Great Rune
+- Bloody Shackle
+ - 19%->29% HP Cost
+ - Bloodflame Blast Bleed 240->1000 Hemorrhage
+ - Bloodflame Self Bleed 120->200 Hemorrhage
+ - Grants Flames of Blasphemy for 45s (Requires Rykard Great Rune active)
+ - Bloodboil 
+  - Removed
+- Starlight Shards
+ - -10% FP Consumption per stack
+ - +0 Intelligence
+ - +0 Mind
+
+# Flask of Wondrous Physick
+- Now has 3 charges
+- Leaden Hardtear
+ - Gives Ironjar Aromatic effect for 40s
+ - 2x guard stability
+-  Stonebarb Cracked Tear
+ - Duration 30s->40s
+
+# Talismans
+- Moon of Nokstella
+ - Makes the wearer semi-invisible while crouched
+- Radagon's Scarseal
+  - Reverted to vanilla
+- Radagon's Soreseal
+  - Reverted to vanilla
+- Green Turtle Talisman
+  - Reverted to vanilla
+- Marika's Scarseal
+  - Reverted to vanilla
+- Marika's Soreseal
+  - Reverted to vanilla
+
+# Misc
+- Traveller's Hat 
+ - Reverted to vanilla 
+
+#------------------------------------------
 # 7.8-1.07.1
 #------------------------------------------
 
 # Weapons
 - Blasphemous Blade
  - Ravenous Bloodflame
-  - -10% skill cost removed
-  - +10% blood ability damage added
+  - -10% skill Cost removed
+  - +10% blood Ability Damage added
  - New Passive: Blood Eater
   - Blood loss in area heals 7% + 60HP
  - Baleful Strike
   - Now grants Ravenous Bloodflame 
 - Eclipse Crest Greatshield
  - Black Sun's Zenith
-  - 30->40 FP cost
+  - 30->40 FP Cost
   - Now expels a full-strength Wrath of Gold
 - Erdtree Seal
   - Golden Retaliation 
@@ -24,7 +147,7 @@
 #------------------------------------------
 
 # Difficulty
-- Summons reverted back to normal HP and damage
+- Summons reverted back to normal HP and Damage
 
 #------------------------------------------
 # 7.6-1.07.1
@@ -35,12 +158,12 @@
 
 # Gestures
  - Rapture 
-  - Exalting Blasphemy -> Flames of Blasphemy
+  - Exalting Blasphemy->Flames of Blasphemy
 
 # Weapons
 - Godslayer's Greatsword
  - Soulflame Heresy
-  - Heretical Flame -> Heresy
+  - Heretical Flame->Heresy
 
 #------------------------------------------
 # 7.5-1.07.1
@@ -59,10 +182,10 @@
 # Weapons
 - Blasphemous Blade
  - Ravenous Bloodflame
-  - +5% Rune Gain -> +10% Rune Gain
+  - +5% Rune Gain->+10% Rune Gain
 - Godslayer's Greatsword
  - Soulflame Heresy
-  - Rune Gain disabled -> 2x Rune Gain
+  - Rune Gain disabled->2x Rune Gain
 
 # Items
 - Rune Arc
@@ -78,11 +201,11 @@
 
  # Weapons
 - Godslayer's Greatsword
- - Devouring Soul Flame -> Soulflame Heresy
-  - HP cost removed
- - Devour -> Heretical Flame
-  - +1% Fire absorption, +1% Fire damage, +1 Stamina Recovery Speed
-  - +2% damage for Godslayer's Incantations removed
+ - Devouring Soul Flame->Soulflame Heresy
+  - HP Cost removed
+ - Devour->Heretical Flame
+  - +1% Fire absorption, +1% Fire Damage, +1 Stamina Recovery Speed
+  - +2% Damage for Godslayer's Incantations removed
 - Eclipse Crest Greatshield
  - Blight removed
 
@@ -104,12 +227,12 @@
 
 # Weapons
 - Blasphemous Blade
- - Correction: STR 50->40, 85->70 physical damage, 55->50 fire damage
+ - Correction: STR 50->40, 85->70 physical Damage, 55->50 Fire Damage
 - Zweihander
- - 0.75x base damage
+ - 0.75x base Damage
  - Sacred Zweihander
   - Correction: STR 15->30, Correction: FTH 34->50
-  - Prayerful Strike -> Wrathful Strike
+  - Prayerful Strike->Wrathful Strike
    - 20->35 FP Cost
    - Gives Sunlight Blade: Holy Grease with 3s HP regen on hit
 - Great Stars
@@ -131,9 +254,9 @@
  - STR Correction 40->60, DEX Correction 20->30, FTH Correction 60->120
  - Devouring Soul Flame
   - Black Flame
-   - 65->130 Fire damage, 0 FTH Correction
+   - 65->130 Fire Damage, 0 FTH Correction
   - Soul Flame
-   - 2x Fire damage, 0 FTH Correction
+   - 2x Fire Damage, 0 FTH Correction
 - Eclipse Crest Greatshield
  - Requires 34->32 FTH
  - Black Sun's Zenith
@@ -145,16 +268,16 @@
 
 # Spells
 - Black Flame Blade
- - vanilla duration, 2x damage
+ - vanilla Duration, 2x Damage
 - Black Flame
- - 2x FP Cost, 1.5x damage
+ - 2x FP Cost, 1.5x Damage
 - Scouring Black flame
- - 2x FP Cost, 1.5x damage
+ - 2x FP Cost, 1.5x Damage
 - Black Flame Ritual
- - 2x FP Cost, 1.5x damage
+ - 2x FP Cost, 1.5x Damage
 - Ravenous Bloodflame
  - Requires 21->24 FTH
- - 10->50 Fire damage, no FTH Correction
+ - 10->50 Fire Damage, no FTH Correction
  - 1.1->1.05 Rune Gain
 - Electrify Armament
  - Fixed
@@ -203,29 +326,29 @@
 - Godslayer's Greatsword
  -Requires 30->34 FTH
  - Devour
-  - +2% damage for Godslayer's Incantations per stack
+  - +2% Damage for Godslayer's Incantations per stack
 - Eclipse Crest Greatshield
  - Requires 30->28 FTH
  - Guard Absorption: Holy 59->90
 
 # Spells
 - Black Flame Blade
- - Now actually costs 30 FP
-- Bloodflame Blade -> Ravenous Bloodflame
- - Cast it and take 7% + 80 HP damage and 60 Hemorrhage
+ - Now actually Costs 30 FP
+- Bloodflame Blade->Ravenous Bloodflame
+ - Cast it and take 7% + 80 HP Damage and 60 Hemorrhage
  - -1 ARC per stack (castable stacks = ARC - 12)
  - -10% FP Skill Consumption per stack 
 - Flame, Grant Me Strength
- - +20% fire resistance
+ - +20% Fire Resistance
 - Dragonbolt Blessing
  - Resistances removed
 
 # Items
 - Bloody Shackle
- - 14%->19% HP damage
+ - 14%->19% HP Damage
  - Inflicts 120->240 Hemorrhage to enemies
  - Bloodboil 
-  - +10% damage negation
+  - +10% Damage negation
   - +50% Hemorrhage gain
 
 # Animations
@@ -249,7 +372,7 @@
   - Correct bloodflame AtkParam
 
 # Spells
-- Indomitable Flame -> Flame, Grant Me Strength
+- Indomitable Flame->Flame, Grant Me Strength
  - Poise % removed
  - Exhaustion removed
 
@@ -257,9 +380,9 @@
  - Rykard's Kill buff/heal fixed
 
 # Items
-- Mohg's Shackle -> Bloody Shackle
+- Mohg's Shackle->Bloody Shackle
  - Blast of bloodflame that applies 120 Hemorrhage to you and surrounding enemies
- - Grants Bloodboil and Flame, Grant Me Strength but you take 14% + 160 HP damage
+ - Grants Bloodboil and Flame, Grant Me Strength but you take 14% + 160 HP Damage
 
 #------------------------------------------
 # 6.3-1.07.1
@@ -270,15 +393,15 @@
 
 # Gestures
 - Erudition
- - 20000->8000 runecost
+ - 20000->8000 runeCost
 
 # Weapons
 - Godslayer's Greatsword
- - Ruinous Black Flame -> Devouring Soul Flame
+ - Ruinous Black Flame->Devouring Soul Flame
   - Soul Flame
    - Rune Gain % 2->0
-   - Take 20 HP/s damage while active
-  - Soul Burn -> Devour
+   - Take 20 HP/s Damage while active
+  - Soul Burn->Devour
    - Duration -1->600s 
    - Max HP 1.005->1.01, Max FP 1.005->1.01, Max Stamina 1.005->1.01
    - Poise + 1
@@ -304,7 +427,7 @@
 # Weapons
 - Blasphemous Blade
  - Baleful Strike
-  - 40->70 FP cost
+  - 40->70 FP Cost
   - Grants Indomitable Flame
 
 # Spells
@@ -312,13 +435,13 @@
 
 # Items
 - Rune Arc
- - 12000->8000 runecost
+ - 12000->8000 runeCost
 - Numen's Rune
- - 6000->4000 runecost
+ - 6000->4000 runeCost
 - Opaline Bubblesoap
- - 3600->2200 runecost
+ - 3600->2200 runeCost
 - Starlight Shards
- - 4200->3500 runecost
+ - 4200->3500 runeCost
 
 #------------------------------------------
 # 6.1-1.07.1
@@ -327,10 +450,10 @@
 # Weapons
 - Godslayer's Greatsword
  - Black Flame 180 FTH Correction
- - White Flame 360 FTH Correction, fire damage % removed
-- Hallowbrand -> Blasphemous Blade
+ - White Flame 360 FTH Correction, Fire Damage % removed
+- Hallowbrand->Blasphemous Blade
  - Ravenous Bloodflame
-  - 180s duration once again
+  - 180s Duration once again
   - 50 FTH Correction per stack
 
 #------------------------------------------
@@ -343,17 +466,17 @@
 
 # Weapons
 - Godslayer's Greatsword
- - Destined Black Flame -> Ruinous Black Flame
+ - Destined Black Flame->Ruinous Black Flame
  - Behavior Variation ID fixed
 - Hallowbrand
  - Ravenous Bloodflame simplified 
-  - No max hp, increased fire damage %, or -holy damage
-  - 180s->infinite duration
-  - 20 fire damage, stacks on crit indefinitely until weapon swap, death, or game load
+  - No max hp, increased Fire Damage %, or -Holy Damage
+  - 180s->infinite Duration
+  - 20 Fire Damage, stacks on crit indefinitely until weapon swap, death, or game load
 
 # Spells
 - Flame of the Fell God
- - Default damage for ground fire
+ - Default Damage for ground fire
 
  # Items
 - Rune Arc selling price 5000->4000
@@ -366,16 +489,16 @@
  - Eclipse Crest Greatshield
   - Black Sun's Zenith 
    - Counts as a skill attack
-   - 12->8 poise damage
-   - 175->200 holy damage
+   - 12->8 Poise Damage
+   - 175->200 Holy Damage
  - Erdtree Seal
   - Golden Retaliation 
    - FP Cost 4->10
-   - Skill damage buff removed
+   - Skill Damage buff removed
    - Heals 5% HP
    - Damage reduced by ~40% to account for FTH scaling
  - Erdtree Greatshield
-  - Increased FTH scaling to even out Golden Retaliation damage  
+  - Increased FTH scaling to even out Golden Retaliation Damage  
 
 #------------------------------------------
 # 5.8-1.06
@@ -394,11 +517,11 @@
 - Overall Difficulty Modifiers 2x->1.5x
 - Resist %: Hemorrhage 2x->3x
 - Summons
- - 0.5x poise damage
+ - 0.5x Poise Damage
 
 # Weapons
 - Godslayer's Greatsword
- - Ruinous Black Flame -> Destined Black Flame
+ - Ruinous Black Flame->Destined Black Flame
   - White Flame Damage Reworked: 2x Fire Damage + 60 FTH Correction
 - Eclipse Crest Greatshield
  - Black Sun's Zenith 
@@ -422,7 +545,7 @@
  # Weapons
 - Godslayer's Greatsword
  - Ruinous Black Flame
-  - 30->60 FP cost
+  - 30->60 FP Cost
 - Hallowbrand
  - Bug fixes
 
@@ -436,20 +559,20 @@
 # Difficulty
 - Resist %: Hemorrhage 4x->2x
 - Summons
- - 1x poise damage
+ - 1x Poise Damage
 
  # Weapons
 - Godslayer's Greatsword
- - Ruinous Black Flame 1.5x->2x damage
+ - Ruinous Black Flame 1.5x->2x Damage
  - Black Flame Blade
-  - 37s->60s duration
+  - 37s->60s Duration
   - No longer refreshed on kill
-- Bloodstained Gildblade -> Hallowbrand
+- Bloodstained Gildblade->Hallowbrand
  - Complete rework & texture/icon edit
 
 # Spells
 - Black Flame Blade
- - Attack Effect: duration 1->2 (reverted)
+ - Attack Effect: Duration 1->2 (reverted)
 
 #------------------------------------------
 # 5.4-1.06
@@ -459,27 +582,27 @@
 - Overall Difficulty Modifiers 1.5x->2x
 - Resist %: Hemorrhage 2x->4x
 - Summons
- - 0.5x HP, damage, poise damage
+ - 0.5x HP, Damage, Poise Damage
 
  # Weapons
 - Eclipse Crest Greatshield
  - Black Sun's Zenith inflicts 70 Death Blight instead of reducing overall stats
 - Godslayer's Greatsword
  - Soul Burn now is only active during Ruinous Black Flame
-  - 1.004 -> 1.005 % per kill (50 Kills = 25% HP, FP, SP)
+  - 1.004->1.005 % per kill (50 Kills = 25% HP, FP, SP)
 - Bloodstained Gildblade
  - Damage lowered by 14%
 
 # Spells
 - Blessing's Boon / Blessing of the Erdtree
- - 2x duration
+ - 2x Duration
 - Indomitable Flame
- - 2x duration 
+ - 2x Duration 
 - Fortification/Protection Spells
- - 2x cost, 2x duration, stacks
+ - 2x Cost, 2x Duration, stacks
 
 # Items
-- Margit's Shackle -> Dark Omen Shackle
+- Margit's Shackle->Dark Omen Shackle
  - Alleviates Death Blight buildup
 - Starlight Shards
  - 5->3 max held, vfx stacks with other vfx
@@ -495,14 +618,14 @@
 
 # Spells
 - Black Flame Blade
- - Attack Effect: duration 2->1 (2%HP->1%HP)
+ - Attack Effect: Duration 2->1 (2%HP->1%HP)
 
 #------------------------------------------
 # 5.2-1.06
 #------------------------------------------
 
 # Difficulty
-- 1.5x enemy HP, FP, SP, damage
+- 1.5x enemy HP, FP, SP, Damage
 - 3x AI Vision/Hearing
  - Enemies are more perceptive and aggro from farther away
 - 2x Hemorrhage resistance
@@ -516,9 +639,9 @@
 
 # Spells
 - Black Flame Blade
- - [20 FTH] 2x FP cost, 2x duration
+ - [20 FTH] 2x FP Cost, 2x Duration
 - Indomitable Flame 
- - Exhaustion Icon Change, 90->45 duration, Weapon Stamina Consumption 1.2->1
+ - Exhaustion Icon Change, 90->45 Duration, Weapon Stamina Consumption 1.2->1
 
  # Items
 - Numen's Rune
@@ -533,7 +656,7 @@
 -Rune Arc
  - Craftable: 1 Sanctuary Stone and 12,000 runes
 - Starlight Shards
- - 300s duration, 1 FP/s, Max Amount 5
+ - 300s Duration, 1 FP/s, Max Amount 5
  - Craftable: 3 Cracked Crystal, 2 Crystal Bud, 2 Glintstone Firefly, and 1 Nascent Butterfly
  - Sold by Sorceress Sellen for 4200 runes
 
