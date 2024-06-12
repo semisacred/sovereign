@@ -20,7 +20,7 @@ Erudition:
 Duplicate SpEffectParam 3282->3297 [SACRED] Erudition [Quick Buff 1] - Current HP % 0, Current FP % 0, Rune Gain + 0, Chain SpEffect ID 3298, Cycle SpEffect ID 1605000
 Duplicate SpEffectParam 3288->3298 [SACRED] Erudition Rune Loss [Chain] - Rune Gain + 0, Chain SpEffect ID 3294
 Duplicate SpEffectParam 3288->3294 [SACRED] Numen's/Erudition [Quick Buff 2] - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643100
-Duplicate SpEffectParam 3294->3295 [SACRED] Numen's/Erudition [Quick Buff 3] - Chain SpEffect ID 3296, Cycle SpEffect ID 3507
+Duplicate SpEffectParam 3294->3295 [SACRED] Numen's/Erudition [Quick Buff 3] - Chain SpEffect ID 3296, Cycle SpEffect ID -1
 Duplicate SpEffectParam 3295->3296 [SACRED] Numen's/Erudition [Quick Buff 4] - Chain SpEffect ID 1697100, Cycle SpEffect ID -1
 
 Rapture:
@@ -79,7 +79,7 @@ Godslayer's Greatsword:
 EquipParamWeapon(4070000) - Behavior Variation ID 319, Sword Arts Param ID 1021, Weapon Motion Category 25, Weight 15.5, Reinforcement Price 2360, Requirement: STR 30, Requirement: DEX  16, Requirement: FTH 30, 
     Damage: Physical 66, Damage: Fire 33, Correction: STR 60, Correction: DEX 30, Correction: FTH 120, Special Attribute 13, Special Motion Category 0
 Duplicate SpEffectParam 1626000->1626003 [SACRED] GG Black Flame - Duration 90, Damage +: Fire 130, Cycle SpEffect ID 350800, Effect Category 20, Skill FP Consumption % 0.5
-Duplicate SpEffectParam 631->1626004 [SACRED] GG Heresy State Info - Icon ID -1, Duration 0.1, Chain SpEffect -1, Effect Category 20, State Info 7780, Effect VFX [0] -1
+Duplicate SpEffectParam 631->1626004 [SACRED] GG Heresy State Info - Icon ID -1, Duration 0.2, Chain SpEffect -1, Effect Category 20, State Info 7780, Effect VFX [0] -1
 Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Heresy - Icon ID 20295, Duration 15, Trigger Interval 1, Current HP + 0, Current HP %: 1, Current FP %: 1, Current SP %: 1, Attack %: ALL 1.2, Cycle SpEffect -1, Effect Category 10, Absorption %: 0.9, Effect VFX 0 9010, Effect Duration Eligibility 1
 Duplicate SpEffectParam 350502->1626006 [SACRED] GG Heresy Apply Kill - Duration 0.1, Trigger Interval 0.2, Current HP % 0, Current HP + 0, Chain SpEffect 1626005, Cycle SpEffect -1
     Effect Category 0, Effect VFX [0] 340900, Trigger on State Info [1] 7780
@@ -88,17 +88,26 @@ Duplicate SpEffectParam 320800->1626008 [SACRED] GG Soulflame [Hit Trigger] - Ic
     Accumulator - Over Value - SpEffect ID 1806, Accumulator - Over Value 2, Accumulator - Increment Value -9999, Effect Duration Eligibility 1
 Duplicate SpEffectParam 1691->1626009 [SACRED] GG Soulflame - Duration 7, Attack %: ALL 1, Damage +: Fire 300, Attack %: Stamina 2, Rune Gain % 2, Cycle SpEffect ID 1626011, 
     Effect Category 20, Effect VFX [0] 8655, Effect Duration Eligibility 1
-Duplicate SpEffectParam 1626004->1626010 [SACRED] GG Soulflame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, 
-    Kill SpEffect ID 0
+Duplicate SpEffectParam 1626004->1626010 [SACRED] GG Soulflame Apply - Duration 0.1, Chain SpEffect ID 1626013, Cycle SpEffect ID 1626009, State Info 0, Kill SpEffect ID 0
 Duplicate SpEffectParam 5031400->1626011 [SACRED] GG Soulflame [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626006
 Duplicate SpEffectParam 320900->1626012 [SACRED] GG Soulflame Crit Damage Boost - Icon ID -1, Duration 0.1, Trigger Interval 0.1, Attack %: ALL 2, Cycle SpEffect ID 1626004, Effect Category 20
-Duplicate SpEffectParam 350500->350800 [SACRED] Soulflame Crit - Icon ID -1, Duration 1, State Info 7778
-Duplicate SpEffectParam 350501->350801 [SACRED] Soulflame Crit [Triggered] - Duration 0.1, Chain SpEffect 350802, Cycle SpEffect ID 1626007, Trigger on State Info [1] 7778
-Duplicate SpEffectParam 350502->350802 [SACRED] Soulflame Crit [Triggered] - Duration 0.1, Current HP % 0, Current HP + 0, Chain SpEffect 6904, Cycle SpEffect 1806, Effect VFX [0] -1, Trigger on State Info [1] 7778
+Duplicate SpEffectParam 350500->350800 [SACRED] GG Soulflame Crit - Icon ID -1, Duration 1, State Info 7778
+Duplicate SpEffectParam 350501->350801 [SACRED] GG Soulflame Crit [Triggered] - Duration 0.1, Chain SpEffect 350802, Cycle SpEffect ID 1626007, Trigger on State Info [1] 7778
+Duplicate SpEffectParam 350502->350802 [SACRED] GG Soulflame Crit [Triggered] - Duration 0.1, Current HP % 0, Current HP + 0, Chain SpEffect 6904, Cycle SpEffect 1806, Effect VFX [0] -1, Trigger on State Info [1] 7778
 SpEffectParam(1806) [SACRED] GG Soulflame Heresy - Duration 0.1, Damage +: Magic 0, Chain SpEffect ID 1626010, Cycle SpEffect ID 1626003, Attack SpEffect ID -1, Effect VFX [0] -1
 SpEffectVfxParam(8655) - Trace SFX ID Offset Type 17
 SwordArtsParam(1021) - FP Consumption - L2 60 
 AtkParam_Pc(300500, 300510, 300520, 300530, 300540, 300550, 300561) - Target SpEffect [1] 350801
+Duplicate SpEffectParam 1626010->1626013 [SACRED] GG God Hunt Apply -  - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 525006, State Info 0, Kill SpEffect ID 0
+Duplicate SpEffectParam 631->1626015 [SACRED] GG God Hunt State Info - Icon ID -1, Duration 0.001, Chain SpEffect -1, Effect Category 20, State Info 7790, Effect VFX [0] -1
+Duplicate BehaviorParamPC 2505->2506 [SACRED] GG God Hunt 1 - Reference ID 10624000
+Duplicate BehaviorParamPC 2505->2507 [SACRED] GG God Hunt 2 - Reference ID 10624001
+Duplicate SpEffectParam 525004->525006 [SACRED] GG God Hunt 0 - Duration 90, Trigger Interval 0.1, Cycle SpEffect 525007, State Info 0, Behavior ID -1, Bullet Behavior ID -1, Weapon Parameter Change 1
+Duplicate SpEffectParam 525004->525007 [SACRED] GG God Hunt 1 - Duration 0.001, Trigger Interval 0.001, Effect Category 0, Cycle SpEffect 525008, Trigger on StateInfo [1] 7790,  Behavior ID 2506, Bullet Behavior ID 10100
+Duplicate SpEffectParam 525004->525008 [SACRED] GG God Hunt 2 - Duration 0.001, Trigger Interval 0.001, Effect Category 0, Behavior ID 2507, Bullet Behavior ID 10100
+Duplicate SpEffectParam 500830->525009 [SACRED] GG God Hunt Damage Boost 1 - Icon ID -1, Duration 0.35, Trigger Interval 1, Attack %: Physical/Fire 1.5, Change Attacker Damage Level 5, Effect Category 20, State Info 275, Poise Damage %: 1.25, Trigger on StateInfo [1] 7778, Absorption %: ALL 1, Effect VFX [0] -1, Weapon Stamina Consumption 10
+Duplicate SpEffectParam 525009->525010 [SACRED] GG God Hunt Damage Boost 2 - Rune Gain + 0, Change Attacker Damage Level 7, Trigger on StateInfo [1] 7780, Weapon Stamina Consumption 1
+
 
 Eclipse Crest Greatshield:
 EquipParamWeapon(32240000) - Sword Arts Param ID 701, Reinforcement Price 1800, Ash of War Type 0, Requirement: FTH 32, Passive SpEffect 1 -1, Guard Absorption: Holy 90
@@ -166,7 +175,7 @@ Magic(6320) - Requirement: ARC 12, Requirement: FTH 24, Reference ID [1] 1626019
 Duplicate SpEffectParam 105275->105277 [SACRED] Bloodflame Blade Self Bleed - Aux Inflict +: Hemorrhage 60
 Duplicate SpEffectParam 350502->1626019 [SACRED] Bloodflame Blade Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 7, Current HP + 80, Chain SpEffect 1626020, Effect VFX [0] -1, Trigger on State Info [1] 0
 Duplicate SpEffectParam 1626019->1626020 [SACRED] Bloodflame Blade Apply 2 - Current HP % 0, Current HP + 0, Chain SpEffect 105277, Cycle SpEffect 1626021
-Duplicate SpEffectParam 1626022->1626021 1626020 [SACRED] Bloodflame Blade - Aux Damage Correction %: Hemorrhage 1.1, -1 ARC
+Duplicate SpEffectParam 1626022->1626021 [SACRED] Bloodflame Blade - Aux Damage Correction %: Hemorrhage 1.1, -1 ARC
 
 Blessing's Boon:
 SpEffectParam(1643000) - Duration 180
@@ -201,9 +210,22 @@ Bullet(10611009) - Duration 60
 Magic(6110) - FP Consumption - Default 100, Stamina Consumption - Default 84, Number of Uses 1
 
 Dragonbolt Blessing:
-Magic(6971) - FP Consumption - Default 60, Stamina Consumption - Default 60
-SpEffectParam(1697100) - Duration 600, Effect Category 20, Aux Resist +: ALL 0, Aux Damage Correction %: ALL 0.9
+Magic(6971) - FP Consumption - Default 40, Stamina Consumption - Default 40
+SpEffectParam(1697100) - Duration 300, Category Priority 10, Effect Category 1005, Aux Resist +: ALL 0, Aux Damage Correction %: ALL 0.9
 SpEffectVfxParam(1697100) - Play Category 0
+
+Vyke's Dragonbolt:
+AtkParam_Pc(69100, 69101, 69105, 69106, 69400, 69401, 69402, 79990) - Conditional Category [2] 175
+AtkParam_Pc(69410, 69411, 69412, 69415, 69416, 69417, 69500, 69501, 69502) - Conditional Category [2] 175
+Magic(6970) - FP Consumption - Default 70, Stamina Consumption - Default 40, Is Weapon Enchantment Uncheck
+SpEffectParam(1697000) - Duration 0
+SpEffectParam(1697001) - Duration 90, Stamina Recovery 8, Chain SpEffect 1697103, Category Priority 9, Effect Category 1005, Max Equip Load 1, Cast Speed 40, Weapon Stamina Consumption 0.5
+SpEffectParam(1697002) - Cycle SpEffect 1697003
+Duplicate SpEffectParam 1697100->1697102 [SACRED] Vyke's Dragonbolt Blessing [Cycle] - Duration 1, Effect Category 20, Effect VFX [0] -1
+Duplicate SpEffectParam 1697100->1697103 [SACRED] Vyke's Dragonbolt Blessing [Chain] - Duration 210
+Duplicate SpEffectParam 330900->1697003 [SACRED] Vyke's Ancient Dragon Damage Boost - Icon ID -1, Duration 1, Attack %: All 1, Attack %: Lightning 1.5, 
+    Cycle SpEffect 1697102, Effect Category 20, Conditional Category [1] 0, Conditional Category [2] 175, Damage %: Lightning 1.5
+SpEffectVfxParam(1697000) - Play Category 0
 
 Lansseax's Glaive:
 AtkParam_Pc(69500) - Damage: Lightning 975, Damage: Stamina 690, Damage Level 11, Damage: Poise 18
@@ -361,7 +383,8 @@ SpEffectParam(310320) - Max Equip Load % 1.3
 
 Moon of Nokstella:
 SpEffectParam(311400) - Trigger Interval 0.1, Magic Attunement Slot 4, Cycle SpEffect 1468003
-Duplicate SpEffectParam 1468000->1468003 [SACRED] Moon of Nokstella Unseen Form - Trigger on StateInfo [1] 466, Effect VFX [0] 1467000
+Duplicate SpEffectParam 1468000->1468003 [SACRED] Moon of Nokstella Unseen Form - Trigger on StateInfo [1] 466, Effect VFX [0] 1467003
+Duplicate SpEffectVfxParam 1467000->1467003 - End SFX ID -1, Play Category 0
 #-------------------------------------------
 
 # MISCELLANEOUS-----------------------------
@@ -387,8 +410,8 @@ Soulflame Heresy Weapon Art Cast FX:
 a821_040000
 
 Quick Buff Erudition:
-a000_081030 - AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 2, AnimSpeedGradient - SpeedAtStart 2, SpeedAtEnd 0.5
-a000_081031 - AddSpEffect 3297
+a000_081030 - AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 1.5, AnimSpeedGradient - SpeedAtStart 1.5, SpeedAtEnd 0.5, AddSpEffect 1605000
+a000_081031 - AddSpEffect 3297 (single frame)
 a000_081032 - AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 2
 
 Golden Order Totality Invincibility & Wrath:
@@ -410,17 +433,19 @@ a000_202140, a002_202140, a003_202140, a010_202140, a012_202140, a013_202140, a0
 AddSpEffect 511084
 
 Black Sun's Zenith:
-a751_040040
-AddSpEffect 525004 (single frame)
+a751_040040 - AddSpEffect 525004 (single frame)
 
 Erdtree Seal Bubble:
-a796_040000 through a796_040345
-AddSpEffect 503502 (single frame)
+a796_040000 through a796_040345 - AddSpEffect 503502 (single frame)
 
 Baleful Strike:
 a600_040000
 InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3002, Offset -1, Unk12 255
 AddSpEffect 1626025 (single frame)
+
+GG God Hunt:
+a025_030300 - AddSpEffect 1626015, 525009, 525010 (single frame), copy sound from a505_045111 (StateInfo 7778, 7780)
+a025_032300 - AddSpEffect 1626015, 525009, 525010 (single frame), copy sound from a505_045111 (StateInfo 7778, 7780)
 
 Ravenous Bloodflame:
 a512_045100 - AnimSpeedGradient - SpeedAtStart 1, SPeedAtEnd 1.5
@@ -487,11 +512,11 @@ The eclipsed sun, drained of color, is the protective star of the soulless. Thro
 ------------------------------
 
 Goods(6050): Flame, Grant Me Strength
-Raises physical attack power, fire-affinity attack power, stamina recovery, cast speed, and weapon stamina consumption
+Raises physical attack power, fire-affinity attack power, stamina recovery, cast speed, and fire resistance
 ------------------------------
 Superior incantation of the Fire Monks.
 
-Creates an invigorating fire that will strengthen and hasten the caster but exhaust them faster.
+Creates an invigorating fire that will strengthen and hasten the caster.
 
 This incantation does not burn the caster, and so it is considered forbidden by the guardians of the Flame.
 ------------------------------

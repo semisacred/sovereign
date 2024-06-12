@@ -1,4 +1,39 @@
 #------------------------------------------
+# 8.1-1.07.1
+#------------------------------------------
+
+# Quick Buff
+ - No longer gives Opaline Bubble
+
+# Gestures
+- Quick Buff Erudition
+ - Animation speed adjusted
+- Rapture Flames of Blasphemy
+ - Flames of Blasphemy 
+  - Immunity to status effects -> 50% resistance
+
+# Weapons
+- Godslayer's Greatsword
+ - New Crouch Attack: God Hunt
+
+# Spells
+- Flame, Grant Me Strength
+ - 8->5 Stamina Recovery
+ - 40->20 Cast Speed
+ - Removed: Weapon Stamina Consumption
+- Dragonbolt Blessing
+ - 3x->2x FP cost
+ - 600s->300s Duration
+- Vyke's Dragonbolt
+ - 2x FP cost
+ - 70s->90s Duration
+ - +8 Stamina Recovery
+ - +40 Cast Speed
+ - 2x Ancient Dragon Spell damage
+ - 50% Weapon Stamina Consumption
+ - Effects of Dragonbolt Blessing, chains 210s Dragonbolt Blessing after expiration
+
+#------------------------------------------
 # 8.0-1.07.1
 #------------------------------------------
 
@@ -47,7 +82,7 @@
    - Removed: Stamina Recovery, Fire Damage, Fire Resistance
 - Eclipse Crest Greatshield
  - Black Sun's Zenith
-  - 40->30 FP Cost 
+  - 40->30 FP cost 
   - Grants Blessing of the Erdtree to yourself and allies
 - Erdtree Seal
   - Golden Retaliation 
@@ -59,32 +94,32 @@
  - +10% Blood Ability Damage removed
  - +10% Hemorrhage gain per stack
 - Flame, Grant Me Strength
- - 1.5x->2x FP Cost
+ - 1.5x->2x FP cost
  - 5->8 Stamina Recovery
  - 30->40 Cast Speed
 - Giantsflame Take Thee
- - 2x FP Cost, 2x Damage, 10 uses per rest
+ - 2x FP cost, 2x Damage, 10 uses per rest
 - Flame of the Fell God
  - 1000 fire damage -> 1245 fire damage
  - Ground flame 30s->60s Duration
 - Dragonbolt Blessing
- - 2.75x->3x FP Cost
+ - 2.75x->3x FP cost
  - +10% resistances
- - Removed HP Cost
+ - Removed HP cost
 - Electrify Armament
  - Reverted to vanilla
 - Lansseax's Glaive
- - 2x->3x FP Cost
+ - 2x->3x FP cost
  - 2x->3x Damage
 - Flame, Protect Me, Barrier of Gold, Golden Lightning Fortification, Protection of the Erdtree
- - 2x Cost, 180 Duration, stacks
+ - 2x cost, 180 Duration, stacks
 
 
 # Items
 - Rune Arc
  - No longer grants Flames of Blasphemy, now only for Rykard Great Rune
 - Bloody Shackle
- - 19%->29% HP Cost
+ - 19%->29% HP cost
  - Bloodflame Blast Bleed 240->1000 Hemorrhage
  - Bloodflame Self Bleed 120->200 Hemorrhage
  - Grants Flames of Blasphemy for 45s (Requires Rykard Great Rune active)
@@ -128,7 +163,7 @@
 # Weapons
 - Blasphemous Blade
  - Ravenous Bloodflame
-  - -10% skill Cost removed
+  - -10% skill cost removed
   - +10% blood Ability Damage added
  - New Passive: Blood Eater
   - Blood loss in area heals 7% + 60HP
@@ -136,7 +171,7 @@
   - Now grants Ravenous Bloodflame 
 - Eclipse Crest Greatshield
  - Black Sun's Zenith
-  - 30->40 FP Cost
+  - 30->40 FP cost
   - Now expels a full-strength Wrath of Gold
 - Erdtree Seal
   - Golden Retaliation 
@@ -202,7 +237,7 @@
  # Weapons
 - Godslayer's Greatsword
  - Devouring Soul Flame->Soulflame Heresy
-  - HP Cost removed
+  - HP cost removed
  - Devour->Heretical Flame
   - +1% Fire absorption, +1% Fire Damage, +1 Stamina Recovery Speed
   - +2% Damage for Godslayer's Incantations removed
@@ -233,7 +268,7 @@
  - Sacred Zweihander
   - Correction: STR 15->30, Correction: FTH 34->50
   - Prayerful Strike->Wrathful Strike
-   - 20->35 FP Cost
+   - 20->35 FP cost
    - Gives Sunlight Blade: Holy Grease with 3s HP regen on hit
 - Great Stars
  - STR Correction 70->60
@@ -270,11 +305,11 @@
 - Black Flame Blade
  - vanilla Duration, 2x Damage
 - Black Flame
- - 2x FP Cost, 1.5x Damage
+ - 2x FP cost, 1.5x Damage
 - Scouring Black flame
- - 2x FP Cost, 1.5x Damage
+ - 2x FP cost, 1.5x Damage
 - Black Flame Ritual
- - 2x FP Cost, 1.5x Damage
+ - 2x FP cost, 1.5x Damage
 - Ravenous Bloodflame
  - Requires 21->24 FTH
  - 10->50 Fire Damage, no FTH Correction
@@ -362,13 +397,13 @@
 # Weapons
 - Godslayer's Greatsword
  - Black FLame
-  - -50% Skill FP Cost
+  - -50% Skill FP cost
  - Devour
    - Poise + 0, Poise % 1
 - Blasphemous Blade
  - Added passive bleed effect and VFX
  - Baleful Strike
-  - FP Cost 70->50
+  - FP cost 70->50
   - Correct bloodflame AtkParam
 
 # Spells
@@ -427,7 +462,7 @@
 # Weapons
 - Blasphemous Blade
  - Baleful Strike
-  - 40->70 FP Cost
+  - 40->70 FP cost
   - Grants Indomitable Flame
 
 # Spells
@@ -493,7 +528,7 @@
    - 175->200 Holy Damage
  - Erdtree Seal
   - Golden Retaliation 
-   - FP Cost 4->10
+   - FP cost 4->10
    - Skill Damage buff removed
    - Heals 5% HP
    - Damage reduced by ~40% to account for FTH scaling
@@ -545,7 +580,7 @@
  # Weapons
 - Godslayer's Greatsword
  - Ruinous Black Flame
-  - 30->60 FP Cost
+  - 30->60 FP cost
 - Hallowbrand
  - Bug fixes
 
@@ -599,7 +634,7 @@
 - Indomitable Flame
  - 2x Duration 
 - Fortification/Protection Spells
- - 2x Cost, 2x Duration, stacks
+ - 2x cost, 2x Duration, stacks
 
 # Items
 - Margit's Shackle->Dark Omen Shackle
@@ -639,7 +674,7 @@
 
 # Spells
 - Black Flame Blade
- - [20 FTH] 2x FP Cost, 2x Duration
+ - [20 FTH] 2x FP cost, 2x Duration
 - Indomitable Flame 
  - Exhaustion Icon Change, 90->45 Duration, Weapon Stamina Consumption 1.2->1
 
