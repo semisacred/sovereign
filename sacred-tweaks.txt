@@ -5,7 +5,7 @@
 # DIFFICULTY MODIFIER-----------------------
 SpEffectParam(7000 through 7280) - Cycle SpEffect ID 7399
 Duplicate SpEffectParam 7280->7399 [SACRED] Difficulty Modifier - Duration -1, Max HP % 2, Max FP % 2, Max Stamina % 2, Attack %: ALL 2, Defence %: ALL 2, 
-    Attack %: Stamina 2, Aux Resist %: ALL 1, Aux Resist %: Hemorrhage 2, Cycle SpEffect ID -1, AI Vision Correction 2, Listen Search Correction 2
+    Attack %: Stamina 2, Aux Resist %: ALL 1, Cycle SpEffect ID -1, AI Vision Correction 2, Listen Search Correction 2
 Duplicate SpEffectParam 7399->7398 [SACRED] Summon Modifier - Max HP % 1, Max FP % 1, Max Stamina % 1, HP Recovery Effectiveness 4, Attack %: ALL 1, Defence %: ALL 1, 
     Attack %: Stamina 1, Aux Resist %: Hemorrhage 1, AI Vision Correction 1, Listen Search Correction 1, Poise Damage % 1
 NpcParam(100000010 through 170002000) - SpEffect ID [3] 7398
@@ -29,9 +29,11 @@ Duplicate SpEffectParam 500030->500035 [SACRED] Flames of Blasphemy - Duration 9
     Chain SpEffect ID -1, Cycle SpEffect ID -1, Target Priority 0.1, Effect Category 150, Aux Damage Correction %: ALL 0.1, Absorption %: 0.8, Effect VFX [0] 9012, Effect Duration Eligibility 1
 
 Golden Order Totality:
-Duplicate SpEffectParam 525004->525005 [SACRED] Totality Wrath - Cycle SpEffect 1643100, Behavior ID 2505
-Duplicate Bullet 10641050->10641051 [SACRED] Totality Wrath - Hit Bullet Id 10643101, Is Hit Both Team Check
+Duplicate SpEffectParam 525004->525005 [SACRED] Totality Wrath - Chain SpEffect 1643100, Cycle SpEffect ID 503502, Behavior ID 2505
+Duplicate Bullet 10641050->10641051 [SACRED] Totality Wrath - Hit Bullet Id 10643102, Is Hit Both Team Check
+Duplicate Bullet 10643101->10643102 [SACRED] Totality Blessing - Target SpEffect [2] 503502
 Duplicate BehaviorParam_PC 2502->2505 [SACRED] Totality Wrath - Reference ID 10641051
+Duplicate SpEffectParam 503500->503502 [SACRED] Totality Bubble - Duration 180, Effect Category 20, HP Recovery Effectiveness % 2, Effect Duration Eligibility 1
 #-------------------------------------------
 
 # FALL DAMAGE REWORK------------------------
@@ -121,10 +123,12 @@ EquipParamWeapon(34070000) - Behavior Variation ID 3208, Sword Arts Param ID 119
 AtkParam_Pc(303208905) - Damage: Holy 100
 AtkParam_Pc(303208906) - Damage: Holy 60
 Bullet(2842) - Duration 1.2, Shooter SpEffect ID 1626050
-Duplicate SpEffectParam 503500->503502 [SACRED] Golden Retaliation Bubble - Duration 30, Effect Category 20, Effect VFX [1] 51951, Effect VFX [2] 5825, Absorption %: ALL 0.5, Damage %: Holy 2, Effect Duration Eligibility 1
 Duplicate SpEffectParam 1642000->1626050 [SACRED] Golden Retaliation Heal - Duration 1, Trigger Interval 2, Current HP % -5, Current HP + -45, Chain SpEffect ID 1626051, Effect Category 0
 SpEffectVfxParam(5306) - Play Category 0
 SwordArtsParam(1196) - FP Consumption - L2 10
+
+Wyrmsblood Sigil(Dragon Communion Seal):
+EquipParamWeapon(34070000) - Behavior Variation ID 3208, Sword Arts Param ID 1196, Reinforcement Price 100, Requirement: INT 20, Requirement: FTH 20, Requirement: ARC 20, Correction: INT 60, Correction: FTH 60, Correction: ARC 120
 
 Sacred Zweihander: 
 EquipParamWeapon(4040000 through 4041200) - Behavior Variation ID 319, Weapon Motion Category 25, Weight 14.5, Requirement: STR 28, Damage: ALL [MATH 75%], Damage Multiplier %: Type B 1.2, Special Motion Category 0
@@ -175,7 +179,7 @@ Magic(6320) - Requirement: ARC 12, Requirement: FTH 24, Reference ID [1] 1626019
 Duplicate SpEffectParam 105275->105277 [SACRED] Bloodflame Blade Self Bleed - Aux Inflict +: Hemorrhage 60
 Duplicate SpEffectParam 350502->1626019 [SACRED] Bloodflame Blade Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 7, Current HP + 80, Chain SpEffect 1626020, Effect VFX [0] -1, Trigger on State Info [1] 0
 Duplicate SpEffectParam 1626019->1626020 [SACRED] Bloodflame Blade Apply 2 - Current HP % 0, Current HP + 0, Chain SpEffect 105277, Cycle SpEffect 1626021
-Duplicate SpEffectParam 1626022->1626021 [SACRED] Bloodflame Blade - Aux Damage Correction %: Hemorrhage 1.1, -1 ARC
+Duplicate SpEffectParam 1626022->1626021 [SACRED] Bloodflame Blade - Aux Damage Correction %: Hemorrhage 1.1
 
 Blessing's Boon:
 SpEffectParam(1643000) - Duration 180
@@ -330,10 +334,10 @@ Bullet(10215000) - Duration 0.01, Shooter SpEffect ID 525002
 Duplicate Bullet 10630000->10215001 [SACRED] Mohg's Shackle Bloodflame Blast - Duration 0.5, Initial Hit Radius 4, Final Hit Radius 4, Hit Bullet ID 10215002, 
 Shooter SpEffect ID 1626028
 Duplicate Bullet 10630001->10215002 [SACRED] Mohg's Shackle Bloodflame Blast - Initial Hit Radius 4, Final Hit Radius 4,Target SpEffect ID [0] 105276, Target SpEffect ID [1] 1626027
-Duplicate SpEffectParam 105275->105276 [SACRED] Mohg's Shackle Bloodflame Blast Bleed - Aux Inflict +: Hemorrhage 1000
-Duplicate SpEffectParam 105275->105278 [SACRED] Mohg's Shackle Bloodflame Self Bleed - Aux Inflict +: Hemorrhage 200
+Duplicate SpEffectParam 105275->105276 [SACRED] Mohg's Shackle Bloodflame Blast Bleed - Aux Inflict +: Hemorrhage 500
+Duplicate SpEffectParam 105275->105278 [SACRED] Mohg's Shackle Bloodflame Remove Hemorrhage - Aux Inflict +: Hemorrhage -9999
 Duplicate SpEffectParam 525000->525002 [SACRED] Mohg's Shackle Bloodflame Blast - Behavior ID 2502
-Duplicate SpEffectParam 1626011->1626028 [SACRED] Mohg's Shackle Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 29, Current HP + 160, 
+Duplicate SpEffectParam 1626011->1626028 [SACRED] Mohg's Shackle Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 4, Current HP + 160, 
 Chain Speffect ID 1626029, Cycle Speffect ID 105278
 Duplicate SpEffectParam 1626028->1626029 [SACRED] Mohg's Shackle Apply 2 - Current HP % 0, Current HP + 0, Chain Speffect ID 1605000, Cycle Speffect ID 1626030
 Duplicate SpEffectParam 1626029->1626030 [SACRED] Mohg's Shackle Apply 3 - Chain Speffect ID -1, Cycle Speffect ID 1626032
@@ -382,9 +386,13 @@ Great-Jar's Arsenal:
 SpEffectParam(310320) - Max Equip Load % 1.3
 
 Moon of Nokstella:
-SpEffectParam(311400) - Trigger Interval 0.1, Magic Attunement Slot 4, Cycle SpEffect 1468003
+EquipParamAccessory(1140) - SpEffect ID [1] 311401
+SpEffectParam(311400) - Trigger Interval 0.1, Magic Attunement Slot 4, Cycle SpEffect 1468003, Intelligence 10
+Duplicate SpEffectParam 311400->311401 [SACRED] Moon of Nokstella Raptor of the Mists - Cycle SpEffect 1571, Magic Attunement Slots 0, State Info 275, Trigger on StateInfo [1] 7795
+Duplicate SpEffectParam 631->311402 [SACRED] Moon of Nokstella Raptor of the Mists State Info - Icon ID -1, Duration 0.2, Chain SpEffect -1, Effect Category 20, State Info 7795, Effect VFX [0] -1
 Duplicate SpEffectParam 1468000->1468003 [SACRED] Moon of Nokstella Unseen Form - Trigger on StateInfo [1] 466, Effect VFX [0] 1467003
 Duplicate SpEffectVfxParam 1467000->1467003 - End SFX ID -1, Play Category 0
+Duplicate SpEffectParam 1570->1571 [SACRED] Moon of Nokstella Raptor of the Mists - Duration 0.5, Cycle SpEffect 100500
 #-------------------------------------------
 
 # MISCELLANEOUS-----------------------------
@@ -435,9 +443,6 @@ AddSpEffect 511084
 Black Sun's Zenith:
 a751_040040 - AddSpEffect 525004 (single frame)
 
-Erdtree Seal Bubble:
-a796_040000 through a796_040345 - AddSpEffect 503502 (single frame)
-
 Baleful Strike:
 a600_040000
 InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3002, Offset -1, Unk12 255
@@ -454,6 +459,10 @@ a512_045110 - AnimSpeedGradient - SpeedAtStart 1.5, SPeedAtEnd 1.5
 Zweihander Wrathful Strike: 
 a657_040200 - AddSpEffect 1626036, AnimSpeedGradient - SpeedAtStart 1, SPeedAtEnd 1.5
 InvokeBulletBehavior - DummyPoly ID 10301, BehaviorJudgeID 3003, Offset -1, Unk12 255
+
+Moon of Nokstella Crouch Raptor of the Mists:
+a000_390000, a002_390000, a003_390000, a010_390000, a012_390000, a013_390000, a014_390000, a015_390000, a016_390000
+AddSpEffect 311402 (single frame)
 #-------------------------------------------
 
 # FX----------------------------------------
@@ -509,6 +518,14 @@ Weapons(32240000): Eclipse Crest Greatshield
 Metal greatshield painted with a sun in eclipse. Bestowed by Godwyn the Golden to his strongest knights.
 
 The eclipsed sun, drained of color, is the protective star of the soulless. Through prayer to the Black Sun, a lost radiance to thwart even Ruinous Death can called upon once more.
+------------------------------
+
+Weapons(34080000): Wyrmsblood Sigil(Dragon Communion Seal)
+------------------------------
+Formless drakeblood seal with a dragon communion crest. Imbues incantations and sorceries with arcane power.
+
+The sacrificial devouring of the heart gives power. Heresy is not native to this world. It is but a contrivance, all things can be conjoined.
+Menu Text - WeaponEffect(1115) - Imbues incantations and sorceries with arcane power
 ------------------------------
 
 Goods(6050): Flame, Grant Me Strength
@@ -587,18 +604,27 @@ A crystal tear formed slowly over the ages where the Erdtree's bounty falls to t
 
 Can be mixed in the Flask of Wondrous Physick.
 The resulting concoction temporarily turns body to steel, boosting poise, resistances and damage negation at the expense of mobility and lightning resistance.
-MenuText-GoodsInfo2(11018): Temporarily turns body to steel
+Menu Text - GoodsInfo2(11018): Temporarily turns body to steel
 ------------------------------
 
 Rings(1140): Moon of Nokstella
-Increases memory slots and conceals wearer while crouched
+Increases memory slots and intelligence, crouch to harness shadow and night
 ------------------------------
 This legendary talisman is a treasure of Nokstella, the Eternal City.
 
-Increases memory slots and makes the wearer semi-invisible while crouched.
+Increases memory slots, intelligence, and makes the wearer semi-invisible while crouched. If an enemy attack connects, avian wings will allow for a quick escape into the air.
 
-This talisman represents the lost black moon.
-The moon of Nokstella was the guide of countless stars.
+This talisman represents the lost black moon of Nokstella, once the guide of countless stars. The High Priestess of the Nox was said to have revered and commanded ravens that shadowed her every step.
+------------------------------
+
+Rings(6040): Longtail Cat Talisman
+Grants immunity to fall damage
+------------------------------
+A brooch depicting Lacrima, the long-tailed cat.
+
+Grants immunity to fall damage.
+
+Lacrima features in the fables of Raya Lucaria, in which she is described as a faerie cat who was fond of playing in the great bell tower.
 #-------------------------------------------
 
 # MASS EDIT---------------------------------
@@ -611,4 +637,8 @@ param NpcParam: id .*: superArmorRecoverCorrection: = vanillafield superArmorRec
 5849 - Heart Energy
 8210 - Invisible
 51951 - Gold Chest
+#-------------------------------------------
+
+# SFX---------------------------------------
+Projectile SFX ID 621125 - Maliketh Roar
 #-------------------------------------------
