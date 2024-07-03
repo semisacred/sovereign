@@ -1,4 +1,63 @@
 #------------------------------------------
+# 8.3-1.07.1
+#------------------------------------------
+
+# Bugfix
+- AOE bullets from Wrathful Strike and God Hunt now hit properly
+
+# General
+ - Player can now double jump
+
+# Models/Textures
+- Modified Traveler's Hat: Seeker's Warhelm
+- Scaled Greaves: Optional Alternate Scaled Grieves added
+
+# Difficulty
+  - The strongest in-universe bosses have 2x HP
+  - Summons no longer have 4x HP recovery
+
+# Quick Buff
+- Gives Golden Bubble
+
+# Gestures
+- Golden Order Totality
+  - Totality Golden Bubble gives 10x HP recovery to allies
+
+# Great Runes
+- Rykard Crimson Hunger
+  - Removed: Stack 0.5% Effect Duration per kill
+
+# Weapons
+- Wyrmsblood Sigil
+  - 2x FP cost for spells
+
+# Spells
+- GENERAL REWORK
+  - FP costs and damage largely returned to vanilla for Wyrmspell Sigil
+- Vyke's Dragonbolt
+  - Removed: Stamina Recovery, Cast Speed
+  - +20 SP/s
+  - Increases movement speed by 30%
+- Dragonbolt Blessing
+  - +10 SP/s
+  - Increases movement speed by 15%  
+
+# Flask of Wondrous Physick
+- Leaden Hardtear
+  - Gives +50% jump attack damage
+
+# Talismans
+- Radagon's Scarseal/Soreseal
+  - Removed: Increased attributes and damage taken
+  - +5/10 Stamina Recovery, +15/30 Cast Speed, & +15/30% Holy damage and -15%/-30% Holy damage negation
+- Marika's Scarseal/Soreseal
+  - Removed: Increased attributes and damage taken
+  - +1/2% FP/s and +15/30% Holy damage and -15%/-30% Holy damage negation
+- Radagon Icon 
+  - 30 -> 70 Cast Speed
+
+
+#------------------------------------------
 # 8.2-1.07.1
 #------------------------------------------
 
@@ -15,7 +74,7 @@
     - 180s->300s Duration
 - Erdtree Seal
   - Golden Retaliation 
-    - Removed: 50% Damage reduction bubble
+    - Removed: 50% damage reduction bubble
 - Wyrmsblood Sigil (formerly Dragon Communion Seal)
   - Requires: 20 INT, 20 FTH, 20 ARC
   - INT Correction: 0 -> 60
