@@ -1,4 +1,93 @@
 #------------------------------------------
+# 8.4-1.07.1
+#------------------------------------------
+
+# Gestures
+- Erudition
+  - Grants Azure Blaze and Terra Magica
+    - Azure Blaze 
+      - +50% magic damage for 180s or until taking damage
+      - Loretta's Greatbow shots stack 10% sorcery magic damage for 30s while active
+- Golden Order Totality
+  - New Name: Golden Bubble -> Sacred Ward
+- Rapture Flames of Blasphemy
+  - Flames of Blasphemy 
+    - Removed: -50% status effects
+    - +40% -> +30% damage
+    - Affects Sorcery/Incantations
+    - Now shares effect category with Blessing's Boon/Blessing of the Erdtree/Sacred Ward/Aura Effects
+- Seeker's Vow (formerly By My Sword)
+  - Applies Seeker's Eye if enabled
+    - 600s duration
+    - 2x item discovery
+    - 50% chance of rune loss prevention upon death
+
+# Weapons
+- Godslayer's Greatsword
+  - Soulflame Heresy
+    - 60 -> 45 FP Cost
+    - Black Flame
+      - Skill FP consumption 0.5 -> 1
+    - Soulflame
+      - Strike with increased force (Attacker Damage Level 5)
+    - Heresy
+      - +20% -> +10% damage
+      - Affects Sorcery/Incantations
+- Wyrmsblood Sigil
+  - New Skill: Sovereign's Fury
+    - Costs no FP but lowers HP/FP/SP/Rune Gain by 2% per cast for 600s
+    - 130% max HP/FP/SP
+    - Tier 4 Hardness
+    - +40% non-physical damage negation
+    - -40% status effects
+    - 2x Ancient Lightning damage
+    - Special heavy attacks
+    - Effects of Vyke's Dragonbolt
+- Zweihander
+  - Wrathful Strike
+    - Sunlight Blade
+      - 12 -> 24 Hp regen for 3 seconds 
+
+# Spells
+- Loretta's Greatbow
+  - Standard shot
+    - 1.5x animation speed
+    - Damage reduced by 33.33%
+  - Charged shot
+    - 1.5x animation speed
+    - Range significantly extended
+- Ravenous Bloodflame
+  - Self Bleed damage 15% + 200 -> 30% + 400
+- Terra Magica
+  - Eliminates sorcery FP consumption
+
+# Armor
+- Seeker's War Hat
+  - Enables Seeker's Eye through Seeker's Vow
+- Dragonlord's Plate Armor
+  - 2x the fire and lightning negation each armor piece provides
+  - Dragonlord's Plate Chest
+    - Sovereign's Fury Triggers at 30% HP while Vyke's Dragonbolt/Dragonbolt Blessing is active
+  - Dragonlord's Plate Gloves
+    -  +10% damage dealt by Godslayer, Fire Giant, and Blood attacks
+  - Dragonlord's Plate Greaves  
+    - Semi-invisible crouch
+    - Raptor of the Mists on crouch
+
+# Talismans
+- New Talisman: Entwining Umbilicle Cord
+  - Has every effect of Dragonlord's Plate armor set
+    - Dragonlord's Aegis
+    - +10% damage dealt by Godslayer, Fire Giant, and Blood attacks
+    - Semi-invisible crouch
+    - Raptor of the Mists
+
+# Great Runes
+- Rykard Crimson Hunger
+  - Removed: +10 VGR
+  - +0.5% HP/FP/SP/RuneGain -> +1% HP/FP/SP/RuneGain for 600s
+
+#------------------------------------------
 # 8.3-1.07.1
 #------------------------------------------
 

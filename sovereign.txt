@@ -1,0 +1,908 @@
+#-------------------------------------------
+# SACRED TWEAKS
+#-------------------------------------------
+TODO make braggarts roar unique
+
+# DIFFICULTY MODIFIER-----------------------
+SpEffectParam(7000 through 7280) - Cycle SpEffect ID 7399
+Duplicate SpEffectParam 7280->7399 [SACRED] Difficulty Modifier - Duration -1, Max HP % 2, Max FP % 2, Max Stamina % 2, Attack %: ALL 2, Defence %: ALL 2, 
+    Attack %: Stamina 2, Aux Resist %: ALL 1, Cycle SpEffect ID -1, AI Vision Correction 2, Listen Search Correction 2
+#-------------------------------------------
+
+
+# STRONGEST IN-UNIVERSE BOSSES--------------
+Starscourge Radahn:
+NpcParam(47300000, 47300040) - Base HP 5170
+Maliketh, The Black Blade:
+NpcParam(21101000, 21101072, 21102000, 21109000, 21109042) - Base HP 3176
+Dragonlord Placidusax:
+NpcParam(45200000, 45200072, 45200100) - Base HP 7564
+Mohg, Lord of Blood:
+NpcParam(48000000, 48000068) - Base HP 5106
+Malenia, Blade of Miquella:
+NpcParam(21200000, 21200056, 21201000, 21201100, 21202000, 21202056, 21203000, 21203056, 21209000) - Base HP 4978
+Godfrey, First Elden Lord:
+NpcParam(47200000, 47200070) - Base HP 3442
+Radagon:
+NpcParam(21900000, 21900078) - Base HP 3786
+Elden Beast:
+NpcParam(22000000, 22000078) - Base HP 6280
+#-------------------------------------------
+
+
+# DEFLECT/TIMED BLOCK-----------------------
+SpEffectParam(6202002, 6202003, 6202004, 6202005)
+#-------------------------------------------
+
+
+# QUICK BUFF--------------------------------
+Duplicate SpEffectParam 3282->3293 [SACRED] Quick Buff 1 - Current HP % 0, Current FP % 0, Rune Gain + 0, Chain SpEffect ID 3294, Cycle SpEffect ID 1605000
+Duplicate SpEffectParam 3288->3294 [SACRED] Quick Buff 2 - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643100
+Duplicate SpEffectParam 3294->3295 [SACRED] Quick Buff 3 - Chain SpEffect ID 3296, Cycle SpEffect ID 503502
+Duplicate SpEffectParam 3295->3296 [SACRED] Quick Buff 4 - Chain SpEffect ID 1697100, Cycle SpEffect ID 500034
+#-------------------------------------------
+
+
+# GESTURES----------------------------------
+Erudition:
+Duplicate BehaviorParam_PC 2502->2508 [SACRED] Erudition Terra Magica  - Reference ID 10413000
+Duplicate SpEffectParam 3507->1626070 [SACRED] Erudition Azure Blaze - Icon ID 20007, Duration 180, Absorption %: ALL 1, Cycle SpEffect ID -1, State Info 7811, Affects Sorcery 1, 
+    Damage %: Magic 1.5, Effect VFX [0] 51770, Effect VFX [1] 53512, Effect Duration Eligibility 1
+Duplicate SpEffectParam 500034->1626071 [SACRED] Erudition Azure Blaze Stack Apply - Trigger Interval 0.2, Cycle SpEffect 1626072, Trigger on StateInfo [1] 7811
+Duplicate SpEffectParam 3507->1626072 [SACRED] Erudition Azure Blaze Stack - Icon ID -1, Duration 30, Effect Category 10, State Info 0, Damage %: Magic 1.1, Effect VFX [1] 1436000
+Duplicate SpEffectParam 511081->525006 [SACRED] Erudition Terra Magica - Behavior ID 2508, Effect VFX [0] -1
+SpEffectVfxParam(1436000) - Play Category 0
+
+Rapture:
+Duplicate SpEffectParam 3288->3350 [SACRED] Rapture HP Burn - Duration 1, Trigger Interval 0.1, Current HP % 0.995, Current HP + 10,  Effect VFX [0] 9010
+Duplicate SpEffectParam 1626004->500034 [SACRED] Flames of Blasphemy Apply - Duration 0.1, Cycle SpEffect 500035, Trigger on State Info 7779, State Info 0
+Duplicate SpEffectParam 500030->500035 [SACRED] Flames of Blasphemy - Duration 90, Trigger Interval 1, Current HP + -12, Current HP %: 0, Attack %: ALL 1.3, 
+    Chain SpEffect ID -1, Cycle SpEffect ID 1626040, Target Priority 0.1, Effect Category 160, Affects Sorcery 1, Affects Incantation 1, Absorption %: 0.8, 
+    Effect VFX [0] 9012, Effect Duration Eligibility 1
+Duplicate SpEffectParam 500035->500036 [SACRED] Quick Buff Flames of Blasphemy - Trigger on StateInfo [0] 7779
+Duplicate SpEffectParam 1626004->1626040 [SACRED] Flames of Blasphemy Remove Sacred Ward - Duration 0.1, Cycle SpEffect 1626041, Effect Category 100, Category Priority 0, Save Category -1, State Info 0
+Duplicate SpEffectParam 1626040->1626041 [SACRED] Flames of Blasphemy Remove Blessings - Effect Category 161
+
+
+Golden Order Totality:
+Duplicate SpEffectParam 525004->525005 [SACRED] Totality Wrath - Chain SpEffect 503502, Cycle SpEffect ID 1643100, Behavior ID 2505
+Duplicate Bullet 10641050->10641051 [SACRED] Totality Wrath - Hit Bullet Id 10643102, Is Hit Both Team 1
+Duplicate Bullet 10643101->10643102 [SACRED] Totality Blessing - Target SpEffect [2] 503503
+Duplicate BehaviorParam_PC 2502->2505 [SACRED] Totality Wrath - Reference ID 10641051
+Duplicate SpEffectParam 503500->503502 [SACRED] [SACRED] Totality Sacred Ward - Duration 180, Effect Category 100, HP Recovery Effectiveness % 2, 
+    Effect Duration Eligibility 1
+Duplicate SpEffectParam 503502->503503 [SACRED] [SACRED] Totality Sacred Ward Ally - HP Recovery Effectiveness % 10
+#-------------------------------------------
+
+# FALL DAMAGE REWORK------------------------
+EquipParamAccessory(6040) - SpEffect ID [1] 360401
+SpEffectParam(360400) - State Info 47
+Duplicate SpEffectParam 360400->360401 [SACRED] Longtail Cat Talisman Fall Immunity - State Info 266
+Duplicate SpEffectParam 360400->360402 [SACRED] Bubble Fall Immunity - Duration 0, Cycle SpEffect ID 360403
+Duplicate SpEffectParam 360401->360403 [SACRED] Bubble Fall Immunity - Duration 0
+SpEffectParam(503500) - Cycle SpEffect ID 360402
+SpEffectParam(3507) -  Cycle SpEffect ID 360402, Effect Duration Eligibility 1
+Duplicate Bullet 10642000->10642050 [SACRED] Hard Landing Damage - AtkParam ID 64205, Projectile SFX ID -1, Target SpEffect ID [0] 0
+Duplicate AtkParam_Pc 64200->64205 [SACRED] Hard Landing Damage - Damage: Physical 75
+Duplicate BehaviorParam_PC 2105->2500 [SACRED] Hard Landing Damage - Reference ID 10642050
+Duplicate SpEffectParam 511081->525000 [SACRED] Hard Landing Damage - Behavior ID 2500, Effect VFX [0] -1
+#-------------------------------------------
+
+
+# LAVA DAMAGE REWORK------------------------
+AtkParam_Npc(280000) - Damage: Fire 516
+#-------------------------------------------
+
+
+# WEAPONS-----------------------------------
+Blasphemous Blade:
+EquipParamWeapon(3140000) - Behavior Variation ID 200, Sword Arts Param ID 100, Weapon Motion Category 23, Weapon Hold Position - 1H 0, Weapon Hold Position - 2H 10, 
+    Weight 11.5, Reinforcement Price 1500, Requirement: STR 24 , Requirement: FTH 24, Damage: Physical 65, Damage: Fire 45, Correction: STR 40, 
+    Correction: DEX 20, Correction: FTH 90, Passive SpEffect 1 350700, Passive SpEffect 2 1626033, Passive SpEffect 2 1626035, Critical Multiplier 10, 
+    Special Attribute 10, Is Buffable 1
+Duplicate SpEffectParam 1632000->1626022 [SACRED] Ravenous Bloodflame - Duration 300, Damage +: Fire 50, Rune Gain % 1.05, Cycle SpEffect ID 1626023, Effect Category 10
+Duplicate SpEffectParam 320800->1626023 [SACRED] Ravenous Bloodflame Heal on Hit [Hit Trigger] - Icon ID -1, Duration 1, Trigger Interval 0.1 
+    Accumulator - Over Value - SpEffect ID 1626024, Accumulator - Over Value 2, Accumulator - Increment Value -9999
+Duplicate SpEffectParam 5151200->1626024 [SACRED] Ravenous Bloodflame Heal on Hit - Duration 0.3, Trigger Interval 1
+Duplicate SpEffectParam 350501->1626025 [SACRED] Ravenous Bloodflame Apply - Duration 2, Trigger Interval 3, Cycle SpEffect ID 1626022, Effect Category 0, Trigger on State Info [1] 0
+Duplicate SpEffectParam 321600->1626033 [SACRED] Blasphemous Blade Blood Eater - Icon ID -1, Cycle SpEffect ID 1626034
+Duplicate SpEffectParam 321601->1626034 [SACRED] Blasphemous Blade Blood Eater [Cycle] -  Icon ID -1, Duration 1, Trigger Interval 2, Current HP % -7, 
+    Current HP + -60, Effect VFX [0] 5031401, Damage: ALL 1
+Duplicate SpEffectParam 3190->1626035 [SACRED] Blasphemous Blade Blood - Duration -1, Effect Category 0
+Duplicate SpEffectParam 350500->350700 [SACRED] Blasphemous Blade Crit - Icon ID -1, State Info 7777
+Duplicate SpEffectParam 350501->350701 [SACRED] Blasphemous Blade Crit [Triggered] - Duration 0.1, Chain SpEffect 350702, Cycle SpEffect ID 1626025, Trigger on State Info [1] 7777
+Duplicate SpEffectParam 350502->350702 [SACRED] Blasphemous Blade Crit [Triggered] - Duration 0.1, Chain SpEffect 6904, Effect VFX [0] 5031401, Trigger on State Info [1] 7777
+SwordArtsParam(100) - useMagicPoint - L2 50
+EquipParamGem(40 through 100, 1000, 10000) - Affinity: ALL 0, Available: ALL 0
+Duplicate BehaviorParam_PC 300000000->300000002 [SACRED] Baleful Strike - Behavior Judge ID 2, Reference Type 1, Reference ID 10630002, Stamina Cost 0 
+Duplicate Bullet 10630000->10630002 [SACRED] Baleful Strike - Duration 0.01, Hit Bullet ID 10630003, Shooter SpEffect ID 1605000
+Duplicate Bullet 10630001->10630003 [SACRED] Baleful Strike - Initial/Final Hit Radius 3/3
+AtkParam_Pc(200500, 200510, 200520, 200530, 200540, 200550, 200561) - Target SpEffect [2] 350701
+
+Godslayer's Greatsword:
+EquipParamWeapon(4070000) - Behavior Variation ID 319, Sword Arts Param ID 1021, Weapon Motion Category 25, Weight 15.5, Reinforcement Price 2360, 
+    Requirement: STR 30, Requirement: DEX  16, Requirement: FTH 30, Damage: Physical 66, Damage: Fire 33, Correction: STR 60, Correction: DEX 30, Correction: FTH 120, 
+    Special Attribute 13, Special Motion Category 0
+SpEffectParam(1806) - [SACRED] GG Soulflame Heresy - Duration 0.1, Damage +: Magic 0, Chain SpEffect ID 1626010, Cycle SpEffect ID 1626003, Attack SpEffect ID -1, Effect VFX [0] -1
+Duplicate SpEffectParam 1626000->1626003 [SACRED] GG Black Flame - Duration 90, Damage +: Fire 130, Cycle SpEffect ID 350800, Effect Category 20
+Duplicate SpEffectParam 631->1626004 [SACRED] GG Heresy State Info - Icon ID -1, Duration 0.2, Chain SpEffect -1, Effect Category 20, State Info 7780, Effect VFX [0] -1
+Duplicate SpEffectParam 5031401->1626005 [SACRED] GG Heresy - Icon ID 20295, Duration 30, Trigger Interval 1, Current HP + -6, Current HP %: 0, Attack %: ALL 1.1, 
+    Cycle SpEffect -1, Effect Category 10, Affects Sorcery 1, Affects Incantation 1, Absorption %: 0.9, Effect VFX 0 9010, Effect Duration Eligibility 1
+Duplicate SpEffectParam 350502->1626006 [SACRED] GG Heresy Apply Kill - Duration 0.1, Trigger Interval 0.2, Current HP % 0, Current HP + 0, Chain SpEffect 1626005, 
+    Cycle SpEffect -1, Effect Category 0, Effect VFX [0] 340900, Trigger on State Info [1] 7780
+Duplicate SpEffectParam 1626006->1626007 [SACRED] GG Heresy Apply Crit - Duration 2, Trigger Interval 3, Chain SpEffect -1, Cycle SpEffect 1626005
+Duplicate SpEffectParam 320800->1626008 [SACRED] GG Soulflame [Hit Trigger] - Icon ID -1, Duration 7, Trigger Interval 0.1, Weapon Parameter Change 1, 
+    Cycle SpEffect ID 1626012, Accumulator - Over Value - SpEffect ID 1806, Accumulator - Over Value 2, Accumulator - Increment Value -9999, Effect Duration Eligibility 1
+Duplicate SpEffectParam 1691->1626009 [SACRED] GG Soulflame - Duration 7, Attack %: ALL 1, Damage +: Fire 300, Attack %: Stamina 2, Rune Gain % 2, 
+    Cycle SpEffect ID 1626011, Attacker Damage Level 5, Effect Category 20, Effect VFX [0] 8655, Effect Duration Eligibility 1
+Duplicate SpEffectParam 1626004->1626010 [SACRED] GG Soulflame Apply - Duration 0.1, Chain SpEffect ID 1626008, Cycle SpEffect ID 1626009, State Info 0, Kill SpEffect ID 0
+Duplicate SpEffectParam 5031400->1626011 [SACRED] GG Soulflame [Kill Trigger] - Icon ID -1, Duration 0, Kill SpEffect ID 1626006
+Duplicate SpEffectParam 320900->1626012 [SACRED] GG Soulflame Crit Damage Boost - Icon ID -1, Duration 0.1, Trigger Interval 0.1, Attack %: ALL 2, 
+    Cycle SpEffect ID 1626004, Effect Category 20
+Duplicate SpEffectParam 350500->350800 [SACRED] GG Soulflame Crit - Icon ID -1, Duration 1, State Info 7778
+Duplicate SpEffectParam 350501->350801 [SACRED] GG Soulflame Crit [Triggered] - Duration 0.1, Chain SpEffect 350802, Cycle SpEffect ID 1626007, Trigger on State Info [1] 7778
+Duplicate SpEffectParam 350502->350802 [SACRED] GG Soulflame Crit [Triggered] - Duration 0.1, Current HP % 0, Current HP + 0, Chain SpEffect 6904, 
+    Cycle SpEffect 1806, Effect VFX [0] -1, Trigger on State Info [1] 7778
+SpEffectVfxParam(8655) - Trace SFX ID Offset Type 17
+SwordArtsParam(1021) - useMagicPoint - L2 45 
+AtkParam_Pc(300500, 300510, 300520, 300530, 300540, 300550, 300561) - Target SpEffect [1] 350801
+Duplicate BehaviorParam_PC 300000000->300000004 [SACRED] GG God Hunt 1 - Behavior Judge ID 2, Reference Type 1, Reference ID 10624000, Stamina Cost 30
+Duplicate BehaviorParam_PC 300000000->300000005 [SACRED] GG God Hunt 1 - Behavior Judge ID 2, Reference Type 1, Reference ID 10624001, Stamina Cost 0
+Duplicate BehaviorParam_PC 300000000->300000006 [SACRED] GG God Hunt 2 - Behavior Judge ID 2, Reference Type 1, Reference ID 10624050, Stamina Cost 40
+Duplicate BehaviorParam_PC 300000000->300000007 [SACRED] GG God Hunt 2 - Behavior Judge ID 2, Reference Type 1, Reference ID 10624051, Stamina Cost 0   
+
+Eclipse Crest Greatshield:
+EquipParamWeapon(32240000) - Sword Arts Param ID 701, Reinforcement Price 1800, Ash of War Type 0, Requirement: FTH 32, Passive SpEffect 1 -1, Guard Absorption: Holy 90
+Duplicate SpEffectParam 525002->525004 [SACRED] Vow Wrath - Duration 0.5, Trigger Interval 1, Cycle SpEffect -1, Behavior ID 2504
+Duplicate BehaviorParam_PC 2502->2504 [SACRED] Vow Wrath - Reference ID 10641000
+SwordArtsParam(701) - useMagicPoint - L2 30
+EquipParamGem(70100) - Affinity: ALL 0
+
+Erdtree Seal:
+EquipParamWeapon(34070000) - Behavior Variation ID 3208, Sword Arts Param ID 1196, Reinforcement Price 100
+AtkParam_Pc(303208905) - Damage: Holy 100
+AtkParam_Pc(303208906) - Damage: Holy 60
+Bullet(2842) - Duration 1.2, Shooter SpEffect ID 1626050
+Duplicate SpEffectParam 1642000->1626050 [SACRED] Golden Retaliation Heal - Duration 1, Trigger Interval 2, Current HP % -5, Current HP + -45, Chain SpEffect ID 1626051, Effect Category 0
+SpEffectVfxParam(5306) - Play Category 0
+SwordArtsParam(1196) - useMagicPoint - L2 10
+
+Wyrmsblood Sigil(Dragon Communion Seal):
+AtkParam_Pc(70502) - Conditional Category [1] 175
+Duplicate AtkParam_Pc 70502->70503 [SACRED] Sovereign's Fury Ruinous Surge - Knockback Distance 0.6, Damage: Lightning 120, Damage: Stamina 50
+    Damage: Guard Attack Rate 50, Damage Level 3, Damage: Poise 5
+Duplicate BehaviorParam_PC 2502->2509 [SACRED] Sovereign's Fury  - Reference ID 10705010
+Duplicate BehaviorParam_PC 2502->2510 [SACRED] Sovereign's Fury Ruinous Surge - Reference ID 10705011, Stamina Cost 30
+Duplicate BehaviorParam_PC 2502->2511 [SACRED] Sovereign's Fury Rejection - Reference ID 10640052
+Duplicate Bullet 10640050->10640052 [SACRED] Sovereign's Fury Rejection - Projectile SFX ID -1, Impact SFX ID -1, Final Hit Radius 4.5
+Duplicate Bullet 10705010->10705011 [SACRED] Sovereign's Fury Ruinous Surge - AtkParam ID 70503
+EquipParamGem(65400) - Affinity: ALL 0, Available: ALL 0
+EquipParamWeapon(34080000) - Sword Arts Param ID 654, Reinforcement Price 100, Requirement: INT 20, Requirement: FTH 20, 
+    Requirement: ARC 20, Correction: INT 60, Correction: FTH 60, Correction: ARC 120, Passive SpEffect 2 1626051
+SpEffectParam(1861) - Icon ID -1, Duration 0, Effect VFX [0] -1
+Duplicate SpEffectParam 5031401->500033 [SACRED] Sovereign's Fury Cost - Icon ID -1, Duration 600, Trigger Interval -1, Max HP 0.98, Max FP 0.98, Max SP 0.98, Current HP % 0, 
+    Current HP + 0, Effect Category 10, Rune Gain % 0.98, Effect VFX [0] -1
+Duplicate SpEffectParam 501290->1626051 [SACRED] Wyrmsblood Sigil FP Consumption - Icon ID -1, Duration -1, Trigger Interval 0, Current FP %: 0, Effect Category 0, 
+    Target Self 1, State Info 0, Skill/Pyromancy FP Consumption 1, Sorcery/Incantation FP Consumption 2, Weapon Parameter Change 1, Effect VFX [0] -1
+Duplicate SpEffectParam 511081->525007 [SACRED] Sovereign's Fury Apply 0 - Duration 0.5, Trigger Interval 1, Chain Speffect 525009, Cycle SpEffect 1626052, Behavior ID 2509, Effect VFX [0] -1
+Duplicate SpEffectParam 525007->525008 [SACRED] Sovereign's Fury Ruinous Surge - Cycle SpEffect -1, Behavior ID 2510
+Duplicate SpEffectParam 525007->525009 [SACRED] Sovereign's Fury Rejection 0 - Duration 1, Trigger Interval 0.2, Chain Speffect -1, Cycle SpEffect 525010, Behavior ID 2511
+Duplicate SpEffectParam 525009->525010 [SACRED] Sovereign's Fury Rejection 1 - Duration 0.2, Trigger Interval 0.4, Chain SpEffect -1, Cycle Speffect -1
+Duplicate SpEffectParam 1626010->1626052 [SACRED] Sovereign's Fury Apply 1 - Duration 0.1, Trigger Interval 0.1, Chain SpEffect 1626053, Cycle SpEffect ID 500033
+Duplicate SpEffectParam 500030->1626053 [SACRED] Sovereign's Fury Apply 2 - Duration 45, Trigger Interval 0.1, Max HP % 1, Current HP + 0, 
+    Current HP %: 0, Chain SpEffect ID -1, Cycle SpEffect 1626059, Effect Category 20
+Duplicate SpEffectParam 1626052->1626054 [SACRED] Sovereign's Fury Aegis Apply 1 - Duration -1, Trigger Interval 0.1, Chain SpEffect -1, Cycle SpEffect ID 1626055, Trigger on State Info [1] 7735
+Duplicate SpEffectParam 1626054->1626055 [SACRED] Sovereign's Fury Aegis Apply 2 - Trigger at HP Below % 30, Duration 0.05, Cycle SpEffect ID 1626056, Trigger on State Info [1] 0   
+Duplicate SpEffectParam 1626055->1626056 [SACRED] Sovereign's Fury Aegis Apply 3 - Trigger at HP Below % -1, Chain SpEffect 1626057, Cycle SpEffect ID 1626059
+Duplicate SpEffectParam 1626053->1626057 [SACRED] Sovereign's Fury Aegis Apply 4 - Duration 1
+Duplicate SpEffectParam 330900->1626058 [SACRED] Sovereign's Fury Ancient Lightning Damage Boost - Icon ID -1, Duration 0.2, Attack %: All 1, Attack %: Lightning 1.5, 
+    Cycle SpEffect 1697001, Effect Category 20, Conditional Category [1] 0, Conditional Category [2] 175, Damage %: Lightning 1.5
+Duplicate SpEffectParam 503524->1626059 [SACRED] Sovereign's Fury - Icon ID -1, Duration 0.2, Max HP 1.3, Max FP 1.3, Max SP 1.3, HP Independent 1, Duration Reduced 0, 
+    Absorption %: Magic/Fire/Lightning/Holy 0.6, Aux Damage Correction %: ALL 0.6, Cycle SpEffect 1626058, Target Priority 0.1, Effect VFX: [0] 53215, [1] 52402, [2] 52882, [3] 52402
+SwordArtsParam(654) - artsSpeedType 1, isRefRightArts 0, isGrayoutLeftHand 0, useMagicPoint - L2 -1
+
+Sacred Zweihander: 
+EquipParamWeapon(4040000 through 4041200) - Behavior Variation ID 319, Weapon Motion Category 25, Weight 14.5, Requirement: STR 28, Damage: ALL [MATH 75%], 
+    Damage Multiplier %: Type B 1.2, Special Motion Category 0
+EquipParamWeapon(4040700) - Sword Arts Param ID 222, Correction: STR 30, Correction: FTH 50, Prevent Affinity Change 1
+Duplicate BehaviorParam_PC 300000000->300000003 [SACRED] Wrathful Strike - Behavior Judge ID 2, Reference Type 1, Reference ID 10630004, Stamina Cost 0 
+Duplicate Bullet 10630000->10630004 [SACRED] Wrathful Strike - AtkParam ID 64100, Duration 0.01, Hit Bullet ID 10630005
+Duplicate Bullet 10630001->10630005 [SACRED] Wrathful Strike - AtkParam ID 64100, Projectile SFX ID 525312, Impact SFX ID 525313, 
+    Initial/Final Hit Radius 2/4, Radius Spread Time 0.25, Target SpEffect ID [0] 0
+Duplicate SpEffectParam 3185->1626036 [SACRED] Zweihander Sunlight Blade - Effect Category 20, Use Faith Correction 1, Cycle SpEffect ID 1626037, Effect Duration Eligibility 1
+Duplicate SpEffectParam 320800->1626037 [SACRED] Zweihander Sunlight Blade Accumulator - Icon ID -1, Duration 1, Trigger Interval 0.1, 
+    Accumulator - Over Value - SpEffect ID 1626038, Accumulator - Over Value 2
+Duplicate SpEffectParam 1643100->1626038 [SACRED] Zweihander Sunlight Blade HP regen - Duration 3, Current HP + -24, Effect Category 20
+SwordArtsParam(208) - useMagicPoint - L2 35
+
+Great Stars:
+EquipParamWeapon(12180000) - Sword Arts Param ID 650, Weight: 20, Reinforce Type ID 100, Requirement: STR 34, Correction: STR 60, Correction Type: Physical 1, Prevent Affinity Change 1
+SpEffectParam(1681) - Effect Category 20
+SpEffectVfxParam(8600) - Play Category 0
+#-------------------------------------------
+
+
+# SPELLS------------------------------------
+Flame Sling:
+Bullet(10601000) - Duration 4.5
+Bullet(10601050) - Duration 7.5, Initial Velocity 15->20, Max Velocity 15->20, Min Velocity 15->20
+Bullet(10601051) - Initial Hit Radius 2.5
+
+Black Flame:
+Bullet(10621000) - Duration 4.5
+Bullet(10621050) - Duration 7.5, Initial Velocity 15->20, Max Velocity 15->20, Min Velocity 15->20
+Bullet(10621051) - Final Hit Radius 2.5
+
+Ravenous Bloodflame (Bloodflame Blade):
+Magic(6320) - Requirement: ARC 12, Requirement: FTH 24, Reference ID [1] 1626019
+Duplicate SpEffectParam 105275->105277 [SACRED] Bloodflame Blade Self Bleed - Current HP % 30, Current HP + 400, Aux Inflict +: Hemorrhage 120
+Duplicate SpEffectParam 350502->1626019 [SACRED] Bloodflame Blade Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 7, Current HP + 80, 
+    Chain SpEffect 1626020, Effect VFX [0] -1, Trigger on State Info [1] 0
+Duplicate SpEffectParam 1626019->1626020 [SACRED] Bloodflame Blade Apply 2 - Current HP % 0, Current HP + 0, Chain SpEffect 105277, Cycle SpEffect 1626021
+Duplicate SpEffectParam 1626022->1626021 [SACRED] Bloodflame Blade - Aux Damage Correction %: Hemorrhage 1.1
+
+Blessing's Boon/Blessing of the Erdtree:
+SpEffectParam(1643000, 1643001, 1643100, 1643101) - Duration 180
+
+Flame, Grant Me Strength:
+SpEffectParam(1605000) - Duration 180, Cast Speed 20, Effect Category 20, Affects Incantation 1
+
+Giantsflame Take Thee:
+AtkParam_Pc(61000) - Damage: Fire 650, Damage: Stamina 420, Damage: Poise 15
+AtkParam_Pc(61005) - Damage: Fire 778, Damage: Stamina 546, Damage Level 11, Damage: Poise 20
+Bullet(10610000) - Duration 7.5
+Bullet(10610001) - Initial Hit Radius 3.5
+Bullet(10610050) - Duration 9
+Bullet(10610051) - Initial Hit Radius 5
+Magic(6100) - Number of Uses 5
+
+Flame of the Fell God:
+AtkParam_Pc(61100) - Damage: Fire 1245, Damage: Stamina 1080, Damage Level 14, Damage: Poise 48.342
+AtkParam_Pc(61101) - Knockback Distance 0, Damage: Fire 49, Damage: Stamina 56, Damage Level 0
+Bullet(10611001) - Initial Velocity 6, Acceleration: In Range 6, Acceleration: Out of Range -6, Max Velocity 15, Min Velocity 6
+Bullet(10611002) - Initial Velocity 9, Max Velocity 9, Min Velocity 9
+Bullet(10611003) - Initial Velocity 9, Max Velocity 9, Min Velocity 9
+Bullet(10611004) - Initial Velocity 3, Max Velocity 3, Min Velocity 3
+Bullet(10611005) - Final Hit Radius 10, Bullet Count 10
+Bullet(10611009) - Duration 30
+Magic(6110) - FP Consumption - Default 80, Stamina Consumption - Default 99, Number of Uses 1
+
+Dragonbolt Blessing:
+SpEffectParam(1697100) - Duration 300, Trigger Interval 0.1, Current Stamina + -1, Category Priority 10, Effect Category 1005, Aux Resist +: ALL 0, Aux Damage Correction %: ALL 0.9
+SpEffectParam(1697101) - Duration 0.2, State Info 7735
+SpEffectVfxParam(1697100) - Play Category 0
+
+Vyke's Dragonbolt:
+AtkParam_Pc(69100, 69101, 69105, 69106, 69400, 69401, 69402, 79990) - Conditional Category [2] 175
+AtkParam_Pc(69410, 69411, 69412, 69415, 69416, 69417, 69500, 69501, 69502) - Conditional Category [2] 175
+AtkParam_Pc(303400000, 303400001, 303400002) - Conditional Category [2] 175
+Magic(6970) - Is Weapon Enchantment 0
+SpEffectParam(1697000) - Duration 0
+SpEffectParam(1697001) - Duration 90, Trigger Interval 0.1, Current Stamina + -2, Chain SpEffect 1697100, Category Priority 8, Effect Category 1005, 
+    Max Equip Load 1, Absorption &: Lightning 1
+SpEffectParam(1697002) - Duration 0.2, Cycle SpEffect 1697102, State Info 7735
+Duplicate SpEffectParam 1697100->1697102 [SACRED] Vyke's Dragonbolt Blessing [Cycle] - Duration 1, Effect Category 20, Effect VFX [0] -1
+Duplicate SpEffectParam 1697100->1697103 [SACRED] Vyke's Dragonbolt Blessing [Chain] - Duration 210
+SpEffectVfxParam(1697000) - Play Category 0
+
+Lansseax's Glaive:
+AtkParam_Pc(69500) - Damage: Lightning 650, Damage: Stamina 460, Damage Level 11, Damage: Poise 18
+AtkParam_Pc(69501) - Damage: Lightning 650, Damage: Stamina 460, Damage Level 11, Damage: Poise 18
+AtkParam_Pc(69502) - Damage: Lightning 334, Damage: Stamina 120, Damage Level 4, Damage: Poise 7.5
+Magic(6950) - FP Consumption - Default 44, Stamina Consumption - Default 90, Number of Uses 5
+
+Flame Fortification/Magic Fortification/Lightning Fortification/Divine Fortification:
+SpEffectParam(1645000, 1646000, 1647000, 1648000) - Duration 300
+SpEffectVfxParam(1645000, 1646000, 1647000, 1648000) - Play Category 0
+
+Black Flame's Protection/Flame, Protect Me/Barrier of Gold/Golden Lightning Fortification/Lord's Divine Fortification/Protection of the Erdtree:
+SpEffectParam(1627000, 1606000, 1633000, 1790300, 1649000, 1634000) - Duration 180
+SpEffectVfxParam(1627000, 1606000, 1633000, 1790300, 1649000, 1634000) - Play Category 0
+
+Loretta's Greatbow:
+AtkParam_Pc(43800, 43801) - Damage Magic: 180, Damage Stamina: 120
+Bullet(10438050) - Duration 10, Hit Bullet ID 10438052
+Duplicate Bullet 10611005->10438052 [SACRED] Loretta's Greatbow - AtkParam 43806, Projectile SFX ID 526273, Attenuation Range 999, Initial/Final Hit Radius 1/3, 
+    Hit Bullet ID -1, Damage Hit Duration 0.25, Bullet Count 10, Attack Attribute 3, Special Attribute 0, Material Attack Type 0, Material Attack Material 6, 
+    Is AI interrupted by Bullet 1, Insert SE ID Bullet [1] -1
+
+Terra Magica:
+SpEffectParam(1413000) - Icon ID -1, Trigger Interval 0.1, Cycle SpEffect 1626070, Sorcery FP Consumption 0
+#-------------------------------------------
+
+
+# ARMOR-------------------------------------
+Seeker's War Hat(Traveler's Hat):
+EquipParamProtector(100000) - Sort ID 508000, Toughness Correction 0.007, Sell Value 200, Weight 5.4, Resident SpEffect ID [1] 1626060, Resist Hemorrhage 23, 
+    Rarity 2, Sort Group ID 90, Absorption - Physical 0.953, Absorption - Slash 0.953, Absorption - Strike 0.959, Absorption - Thrust 0.955, Mask 00/02/04/05 1
+Duplicate SpEffectParam 350500->1626060 [SACRED] Seeker's Eye State Info- Icon ID -1, Effect Category 0, State Info 7756, Cycle SpEffect -1
+Duplicate SpEffectParam 350501->1626062 [SACRED] Seeker's Eye Apply - Duration 1.5, Trigger Interval 3, Chain SpEffect 1626064, Cycle SpEffect 1626063, 
+    Effect Category 0, Trigger on State Info 7756, Effect VFX: [0] 24, [1] 5037
+Duplicate SpEffectParam 525001->1626063 [SACRED] Seeker's Eye - Trigger at HP Below % 50, Duration 600, Trigger Interval 3, Chain SpEffect 1626067, 
+    Cycle SpEffect 1626064, Effect Category 20, Behavior ID -1, State Info 66, Item Discovery 1
+Duplicate SpEffectParam 511019->1626064 [SACRED] Seeker's Eye Rune Loss - Duration 1.5, Effect VFX [0] 24
+Duplicate SpEffectParam 1626060->1626067 [SACRED] Seeker's Eye VFX [Chain] - Duration 1, State Info -1, Effect VFX [0] 5037
+
+Dragonlord's Plate:
+EquipParamProtector(80000) - Absorption - Fire 0.9, Absorption - Lightning 0.908
+EquipParamProtector(80100) - Resident SpEffect ID [1] 1626054, Absorption - Fire 0.718, Absorption - Lightning 0.74
+EquipParamProtector(80200) - Resident SpEffect ID [1] 1941, Absorption - Fire 0.930, Absorption - Lightning 0.936
+EquipParamProtector(80300) - Resident SpEffect ID [1] 361000, Resident SpEffect ID [2] 311401, Absorption - Fire 0.838, Absorption - Lightning 0.852
+EquipParamProtector(81100) - Resident SpEffect ID [1] 1626054, Absorption - Fire 0.734, Absorption - Lightning 0.752
+SpEffectVfxParam(52882) - Midst/Start/End SE ID 303011  
+Duplicate SpEffectParam 1922->1941 [SACRED] Dragonlord's Heretic Damage Boost - Attack %: ALL 1.1, Conditional Category [2] 21, Conditional Category [3] 40
+Duplicate SpEffectParam 311400->311401 [SACRED] Dragonlord's Raptor of the Mists - Cycle SpEffect 1571, Magic Attunement Slots 0, State Info 275, Trigger on StateInfo [1] 7795
+Duplicate SpEffectParam 631->311402 [SACRED] Dragonlord's Raptor of the Mists State Info - Icon ID -1, Duration 0.2, Chain SpEffect -1, Effect Category 20, 
+    State Info 7795, Effect VFX [0] -1
+Duplicate SpEffectParam 1468000->1468003 [SACRED] Dragonlord's Unseen Form - Trigger on StateInfo [1] 466, Effect VFX [0] 1467003
+Duplicate SpEffectVfxParam 1467000->1467003 - End SFX ID -1, Play Category 0
+Duplicate SpEffectParam 1570->1571 [SACRED] Dragonlord's Raptor of the Mists - Duration 0.5, Cycle SpEffect 100500
+#-------------------------------------------
+
+
+# TALISMANS---------------------------------
+Radagan's Scarseal:
+SpEffect(310500) - Stamina Recovery Speed 5, Absorption %: ALL 1, Absorption %: Holy 1.15, Cast Speed 15, Damage %: Holy 1.15, Vigor/Endurance/Stength/Dexterity 0, State Info 7793
+Radagan's Soreseal:
+SpEffect(310510) - Stamina Recovery Speed 10, Absorption %: ALL 1, Absorption %: Holy 1.3, Cast Speed 30, Damage %: Holy 1.3, Vigor/Endurance/Stength/Dexterity 0, State Info 7793
+Marika's Scarseal:
+SpEffect(312200) - Trigger Interval 1, Current FP % -1, Absorption %: ALL 1, Absorption %: Holy 1.15, Damage %: Holy 1.15, Mind/Intelligence/Faith/Arcane 0, State Info 7793
+Marika's Soreseal:
+SpEffect(312200) - Trigger Interval 1, Current FP % -2, Absorption %: ALL 1, Absorption %: Holy 1.3, Damage %: Holy 1.3, Mind/Intelligence/Faith/Arcane 0, State Info 7793
+
+Arsenal Charm/Arsenal Charm +1/Great-Jar's Arsenal:
+SpEffectParam(310300, 310310, 310320) - Max Equip Load % 1.2/1.25/1.3
+
+Radagon Icon:
+SpEffect(330700) - Cast Speed 70
+
+Moon of Nokstella:
+SpEffectParam(311400) - Magic Attunement Slot 4, Intelligence 10
+
+Entwining Umbilicle Cord:
+EquipParamAccessory(6100) - SpEffect ID [1] 311401, SpEffect ID [2] 1941, SpEffect ID [3] 1626054, SpEffect ID [4] 1626060
+Duplicate ShopLineupParam 100900->100900 [SACRED] [Merchant - Mountaintops of the Giants] Entwining Umbilicle Cord - Reference ID 6100, Sell Price Overwrite 30000, 
+    Quantity - Event Flag ID 190175, Amount to Sell 1, Equipment Type 2
+SpEffectParam(361000) - Trigger Interval 0.1, Cycle SpEffect 1468003
+#-------------------------------------------
+
+
+# ITEMS-------------------------------------
+Great Runes:
+SpEffectParam(630) - Trigger Interval 1, Current HP + 0, Kill SpEffect ID 500031, Vigor 0
+SpEffectParam(631) [GRR] Rykard - Flames of Blasphemy State Info - Icon ID -1, Duration -1, Chain SpEffect -1, State Info 7779, Effect VFX [0] -1
+SpEffectParam(500030) - Icon ID -1, Duration 0.1, Trigger Interval 1, Current HP % 0, Current HP + 0, Attack %: ALL 1, Chain SpEffect 500032, Cycle SpEffect -1, 
+    Effect Category 10, Effect VFX [0] 9012
+Duplicate SpEffectParam 500030->500031 [GRR] Rykard - Kill heal (Initial VFX) - Icon ID -1, Duration 0.1, Trigger Interval 0.2, Current HP % -14, Current HP + -160, 
+Attack %: ALL 1, Chain SpEffect ID 500030, Effect Category 10, Effect VFX [0] 5043, Effect VFX [1] 9012
+Duplicate SpEffectParam 5031401->500032 [SACRED] Crimson Hunger - Icon ID 20295, Duration 600, Trigger Interval -1, Max HP 1.01, Max FP 1.01, Max SP 1.01, Current HP % 0, 
+    Current HP + 0, Effect Category 10, Rune Gain % 1.01, Effect VFX [0] -1
+
+Rune Arc:
+EquipParamGoods(190) - Sell Value 4000, Max Amount 999
+Duplicate ShopLineupParam_Recipe 30100->35000 [SACRED] Rune Arc - Reference ID 190, Sell Price Overwrite 8000, Required Material ID 35000
+Duplicate EquipMtrlSetParam 0->35000 [SACRED] Rune Arc - Material ID [1] 20795
+SpEffectParam(3450) - ChainSpEffect ID 3282
+
+Numen's Rune:
+EquipParamGoods(2913) - Sell Value 2000, Sort ID 521, Max Amount 999, Sort Group ID 10
+SpEffectParam(3282) - Current HP % -100, Current FP % -100, Rune Gain + 0, Chain SpEffect ID 3293
+Duplicate ShopLineupParam_Recipe 30100->35001 [SACRED] Numen's Rune - Reference ID 2913, Sell Price Overwrite 4000, Required Material ID 35001
+Duplicate EquipMtrlSetParam 0->35001 [SACRED] Numen's Rune - Material ID [1] 1760, Material Amount [1] 1
+
+Opaline Bubblesoap (Soap):
+SpEffectParam(502120) - Cycle SpEffect ID 3507
+EquipMtrlSetParam(307040) - Material ID [2] 20825, Material ID [3] 20651, Material Amount [1] 3, Material Amount [2] 1, Material Amount [3] 1
+ShopLineupParam(100940) - Sell Price Overwrite 2200, Amount to Sell -1         
+
+Fell Omen Shackle (Margit's Shackle):
+Duplicate BehaviorParam_PC 2500->2501 [SACRED] Margit's Shackle Darkness - Reference ID 10653000
+Bullet(10214000) - Duration 0.01, Shooter SpEffect ID 525001, Target SpEffect ID [0] 1654000
+Duplicate SpEffectParam 525000->525001 [SACRED] Margit's Shackle Darkness - Behavior ID 2501, Cycle SpEffect ID 1468000
+Duplicate SpEffectParam 1467000->1468000 [SACRED] Margit's Shackle Unseen Form - Icon ID -1, Duration 3, Enemy Vision Adjustment 0.1, Enemy Listen Adjustment 0.1, 
+Cycle SpEffect ID 1468001, Effect VFX [0] -1
+Duplicate SpEffectParam 1678000->1468001 [SACRED] Margit's Shackle Cure Blight - Cycle SpEffect ID 1468002, Effect VFX [0] -1
+Duplicate SpEffectParam 1678001->1468002 [SACRED] Margit's Shackle Cure Blight Buildup
+Duplicate SpEffectParam 1653000->1654000 [SACRED] Margit's Shackle Darkness - Chain SpEffect ID 1654001
+Duplicate SpEffectParam 1653001->1654001 [SACRED] Margit's Shackle Darkness [Chain] - Duration 1
+
+Bloody Shackle (Mohg's Shackle):
+Duplicate BehaviorParam_PC 2501->2502 [SACRED] Mohg's Shackle Bloodflame Blast - Reference ID 10215001
+Bullet(10215000) - Duration 0.01, Shooter SpEffect ID 525002
+Duplicate Bullet 10630000->10215001 [SACRED] Mohg's Shackle Bloodflame Blast - Duration 0.5, Initial/Final Hit Radius 8/8, Hit Bullet ID 10215002, 
+    Shooter SpEffect ID 1626028
+Duplicate Bullet 10630001->10215002 [SACRED] Mohg's Shackle Bloodflame Blast - Initial/Final Hit Radius 8/8, Target SpEffect ID [0] 105276, Target SpEffect ID [1] 1626027
+Duplicate SpEffectParam 105275->105276 [SACRED] Mohg's Shackle Bloodflame Blast Bleed - Aux Inflict +: Hemorrhage 50
+Duplicate SpEffectParam 105275->105278 [SACRED] Mohg's Shackle Bloodflame Remove Hemorrhage - Aux Inflict +: Hemorrhage -9999
+Duplicate SpEffectParam 525000->525002 [SACRED] Mohg's Shackle Bloodflame Blast - Behavior ID 2502
+Duplicate SpEffectParam 1626011->1626028 [SACRED] Mohg's Shackle Apply 1 - Duration 0.1, Trigger Interval 0.2, Current HP % 9, Current HP + 160, 
+    Chain Speffect ID 1626029, Cycle Speffect ID 105278
+Duplicate SpEffectParam 1626028->1626029 [SACRED] Mohg's Shackle Apply 2 - Current HP % 0, Current HP + 0, Chain Speffect ID 1605000, Cycle Speffect ID 1626030
+Duplicate SpEffectParam 1626029->1626030 [SACRED] Mohg's Shackle Apply 3 - Chain Speffect ID -1, Cycle Speffect ID 1626032, Effect VFX [0] 6
+Duplicate SpEffectParam 500035->1626032 [SACRED] Mohg's Shackle Flames of Blasphemy - Duration 45, Trigger on StateInfo [0] 7779
+SpEffectVfxParam(8570) - Play Category 0
+
+Starlight Shards:
+EquipParamGoods(1290) - Max Amount 999
+SpEffectParam(501290) - Duration 300, Trigger Interval 1, Current FP % -1, Current FP + 0, Effect Category 10, FP Consumption % ALL 0.9, Effect Duration Eligibility 1
+SpEffectVfxParam(5842) - Play Category 0
+Duplicate ShopLineupParam 100062->100063 [SACRED] [Sorceress Sellen] Starlight Shards - Reference ID 1290, Sell Price Overwrite 3500, Quantity - Event Flag ID 0, 
+Amount to Sell -1
+Duplicate ShopLineupParam_Recipe 30100->35002 [SACRED] Starlight Shards - Reference ID 1290, Required Material ID 35002
+Duplicate EquipMtrlSetParam 0->35002 [SACRED] Starlight Shards - Material ID [1] 20780, Material ID [2] 20750, Material ID [3] 20812, Material ID [4] 20800, 
+Material Amount [1] 3, Material Amount [2] 2, Material Amount [3] 2, Material Amount [4] 1, Material Category [2] 4, Material Category [3] 4, Material Category [4] 4
+#-------------------------------------------
+
+
+# PHYSICK-----------------------------------
+Flask of Wondrous Physick:
+EquipParamGoods(250) - Max Amount 3
+EquipParamGoods(251) - Max Amount 3
+
+Leaden Hardtear:
+EquipParamGoods(11018) - Reference ID 10352000, Reference Type 1
+Bullet(10352000) - Target SpEffect ID [0] 503524
+SpEffectParam(3519) - Duration 1.5, Effect VFX [0] -1, Copy Damage Levels from 503523, Effect Category 20
+SpEffectParam(503520) - Weapon Repel Defense + 140, Guard Defense - Weapon Repel Power % 2, Effect Duration Eligibility 1
+SpEffectParam(503521) - Effect Category 20
+SpEffectParam(503522) - Aux Resist +: ALL 0, Aux Damage Correction %: ALL 0.5
+SpEffectParam(503523) - Cycle SpEffect 503525
+Duplicate SpEffectParam 503520->503524 [SACRED] Leaden Hardtear Ironjar
+Duplicate SpEffectParam 341000->503525 [SACRED] Leaden Hardtear Ironjar Shield Block Rate - Duration 1, Cycle SpEffect 503526, Effect Category 20, unk2(Guard Stamina Rate) 0.5
+Duplicate SpEffectParam 321800->503526 [SACRED] Leaden Hardtear Ironjar Jump Damage Boost - Icon ID -1, Duration 1, Attack %: ALL 1.5
+
+Stonebarb Cracked Tear:
+SpEffectParam(511026) - Duration 40, Effect VFX [0] 8570, Effect Duration Eligibility 1
+#-------------------------------------------
+
+
+# MISCELLANEOUS-----------------------------
+Battle Hammer: (Sovereign's Fury)
+EquipParamWeapon(12020000 through 12021200): Sword Arts Param ID 651
+EquipParamWeapon(12210000 through 12211200): Sword Arts Param ID 651
+
+Claymore: (Blasphemous Blade)
+EquipParamWeapon(3180000 through 3181200) - Sword Arts Param ID 112
+
+Erdtree Greatshield: (Erdtree Seal)
+EquipParamWeapon(32080000) - Correction: FTH 89
+
+Helphen's Steeple: (Godslayer Greatsword)
+EquipParamWeapon(3130000) - Sword Arts Param ID 1048
+
+No Loading Screen Text:
+KnowledgeLoadScreenItemParam(ALL) - Message ID 0
+
+Straight Sword/Greatsword Critical Hits & Guard Counters increment the accumulator: (Godslayer's Greatsword)
+AtkParam_Pc(200180, 200380) - Target SpEffect [0] 6904
+AtkParam_Pc(300180, 300380) - Target SpEffect [0] 6904
+AtkParam_Pc(300500, 300510, 300520, 300530, 300540, 300550, 300561) - Target SpEffect [2] 6904
+
+Twiggy Cracked Tear Message: (Seeker's Eye)
+SpEffectParam(511019) - State Info 159
+#-------------------------------------------
+
+
+# ANIMATIONS--------------------------------
+(c0000.anibnd.dcx)
+
+--Gesture--
+Erudition:
+a000_081030 - AnimSpeedGradient x2 - 1.5, 3 // 2, 0.5, AddSpEffect 1626070
+a000_081031 - AddSpEffect 525006 (single frame)
+a000_081032 - AnimSpeedGradient - 1.4, 1.75
+
+Golden Order Totality:
+a000_081060 - AnimSpeedGradient - 1.5, 2, Copy a751_040040, AddSpEffect 525005
+a000_081061 - Copy a751_040040
+a000_081062 - AnimSpeedGradient - 1.5, 2
+
+Rapture:
+a000_081020 - AnimSpeedGradient - 2, 2
+a000_081021:
+Delete InvokeEventEzStateFlag
+AddSpEffect 500035
+AddSpEffect 3350
+AnimSpeedGradient - 1.5, 1.5
+a000_081022 - AnimSpeedGradient - 2.5, 2
+
+Seeker's Oath (By My Sword):
+a000_080520 - AnimSpeedGradient - 1, 2, AddSpEffect 1626062 (single frame)
+
+--Spell--
+Loreta's Greatbow:
+a405_X45X00, a405_X45X10 - AnimSpeedGradient - 1.5, 1.5
+a405_X45X11, a405_X45X21 - AnimSpeedGradient - 1.5, 1.5, AddSpEffect 1626071 (single frame)
+
+Ravenous Bloodflame:
+a512_045100 - AnimSpeedGradient - 1, 1.5
+a512_045110 - AnimSpeedGradient - 1.5, 1.5
+
+--Weapon--
+Baleful Strike:
+a600_040000
+InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3002, Offset -1, Unk12 255
+AddSpEffect 1626025 (single frame)
+
+Black Sun's Zenith:
+a751_040040 - AddSpEffect 525004 (single frame)
+
+GG God Hunt:
+a025_030300 - Copy sound from a505_045111 (StateInfo 7778, 7780)
+InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3004, StateInfo 7778, Offset -1, Unk12 255
+InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3005, StateInfo 7778, Offset -1, Unk12 255
+InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3006, StateInfo 7780, Offset -1, Unk12 255
+InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3007, StateInfo 7780, Offset -1, Unk12 255
+a025_032300 - Copy sound from a505_045111 (StateInfo 7778, 7780)
+InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3004, StateInfo 7778, Offset -1, Unk12 255
+InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3005, StateInfo 7778, Offset -1, Unk12 255
+InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3006, StateInfo 7780, Offset -1, Unk12 255
+InvokeBulletBehavior - DummyPoly ID 10100, BehaviorJudgeID 3007, StateInfo 7780, Offset -1, Unk12 255
+
+Soulflame Heresy:
+a821_040000 - Copy from Queen's Black Flame
+
+Wrathful Strike: 
+a657_040200 - AddSpEffect 1626036, AnimSpeedGradient - 1, 1.5
+InvokeBulletBehavior - DummyPoly ID 10301, BehaviorJudgeID 3003, Offset -1, Unk12 255
+
+Sovereign's Fury:
+a744_040000 
+Delete: Sound ID 100008300, Weapon Art FP Consumption, AddSpEffect_WeaponAtrts[331](x2)
+Copy Sound ID 530355, 530501 from a523_045110
+AddSpEffect (525007, 1626080)(single frame)
+Copy SpawnOneShotFFX 621125 & Sound ID 211006020 from a001_003000 (c2110)
+Copy Sound ID 530360, Event 152 (Unk00 5) from a451_045010
+a0XX_030620, a0XX_030630, a0XX_032620, a0XX_032630- AnimSpeedGradient - 1.1, 1.1 // 4, 4 // 1, 1, AddSpEffect 525008 (single frame), copy Sound ID 530360 from a451_045010
+a0XX_030621, a0XX_030625, a0XX_030635, a0XX_032621, a0XX_032625, a0XX_032635 - AnimSpeedGradient - 1.1, 1.1
+(a022, a023, a024, a025, a026, a028, a029, a030, a031, a032, a033, a034, a035, a036, a037, a038, a042)
+Replace everything in a744_040005 with everything from a744_040000 
+
+--Armor--
+Sovereign's Raptor of the Mists:
+a000_390000, a002_390000, a003_390000, a010_390000, a012_390000, a013_390000, a014_390000, a015_390000, a016_390000
+AddSpEffect 311402 (single frame)
+
+--Misc--
+Hard Landing Damage:
+a000_202140, a002_202140, a003_202140, a010_202140, a012_202140, a013_202140, a014_202140, a015_202140, a016_202140
+AddSpEffect 511084
+(c0000.anibnd.dcx)
+#-------------------------------------------
+
+
+# FX----------------------------------------
+[use FXMLR to convert .fxr to .xml]
+
+Soulflame Heresy FX:
+(sfxbnd_commoneffects.ffxbnd.dcx)
+f000303121.fxr
+f000303122.fxr (blue tint to pure white)
+#-------------------------------------------
+
+
+# TEXT - ARMOR------------------------------
+Armor(100000): Seeker's War Hat
+Warhelm worn by Seeker Gyre
+------------------------------
+This headgear melds the fierce, battle-hardened visage of a knight's plate helm with the broad, protective brim of a seasoned traveler's hat. 
+
+The Seekers, once noble knights revered for their pursuit of lost truths and ancient mysteries, gradually shifted their devotion to an unknowable entity. Drawn irresistibly to the hidden light of a crimson star, they believed this enigmatic presence held the key to the secrets they sought. 
+------------------------------
+
+Armor(80000): Dragonlord's Helm
+Helm of the Dragonlord
+------------------------------
+Armor made from layered ancient dragon scales.
+The corroded metal is reinforced with rock-hard scales, making it highly effective against fire and lightning.
+------------------------------
+
+Armor(80100): Dragonlord's Armor
+Armor of the Dragonlord
+------------------------------
+Armor made from layered ancient dragon scales.
+The corroded metal is reinforced with rock-hard scales, making it highly effective against fire and lightning.
+
+Harness the raw fury ofthe ancient dragons when health is low and lightning surges through you.
+------------------------------
+
+Armor(81100): Dragonlord's Armor (Altered)
+Armor of the Dragonlord
+------------------------------
+Armor made from layered ancient dragon scales.
+The corroded metal is reinforced with rock-hard scales, making it highly effective against fire and lightning.
+
+Harness the raw fury ofthe ancient dragons when health is low and lightning surges through you.
+------------------------------
+
+Armor(80200): Gauntlets of the Heretic
+Gauntlets worn by those who defy gods
+------------------------------
+Gauntlets made from layered ancient dragon scales.
+The corroded metal is reinforced with rock-hard scales, making it highly effective against fire and lightning.
+
+These gauntlets increase the potency of forbidden arts.
+------------------------------
+
+Armor(80300): Raven's Shadow Greaves
+Greaves imbued with shadow and mist
+------------------------------
+Greaves made from layered ancient dragon scales.
+The corroded metal is reinforced with rock-hard scales, making it highly effective against fire and lightning.
+
+Infused with shadow and mist, they allow the wearer to move unseen and strike with deceptive agility.
+#-------------------------------------------
+
+
+# TEXT - GOODS------------------------------
+Goods(6050): Flame, Grant Me Strength
+Raises physical attack power, fire-affinity attack power, stamina recovery, and cast speed
+------------------------------
+Superior incantation of the Fire Monks.
+
+Creates an invigorating fire that will strengthen and hasten the caster.
+
+This incantation does not burn the caster, and so it is considered forbidden by the guardians of the Flame.
+------------------------------
+
+Goods(6320): Ravenous Bloodflame
+Enchants right-hand armament with a hungry bloodflame
+------------------------------
+A Blood Oath incantation, granted by the Lord of Blood.
+
+Engulfs armament held in the right hand with bloodflame.
+This incantation can be cast multiple times, as long as you have enough Arcane, to stack its effects.
+
+After dealing damage, bloodflame continues to build up onset of blood loss for a very short time.
+------------------------------
+
+Goods(2913): Rune Arc
+Use to grant boons, fully restore HP and FP, and grants the blessing of an equipped Great Rune upon use
+------------------------------
+A shard of the shattered Elden Ring.
+Grants the blessing of an equipped Great Rune upon use.
+
+Even if no Great Rune is equipped, it will slightly increase maximum HP upon use.
+
+The lower arc of the Elden Ring is held to be the basin in which its blessings pool. Perhaps this shard originates from that very arc.
+------------------------------
+
+Goods(2913): Numen's Rune
+Use to grant boons and fully restore HP and FP
+------------------------------
+Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold.
+
+The Numen are said to have come from outside the Lands Between, and are in fact of the same stock as Queen Marika herself.
+------------------------------
+
+Goods(2120): Opaline Bubblesoap
+Applies a damage-blocking bubble, removes filth and accumulations on the body
+------------------------------
+A plant-based soap made from mushroom juice.
+Craftable item.
+
+Provides significant damage negation once, and will expire after a certain duration. Cleans off filth and other accumulations on the body.
+
+The mushrooms that grow in the false night amongst the caverns of the Eternal City have special properties.
+------------------------------
+
+Goods(2140): Fell Omen Shackle
+Converts death blight into a veil of darkness that conceals the caster and blinds enemies
+------------------------------
+A fetish bathed in golden magic.
+Shackles were used to bind the accursed people called the Omen, and this one was made to keep a particular Omen under strictest confinement.
+
+This shackle has been repurposed to draw in blight and expel it as a blinding shroud.
+------------------------------
+
+Goods(2150): Bloody Shackle
+Lights your blood aflame to damage and bleed yourself and surrounding enemies
+------------------------------
+A fetish bathed in golden magic.
+Shackles were used to bind the accursed people called the Omen, and this one was made to keep a particular Omen under strictest confinement.
+
+This shackle has been repurposed to set your blood alight with a blast of bloodflame.
+------------------------------
+
+Goods(4130): Terra Magica
+Raises magic strength and eliminates sorcery FP consumption of those within the sigil
+------------------------------
+One of the glintstone sorceries of the Academy of Raya Lucaria.
+
+Draws an academy sigil upon the ground, raising magic strength and eliminating sorcery FP consumption of those within the sigil.
+
+Once, the sigil would be cast from the highest belfry of the academy, covering the entire institution's grounds. This spell allows such vivid experience of spell—casting success, it turns many a fledgling into a true sorcerer in a flash of newfound understanding.
+------------------------------
+
+Goods(9022): Seeker's Vow
+Vow of a noble knight
+------------------------------
+A vow to uncover truth and knowledge
+------------------------------
+
+Goods(11018): Leaden Hardtear
+Temporarily turns body to steel in mixed physick
+------------------------------
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Can be mixed in the Flask of Wondrous Physick.
+The resulting concoction temporarily turns body to steel, boosting poise, resistances and damage negation at the expense of mobility and lightning resistance.
+Menu Text - GoodsInfo2(11018): Temporarily turns body to steel
+#-------------------------------------------
+
+
+# TEXT - RINGS------------------------------
+Rings(1050): Radagon's Scarseal
+Raises stamina recovery speed and shortens spell casting time but increases holy damage taken
+------------------------------
+An eye engraved with an Elden Rune.
+Said to be the seal of King Consort Radagon.
+
+Raises stamina recovery speed and shortens spell casting time but increases holy damage taken.
+
+These seals represent the lifelong duty of those chosen by the gods.
+------------------------------
+
+Rings(1051): Radagon's Soreseal
+Greatly raises stamina recovery speed and shortens spell casting time but increases holy damage taken
+------------------------------
+This legendary talisman is an eye engraved with an Elden Rune, said to be the seal of King Consort Radagon.
+
+Greatly raises stamina recovery speed and shortens spell casting time but increases holy damage taken by a similar measure.
+
+Solemn duty weighs upon the one beholden; not unlike a gnawing curse from which there is no deliverance.
+------------------------------
+
+Rings(1220): Marika's Scarseal
+Slowly restores FP, but also increases holy damage taken
+------------------------------
+An eye engraved with an Elden Rune.
+Said to be the seal of Queen Marika.
+
+Slowly restores FP, but also increases holy damage taken.
+
+These seals represent the lifelong duty of those chosen by the gods.
+------------------------------
+
+Rings(1221): Marika's Soreseal
+Restores FP, but also increases holy damage taken
+------------------------------
+This legendary talisman is an eye engraved with an Elden Rune, said to be the seal of Queen Marika.
+
+Restores FP, but also increases holy damage taken by a similar measure.
+
+Solemn duty weighs upon the one beholden; not unlike a gnawing curse from which there is no deliverance.
+------------------------------
+
+Rings(3070): Radagon Icon
+Raises Intelligence and Faith and shortens spell casting time
+------------------------------
+A legendary talisman depicting the Elden Lord Radagon.
+Raises Intelligence and Faith and shortens the casting time of sorceries and incantations.
+
+As the husband of Rennala of Caria, the red-haired Radagon studied sorcery, and as the husband of Queen Marika, he studied incantations. Thus did the hero aspire to be complete.
+------------------------------
+
+Rings(1140): Moon of Nokstella
+Increases memory slots and intelligence
+------------------------------
+This legendary talisman is a treasure of Nokstella, the Eternal City.
+
+Increases memory slots and intelligence.
+
+This talisman represents the lost black moon. The moon of Nokstella was the guide of countless stars.
+------------------------------
+
+Rings(6040): Longtail Cat Talisman
+Grants immunity to fall damage
+------------------------------
+A brooch depicting Lacrima, the long-tailed cat.
+
+Grants immunity to fall damage.
+
+Lacrima features in the fables of Raya Lucaria, in which she is described as a faerie cat who was fond of playing in the great bell tower.
+------------------------------
+
+Rings(6100): Entwining Umbilical Cord
+Mysterious circular object that's oddly warped
+------------------------------
+Sacred relic of the Gloam-Eyed Queen.
+
+Enhances godslayer incantations. Makes the wearer semi-invisible while crouched. If an enemy attack connects, avian wings will allow for a quick escape into the air.
+
+The Gloam-Eyed Queen was said to have revered and commanded ravens that shadowed her every step.
+#-------------------------------------------
+
+
+# TEXT - SWORDARTS--------------------------
+SwordArts(100): Baleful Strike
+------------------------------
+Skill: Baleful Strike
+
+Somersault forwards, striking foes with armament and unleashing a blast of bloodflame.
+
+SwordArts(208): Wrathful Strike
+------------------------------
+Skill: Wrathful Strike
+
+Raise armament aloft and imbue it with golden sunlight, then slam it into the ground producing a holy shockwave.
+This devastating blow restores HP to the self and nearby allies if it successfully hits.
+------------------------------
+
+SwordArts(654): Sovereign's Fury
+------------------------------
+Skill: Sovereign's Fury
+
+Unleash a surge of ancient lightning followed by a primal roar. Harness the raw fury of the ancient dragons to boost your maximum health, focus, and stamina. Significantly increase your resistance to non-physical damage and status effects. Double ancient lightning damage and gain the effects of Vyke's Dragonbolt. Charged heavy attacks propel you forward in a burst of lightning, allowing you to deliver a devastating blow.
+------------------------------
+
+SwordArts(701): Black Sun's Zenith
+------------------------------
+Skill: Black Sun's Zenith
+
+Hold shield aloft to imbue yourself with golden power, granting momentary invincibility and expelling a golden shockwave.
+------------------------------
+
+SwordArts(1021): Soulflame Heresy
+------------------------------
+Unique Skill: Soulflame Heresy
+
+Set the blade ablaze with a white flame capable of slaying gods.
+Reduce enemies to ash and ruin to fuel a heretical fire.
+#-------------------------------------------
+
+
+# TEXT - WEAPONS----------------------------
+Weapons(3140000): Blasphemous Blade
+------------------------------
+Sacred sword of Rykard, Lord of Blasphemy.
+Remains of the countless heroes he has devoured writhe upon the surface of this blade.
+
+Now they share the same blood, bound together as family.
+Soak the blade with blood to have it erupt with a ravenous bloodflame.
+------------------------------
+
+Weapons(32240000): Eclipse Crest Greatshield
+------------------------------
+Metal greatshield painted with a sun in eclipse. Bestowed by Godwyn the Golden to his strongest knights.
+
+The eclipsed sun, drained of color, is the protective star of the soulless. Through prayer to the Black Sun, a lost radiance to thwart even Ruinous Death can called upon once more.
+------------------------------
+
+Weapons(34080000): Wyrmsblood Sigil(Dragon Communion Seal)
+------------------------------
+Formless drakeblood seal with a dragon communion crest. Imbues incantations and sorceries with arcane power.
+
+The sacrificial devouring of the heart gives power. Heresy is not native to this world. It is but a contrivance, all things can be conjoined.
+Menu Text - WeaponEffect(1115) - Imbues incantations and sorceries with arcane power
+------------------------------
+
+# TEXT - MESSAGE----------------------------
+Message(10010670): Rune loss prevented upon death
+Message(10010680): Your essence lingers, undying. I have held your runes in my gaze.
+#-------------------------------------------
+
+
+# VFX/SFX---------------------------------------
+VFX:
+24 - Shimmering Eye
+5849 - Heart Energy
+8210 - Invisible
+51951 - Gold Chest
+8545 - Mohg Sacred Spear - Effect Type 0
+51770 - Ultra Instinct
+51901 - Gold Ghost
+52402 - Red Phantom
+52882 - Intense Red Lightning
+730300 - Blood Ritual
+
+SFX:
+Projectile SFX ID 621125 - Maliketh Roar
+#-------------------------------------------
+
+
+# MASS EDIT---------------------------------
+Yapped Cleanup:
+param X: prop finalDamageRateId 0: finalDamageRateId: = vanillafield finalDamageRateId;
+param NpcParam: id .*: superArmorRecoverCorrection: = vanillafield superArmorRecoverCorrection;
+#-------------------------------------------
