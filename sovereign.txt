@@ -56,10 +56,10 @@ SpEffectVfxParam(1436000) - Play Category 0
 Rapture:
 Duplicate SpEffectParam 3288->3350 [SACRED] Rapture HP Burn - Duration 1, Trigger Interval 0.1, Current HP % 0.995, Current HP + 10,  Effect VFX [0] 9010
 Duplicate SpEffectParam 1626004->500034 [SACRED] Flames of Blasphemy Apply - Duration 0.1, Cycle SpEffect 500035, Trigger on State Info 7779, State Info 0
-Duplicate SpEffectParam 500030->500035 [SACRED] Flames of Blasphemy - Duration 90, Trigger Interval 1, Current HP + -12, Current HP %: 0, Attack %: ALL 1.3, 
+Duplicate SpEffectParam 500030->500035 [SACRED] Flames of Blasphemy - Duration 180, Trigger Interval 1, Current HP + -12, Current HP %: 0, Attack %: ALL 1.3, 
     Chain SpEffect ID -1, Cycle SpEffect ID 1626040, Target Priority 0.1, Effect Category 160, Affects Sorcery 1, Affects Incantation 1, Absorption %: 0.8, 
     Effect VFX [0] 9012, Effect Duration Eligibility 1
-Duplicate SpEffectParam 500035->500036 [SACRED] Quick Buff Flames of Blasphemy - Trigger on StateInfo [0] 7779
+Duplicate SpEffectParam 500035->500036 [SACRED] Quick Buff Flames of Blasphemy - Duration 90, Trigger on StateInfo [0] 7779
 Duplicate SpEffectParam 1626004->1626040 [SACRED] Flames of Blasphemy Remove Sacred Ward - Duration 0.1, Cycle SpEffect 1626041, Effect Category 100, Category Priority 0, Save Category -1, State Info 0
 Duplicate SpEffectParam 1626040->1626041 [SACRED] Flames of Blasphemy Remove Blessings - Effect Category 161
 
@@ -176,8 +176,7 @@ Duplicate BehaviorParam_PC 2502->2511 [SACRED] Sovereign's Fury Rejection - Refe
 Duplicate Bullet 10640050->10640052 [SACRED] Sovereign's Fury Rejection - Projectile SFX ID -1, Impact SFX ID -1, Final Hit Radius 4.5
 Duplicate Bullet 10705010->10705011 [SACRED] Sovereign's Fury Ruinous Surge - AtkParam ID 70503
 EquipParamGem(65400) - Affinity: ALL 0, Available: ALL 0
-EquipParamWeapon(34080000) - Sword Arts Param ID 654, Reinforcement Price 100, Requirement: INT 20, Requirement: FTH 20, 
-    Requirement: ARC 20, Correction: INT 60, Correction: FTH 60, Correction: ARC 120, Passive SpEffect 2 1626051
+EquipParamWeapon(34080000) - Sword Arts Param ID 654, Reinforcement Price 100, Requirement: FTH 10, Requirement: ARC 30, Correction: FTH 60, Correction: ARC 150, Passive SpEffect 2 1626051
 SpEffectParam(1861) - Icon ID -1, Duration 0, Effect VFX [0] -1
 Duplicate SpEffectParam 525007->525008 [SACRED] Sovereign's Fury Ruinous Surge - Cycle SpEffect -1, Behavior ID 2510
 Duplicate SpEffectParam 511081->525009 [SACRED] Sovereign's Fury Apply 1 - Duration 0.5, Trigger Interval 1, Chain Speffect 525010, Cycle SpEffect 1626052, Behavior ID 2509, Effect VFX [0] -1
@@ -187,7 +186,7 @@ Duplicate SpEffectParam 5031401->525011 [SACRED] Sovereign's Fury Cost - Duratio
 Duplicate SpEffectParam 525007->525012 [SACRED] Sovereign's Fury Rejection 0 - Duration 1, Trigger Interval 0.2, Chain Speffect -1, Cycle SpEffect 525013, Behavior ID 2511
 Duplicate SpEffectParam 525009->525013 [SACRED] Sovereign's Fury Rejection 1 - Duration 0.2, Trigger Interval 0.4, Chain SpEffect -1, Cycle Speffect -1
 Duplicate SpEffectParam 501290->1626051 [SACRED] Wyrmsblood Sigil FP Consumption - Icon ID -1, Duration -1, Trigger Interval 0, Current FP %: 0, Effect Category 0, 
-    Target Self 1, State Info 0, Skill/Pyromancy FP Consumption 1, Sorcery/Incantation FP Consumption 2, Weapon Parameter Change 1, Effect VFX [0] -1
+    Target Self 1, State Info 0, Skill/Pyromancy FP Consumption 1, Sorcery/Incantation FP Consumption 1.5, Weapon Parameter Change 1, Effect VFX [0] -1
 Duplicate SpEffectParam 1626010->1626052 [SACRED] Sovereign's Fury Apply 1 - Duration 0.1, Trigger Interval 0.1, Chain SpEffect 1626053, Cycle SpEffect ID 1626059
 Duplicate SpEffectParam 500030->1626053 [SACRED] Sovereign's Fury Apply 2 - Duration 45, Trigger Interval 0.1, Max HP % 1, Current HP + 0, 
     Current HP %: 0, Chain SpEffect ID -1, Cycle SpEffect 1626059, Effect Category 20
@@ -482,38 +481,33 @@ SpEffectParam(511019) - State Info 159
 
 # ANIMATIONS--------------------------------
 (c0000.anibnd.dcx)
-
 --Gesture--
 Erudition:
 a000_081030 - AnimSpeedGradient x2 - 1.5, 3 // 2, 0.5, AddSpEffect 1626070
 a000_081031 - AddSpEffect 525006 (single frame)
-a000_081032 - AnimSpeedGradient - 1.4, 1.75
+a000_081032 - AnimSpeedGradient - (1.4, 1.75)
 
 Golden Order Totality:
-a000_081060 - AnimSpeedGradient - 1.5, 2, Copy a751_040040, AddSpEffect 525005
+a000_081060 - AnimSpeedGradient - (1.5, 2), Copy a751_040040, AddSpEffect 525005
 a000_081061 - Copy a751_040040
-a000_081062 - AnimSpeedGradient - 1.5, 2
+a000_081062 - AnimSpeedGradient - (1.5, 2)
 
 Rapture:
-a000_081020 - AnimSpeedGradient - 2, 2
-a000_081021:
-Delete InvokeEventEzStateFlag
-AddSpEffect 500035
-AddSpEffect 3350
-AnimSpeedGradient - 1.5, 1.5
-a000_081022 - AnimSpeedGradient - 2.5, 2
+a000_081020 - AnimSpeedGradient - (2, 2), InvokeEventEzStateFlag<HKS_env301>[227](0)
+a000_081021 - Delete InvokeEventEzStateFlag, AddSpEffect 3350, 500035, AnimSpeedGradient - 1.5, 1.5, InvokeEventEzStateFlag<HKS_env301>[227](0)
+a000_081022 - AnimSpeedGradient - (2.5, 2)
 
 Seeker's Oath (By My Sword):
-a000_080520 - AnimSpeedGradient - 1, 2, AddSpEffect 1626062 (single frame)
+a000_080520 - AnimSpeedGradient - (1, 2), AddSpEffect 1626062 (single frame)
 
 --Spell--
 Loreta's Greatbow:
-a405_X45X00, a405_X45X10 - AnimSpeedGradient - 1.5, 1.5
-a405_X45X11, a405_X45X21 - AnimSpeedGradient - 1.5, 1.5, AddSpEffect 1626071 (single frame)
+a405_X45X00, a405_X45X10 - AnimSpeedGradient - (1.5, 1.5)
+a405_X45X11, a405_X45X21 - AnimSpeedGradient - (1.5, 1.5), AddSpEffect 1626071 (single frame)
 
 Ravenous Bloodflame:
-a512_045100 - AnimSpeedGradient - 1, 1.5
-a512_045110 - AnimSpeedGradient - 1.5, 1.5
+a512_045100 - AnimSpeedGradient - (1, 1.5)
+a512_045110 - AnimSpeedGradient - (1.5, 1.5)
 
 --Weapon--
 Baleful Strike:
@@ -540,7 +534,7 @@ Soulflame Heresy:
 a821_040000 - Copy from Queen's Black Flame
 
 Wrathful Strike: 
-a657_040200 - AddSpEffect 1626036, AnimSpeedGradient - 1, 1.5
+a657_040200 - AddSpEffect 1626036, AnimSpeedGradient - (1, 1.5)
 InvokeBulletBehavior - DummyPoly ID 10301, BehaviorJudgeID 3003, Offset -1, Unk12 255
 
 Sovereign's Fury:
@@ -550,8 +544,8 @@ Copy Sound ID 530355, 530501 from a523_045110
 AddSpEffect (525009, 500033)(single frame)
 Copy SpawnOneShotFFX 621125 & Sound ID 211006020 from a001_003000 (c2110)
 Copy Sound ID 530360, Event 152 (Unk00 5) from a451_045010
-a0XX_030620, a0XX_030630, a0XX_032620, a0XX_032630 - AnimSpeedGradient - 1.1, 1.1 // 4, 4 // 1, 1, AddSpEffect 525008 (single frame), copy Sound ID 530360 from a451_045010
-a0XX_030621, a0XX_030625, a0XX_030635, a0XX_032621, a0XX_032625, a0XX_032635 - AnimSpeedGradient - 1.1, 1.1
+a0XX_030620, a0XX_030630, a0XX_032620, a0XX_032630 - AnimSpeedGradient - (1.1, 1.1 // 4, 4 // 1, 1), AddSpEffect 525008 (single frame), copy Sound ID 530360 from a451_045010
+a0XX_030621, a0XX_030625, a0XX_030635, a0XX_032621, a0XX_032625, a0XX_032635 - AnimSpeedGradient - (1.1, 1.1)
 (a022, a023, a024, a025, a026, a028, a029, a030, a031, a032, a033, a034, a035, a036, a037, a038, a042)
 Replace everything in a744_040005 with everything from a744_040000 
 
@@ -564,7 +558,6 @@ AddSpEffect 311402 (single frame)
 Hard Landing Damage:
 a000_202140, a002_202140, a003_202140, a010_202140, a012_202140, a013_202140, a014_202140, a015_202140, a016_202140
 AddSpEffect 511084
-(c0000.anibnd.dcx)
 #-------------------------------------------
 
 

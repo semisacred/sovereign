@@ -1,4 +1,19 @@
 #------------------------------------------
+# 9.1-1.13.2
+#------------------------------------------
+
+# Gestures
+- Rapture Flames of Blasphemy
+  - Flames of Blasphemy 
+    - 90s -> 180s duration
+
+# Weapons
+- Wyrmsblood Sigil
+  - Requires: 30 ARC
+  - Revised FTH/INT scaling and requirements
+  - 2x -> 1.5 FP Consumption
+
+#------------------------------------------
 # 9.0-1.13.2
 #------------------------------------------
 
