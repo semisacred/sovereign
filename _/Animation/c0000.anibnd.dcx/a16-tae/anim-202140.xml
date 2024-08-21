@@ -1,0 +1,884 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<anim>
+  <name>a016_202140.hkt</name>
+  <header>
+    <type>Standard</type>
+    <allowDelayLoad>false</allowDelayLoad>
+    <importsHkx>false</importsHkx>
+    <loopByDefault>false</loopByDefault>
+    <importHkxSourceAnimId>-1</importHkxSourceAnimId>
+  </header>
+  <animGroups>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>0.16666667</startTime>
+          <endTime>3.3333333</endTime>
+          <params>
+            <param name="JumpTableID" value="87" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>0.16666667</startTime>
+          <endTime>3.3333333</endTime>
+          <params>
+            <param name="JumpTableID" value="106" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>1.1666666</startTime>
+          <endTime>3.9</endTime>
+          <params>
+            <param name="JumpTableID" value="4" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>1.1666666</startTime>
+          <endTime>3.9</endTime>
+          <params>
+            <param name="JumpTableID" value="16" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>1.1666666</startTime>
+          <endTime>3.9</endTime>
+          <params>
+            <param name="JumpTableID" value="22" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>0.93333334</startTime>
+          <endTime>3.6666667</endTime>
+          <params>
+            <param name="JumpTableID" value="26" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>1.2</startTime>
+          <endTime>3.9</endTime>
+          <params>
+            <param name="JumpTableID" value="11" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>1.1666666</startTime>
+          <endTime>3.9</endTime>
+          <params>
+            <param name="JumpTableID" value="31" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>1.1666666</startTime>
+          <endTime>3.9</endTime>
+          <params>
+            <param name="JumpTableID" value="29" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>1.1666666</startTime>
+          <endTime>3.9</endTime>
+          <params>
+            <param name="JumpTableID" value="32" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>1.1666666</startTime>
+          <endTime>3.9</endTime>
+          <params>
+            <param name="JumpTableID" value="103" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>1.1666666</startTime>
+          <endTime>3.9</endTime>
+          <params>
+            <param name="JumpTableID" value="104" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>0.033333335</startTime>
+          <endTime>4.5666666</endTime>
+          <params>
+            <param name="JumpTableID" value="7" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>224</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>224</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.033333335</endTime>
+          <params>
+            <param name="TurnSpeed" value="0" />
+            <param name="IsLockOnCheck" value="false" />
+            <param name="NewUnkArg" value="255" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.43333334</endTime>
+          <params>
+            <param name="JumpTableID" value="51" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>237</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>237</type>
+          <unk04>0</unk04>
+          <startTime>0.06666667</startTime>
+          <endTime>0.13333334</endTime>
+          <params>
+            <param name="AISoundID" value="1030" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>225</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>225</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.93333334</endTime>
+          <params>
+            <param name="RegenRatePercent" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.93333334</endTime>
+          <params>
+            <param name="JumpTableID" value="41" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>307</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>307</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.16666667</endTime>
+          <params>
+            <param name="Condition0x64_GetWeaponData" value="0" />
+            <param name="Offset" value="0" />
+            <param name="PCBehaviorType" value="4" />
+            <param name="BehaviorJudgeID" value="503" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>401</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>401</type>
+          <unk04>0</unk04>
+          <startTime>0.96666664</startTime>
+          <endTime>1.0333333</endTime>
+          <params>
+            <param name="SpEffectID" value="39" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>792</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>792</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.1</endTime>
+          <params>
+            <param name="FootSFXIndex" value="11" />
+            <param name="DummyPolyID" value="5" />
+            <param name="SlotID" value="-1" />
+            <param name="IsIgnoreDummyPolyAngle" value="true" />
+            <param name="IsFollowDummyPoly" value="false" />
+            <param name="IsRestrictToDummyPoly" value="true" />
+            <param name="ExtraSpawnCondition" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>792</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>792</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.1</endTime>
+          <params>
+            <param name="FootSFXIndex" value="11" />
+            <param name="DummyPolyID" value="6" />
+            <param name="SlotID" value="-1" />
+            <param name="IsIgnoreDummyPolyAngle" value="true" />
+            <param name="IsFollowDummyPoly" value="false" />
+            <param name="IsRestrictToDummyPoly" value="true" />
+            <param name="ExtraSpawnCondition" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>139</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>139</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.1</endTime>
+          <params>
+            <param name="DecalParamID" value="5" />
+            <param name="DummyPolyID1" value="0" />
+            <param name="DummyPolyID2" value="65535" />
+            <param name="DummyPolyID3" value="0" />
+            <param name="DummyPolyID4" value="65535" />
+            <param name="DummyPolyID5" value="0" />
+            <param name="DummyPolyID6" value="65535" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>139</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>139</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.1</endTime>
+          <params>
+            <param name="DecalParamID" value="6" />
+            <param name="DummyPolyID1" value="0" />
+            <param name="DummyPolyID2" value="65535" />
+            <param name="DummyPolyID3" value="0" />
+            <param name="DummyPolyID4" value="65535" />
+            <param name="DummyPolyID5" value="0" />
+            <param name="DummyPolyID6" value="65535" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>129</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>1.5333333</startTime>
+          <endTime>1.6333333</endTime>
+          <params>
+            <param name="SoundType" value="8" />
+            <param name="SoundID" value="1001" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>2.0333333</startTime>
+          <endTime>2.1333334</endTime>
+          <params>
+            <param name="SoundType" value="8" />
+            <param name="SoundID" value="1001" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>129</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.1</endTime>
+          <params>
+            <param name="SoundType" value="15" />
+            <param name="SoundID" value="200" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>129</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>0.93333334</startTime>
+          <endTime>1.0333333</endTime>
+          <params>
+            <param name="SoundType" value="15" />
+            <param name="SoundID" value="100" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>129</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>0.43333334</startTime>
+          <endTime>0.53333336</endTime>
+          <params>
+            <param name="SoundType" value="15" />
+            <param name="SoundID" value="0" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>1.5</startTime>
+          <endTime>1.6</endTime>
+          <params>
+            <param name="SoundType" value="15" />
+            <param name="SoundID" value="0" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>129</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.1</endTime>
+          <params>
+            <param name="SoundType" value="8" />
+            <param name="SoundID" value="3001" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>16</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>16</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.13333334</endTime>
+          <params />
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>911</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>911</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>1.0666667</endTime>
+          <params>
+            <param name="Unk00" value="1048576000" />
+            <param name="Unk04" value="1048576000" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>787</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>787</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>1.0666667</endTime>
+          <params>
+            <param name="Unk00" value="3" />
+            <param name="Unk04" value="15" />
+            <param name="Unk08" value="0" />
+            <param name="Unk0C" value="0.2" />
+            <param name="State" value="false" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>605</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>605</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>100</endTime>
+          <params>
+            <param name="IsFemaleAnim" value="false" />
+            <param name="AnimID" value="0" />
+            <param name="AnimWeightAtEventStart" value="1" />
+            <param name="AnimWeightAtEventEnd" value="1" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>67</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>67</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.033333335</endTime>
+          <params>
+            <param name="SpEffectID" value="525000" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+  </animGroups>
+</anim>

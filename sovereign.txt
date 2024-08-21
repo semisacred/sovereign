@@ -1,7 +1,6 @@
 #-------------------------------------------
 # SACRED TWEAKS
 #-------------------------------------------
-TODO make braggarts roar unique
 
 # DIFFICULTY MODIFIER-----------------------
 SpEffectParam(7000 through 7280) - Cycle SpEffect ID 7399
@@ -30,8 +29,9 @@ NpcParam(22000000, 22000078) - Base HP 6280
 #-------------------------------------------
 
 
-# DEFLECT/TIMED BLOCK-----------------------
-SpEffectParam(6202002, 6202003, 6202004, 6202005)
+# DEFLECT-----------------------------------
+RoleParam(ALL) - SpEffect ID [9] 102000, Duration -1, Effect Category 1, Effect VFX [0] -1, Erase on Bonfire Rest 0
+SpEffectParam(102000) - Icon ID -1, 
 #-------------------------------------------
 
 
@@ -39,7 +39,7 @@ SpEffectParam(6202002, 6202003, 6202004, 6202005)
 Duplicate SpEffectParam 3282->3293 [SACRED] Quick Buff 1 - Current HP % 0, Current FP % 0, Rune Gain + 0, Chain SpEffect ID 3294, Cycle SpEffect ID 1605000
 Duplicate SpEffectParam 3288->3294 [SACRED] Quick Buff 2 - Rune Gain + 0, Chain SpEffect ID 3295, Cycle SpEffect ID 1643100
 Duplicate SpEffectParam 3294->3295 [SACRED] Quick Buff 3 - Chain SpEffect ID 3296, Cycle SpEffect ID 503502
-Duplicate SpEffectParam 3295->3296 [SACRED] Quick Buff 4 - Chain SpEffect ID 1697100, Cycle SpEffect ID 500034
+Duplicate SpEffectParam 3295->3296 [SACRED] Quick Buff 4 - Chain SpEffect ID 1697001, Cycle SpEffect ID 500034
 #-------------------------------------------
 
 
@@ -62,7 +62,6 @@ Duplicate SpEffectParam 500030->500035 [SACRED] Flames of Blasphemy - Duration 9
 Duplicate SpEffectParam 500035->500036 [SACRED] Quick Buff Flames of Blasphemy - Trigger on StateInfo [0] 7779
 Duplicate SpEffectParam 1626004->1626040 [SACRED] Flames of Blasphemy Remove Sacred Ward - Duration 0.1, Cycle SpEffect 1626041, Effect Category 100, Category Priority 0, Save Category -1, State Info 0
 Duplicate SpEffectParam 1626040->1626041 [SACRED] Flames of Blasphemy Remove Blessings - Effect Category 161
-
 
 Golden Order Totality:
 Duplicate SpEffectParam 525004->525005 [SACRED] Totality Wrath - Chain SpEffect 503502, Cycle SpEffect ID 1643100, Behavior ID 2505
@@ -180,15 +179,16 @@ EquipParamGem(65400) - Affinity: ALL 0, Available: ALL 0
 EquipParamWeapon(34080000) - Sword Arts Param ID 654, Reinforcement Price 100, Requirement: INT 20, Requirement: FTH 20, 
     Requirement: ARC 20, Correction: INT 60, Correction: FTH 60, Correction: ARC 120, Passive SpEffect 2 1626051
 SpEffectParam(1861) - Icon ID -1, Duration 0, Effect VFX [0] -1
-Duplicate SpEffectParam 5031401->500033 [SACRED] Sovereign's Fury Cost - Icon ID -1, Duration 600, Trigger Interval -1, Max HP 0.98, Max FP 0.98, Max SP 0.98, Current HP % 0, 
-    Current HP + 0, Effect Category 10, Rune Gain % 0.98, Effect VFX [0] -1
+Duplicate SpEffectParam 525007->525008 [SACRED] Sovereign's Fury Ruinous Surge - Cycle SpEffect -1, Behavior ID 2510
+Duplicate SpEffectParam 511081->525009 [SACRED] Sovereign's Fury Apply 1 - Duration 0.5, Trigger Interval 1, Chain Speffect 525010, Cycle SpEffect 1626052, Behavior ID 2509, Effect VFX [0] -1
+Duplicate SpEffectParam 511081->525010 [SACRED] Sovereign's Fury Apply 2 - Duration 0.5, Trigger Interval 1, Chain Speffect 525011, Cycle SpEffect 525012, Behavior ID -1, Effect VFX [0] -1
+Duplicate SpEffectParam 5031401->525011 [SACRED] Sovereign's Fury Cost - Duration 600, Trigger Interval 601, Max HP 0.98, Max FP 0.98, Max SP 0.98, Current HP % 0, 
+    Current HP + 0, Cycle SpEffect -1, Effect Category 10, Rune Gain % 0.98, Effect VFX [0] -1
+Duplicate SpEffectParam 525007->525012 [SACRED] Sovereign's Fury Rejection 0 - Duration 1, Trigger Interval 0.2, Chain Speffect -1, Cycle SpEffect 525013, Behavior ID 2511
+Duplicate SpEffectParam 525009->525013 [SACRED] Sovereign's Fury Rejection 1 - Duration 0.2, Trigger Interval 0.4, Chain SpEffect -1, Cycle Speffect -1
 Duplicate SpEffectParam 501290->1626051 [SACRED] Wyrmsblood Sigil FP Consumption - Icon ID -1, Duration -1, Trigger Interval 0, Current FP %: 0, Effect Category 0, 
     Target Self 1, State Info 0, Skill/Pyromancy FP Consumption 1, Sorcery/Incantation FP Consumption 2, Weapon Parameter Change 1, Effect VFX [0] -1
-Duplicate SpEffectParam 511081->525007 [SACRED] Sovereign's Fury Apply 0 - Duration 0.5, Trigger Interval 1, Chain Speffect 525009, Cycle SpEffect 1626052, Behavior ID 2509, Effect VFX [0] -1
-Duplicate SpEffectParam 525007->525008 [SACRED] Sovereign's Fury Ruinous Surge - Cycle SpEffect -1, Behavior ID 2510
-Duplicate SpEffectParam 525007->525009 [SACRED] Sovereign's Fury Rejection 0 - Duration 1, Trigger Interval 0.2, Chain Speffect -1, Cycle SpEffect 525010, Behavior ID 2511
-Duplicate SpEffectParam 525009->525010 [SACRED] Sovereign's Fury Rejection 1 - Duration 0.2, Trigger Interval 0.4, Chain SpEffect -1, Cycle Speffect -1
-Duplicate SpEffectParam 1626010->1626052 [SACRED] Sovereign's Fury Apply 1 - Duration 0.1, Trigger Interval 0.1, Chain SpEffect 1626053, Cycle SpEffect ID 500033
+Duplicate SpEffectParam 1626010->1626052 [SACRED] Sovereign's Fury Apply 1 - Duration 0.1, Trigger Interval 0.1, Chain SpEffect 1626053, Cycle SpEffect ID 1626059
 Duplicate SpEffectParam 500030->1626053 [SACRED] Sovereign's Fury Apply 2 - Duration 45, Trigger Interval 0.1, Max HP % 1, Current HP + 0, 
     Current HP %: 0, Chain SpEffect ID -1, Cycle SpEffect 1626059, Effect Category 20
 Duplicate SpEffectParam 1626052->1626054 [SACRED] Sovereign's Fury Aegis Apply 1 - Duration -1, Trigger Interval 0.1, Chain SpEffect -1, Cycle SpEffect ID 1626055, Trigger on State Info [1] 7735
@@ -470,9 +470,6 @@ EquipParamWeapon(32080000) - Correction: FTH 89
 Helphen's Steeple: (Godslayer Greatsword)
 EquipParamWeapon(3130000) - Sword Arts Param ID 1048
 
-No Loading Screen Text:
-KnowledgeLoadScreenItemParam(ALL) - Message ID 0
-
 Straight Sword/Greatsword Critical Hits & Guard Counters increment the accumulator: (Godslayer's Greatsword)
 AtkParam_Pc(200180, 200380) - Target SpEffect [0] 6904
 AtkParam_Pc(300180, 300380) - Target SpEffect [0] 6904
@@ -548,12 +545,12 @@ InvokeBulletBehavior - DummyPoly ID 10301, BehaviorJudgeID 3003, Offset -1, Unk1
 
 Sovereign's Fury:
 a744_040000 
-Delete: Sound ID 100008300, Weapon Art FP Consumption, AddSpEffect_WeaponAtrts[331](x2)
+Delete: SpawnOneShotFFX(440440), Sound ID 100008300, Weapon Art FP Consumption, AddSpEffect_WeaponAtrts[331](x2)
 Copy Sound ID 530355, 530501 from a523_045110
-AddSpEffect (525007, 1626080)(single frame)
+AddSpEffect (525009, 500033)(single frame)
 Copy SpawnOneShotFFX 621125 & Sound ID 211006020 from a001_003000 (c2110)
 Copy Sound ID 530360, Event 152 (Unk00 5) from a451_045010
-a0XX_030620, a0XX_030630, a0XX_032620, a0XX_032630- AnimSpeedGradient - 1.1, 1.1 // 4, 4 // 1, 1, AddSpEffect 525008 (single frame), copy Sound ID 530360 from a451_045010
+a0XX_030620, a0XX_030630, a0XX_032620, a0XX_032630 - AnimSpeedGradient - 1.1, 1.1 // 4, 4 // 1, 1, AddSpEffect 525008 (single frame), copy Sound ID 530360 from a451_045010
 a0XX_030621, a0XX_030625, a0XX_030635, a0XX_032621, a0XX_032625, a0XX_032635 - AnimSpeedGradient - 1.1, 1.1
 (a022, a023, a024, a025, a026, a028, a029, a030, a031, a032, a033, a034, a035, a036, a037, a038, a042)
 Replace everything in a744_040005 with everything from a744_040000 
@@ -603,7 +600,7 @@ Armor of the Dragonlord
 Armor made from layered ancient dragon scales.
 The corroded metal is reinforced with rock-hard scales, making it highly effective against fire and lightning.
 
-Harness the raw fury ofthe ancient dragons when health is low and lightning surges through you.
+Harness the raw fury of the ancient dragons when lightning surges through you and health is low.
 ------------------------------
 
 Armor(81100): Dragonlord's Armor (Altered)
@@ -612,7 +609,7 @@ Armor of the Dragonlord
 Armor made from layered ancient dragon scales.
 The corroded metal is reinforced with rock-hard scales, making it highly effective against fire and lightning.
 
-Harness the raw fury ofthe ancient dragons when health is low and lightning surges through you.
+Harness the raw fury of the ancient dragons when lightning surges through you and health is low.
 ------------------------------
 
 Armor(80200): Gauntlets of the Heretic
@@ -651,12 +648,12 @@ Enchants right-hand armament with a hungry bloodflame
 A Blood Oath incantation, granted by the Lord of Blood.
 
 Engulfs armament held in the right hand with bloodflame.
-This incantation can be cast multiple times, as long as you have enough Arcane, to stack its effects.
+This incantation can be cast multiple times to stack its effects.
 
 After dealing damage, bloodflame continues to build up onset of blood loss for a very short time.
 ------------------------------
 
-Goods(2913): Rune Arc
+Goods(190): Rune Arc
 Use to grant boons, fully restore HP and FP, and grants the blessing of an equipped Great Rune upon use
 ------------------------------
 A shard of the shattered Elden Ring.
@@ -676,7 +673,7 @@ The Numen are said to have come from outside the Lands Between, and are in fact 
 ------------------------------
 
 Goods(2120): Opaline Bubblesoap
-Applies a damage-blocking bubble, removes filth and accumulations on the body
+Applies a damage-blocking bubble and removes filth and accumulations on the body
 ------------------------------
 A plant-based soap made from mushroom juice.
 Craftable item.
@@ -774,15 +771,6 @@ Restores FP, but also increases holy damage taken by a similar measure.
 Solemn duty weighs upon the one beholden; not unlike a gnawing curse from which there is no deliverance.
 ------------------------------
 
-Rings(3070): Radagon Icon
-Raises Intelligence and Faith and shortens spell casting time
-------------------------------
-A legendary talisman depicting the Elden Lord Radagon.
-Raises Intelligence and Faith and shortens the casting time of sorceries and incantations.
-
-As the husband of Rennala of Caria, the red-haired Radagon studied sorcery, and as the husband of Queen Marika, he studied incantations. Thus did the hero aspire to be complete.
-------------------------------
-
 Rings(1140): Moon of Nokstella
 Increases memory slots and intelligence
 ------------------------------
@@ -807,10 +795,6 @@ Rings(6100): Entwining Umbilical Cord
 Mysterious circular object that's oddly warped
 ------------------------------
 Sacred relic of the Gloam-Eyed Queen.
-
-Enhances godslayer incantations. Makes the wearer semi-invisible while crouched. If an enemy attack connects, avian wings will allow for a quick escape into the air.
-
-The Gloam-Eyed Queen was said to have revered and commanded ravens that shadowed her every step.
 #-------------------------------------------
 
 
@@ -820,6 +804,7 @@ SwordArts(100): Baleful Strike
 Skill: Baleful Strike
 
 Somersault forwards, striking foes with armament and unleashing a blast of bloodflame.
+------------------------------
 
 SwordArts(208): Wrathful Strike
 ------------------------------
@@ -866,7 +851,7 @@ Weapons(32240000): Eclipse Crest Greatshield
 ------------------------------
 Metal greatshield painted with a sun in eclipse. Bestowed by Godwyn the Golden to his strongest knights.
 
-The eclipsed sun, drained of color, is the protective star of the soulless. Through prayer to the Black Sun, a lost radiance to thwart even Ruinous Death can called upon once more.
+The eclipsed sun, drained of color, is the protective star of the soulless. Through prayer to the Black Sun, a lost radiance to thwart even Destined Death can called upon once more.
 ------------------------------
 
 Weapons(34080000): Wyrmsblood Sigil(Dragon Communion Seal)
@@ -898,11 +883,4 @@ VFX:
 
 SFX:
 Projectile SFX ID 621125 - Maliketh Roar
-#-------------------------------------------
-
-
-# MASS EDIT---------------------------------
-Yapped Cleanup:
-param X: prop finalDamageRateId 0: finalDamageRateId: = vanillafield finalDamageRateId;
-param NpcParam: id .*: superArmorRecoverCorrection: = vanillafield superArmorRecoverCorrection;
 #-------------------------------------------

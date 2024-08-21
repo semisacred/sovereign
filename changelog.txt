@@ -1,4 +1,17 @@
 #------------------------------------------
+# 9.0-1.13.2
+#------------------------------------------
+
+# General
+- Update to 1.13.2
+- Attack Recovery Overhaul removed (outdated)
+- Timed Block removed, replaced with Deflecting Tear mechanic
+- Sekiro-like SFX for deflects
+
+# Quick Buff
+- Gives Vyke's Dragonbolt instead of Dragonbolt Blessing
+
+#------------------------------------------
 # 8.4-1.07.1
 #------------------------------------------
 

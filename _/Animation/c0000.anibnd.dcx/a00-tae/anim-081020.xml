@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<anim>
+  <name>a000_081020.hkt</name>
+  <header>
+    <type>Standard</type>
+    <allowDelayLoad>false</allowDelayLoad>
+    <importsHkx>false</importsHkx>
+    <loopByDefault>false</loopByDefault>
+    <importHkxSourceAnimId>-1</importHkxSourceAnimId>
+  </header>
+  <animGroups>
+    <animGroup>
+      <type>16</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>16</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.33333334</endTime>
+          <params />
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>224</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>224</type>
+          <unk04>0</unk04>
+          <startTime>0.1</startTime>
+          <endTime>0.36666667</endTime>
+          <params>
+            <param name="TurnSpeed" value="60" />
+            <param name="IsLockOnCheck" value="false" />
+            <param name="NewUnkArg" value="255" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>129</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>0.33333334</startTime>
+          <endTime>0.43333334</endTime>
+          <params>
+            <param name="SoundType" value="8" />
+            <param name="SoundID" value="1001" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.1</endTime>
+          <params>
+            <param name="JumpTableID" value="7" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>0.36666667</startTime>
+          <endTime>100</endTime>
+          <params>
+            <param name="JumpTableID" value="7" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>710</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>710</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>100</endTime>
+          <params>
+            <param name="LeftHand" value="true" />
+            <param name="RightHand" value="true" />
+            <param name="LeftHand_WithScabbard" value="false" />
+            <param name="RightHand_WithScabbard" value="false" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>67</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>67</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>9.833333</endTime>
+          <params>
+            <param name="SpEffectID" value="100200" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>9.833333</endTime>
+          <params>
+            <param name="JumpTableID" value="25" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>0</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>0</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>9.833333</endTime>
+          <params>
+            <param name="JumpTableID" value="26" />
+            <param name="ArgA" value="0" />
+            <param name="ArgB" value="-1" />
+            <param name="ArgC" value="6" />
+            <param name="ArgD" value="0" />
+            <param name="ArgE" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>129</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>2.0333333</startTime>
+          <endTime>2.1333334</endTime>
+          <params>
+            <param name="SoundType" value="15" />
+            <param name="SoundID" value="100" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>129</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>0.1</endTime>
+          <params>
+            <param name="SoundType" value="15" />
+            <param name="SoundID" value="0" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>1.3</startTime>
+          <endTime>1.4</endTime>
+          <params>
+            <param name="SoundType" value="15" />
+            <param name="SoundID" value="0" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>2.8666666</startTime>
+          <endTime>2.9666667</endTime>
+          <params>
+            <param name="SoundType" value="15" />
+            <param name="SoundID" value="0" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>3.9</startTime>
+          <endTime>4</endTime>
+          <params>
+            <param name="SoundType" value="15" />
+            <param name="SoundID" value="0" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>5.3</startTime>
+          <endTime>5.4</endTime>
+          <params>
+            <param name="SoundType" value="15" />
+            <param name="SoundID" value="0" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>6.5666666</startTime>
+          <endTime>6.6666665</endTime>
+          <params>
+            <param name="SoundType" value="15" />
+            <param name="SoundID" value="0" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+        <event>
+          <type>129</type>
+          <unk04>0</unk04>
+          <startTime>8</startTime>
+          <endTime>8.1</endTime>
+          <params>
+            <param name="SoundType" value="15" />
+            <param name="SoundID" value="0" />
+            <param name="DummyPolyID" value="-1" />
+            <param name="SlotID" value="-1" />
+            <param name="StateInfo" value="0" />
+            <param name="KillSoundOnEventEnd" value="0" />
+            <param name="Unk13" value="1" />
+            <param name="Unk14" value="1" />
+            <param name="Unk18" value="0" />
+            <param name="Unk1C" value="255" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>227</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>227</type>
+          <unk04>0</unk04>
+          <startTime>8.8</startTime>
+          <endTime>9.866667</endTime>
+          <params>
+            <param name="EzStateFlagID" value="0" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+    <animGroup>
+      <type>608</type>
+      <dataType>GroupData0</dataType>
+      <area>0</area>
+      <block>0</block>
+      <cutsceneEntityType>Character</cutsceneEntityType>
+      <cutsceneEntityId1>0</cutsceneEntityId1>
+      <cutsceneEntityId2>0</cutsceneEntityId2>
+      <events>
+        <event>
+          <type>608</type>
+          <unk04>0</unk04>
+          <startTime>0</startTime>
+          <endTime>10.066667</endTime>
+          <params>
+            <param name="SpeedAtStart" value="3" />
+            <param name="SpeedAtEnd" value="3" />
+          </params>
+        </event>
+      </events>
+    </animGroup>
+  </animGroups>
+</anim>
