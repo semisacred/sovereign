@@ -1,4 +1,33 @@
 #------------------------------------------
+# 10.0-1.13.2
+#------------------------------------------
+
+# General
+- Rebuilt c0000.anibnd.dcx
+- Fully updated params with DLC values
+- Added Sovereign - Textures as an optional download
+  - Custom High-quality loadscreens
+  - Icons for Dragonlord's Plate and Seeker's War Hat
+
+# Gestures
+- Rename: Seeker's Vow -> Dark Vow
+
+# Weapons
+- Blasphemous Blade
+  - Rename: Baleful Strike -> Bloodrend
+- Wyrmsblood Sigil
+  - Requires: 30 ARC / 10 FTH / 10 INT
+  - Added back INT scaling
+
+# Spells
+- Ancient Dragon's Lightning Spear/Ancient Dragon's Lightning Strike
+  - 1.5x Damage/FP cost
+  - 5 uses per rest
+- Fortissax's Lightning Spear
+  - 2x Damage/FP cost
+  - 3 uses per rest
+
+#------------------------------------------
 # 9.1-1.13.2
 #------------------------------------------
 

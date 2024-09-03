@@ -69,7 +69,7 @@ Grants Blessing of the Erdtree and Sacred Ward to yourself and allies.[b][b][siz
 [img]https://i.imgur.com/NQiNW5m.gif[/img]
 [i]Applying Flames of Blasphemy will remove Blessing's Boon/Blessing of the Erdtree/Sacred Ward/Golden Vow.[/i]
 
-[color=#6fa8dc][size=4][b]By My Sword - Seeker's Vow[/b][/size][/color]
+[color=#6fa8dc][size=4][b]By My Sword - Dark Vow[/b][/size][/color]
 [b][size=3]Apply Seeker's Eye if enabled.
 [b][size=3][b][b][size=3][b][size=3][b][size=3]Seeker's Eye[/size][/b][/size][/b](600s): While HP is below 50%, 50% chance to prevent rune loss upon death. 2x Item Discovery.[/size][/b][/b][/size][/b][/size][/b]
 [img]https://i.imgur.com/lWdTWxN.gif[/img]
@@ -106,8 +106,8 @@ Black Flame(90s): +130 fire damage[b][size=3][b][size=3][b][size=3][b][size=3][b
 [i]The eclipsed sun, drained of color, is the protective star of the soulless.[/i]
 [i]Reach for the black sun and grasp a lost radiance to thwart even Destined Death.[/i]
 
-[size=4][b][color=#980000]WYRMSBLOOD SIGIL[/color][color=#ffe599] [b][size=4][color=#d8d8d8](Dragon Communion Seal) [b][size=3][b][b][b][size=3][b][b][color=#d8d8d8][30 ARC / 10 FTH][/color][/b][/b][/size][/b][/b][/b][/size][/b][/color][/size][/b][/color][i] [/i][/b][/size][url=https://eldenring.wiki.fextralife.com/Dragon+Communion+Seal][i][size=2]WIKI[/size]
-[/i][/url][b][b][size=3]Imbues incantations and sorceries with arcane power. Spells have 1.5x FP cost.
+[size=4][b][color=#980000]WYRMSBLOOD SIGIL[/color][color=#ffe599] [b][size=4][color=#d8d8d8](Dragon Communion Seal) [b][size=3][b][b][b][size=3][b][b][color=#d8d8d8][30 ARC / 10 FTH / 10 INT][/color][/b][/b][/size][/b][/b][/b][/size][/b][/color][/size][/b][/color][i] [/i][/b][/size][url=https://eldenring.wiki.fextralife.com/Dragon+Communion+Seal][i][size=2]WIKI[/size]
+[/i][/url][b][b][size=3]Imbues incantations and sorceries with arcane power. Spells have 1.5x FP cost but have higher scaling.
 New Skill: Sovereign's Fury (0 FP) - Release a blast of ancient lightning and unleash a primal roar, granting Sovereign's Fury. 
 [b][b][size=3]No FP Cost: -2% max HP/FP/SP/Rune Gain for 10 minutes per cast.[/size][/b][/b]
 [b][b][size=3]Sovereign's Fury: [/size][/b][/b][b]130% max HP/FP/SP, [b][b][size=3]Tier 4 Hardness, [/size][/b][/b]+40% non-physical damage negation, -40% status effects,
@@ -140,7 +140,7 @@ Charged Heavy Attack: Ruinous Surge - Burst forward and deliver a devastating st
 [i]Fun to lob fireballs from a distance.[/i]
 
 [b][color=#ff0000][size=4]FLAME, GRANT ME STRENGTH[/size][/color][color=#cccccc][size=3] [/size][/color][/b][url=https://eldenring.wiki.fextralife.com/Flame+Grant+me+Strength][i][size=2]WIKI[/size][/i][/url][b]
-[size=3]180s duration, 20% FIre/Physical Damage, 5 Stamina Recovery, +20 cast speed.[/size][/b]
+[size=3]180s duration, +20% Fire/Physical Damage, +5 Stamina Recovery, +20 cast speed.[/size][/b]
 
 [b][color=#cc0000][size=4]RAVENOUS BLOODFLAME [b][size=4][color=#d8d8d8]([b][size=4]Bloodflame Blade[/size][/b])[/color][/size][/b][/size][/color][color=#d8d8d8][size=3] [/size][/color][/b][b][b][size=3][color=#cccccc][24 FTH / 12 ARC][/color] [/size][i][size=2][url=https://eldenring.wiki.fextralife.com/Bloodflame+Blade][i]WIKI[/i][/url] [/size][/i][/b][/b][b][b][size=3][b][b][size=3]
 [b][size=3]Imbue your weapon with your own blood, take 7% + 80 HP damage and 120 Hemorrhage. [/size][/b]
@@ -188,12 +188,12 @@ Charged Shot: [b][size=3]R[/size][/b]ange significantly extended.[b][size=3]
 [size=5][b]Armor:[/b][/size]
 [size=1][img]https://i.imgur.com/HltvWgB.png[/img]
 [/size][/size][b][size=4][color=#6fa8dc]SEEKER'S WAR HAT[/color][color=#d8d8d8] [b][color=#cc0000][size=4][b][size=4][color=#d8d8d8](Traveler's Hat) [/color][/size][/b][/size][/color][/b][/color][/size][/b][url=https://eldenring.wiki.fextralife.com/Traveler's+Hat][i][size=2]WIKI[/size][/i][/url]﻿
-[b][size=3]Traveler's Hat combined with Raging Wolf Helm. Enables Seeker's Eye via Seeker's Vow.
+[b][size=3]Traveler's Hat combined with Raging Wolf Helm. Enables Seeker's Eye via Dark Vow.
 Seeker's Eye(600s): While HP is below 50%, 50% chance to prevent rune loss upon death. 2x Item Discovery.[/size][/b]
 The Seekers, once noble knights revered for their pursuit of lost truths and ancient mysteries, gradually shifted their devotion to an unknowable entity.
 Drawn irresistibly to the hidden light of a crimson star, they believed this enigmatic presence held the key to the secrets they sought. 
 
-[b][color=#000000][size=4]DRAGONLORD'S PLATE[/size][/color][color=#d8d8d8] [/color][/b][url=https://eldenring.wiki.fextralife.com/Scaled+Set][i][size=2]WIKI[/size][/i][/url]
+[b][color=#000000][size=4]DRAGONLORD'S PLATE [b][size=4][color=#d8d8d8](Scaled Set)[/color][/size][/b][/size][/color][color=#d8d8d8] [/color][/b][url=https://eldenring.wiki.fextralife.com/Scaled+Set][i][size=2]WIKI[/size][/i][/url]
 [size=3][b]Dragonlord's Armor: Apply Sovereign's Fury while HP is below 30% and Vyke's Blessing/Dragonbolt Blessing is active. [/b]
 [b]Gauntlets of the Heretic: +10% damage dealt by Godslayer, Fire Giant, and Blood attacks.[/b]
 [b]Raven's Shadow Greaves: Raptor of the Mists on crouch, and [b]semi-invisibility while crouched.[/b][/b][/size]
@@ -227,7 +227,7 @@ Increased attributes and damage taken removed.[/size][/b][b]
 
 [b][size=5]Items:[/size]
 [/b][size=1][img]https://i.imgur.com/HltvWgB.png[/img][/size][b][color=#b6d7a8][size=4]GREAT RUNES REVISITED[/size][/color][color=#d8d8d8][size=4] [/size][/color][/b][i][url=https://www.nexusmods.com/eldenring/mods/2474][size=2]LINK[/size][/url][/i]
-[b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][color=#ff0000]Rykard's Great Rune[/color] - Crimson Hunger, [b][size=3]restore[/size][/b][b][size=3] 14% + 160 HP on kill, enable [b][size=3]Blasphemy.[/size][/b]
+[b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][color=#ff0000]Rykard's Great Rune[/color] - Crimson Hunger, [b][size=3]restore[/size][/b][b][size=3] 14% + 160 HP on kill, enable Flames of [b][size=3]Blasphemy.[/size][/b]
 [b][size=3]Crimson Hunger: +1% max HP/FP/SP/Rune Gain for 10 minutes per kill.  [/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][b][size=3][b][size=3][color=#f1c232]
 Godrick's Great Rune[/color][b][size=3][b][size=3] - +5 all attributes, +5% damage dealt, -5% damage received, +50 all resistances.
 [color=#9900ff]Radahn's Great Rune[/color] - +10 STR, +15% FP & SP, 10 SP/s regen.[/size][/b][b][size=3]
