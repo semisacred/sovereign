@@ -11,7 +11,7 @@
  - Extract the contents of the zip file into the same directory as the "modengine2_launcher.exe". Typically the "Game" folder.
 
 2b.
- - Install the mod with Vortex Mod Manager.
+ - Alternatively, install the mod with Vortex Mod Manager.
  
 3. 
  - Launch Steam once so Steam Services are running.
