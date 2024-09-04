@@ -1,22 +1,17 @@
 #-------------------------------------------
-# Download
-#-------------------------------------------
-
- - Go to https://www.nexusmods.com/eldenring/mods/201
- - Click the Files tab.
- - Download the latest Main File.
-
-#-------------------------------------------
 # Installation
 #-------------------------------------------
 
 1. 
  - Download Mod Engine 2: go to https://github.com/soulsmods/ModEngine2/releases
- - Click Assets, then download the the top one, NOT the source code. 
- - Extract Mod Engine 2 somewhere onto your PC.
+ - Click Assets, then download the top one, NOT the source code. 
+ - Extract Mod Engine 2 somewhere onto your PC. Typically the "ELDEN RING/Game" folder.
 
-2. 
- - Extract the contents of the zip file into the "mod" folder in the same directory as the "modengine2_launcher.exe".
+2a.
+ - Extract the contents of the zip file into the same directory as the "modengine2_launcher.exe". Typically the "Game" folder.
+
+2b.
+ - Install the mod with Vortex Mod Manager.
  
 3. 
  - Launch Steam once so Steam Services are running.
@@ -26,4 +21,4 @@
 # Removal
 #-------------------------------------------
 
- - Delete the contents of the "mod" folder in the Mod Engine 2 directory.
+ - Delete the contents of the "mod" folder.
