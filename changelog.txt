@@ -1,4 +1,120 @@
 #------------------------------------------
+# 11.0-1.5
+#------------------------------------------
+
+# General
+- SOTE is now scaled properly
+- Fixes to c0000.anibnd.dcx
+- Perfect Block
+  - Max perfect block guard counter damage increase now changes damage level to 6
+
+# Difficulty
+  - Distributed all enemies into 4 tiers of difficulty
+  - Base Modifier
+    - All enemies have 2x poise (also 2x HP/FP/SP etc.)
+  - New: Elite Modifier
+    - 1.5x HP (3x total)
+    - 1.25x Stamina Damage
+    - Can attack through Tier 3 hardness (80 weapon repel)
+  - New: Boss Modifier
+    - 2x HP (4x total)
+    - 1.5x Stamina Damage
+    - Can attack through Tier 4 hardness (90 weapon repel)
+  - New: Nightmare Modifier
+    - 2x -> 3x HP (6x total)
+    - 1.75x Stamina Damage
+    - Can attack through Tier 4 hardness (90 weapon repel)
+
+# Great Runes
+- Rykard's Great Rune
+ - Removed: 1% Rune Gain
+
+# Gestures
+- Erudition
+  - Azure Blaze 
+    - 50% sorcery FP consumption
+- Dark Vow
+  - Rename: Seeker's Eye -> Crimson Eye
+  - 600s -> 3600s duration
+- Rapture
+  - Bloodflame Blasphemy
+    - Rename: Flames of Blasphemy -> Bloodflame Blasphemy
+    - Rapture: 180s -> 600s
+    - Quick Buff: 90s -> 180s
+    - Mohg: 45s -> 180s
+  
+# Weapons
+- Blasphemous Blade
+  - Bloodrend
+    - Larger bloodflame blast and bleed amount the lower your HP is
+    - Costs 9% + 160 HP instead of FP
+- Godslayer's Greatsword
+  - Soulflame Heresy
+    - Now stacks 5% Damage and 5% HP/FP/SP up to 10x with dynamic sfx
+- Eclipse Crest Greatshield
+  - Black Sun's Zenith
+    - 30 -> 40 FP cost 
+    - New White Wrath of Gold effect
+    - FP < 40: cast a charged Wrath of Gold with bonus damage, but also inflicts Death Blight on the player
+- Erdtree Seal
+  - Reverted to vanilla  
+- Wyrmsblood Sigil
+  - Sovereign's Fury
+    - Activates when Ancient Dragonbolt is active 
+      - Grants Dragonbolt Blessing otherwise
+    - Enemy stagger on 2st/3nd/4rd Perfect Block depending on enemy
+    - Removed: Tier 4 Hardness
+    - Cost: 2% -> 3% HP/FP/SP, Rune Gain removed
+    - 45s -> 60s duration
+    - Shares effect category with protection/fortification buffs
+    - New Ability: Divinity 
+      - Active while Max HP
+      - 50% damage taken
+      - Enemy stagger on 1st/2nd/3rd Perfect Block depending on enemy
+      - On 3th Perfect Block: Damage Level 6
+      - Godslayer's Greatsword
+        - Soulflame Heresy
+          - Divinity will refresh Soulflame
+          - Divinity will increase damage by 30% and damage level of Soulflame God Hunt and 2H sprinting heavy attack
+          - Larger sfx with white lightning
+
+
+# Spells
+- Ravenous Bloodflame
+  - Removed: Rune Gain
+  - Stacks 7 times. Starts at 120s duration, 7th stack lasts 30s. Each stack refreshes all previous
+    - 50 Fire Damage per stack
+    - 0.5% HP per hit per stack
+    - Bigger effect per stack
+  - 1% -> 2% HP restored on hit
+- Dragonbolt Blessing
+  - 10 -> 5 SP/s
+- Vyke's Dragonbolt
+  - 20 -> 10 SP/s
+# Great Runes
+- Mohg
+  - Now enables Bloodflame Blasphemy
+  - Bloodthirst: 3x damage to blood abilities for 15s on Hemorrhage near you. 
+
+# Items
+- Bloody Shackle
+  - Larger bloodflame blast and bleed amount the lower your HP is
+- Dragon Flesh (formerly Dragon Communion Flesh)
+  - Now stacks +3% HP/FP/SP & -3% HP Recovery for 10 minutes 
+  - Heals 40% HP over 2 seconds 
+  - Dropped by dragons at Dragonbarrow
+- Dragonscale Flesh
+  - Now stacks 5% HP/FP/SP & -5% HP Recovery for 10 minutes 
+  - Heals 60% HP over 3 seconds  
+  - Dropped by dragons at Jagged Peak  
+- Opaline Bubblesoap
+  - Protects from Scarlet Rot/Poison 
+
+# Flask of Wondrous Physick
+- Leaden Hardtear
+  - Removed: +50% jump attack damage, 2x guard stability
+
+#------------------------------------------
 # 10.0-1.13.2
 #------------------------------------------
 
@@ -20,7 +136,7 @@
   - Added back INT scaling
 
 # Spells
-- Ancient Dragon's Lightning Spear/Ancient Dragon's Lightning Strike
+- Ancient Dragons' Lightning Spear/Ancient Dragons' Lightning Strike
   - 1.5x Damage/FP cost
   - 5 uses per rest
 - Fortissax's Lightning Spear
