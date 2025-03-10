@@ -1,6 +1,10 @@
-[b][size=3][left][b][size=5]Important:[/size][/b][/left][/size][size=3][img]https://i.imgur.com/HltvWgB.png[/img][color=#ff0000]
+[b][color=#ff0000][size=5]﻿[url=https://www.nexusmods.com/eldenring/mods/7505]Outdated: Replaced by Sovereign[/url]﻿[/size][/color][b][size=5]
+
+Important:[/size][/b]
+[size=3][img]https://i.imgur.com/HltvWgB.png[/img][color=#ff0000]
 When modding Elden Ring, you must be offline with EAC disabled or you will likely get banned.[/color] [url=http://nexusmods.com/eldenring/mods/90]Anti-Cheat Toggler[/url]
 It's good practice to make regular backups of your save file. (user\AppData\Roaming\EldenRing)
+If your save becomes corrupt after an update, load the game using the default regulation.bin, and it should work with the mod again.
 [img]https://i.imgur.com/qLZWKh9.png[/img]
  [/size][/b][size=3]
  
@@ -12,22 +16,27 @@ It's good practice to make regular backups of your save file. (user\AppData\Roam
  
 [/size][b][size=5]General Changes:[/size][size=3]
 [/size][/b][size=3][img]https://i.imgur.com/HltvWgB.png[/img][/size][color=#ff0000][size=4][b]Nightmare Difficulty[/b][/size][/color]
-[b][size=3]Enemies have 2x HP, FP, SP, damage, and defenses.
-Also, enemies are twice as perceptive and aggro from farther away.
-The strongest in-universe bosses have an additional 2x HP.
-[img]https://i.imgur.com/y5pVpnf.gif[/img][/size][/b]
+[b][size=3]Enemies have 2x HP, FP, SP, damage, defenses, and poise.
+Additionally, their perception is doubled, allowing them to engage from much greater distances.
+There are four tiers of enemies, each with unique HP modifiers and [b][size=3]varying levels of force behind their attacks.[/size][/b]
+Nightmare Bosses are the most powerful in-universe, possessing exceptional resilience and overwhelming might.
+[/size][/b][b][size=3][img]https://i.imgur.com/y5pVpnf.gif[/img][/size][/b]
 [i]Sovereign gives you many completely overpowered tools to work with. This will make you use every mechanic to its fullest.
-Every fight will be hard fought. Edit SpEffectParam(7399) to tweak this to your liking.
+Base: 2x HP  -  Elite: 3x HP  -  Boss: 4x HP  -  Nightmare: 6x HP.
+Edit SpEffectParam(7360, 7370, 7380, 7390) to adjust this to your liking.
 [/i]
-[b][color=#e69138][size=4]Deflection[/size][/color][/b][size=4][b]
+[b][color=#e69138][size=4]Perfect Block[/size][/color][/b][size=4][b]
 [b][size=3]Tap Block for Sekiro-style Deflection.[/size][/b][/b][/size]
 [img]https://i.imgur.com/ncRJMv5.gif[/img]
 [i][i]The Deflecting Tear is always active and has Sekiro-style FX.[/i][/i]
 
 [color=#1e84cc][size=4][b]Quick Buff[/b][/size][/color]
-[b][size=3]Apply Blessing of the Erdtree, 'Flame, Grant Me Strength', Vyke's Dragonbolt, and Sacred Ward.
-If Rykard's Great Rune is enabled, apply Flames of Blasphemy for 90s instead of [b][size=3]Blessing of the Erdtree and Sacred Ward.
+[b][size=3]Apply Blessing of the Erdtree, Flame Grant Me Strength, Dragonbolt Blessing, and Sacred Ward.[b][size=3]
 [/size][/b][/size][/b][i]Use Numen's Runes and Rune Arcs to quickly buff yourself.[/i]
+
+[color=#9fc5e8][size=4][b]Double Jump[/b][/size][/color]
+[size=3][b]You can now perform a second jump in midair.[/b][/size]
+[i]Reach higher platforms, avoid ground-based attacks, and navigate challenging terrain with ease.[/i]
 
 [color=#93c47d][size=4][b]Fall Damage Rework[/b][/size][/color]
 [b][size=3]Survive falls from extreme heights with Longtail Cat Talisman or a bubble.[/size][/b][i]
@@ -35,25 +44,55 @@ If Rykard's Great Rune is enabled, apply Flames of Blasphemy for 90s instead of�
 [/i][i]Extremely satisfying. [/i][i]Longtail Cat Talisman is no longer completely useless.[/i]
 [i]Falling for more than 12 seconds or into one of the many placed kill boxes will still kill you.[/i]
 
-[color=#9fc5e8][size=4][b]Double Jump[/b][/size][/color]
-[size=3][b]You can now perform a second jump in midair.[/b][/size]
-[i]Reach higher platforms, avoid ground-based attacks, and navigate challenging terrain with ease.[/i]
+[color=#ff7700][size=4][b]Lava Damage Rework[/b][/size][/color]
+[size=3][b]3x damage.[/b][/size]
+[i]No longer pathetic. You shouldn't be able to bathe in this stuff.
+You are still able to cross large sections if you chug your flask.[/i]
 
 [color=#ffd966][size=4][b]Flask of Wondrous Physick[/b][/size][/color]
 [size=3][b]3 charges.[/b][/size]
 [i]Usually I wait for a good time to use this and never end up using it.[/i]
-
-[color=#ff7700][size=4][b]Lava Damage Rework[/b][/size][/color]
-[size=3][b]3x damage.[/b][/size]
-[i]No longer pathetic. You shouldn't be able to bathe in this stuff.
-[/i][i]You are still able to cross large sections if you chug your flask.[/i]
 [img]https://i.imgur.com/qLZWKh9.png[/img]
 [b][size=3]
+
+[size=5]Great Runes:[/size]
+[size=1][img]https://i.imgur.com/HltvWgB.png[/img][/size][size=3][size=3][size=3][size=3]
+[color=#f1c232]Godrick's Great Rune:[/color] 
+[size=3]Passive: +1 all attributes. [/size]
+Active: +5 all attributes. 
+[size=3][color=#1e84cc]Rennala's Great Rune:[/color] 
+[size=3]Passive: Restore +0.5 FP/s.  [/size]
+Active: Rebirth. [/size]
+[color=#9900ff]Radahn's Great Rune:[/color] 
+[size=3]Passive: +20% Equip Load. [/size]
+Active: +10 STR, +20% FP, [size=3]+20% [/size]SP.[/size][size=3][size=3]
+[size=3][size=3][size=3][size=3][size=3][color=#ff0000]Rykard's Great Rune:[/color] 
+[size=3]Passive: Stack +1% max HP/FP/SP for 10 minutes per kill.   [/size]
+Active: R[size=3]estore[/size][size=3] 14% + 160 HP on kill. [size=3]
+[size=3][color=#ffe599]Morgott's Great Rune:[/color] 
+[size=3]Passive: +5 FTH. [/size]
+Active: +20% Holy damage, Rune Loss prevented upon death, +50% resistance to Madness and Death Blight. [/size][/size][/size][/size][/size][/size][/size][/size][size=3]
+[size=3][color=#cc4125]Malenia's Great Rune:[/color] 
+[size=3]Passive: Attacks dealt after taking damage recover HP. [/size]
+Active: +10 DEX, boost attack power on consecutive hits (10%/15%/20%), -50% attack stamina consumption, 
+[size=3]+50% resistance to Scarlet Rot. [/size]
+[size=3][size=3][size=3][size=3][size=3][size=3][size=3][size=3][color=#980000]Mohg's Great Rune:[/color][size=3] 
+[size=3]Passive: +50% Blood Ability damage for 15s on Hemorrhage near you. [/size]
+[/size]Active: +10 ARC, +20 bleed on weapons, Empowered Ravenous Bloodflame, +50% resistance to [size=3]Hemorrhage[/size].[/size][/size][/size][/size][/size][/size][/size][/size][/size][/size][/size][/size][/size][/size][/size]
+[img]https://i.imgur.com/qLZWKh9.png[/img]
+[size=3]  [/size]
  [/size]
 [size=5]Gestures:[/size]
-[/b][size=1][img]https://i.imgur.com/HltvWgB.png[/img][/size][color=#1e84cc][size=4][b]Erudition - Azure Blaze[/b][/size][/color]
+[/b][size=1][img]https://i.imgur.com/HltvWgB.png[/img][/size]
+[color=#6fa8dc][size=4][b]By My Sword - Dark Vow[/b][/size][/color]
+[b][size=3]Apply Crimson Eye if Entwining Umbilical Cord is equipped. 
+[b][size=3][b][b][size=3][b][size=3][b]Crimson Eye (600s)[/b]: While below 50% HP, 50% chance to retain runes on death. Gain +1% rune gain per enemy defeated. [/size][/b][/size][/b][/b][/size][/b][/size][/b]
+[size=1][img]https://i.imgur.com/lWdTWxN.gif[/img][/size][size=2]
+[/size][i]The Crimson Eye unveils invisible entities as long as its gaze rests upon you.[/i]
+
+[color=#1e84cc][size=4][b]Erudition - Azure Blaze[/b][/size][/color]
 [b][size=3]Grants Azure Blaze and Terra Magica.
-Azure Blaze: +50% magic damage for 60 seconds but is canceled if damage is taken.[/size][/b]
+Azure Blaze: +50% magic damage and -50% sorcery FP consumption for 60 seconds but is canceled if damage is taken.[/size][/b]
 [img]https://i.imgur.com/HLmIcNt.gif[/img]
 [i]
 [/i][color=#f1c232][size=4][b]Golden Order Totality - Unyielding Faith[/b][/size][/color]
@@ -63,38 +102,37 @@ Grants Blessing of the Erdtree and Sacred Ward to yourself and allies.[b][b][siz
 [img]https://i.imgur.com/it27pb9.gif[/img]
 [i]A way to negate even the mightiest attack.[/i][i][url=https://old.reddit.com/r/Eldenring/comments/ti57ud/elden_paradise/][i] [/i][i]Elden Paradise.[/i][/url][/i]
 
-[color=#ff0000][size=4][b]Rapture - Flames of Blasphemy[/b][/size][/color]
-[b][size=3]After burning through nearly all your HP, grant Flames of Blasphemy.
-[b][size=3][b][size=3][b][size=3]Flames of Blasphemy[/size][/b][/size][/b](180s): +30% damage, -20% damage received[b][size=3], and restore 2% HP/FP/SP per second.[/size][/b][/size][/b][/size][/b]
+[color=#ff0000][size=4][b]Rapture - Bloodflame Blasphemy[/b][/size][/color]
+[b][size=3]With a sufficiently high health pool, sacrifice nearly all of your HP to invoke an empowered [b]Bloodflame Blasphemy[/b].
+[b][size=3][b][size=3][b][size=3]Bloodflame Blasphemy[/size][/b][/size][/b](360s): +30% damage, -20% damage received[b][size=3], and restore 2% HP/FP/SP per second.[/size][/b][/size][/b][/size][/b]
 [img]https://i.imgur.com/NQiNW5m.gif[/img]
-[i]Applying Flames of Blasphemy will remove Blessing's Boon/Blessing of the Erdtree/Sacred Ward/Golden Vow.[/i]
-
-[color=#6fa8dc][size=4][b]By My Sword - Dark Vow[/b][/size][/color]
-[b][size=3]Apply Seeker's Eye if enabled.
-[b][size=3][b][b][size=3][b][size=3][b][size=3]Seeker's Eye[/size][/b][/size][/b](600s): While HP is below 50%, 50% chance to prevent rune loss upon death. 2x Item Discovery.[/size][/b][/b][/size][/b][/size][/b]
-[img]https://i.imgur.com/lWdTWxN.gif[/img]
-[i]Must have Seeker's War Hat or Entwining Umbilical Cord equipped.[/i]
+[i]Bloodflame Blasphemy will remove Blessing's Boon/Blessing of the Erdtree/Sacred Ward/Golden Vow.
+[/i][i]If you survive, Rapture grants Bloodflame Blasphemy with double the duration. [/i]
 [img]https://i.imgur.com/qLZWKh9.png[/img]
 [b][size=3]  
  [/size]
 [size=5]Weapons:[/size]
-[/b][size=1][img]https://i.imgur.com/HltvWgB.png[/img][/size][b][color=#cc0000][size=4]BLASPHEMOUS BLADE[/size][/color][size=3][b][b] [b][size=3][b][b][color=#d8d8d8][24 STR / 24 FTH / 15 DEX][/color] [/b][/b][/size][/b][/b][/b][/size][/b][size=2][url=https://eldenring.wiki.fextralife.com/Blasphemous+Blade][i]WIKI[/i][/url] [/size][b][b]
-[size=3][b][b][size=3]Scaling: FTH > [b][size=3]STR > DEX. [/size][/b][/size][/b][/b]Straight sword moveset, 70% damage, passive bleed effect, o[b]n-kill effect removed.
+[/b][size=1]
+[img]https://i.imgur.com/HltvWgB.png[/img][/size][b][color=#cc0000][size=4]BLASPHEMOUS BLADE[/size][/color][size=3][b][b] [b][size=3][b][b][color=#d8d8d8][24 STR / 20 FTH / 20[b][size=3][b][b][b][size=3][b][b][color=#d8d8d8] ARC[/color][/b][/b][/size][/b][/b][/b][/size][/b] / 15 DEX][/color] [/b][/b][/size][/b][/b][/b][/size][/b][size=2][url=https://eldenring.wiki.fextralife.com/Blasphemous+Blade][i]WIKI[/i][/url] [/size][b][b]
+[size=3][b][b][size=3]Scaling: FTH = ARC > [b][size=3]STR > DEX. [/size][/b][/size][/b][/b]Straight sword moveset, 70% damage, passive bleed effect, o[b]n-kill effect removed.
 [b][size=3][b][size=3]New Passive: Blood Eater - Restore 7% + 60 HP on blood loss in area[b][size=3].[/size][/b][/size][/b][/size][/b][/b]
-[b][size=3]New Skill: Baleful Strike (50 FP) - Strike forwards and unleash a blast of bloodflame. Applies [b][size=3][b][size=3][b][size=3]Ravenous Bloodflame.[/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][size=3]
+[b][size=3]New Skill: Bloodrend (9% + 160 HP) - Strike forwards and unleash a blast of bloodflame with your own blood. 
+Bloodrend applies [b][size=3][b][size=3][b][size=3]Ravenous Bloodflame and Bloodflame Blasphemy.[/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][size=3]
 [b][size=3]New On-Crit Effect: Restore 10% + 85 HP.[b][b][size=3][b][size=3] Applies [b][size=3][b][size=3][b][size=3]Ravenous Bloodflame.[/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/b]
-[b][size=3][b][size=3][b][size=3]Ravenous Bloodflame[b][size=3](300s, stacks)[/size][/b]: [/size][/b][b][size=3][b][size=3]1% HP restored on hit, [b][size=3]+50 fire damage[/size][/b][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3],[b][size=3] [/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b]+10% rune gain[b][size=3].[/size][/b] [/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][size=3][b]
+[b][size=3][b][size=3][b][size=3]Ravenous Bloodflame[b][size=3](120s->30s)[/size][/b]: 0.5[/size][/b][b][size=3][b][size=3]% HP restored on hit, [b][size=3]+50 fire damage. Stacks 7 times [b][size=3]with dynamic duration and SFX.
+[b][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3]Bloodflame Blasphemy[/size][/b][/size][/b](180s): +30% damage, -20% damage received[b][size=3], and restore 2% HP/FP/SP per second. 
+[/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][size=3][b]New 2H Crouch Attack: Impaling Thrust: Execute a powerful forward lunge with a piercing thrust, consuming an extra 40 stamina. 
 [/b][/size][i][img]https://i.imgur.com/mKOT8z8.gif[/img]
-Stack Ravenous Blooodflame by critically hitting enemies.
-Bloodflame suits this weapon much more than a magma attack imo.[/i]
+Stack Ravenous Blooodflame by critically hitting enemies, attacking with Bloodrend, or casting the incantation.
+Bloodrend's bloodflame blast dynamically increases in size and bleed amount the lower HP you have.[/i]
 [b][size=4]
 [/size][size=4]GO[/size][size=4]D[/size][size=4]SLAY[/size][size=4]ER[/size][size=4]'S G[/size][size=4]R[/size][size=4]EATS[/size][size=4]W[/size][size=4]O[/size][size=4]R[/size][size=4]D[/size][size=3] [/size][b][b][color=#d8d8d8][size=3][30 STR / 30 FTH/ 16 DEX][/size][/color] [/b][/b][i][url=https://eldenring.wiki.fextralife.com/Godslayer's+Greatsword][size=2]WIKI[/size][/url][/i]
 [b][size=3]Scaling: [/size][/b][size=3]FTH > STR > DEX. Greatsword moveset, low damage until lit aflame.
 [b][size=3]New Skill: Soulflame Heresy [b][size=3](45 FP) [/size][/b]- [b][size=3]Black Flame for 90s and [/size][/b]Soulflame for 7s. 
 Black Flame(90s): +130 fire damage[b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3], [/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b]2% HP dealt on hit over 2s. Rea[b][size=3]pplies Soulflame on crit.[/size][/b]
-[b][size=3][b][size=3]Soulflame(7s): +300 fire damage[b][size=3][b][size=3], 2x crit damage, 2x rune gain. Refreshed on hit. [b][size=3]Applies Heresy on kill and on crit.[/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size]
-[size=3]Heresy(30s, stacks): [b][size=3]+10% damage, -10% damage received, and [b][size=3]restore 1% HP/FP/SP per second.[/size][/b]
-[/size][/b][/size][/b][size=3][b]New Crouch/Roll Attack: God Hunt -  Unleash a powerful blow, consuming 30/40 additional stamina.
+[b][size=3][b][size=3]Soulflame(7s): +300 fire damage[b][size=3][b][size=3], 2x crit damage. Refreshed on hit. [b][size=3]Applies Heresy on kill and on crit.[/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size]
+[size=3]Heresy(60s->30s): [b][size=3]+5% damage, +5% damage negation. Stacks 10 times with dynamic duration and SFX.
+[/size][/b][/size][/b][size=3][b]New Crouch/Roll Attack: God Hunt -  Unleash a powerful blow while Soulflame is active, consuming an extra 30/50 stamina.
 [/b][/size][img]https://i.imgur.com/Nxknfl1.gif[/img]
 [i]The Godslayer's Greatsword at its full potential. The spiral design was just begging for a black flame effect.[/i]
 [i]Keep attacking to refresh the 7s white flame. Reduce your enemies to ash and ruin to fuel a heretical fire.[/i]
@@ -109,18 +147,15 @@ Black Flame(90s): +130 fire damage[b][size=3][b][size=3][b][size=3][b][size=3][b
 [size=4][b][color=#980000]WYRMSBLOOD SIGIL[/color][color=#ffe599] [b][size=4][color=#d8d8d8](Dragon Communion Seal) [b][size=3][b][b][b][size=3][b][b][color=#d8d8d8][30 ARC / 10 FTH / 10 INT][/color][/b][/b][/size][/b][/b][/b][/size][/b][/color][/size][/b][/color][i] [/i][/b][/size][url=https://eldenring.wiki.fextralife.com/Dragon+Communion+Seal][i][size=2]WIKI[/size]
 [/i][/url][b][b][size=3]Imbues incantations and sorceries with arcane power. Spells have 1.5x FP cost but have higher scaling.
 New Skill: Sovereign's Fury (0 FP) - Release a blast of ancient lightning and unleash a primal roar, granting Sovereign's Fury. 
-[b][b][size=3]No FP Cost: -2% max HP/FP/SP/Rune Gain for 10 minutes per cast.[/size][/b][/b]
-[b][b][size=3]Sovereign's Fury: [/size][/b][/b][b]130% max HP/FP/SP, [b][b][size=3]Tier 4 Hardness, [/size][/b][/b]+40% non-physical damage negation, -40% status effects,
- 2x Ancient Lightning damage, special heavy attacks, and effects of Vyke's Dragonbolt.  
-Charged Heavy Attack: Ruinous Surge - Burst forward and deliver a devastating strike, consuming 30 additional stamina. 
+[b][b][size=3]No FP Cost: -3% max HP/FP/SP for 10 minutes per cast.[/size][/b][/b]
+[b][b][size=3]Sovereign's Fury(60s): +[/size][/b][/b][b]30% max HP/FP/SP[b][b][size=3], [/size][/b][/b]+40% non-physical damage negation, -40% status effects,
+ 2x Ancient Lightning damage, special heavy attacks, special perfect block, and effects of Vyke's Dragonbolt.  
+Charged Heavy Attack: Surge - Burst forward and deliver a devastating strike, consuming 30 additional stamina. 
+Perfect Block: Rebuke - Stagger enemy on successful Deflect.
 [/b][/size][/b][/b][img]https://i.imgur.com/PDBhsYA.gif[/img]
 [i]Summon the primeval might of ancient dragons but beware, frequent use can take a significant toll.[/i]
 
-[size=4][b][color=#ffe599]ERDTREE SEAL[/color][i] [/i][/b][/size][url=https://eldenring.wiki.fextralife.com/Erdtree+Seal][i][size=2]WIKI[/size]
-[/i][/url][b][b][size=3]New Skill: Golden Retaliation (10 FP) - Intercepts a magical projectile and fires a holy blast in return. Heals 5% + 45 HP.[/size][/b][/b]
-[i]Previously this seal only became useful with a maxed-out faith build. [/i]
-
-[size=4][b][color=#ffe599]SACRED ZWEIHANDER [b][color=#a61c00][b][color=#000000][size=4][b][size=3][b][b][color=#d8d8d8][28 STR][/color][/b][/b][/size][/b][/size][/color][/b][/color][/b][/color][i] [/i][/b][/size][url=https://eldenring.wiki.fextralife.com/Zweihander][i][size=2]WIKI[/size]
+[size=4][b][color=#ffe599]SACRED ZWEIHANDER [b][color=#a61c00][b][color=#000000][size=4][b][size=3][b][b][color=#d8d8d8][24 STR][/color][/b][/b][/size][/b][/size][/color][/b][/color][/b][/color][i] [/i][/b][/size][url=https://eldenring.wiki.fextralife.com/Zweihander][i][size=2]WIKI[/size]
 [/i][/url][b][b][size=3]Greatsword moveset, 75% base damage, increased STR/FTH scaling, potent vs undead.
 [b][b][size=3]New Skill: Wrathful Strike (35 FP) - Grants Sunlight Blade and unleashes a holy blast.
 [/size][/b][/b]Sunlight Blade(60s): +85 holy damage and 24 HP/s regen for 3s on hit.
@@ -142,10 +177,12 @@ Charged Heavy Attack: Ruinous Surge - Burst forward and deliver a devastating st
 [b][color=#ff0000][size=4]FLAME, GRANT ME STRENGTH[/size][/color][color=#cccccc][size=3] [/size][/color][/b][url=https://eldenring.wiki.fextralife.com/Flame+Grant+me+Strength][i][size=2]WIKI[/size][/i][/url][b]
 [size=3]180s duration, +20% Fire/Physical Damage, +5 Stamina Recovery, +20 cast speed.[/size][/b]
 
-[b][color=#cc0000][size=4]RAVENOUS BLOODFLAME [b][size=4][color=#d8d8d8]([b][size=4]Bloodflame Blade[/size][/b])[/color][/size][/b][/size][/color][color=#d8d8d8][size=3] [/size][/color][/b][b][b][size=3][color=#cccccc][24 FTH / 12 ARC][/color] [/size][i][size=2][url=https://eldenring.wiki.fextralife.com/Bloodflame+Blade][i]WIKI[/i][/url] [/size][/i][/b][/b][b][b][size=3][b][b][size=3]
+[b][color=#cc0000][size=4]RAVENOUS BLOODFLAME [b][size=4][color=#d8d8d8]([b][size=4]Bloodflame Blade[/size][/b])[/color][/size][/b][/size][/color][color=#d8d8d8][size=3] [/size][/color][/b][b][b][size=3][color=#cccccc][20 FTH / 20 ARC][/color] [/size][i][size=2][url=https://eldenring.wiki.fextralife.com/Bloodflame+Blade][i]WIKI[/i][/url] [/size][/i][/b][/b][b][b][size=3][b][b][size=3]
 [b][size=3]Imbue your weapon with your own blood, take 7% + 80 HP damage and 120 Hemorrhage. [/size][/b]
-[b][size=3]300s duration, stacks, [/size][/b]1[/size][/b][/b][/size][/b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3]% HP restored on hit, [b][size=3]+50 fire damage[/size][/b][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3], [/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b]+10% rune gain[b][size=3], +20% hemorrhage gain.[/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][i]
-[/i] 
+[/size][/b][/b][/size][/b][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3]120s->30s duration,[/size][/b] 0.5[/size][/b][b][size=3][b][size=3]% HP restored on hit, [b][size=3]+50 fire damage. Stacks 7 times [b][size=3]with dynamic duration and SFX.[/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/b][i]
+[/i] [i]With 7 stacks it increases fire damage by 350 and restores 3.5% HP on hit. The 7th stack increases the damage level of your weapon, 
+causing attacks to stagger enemies.[/i]
+
 [b][color=#ff7700][size=4]GIANTSFLAME TAKE THEE [/size][/color][/b][url=https://eldenring.wiki.fextralife.com/Giantsflame+Take+Thee][i][size=2]WIKI[/size][/i][/url][b]
 [size=3]2x damage, bigger AOE, 3x range[b][size=3], 5 uses per rest.[/size][/b][/size][/b]
 
@@ -155,14 +192,17 @@ Charged Heavy Attack: Ruinous Surge - Burst forward and deliver a devastating st
 [i]An actual AOE nuke that hits multiple targets.[/i]
 
 [b][size=4][color=#ffd966]DRAGONBOLT BLESSING[/color][color=#cccccc] [/color][/size][/b][url=https://eldenring.wiki.fextralife.com/Dragonbolt+Blessing][i][size=2]WIKI[/size][/i][/url][b]
-[size=3]300s duration, +10 SP/s, Tier 2 Hardness, -35% lightning damage negation, -10% status effects, +10% movement speed.[/size][/b]
+[size=3]300s duration, +5 SP/s, Tier 2 Hardness, -35% lightning damage negation, -10% status effects, +10% movement speed.[/size][/b]
 
-[color=#cc0000][size=4][b]VYKE'S DRAGONBOLT[/b][/size][/color][url=https://eldenring.wiki.fextralife.com/Vyke's+Dragonbolt][i] [size=2]WIKI[/size][/i][/url][b]
-[size=3]90s duration, +20 SP/s, +20% movement speed, [b][size=3]effects of Dragonbolt Blessing[/size][/b].
+[color=#cc0000][size=4][b]ANCIENT DRAGONBOLT [b][color=#cc0000][size=4][b][size=4][color=#d8d8d8]([b][size=4]Vyke's Dragonbolt[/size][/b])[/color][/size][/b][/size][/color][/b][/b][/size][/color][url=https://eldenring.wiki.fextralife.com/Vyke's+Dragonbolt][i] [size=2]WIKI[/size][/i][/url][b]
+[size=3]90s duration, +10 SP/s, [b][size=3]Tier 2 Hardness, -35% lightning damage negation, -10% status effects, [/size][/b]+20% movement speed.
 Lightning weapon buff and increased Equip Load removed.[/size][/b]
 
-[color=#cc0000][size=4][b]LANSSEAX'S GLAIVE[/b][/size][/color][url=https://eldenring.wiki.fextralife.com/Lansseax's+Glaive][i] [size=2]WIKI[/size][/i][/url][b]
-[size=3]2x damage, 3 uses per rest.[/size][/b]
+[color=#cc0000][size=4][b]ANCIENT DRAGONS' LIGHTNING SPEAR[/b][/size][/color][url=https://eldenring.wiki.fextralife.com/Ancient+Dragons'+Lightning+Spear][i] [size=2]WIKI[/size][/i][/url] [b][size=4]// [color=#cc0000][size=4][b]ANCIENT DRAGONS' LIGHTNING STRIKE[/b][/size][/color][url=https://eldenring.wiki.fextralife.com/Ancient+Dragons'+Lightning+Strike][i] [size=2]WIKI[/size][/i][/url][/size]
+[size=3]1.5x damage, 5 uses per rest. [/size][/b][b][size=3]
+
+[color=#cc0000][size=4][b]FORTISSAX'S LIGHTNING SPEAR[/b][/size][/color][url=https://eldenring.wiki.fextralife.com/Fortissax's+Lightning+Spear][i] [size=2]WIKI[/size][/i][/url] [/size][size=4]// [b][b][size=3][color=#cc0000][size=4][b]LANSSEAX'S GLAIVE[/b][/size][/color][url=https://eldenring.wiki.fextralife.com/Lansseax's+Glaive][i] [size=2]WIKI[/size][/i][/url][/size][/b][/b][/size][b]
+[size=3]2x damage, 3 uses per rest. [/size][/b][/b]
 
 [size=4][b][color=#ffe599]BLESSING'S BOON[/color][i] [/i][/b][/size][url=https://eldenring.wiki.fextralife.com/Blessing's+Boon][i][size=2]WIKI[/size][/i][/url][size=4][b][size=4][b][color=#ff0000]  [/color]//[i] [/i][color=#ffe599]BLESSING OF THE ERDTREE[/color][color=#000000][size=4] [/size][/color][/b][/size][/b][/size][url=https://eldenring.wiki.fextralife.com/Blessing+of+the+Erdtree][i][size=2]WIKI[/size][/i][/url]
 [b][size=3]2x duration.[/size][/b]
@@ -188,13 +228,10 @@ Charged Shot: [b][size=3]R[/size][/b]ange significantly extended.[b][size=3]
 [size=5][b]Armor:[/b][/size]
 [size=1][img]https://i.imgur.com/HltvWgB.png[/img]
 [/size][/size][b][size=4][color=#6fa8dc]SEEKER'S WAR HAT[/color][color=#d8d8d8] [b][color=#cc0000][size=4][b][size=4][color=#d8d8d8](Traveler's Hat) [/color][/size][/b][/size][/color][/b][/color][/size][/b][url=https://eldenring.wiki.fextralife.com/Traveler's+Hat][i][size=2]WIKI[/size][/i][/url]﻿
-[b][size=3]Traveler's Hat combined with Raging Wolf Helm. Enables Seeker's Eye via Dark Vow.
-Seeker's Eye(600s): While HP is below 50%, 50% chance to prevent rune loss upon death. 2x Item Discovery.[/size][/b]
-The Seekers, once noble knights revered for their pursuit of lost truths and ancient mysteries, gradually shifted their devotion to an unknowable entity.
-Drawn irresistibly to the hidden light of a crimson star, they believed this enigmatic presence held the key to the secrets they sought. 
+[b][size=3]Traveler's Hat combined with Raging Wolf Helm. [b][size=3]2x Item Discovery.[/size][/b][/size][/b]
 
 [b][color=#000000][size=4]DRAGONLORD'S PLATE [b][size=4][color=#d8d8d8](Scaled Set)[/color][/size][/b][/size][/color][color=#d8d8d8] [/color][/b][url=https://eldenring.wiki.fextralife.com/Scaled+Set][i][size=2]WIKI[/size][/i][/url]
-[size=3][b]Dragonlord's Armor: Apply Sovereign's Fury while HP is below 30% and Vyke's Blessing/Dragonbolt Blessing is active. [/b]
+[size=3][b]Dragonlord's Armor: Apply Sovereign's Fury while HP is below 30% and Ancient Dragonbolt is active. [/b]
 [b]Gauntlets of the Heretic: +10% damage dealt by Godslayer, Fire Giant, and Blood attacks.[/b]
 [b]Raven's Shadow Greaves: Raptor of the Mists on crouch, and [b]semi-invisibility while crouched.[/b][/b][/size]
 [i]Use Entwining Umbilical Cord if you want to wear your own armor but still have all the effects of the Dragonlord's Plate armor set.
@@ -219,26 +256,15 @@ Increased attributes and damage taken removed.[/size][/b][b]
 [i]Now you can reach the max cap of 14 slots.[/i]
 
 [b][color=#efefef][size=4]ENTWINING UMBILICAL CORD[/size][/color][color=#d8d8d8][size=4] [/size][/color][/b][url=https://eldenring.wiki.fextralife.com/Entwining+Umbilical+Cord][i][size=2]WIKI[/size][/i][/url][b]
-[size=3][b][size=3]Enables all effects from the Seeker's War Hat and Dragonlord's Plate armor set.[/size][/b][b][size=3]
+[size=3][b][size=3][b][size=3]Enables Crimson Eye via Dark Vow gesture. Also e[/size][/b]nables all effects from the Dragonlord's Plate armor set.
+[b][size=3][b]Crimson Eye (600s)[/b]: While below 50% HP, 50% chance to retain runes on death. Gain +1% rune gain per enemy defeated. [/size][/b][/size][/b][b][size=3]
 [b][size=3]Merchant: Purchase from Mountaintops of the Giants Merchant for 30000 runes.[/size][/b]
-[/size][/b][/size][/b][i]Use this if you want to wear your own armor.[/i]
+[/size][/b][/size][/b][i]A sacred relic, intricately carved with celestial symbols, pulsating with an otherworldly energy. [/i]
 [size=3][img]https://i.imgur.com/qLZWKh9.png[/img][/size]
 
 
 [b][size=5]Items:[/size]
-[/b][size=1][img]https://i.imgur.com/HltvWgB.png[/img][/size][b][color=#b6d7a8][size=4]GREAT RUNES REVISITED[/size][/color][color=#d8d8d8][size=4] [/size][/color][/b][i][url=https://www.nexusmods.com/eldenring/mods/2474][size=2]LINK[/size][/url][/i]
-[b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][color=#ff0000]Rykard's Great Rune[/color] - Crimson Hunger, [b][size=3]restore[/size][/b][b][size=3] 14% + 160 HP on kill, enable Flames of [b][size=3]Blasphemy.[/size][/b]
-[b][size=3]Crimson Hunger: +1% max HP/FP/SP/Rune Gain for 10 minutes per kill.  [/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][b][size=3][b][size=3][color=#f1c232]
-Godrick's Great Rune[/color][b][size=3][b][size=3] - +5 all attributes, +5% damage dealt, -5% damage received, +50 all resistances.
-[color=#9900ff]Radahn's Great Rune[/color] - +10 STR, +15% FP & SP, 10 SP/s regen.[/size][/b][b][size=3]
-[b][size=3][color=#ffe599]Morgott's Great Rune[/color] - +10 FTH, +15% Lightning & Holy damage, immunity to Madness.
-[b][size=3][color=#980000]Mohg's Great Rune[/color] -[b][size=3] [/size][/b]+10 ARC, +60 bleed on weapons & +20% damage to blood abilities for 15s on Hemorrhage near you,
-immunity to bleed, Blessing of Blood for phantoms.
-[b][size=3][color=#cc4125]Malenia's Great Rune[/color] - +10 DEX, restore 5% HP per hit, boost attack power on consecutive hits (10%/15%/20%), -10% attack stamina consumption, -25% Skill stamina consumption, immunity to Scarlet Rot, Bloodborne Rally HP mechanic, Flasks reduced to 45%.[/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b]
-[i]Great Runes are now a huge power increase and can completely change your playstyle!
-Please download and endorse this great mod![/i]
-
-[b][color=#f1c232][size=4]RUNE ARC[/size][/color][color=#d8d8d8][size=4] [/size][/color][/b][url=https://eldenring.wiki.fextralife.com/Rune+Arc][i][size=2]WIKI[/size][/i][/url][b]
+[/b][size=1][img]https://i.imgur.com/HltvWgB.png[/img][/size][b][color=#f1c232][size=4]RUNE ARC[/size][/color][color=#d8d8d8][size=4] [/size][/color][/b][url=https://eldenring.wiki.fextralife.com/Rune+Arc][i][size=2]WIKI[/size][/i][/url][b]
 [size=3][b][size=3]Restore 100% HP & FP and apply Quick Buffs.[/size][/b]
 Craftable: 8000 runes and 1 Sanctuary Stone.[/size][/b]
 [i]If it's not craftable, I'll never use it.[/i]
@@ -254,14 +280,16 @@ Craftable: 4000 runes and 1 Ruin Fragment[b][size=3].[/size][/b][/size][/b]
 [i]My favorite secret wall finder now with some combat utility.
 Converts Death Blight into a veil of darkness that conceals the caster and blinds enemies.[/i]
 
-[b][size=4][color=#980000]BLOODY SHACKLE[/color][color=#8e7cc3] [/color][color=#d8d8d8]([b][size=4]Mohg's Shackle[/size][/b])[/color][/size][color=#d8d8d8][size=4] [/size][/color][/b][url=https://eldenring.wiki.fextralife.com/Margit's+Shackle][i][size=2]WIKI[/size][/i][/url][b]
-[size=3]Light your blood aflame to damage and bleed yourself and surrounding enemies, [b][size=3]take 9% + 160 HP. Removes Bleed buildup.[/size][/b]
-Applies 'Flame, Grant Me Strength'. Also applies [b][size=3]Flames of Blasphemy for 45s if Rykard's Great Rune is active.[/size][/b][/size][/b]
-[img]https://i.imgur.com/eoclGlJ.gif[/img]
-[i]This shackle has been repurposed to set your blood alight with a blast of bloodflame.[/i]
+[b][size=4][color=#980000]PROFANE SHACKLE[/color][color=#8e7cc3] [/color][color=#d8d8d8]([b][size=4]Mohg's Shackle[/size][/b])[/color][/size][color=#d8d8d8][size=4] [/size][/color][/b][url=https://eldenring.wiki.fextralife.com/Margit's+Shackle][i][size=2]WIKI[/size][/i][/url][b]
+[size=3]Light your blood aflame to damage and bleed surrounding enemies. Take 9% + 160 HP damage. [b][size=3]Removes Bleed buildup.[/size][/b]
+Applies Bloodflame [b][size=3]Blasphemy for 180s.
+[b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3][b][size=3]Bloodflame Blasphemy[/size][/b][/size][/b](180s): +30% damage, -20% damage received[b][size=3], and restore 2% HP/FP/SP per second. [/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b][/size][/b]
+[img]https://i.imgur.com/eoclGlJ.gif[/img][i]
+[i]Profane Shackle's bloodflame blast dynamically increases in size and bleed amount the lower HP you are.[/i][/i]
 
 [b][color=#9fc5e8][size=4]OPALINE BUBBLESOUP [/size][/color][color=#d8d8d8][size=4](Soap) [/size][/color][/b][url=http://https//eldenring.wiki.fextralife.com/Soap][i][size=2]WIKI[/size][/i][/url][b]
-[size=3]Grants Opaline Bubble for 180s.
+[size=3]Grants Opaline Bubble and removes accumulations.
+[b][b]Opaline Bubble: 90% damage reduction [/b]bubble with[b] poison/scarlet rot immunity [/b]for 180s. [/b]
 Craftable: 3 Melted Mushrooms, 1 Silver Tear Husk, 1 Trina's Lily.
 Merchant: Purchase from Siofra River Merchant for 2200 runes.[/size][/b]
 [i]90% damage reduction for 1 hit. Also lets you survive falls from great heights. 
@@ -270,7 +298,13 @@ Merchant: Purchase from Siofra River Merchant for 2200 runes.[/size][/b]
 [b][color=#1e84cc][size=4]STARLIGHT SHARDS[/size][/color][color=#d8d8d8][size=4] [/size][/color][/b][url=https://eldenring.wiki.fextralife.com/Starlight+Shards][i][size=2]WIKI[/size]
 [/i][/url]﻿[b][size=3]1% FP/s & -10% FP Consumption for 300s. Stacks.[/size][/b][b]
 [size=3]Craftable: 3 Cracked Crystal, 2 Crystal Bud, 2 Glintstone Firefly, 1 Nascent Butterfly.
-[b][size=3]Merchant: Purchase from Sorceress Sellen for 3500 runes.[/size][/b][/size][/b]
+[b][size=3]Merchant: Purchase from Sorceress Sellen for 3500 runes.
+
+[b][b][size=4][color=#a61c00]DRAGON FLESH [b][color=#d8d8d8][size=4](Dragon Communion Flesh)[/size][/color][/b][/color][color=#e69138] [/color][/size][/b][url=https://eldenring.wiki.fextralife.com/Dragon+Communion+Flesh][i][size=2]WIKI[/size][/i][/url][size=3]  [/size][size=4]// [color=#a61c00]DRAGONSCALE FLESH[/color][/size][b][b][b][b][color=#d8d8d8][size=4] [/size][/color][/b][url=https://eldenring.wiki.fextralife.com/Dragonscale+Flesh][i][size=2]WIKI[/size][/i][/url][/b][/b][/b][/b][url=https://eldenring.wiki.fextralife.com/Starlight+Shards][i]
+[/i][/url][b][size=3]Stack +3%/+5% max HP/FP/SP & -3%/-5% HP Recovery for 10 minutes per use.
+Heal 40% HP over 2s/60% HP over 3s. 10 uses per rest.
+Dragon Flesh now drops from Dragonbarrow dragons.
+[b][size=3]Dragonscale Flesh now drops from Jagged Peak dragons.[/size][/b][/size][/b][/size][/b][/size][/b]
 [img]https://i.imgur.com/qLZWKh9.png[/img]
 [size=3]
 
@@ -278,20 +312,21 @@ Merchant: Purchase from Siofra River Merchant for 2200 runes.[/size][/b]
 [size=1][img]https://i.imgur.com/HltvWgB.png[/img]
 [/size][b][size=4][color=#cccccc]LEADEN HARDTEAR[/color][color=#d8d8d8] [/color][/size][/b][url=https://eldenring.wiki.fextralife.com/Leaden+Hardtear][i][size=2]WIKI[/size][/i][/url][b]
 [size=3]Turns body to steel for 40s: [b][size=3]Hyperarmor, [/size][/b]+40% physical damage negation[b][size=3], [b][size=3]Tier 4 Hardness, -60% lighting damage negation,
-[/size][/b][/size][/b]-50% status effects, -50% guard stamina consumption, +50% jump attack damage. Limits movement speed, jumps, and rolls.
+[/size][/b][/size][/b]-50% status effects, -50% guard stamina consumption,. Limits movement speed, jumps, and rolls.
 
 [b][size=4][color=#cccccc]STONEBARB CRACKED TEAR[/color][color=#d8d8d8] [/color][/size][/b][url=https://eldenring.wiki.fextralife.com/Stonebarb+Cracked+Tear][i][size=2]WIKI[/size][/i][/url][b]
 [size=3]40s duration, new VFX.[/size][/b][/size][/b]
 [img]https://i.imgur.com/qLZWKh9.png[/img]
 [i][size=3]
- [/size]
+   [/size]
 [/i][size=5][b]Recommended:[/b][/size]
 [size=3][img]https://i.imgur.com/HltvWgB.png[/img]
-[url=https://www.nexusmods.com/eldenring/mods/1587]Chat with Melina﻿[/url]
+[/size][size=3][url=https://www.nexusmods.com/eldenring/mods/1587]Chat with Melina﻿[/url]
 [url=https://www.nexusmods.com/eldenring/mods/87]Compass Be Gone[/url]
 [url=https://www.nexusmods.com/eldenring/mods/3022]Fast Torrent
 [/url][/size][url=https://www.nexusmods.com/eldenring/mods/2828][size=3]Long-Horn Torrent﻿[/size][/url][size=3][url=https://www.nexusmods.com/eldenring/mods/1587]
 [/url][url=https://www.nexusmods.com/eldenring/mods/2575]Pass Time Anywhere﻿[/url]
-[url=https://www.nexusmods.com/eldenring/mods/5456]Ride Anywhere
-[/url][url=https://www.nexusmods.com/eldenring/mods/94]Sovereign ReShade[/url]
+[/size][url=https://www.nexusmods.com/eldenring/mods/5456][size=3]Ride Anywhere[/size]
+[/url][size=3]﻿[url=https://www.nexusmods.com/eldenring/mods/6423]Sovereign Loadscreens[/url][/size][url=https://www.nexusmods.com/eldenring/mods/94]
+[size=3]Sovereign ReShade[/size][/url][size=3]
 [img]https://i.imgur.com/qLZWKh9.png[/img][/size]

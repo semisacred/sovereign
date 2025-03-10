@@ -1,0 +1,33 @@
+Move
+Movement Control
+Move Forwards
+Move Backwards
+Move Left
+Move Right
+Backstep, Dodge Roll, Dash
+Jump
+Crouch / Stand Up
+Camera Controls
+Move Camera / Change Target (Up)
+Move Camera / Change Target (Down)
+Move Camera / Change Target (Left)
+Move Camera / Change Target (Right)
+Reset Camera, Lock-On/Remove Target
+Switch Armament
+Switch Sorcery/Incantation
+Switch Item
+Switch Right-Hand Armament
+Switch Left-Hand Armament
+Attack
+Attack (RH & Two-Handed Armament)
+Strong Attack (RH & 2H Armament)
+Guard (LH Armament)
+Skill
+Use Item
+Event Action (Examine, Open, etc.)
+Main Menu
+Map
+
+
+
+

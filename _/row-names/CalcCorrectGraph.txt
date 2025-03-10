@@ -1,0 +1,77 @@
+Default
+Heavy
+Keen
+
+Magic / Fire / Lightning / Holy
+
+
+Occult
+Quality
+
+
+
+Catalyst -
+
+Catalyst - Demi-Human Queen's Staff
+Catalyst -
+Catalyst -
+
+
+HP Scaling - Vigor
+FP Scaling - Mind
+Soul Level - Defence
+
+Stamina - Endurance
+Resistance: Poison - Soul Level
+Resistance: Scarlet Rot - Soul Level
+Resistance: Hemorrhage - Soul Level
+Resistance: Frostbite - Soul Level
+Resistance: Sleep - Soul Level
+Resistance: Madness - Soul Level
+Resistance: Death - Soul Level
+Resistance: Poison - Stat
+Resistance: Scarlet Rot - Stat
+Resistance: Hemorrhage - Stat
+Resistance: Frostbite - Stat
+Resistance: Sleep - Stat
+Resistance: Madness - Stat
+Resistance: Death - Stat
+Physical Defence - Strength
+Physical Defence - Vitality
+Magic Defence - Intelligence
+Fire Defence - Vigor
+Lightning Defence - Endurance
+Holy Defence - Faith
+Item Discovery - Arcane
+
+Shield - Absorption %
+Shield - Attribute %
+Shield - Status %
+Shield - Stamina %
+Weapon Arts Point Max - Strength
+Weapon Arts Point Max - Dexterity
+Weapon Arts Point Max - Intelligence
+Weapon Arts Point Max - Faith
+Soul Level - Souls Required
+Fall Damage - Distance
+Fall Damage - Equip Load
+Fall Damage - Strength
+Fall Damage - Dexterity
+Equip Load - Endurance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

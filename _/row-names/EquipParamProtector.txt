@@ -1,0 +1,850 @@
+Type 1
+Type 2
+Type 3
+Type 4
+Type 5
+Type 6
+Type 7
+Type 8
+Type 9
+Type 10
+Type 11
+Type 12
+Type 13
+Type 14
+Type 15
+Type 16
+Type 17
+Type 18
+Type 19
+Type 20
+Type 1
+Type 2
+Type 3
+Type 4
+Type 5
+Type 6
+Type 7
+Type 8
+Type 9
+Type 10
+Type 11
+Type 12
+Type 13
+Type 14
+Type 15
+Type 16
+Type 17
+Type 18
+Type 19
+Type 20
+Travel Hairstyle
+Head
+Body
+Arms
+Legs
+Iron Helmet
+Scale Armor
+Iron Gauntlets
+Leather Trousers
+Kaiden Helm
+Kaiden Armor
+Kaiden Gauntlets
+Kaiden Trousers
+Drake Knight Helm
+Drake Knight Armor
+Drake Knight Gauntlets
+Drake Knight Greaves
+Drake Knight Helm (Altered)
+Drake Knight Armor (Altered)
+[SACRED] Scaled Helm
+[SACRED] Scaled Armor
+[SACRED] Scaled Gauntlets
+[SACRED] Scaled Greaves
+[SACRED] Scaled Armor (Altered)
+[SACRED] Scaled Helm Black
+[SACRED] Scaled Armor Black
+[SACRED] Scaled Gauntlets Black
+[SACRED] Scaled Greaves Black
+[SACRED] Scaled Armor Black (Altered)
+[SACRED] Scaled Helm Red
+[SACRED] Scaled Armor Red
+[SACRED] Scaled Gauntlets Red
+[SACRED] Scaled Greaves Red
+[SACRED] Scaled Helm Red (Altered)
+[SACRED] Scaled Armor Red (Altered)
+[SACRED] Scaled Gauntlets Red (Altered)
+[SACRED] Scaled Greaves Red (Altered)
+[SACRED] Scaled Helm White
+[SACRED] Scaled Armor White
+[SACRED] Scaled Gauntlets White
+[SACRED] Scaled Greaves White
+[SACRED] Scaled Helm White (Altered)
+[SACRED] Scaled Armor White (Altered)
+[SACRED] Scaled Gauntlets White (Altered)
+[SACRED] Scaled Greaves White (Altered)
+[SACRED] Scaled Helm Gold
+[SACRED] Scaled Armor Gold
+[SACRED] Scaled Gauntlets Gold
+[SACRED] Scaled Greaves Gold
+[SACRED] Scaled Helm Gold (Altered)
+[SACRED] Scaled Armor Gold (Altered)
+[SACRED] Scaled Gauntlets Gold (Altered)
+[SACRED] Scaled Greaves Gold (Altered)
+Perfumer Hood
+Perfumer Robe
+Perfumer Gloves
+Perfumer Sarong
+Perfumer Robe (Altered)
+[SACRED] Traveler's Hat
+Perfumer's Traveling Garb
+Traveler's Gloves
+Traveler's Slops
+Perfumer's Traveling Garb (Altered)
+[SACRED] Gyre's Lucky Hat
+Alberich's Pointed Hat
+Alberich's Robe
+Alberich's Bracers
+Alberich's Trousers
+Alberich's Pointed Hat (Altered)
+Alberich's Robe (Altered)
+Spellblade's Pointed Hat
+Spellblade's Traveling Attire
+Spellblade's Gloves
+Spellblade's Trousers
+Spellblade's Traveling Attire (Altered)
+Bull-Goat Helm
+Bull-Goat Armor
+Bull-Goat Gauntlets
+Bull-Goat Greaves
+Iron Kasa
+Ronin's Armor
+Ronin's Gauntlets
+Ronin's Greaves
+Ronin's Armor (Altered)
+Guilty Hood
+Cloth Garb
+Cloth Trousers
+Black Wolf Mask
+Blaidd's Armor
+Blaidd's Gauntlets
+Blaidd's Greaves
+Blaidd's Armor (Altered)
+Black Knife Hood
+Black Knife Armor
+Black Knife Gauntlets
+Black Knife Greaves
+Black Knife Armor (Altered)
+Exile Hood
+Exile Armor
+Exile Gauntlets
+Exile Greaves
+Banished Knight Helm
+Banished Knight Armor
+Banished Knight Gauntlets
+Banished Knight Greaves
+Banished Knight Helm (Altered)
+Banished Knight Armor (Altered)
+
+Briar Helm
+Briar Armor
+Briar Gauntlets
+Briar Greaves
+Briar Armor (Altered)
+Page Hood
+Page Garb
+Page Trousers
+Page Garb (Altered)
+Night's Cavalry Helm
+Night's Cavalry Armor
+Night's Cavalry Gauntlets
+Night's Cavalry Greaves
+Night's Cavalry Helm (Altered)
+Night's Cavalry Armor (Altered)
+Blue Silver Mail Hood
+Blue Silver Mail Armor
+Blue Silver Bracelets
+Blue Silver Mail Skirt
+Blue Silver Mail Armor (Altered)
+Nomadic Merchant's Chapeau
+Nomadic Merchant's Finery
+Nomadic Merchant's Trousers
+Nomadic Merchant's Finery (Altered)
+Malformed Dragon Helm
+Malformed Dragon Armor
+Malformed Dragon Gauntlets
+Malformed Dragon Greaves
+Tree Sentinel Helm
+Tree Sentinel Armor
+Tree Sentinel Gauntlets
+Tree Sentinel Greaves
+Tree Sentinel Armor (Altered)
+Royal Knight Helm
+Royal Knight Armor
+Royal Knight Gauntlets
+Royal Knight Greaves
+Royal Knight Armor (Altered)
+Nox Monk Hood
+Nox Monk Armor
+Nox Bracelets
+Nox Greaves
+Nox Monk Hood (Altered)
+Nox Monk Armor (Altered)
+Nox Swordstress Crown
+Nox Swordstress Armor
+Night Maiden Twin Crown
+Night Maiden Armor
+Nox Swordstress Crown (Altered)
+Nox Swordstress Armor (Altered)
+Great Horned Headband
+Fur Raiment
+Fur Leggings
+Shining Horned Headband
+Shaman Furs
+Shaman Leggings
+Duelist Helm
+Gravekeeper Cloak
+Duelist Greaves
+Gravekeeper Cloak (Altered)
+Sanguine Noble Hood
+Sanguine Noble Robe
+Sanguine Noble Waistcloth
+Guardian Mask
+Guardian Garb (Full Bloom)
+Guardian Bracers
+Guardian Greaves
+Guardian Garb
+Cleanrot Helm
+Cleanrot Armor
+Cleanrot Gauntlets
+Cleanrot Greaves
+Cleanrot Helm (Altered)
+Cleanrot Armor (Altered)
+Fire Monk Hood
+Fire Monk Armor
+Fire Monk Gauntlets
+Fire Monk Greaves
+Blackflame Monk Hood
+Blackflame Monk Armor
+Blackflame Monk Gauntlets
+Blackflame Monk Greaves
+Fire Prelate Helm
+Fire Prelate Armor
+Fire Prelate Gauntlets
+Fire Prelate Greaves
+Fire Prelate Armor (Altered)
+Aristocrat Headband
+Aristocrat Garb
+Aristocrat Boots
+Aristocrat Garb (Altered)
+Aristocrat Hat
+Aristocrat Coat
+Old Aristocrat Cowl
+Old Aristocrat Gown
+Old Aristocrat Shoes
+Vulgar Militia Helm
+Vulgar Militia Armor
+Vulgar Militia Gauntlets
+Vulgar Militia Greaves
+Sage Hood
+Sage Robe
+Sage Trousers
+Pumpkin Helm
+Elden Lord Crown
+Elden Lord Armor
+Elden Lord Bracers
+Elden Lord Greaves
+Elden Lord Armor (Altered)
+Radahn's Redmane Helm
+Radahn's Lion Armor
+Radahn's Gauntlets
+Radahn's Greaves
+Radahn's Lion Armor (Altered)
+Lord of Blood's Robe
+Lord of Blood's Robe (Altered)
+Queen's Crescent Crown
+Queen's Robe
+Queen's Bracelets
+Queen's Leggings
+Godskin Apostle Hood
+Godskin Apostle Robe
+Godskin Apostle Bracelets
+Godskin Apostle Trousers
+Godskin Noble Hood
+Godskin Noble Robe
+Godskin Noble Bracelets
+Godskin Noble Trousers
+Depraved Perfumer Headscarf
+Depraved Perfumer Robe
+Depraved Perfumer Gloves
+Depraved Perfumer Trousers
+Depraved Perfumer Robe (Altered)
+Crucible Axe Helm
+Crucible Axe Armor
+Crucible Gauntlets
+Crucible Greaves
+Crucible Tree Helm
+Crucible Tree Armor
+Crucible Axe Armor (Altered)
+Crucible Tree Armor (Altered)
+Lusat's Glintstone Crown
+Lusat's Robe
+Lusat's Manchettes
+Old Sorcerer's Legwraps
+Azur's Glintstone Crown
+Azur's Glintstone Robe
+Azur's Manchettes
+All-Knowing Helm
+All-Knowing Armor
+All-Knowing Gauntlets
+All-Knowing Greaves
+All-Knowing Armor (Altered)
+Twinned Helm
+Twinned Armor
+Twinned Gauntlets
+Twinned Greaves
+Twinned Armor (Altered)
+Ragged Hat
+Ragged Armor
+Ragged Gloves
+Ragged Loincloth
+Ragged Hat (Altered)
+Ragged Armor (Altered)
+Prophet Blindfold
+Corhyn's Robe
+Prophet Trousers
+Prophet Robe (Altered)
+Prophet Robe
+Astrologer Hood
+Astrologer Robe
+Astrologer Gloves
+Astrologer Trousers
+Astrologer Robe (Altered)
+Lionel's Helm
+Lionel's Armor
+Lionel's Gauntlets
+Lionel's Greaves
+Lionel's Armor (Altered)
+Hoslow's Helm
+Hoslow's Armor
+Hoslow's Gauntlets
+Hoslow's Greaves
+Diallos's Mask
+Hoslow's Armor (Altered)
+Vagabond Knight Helm
+Vagabond Knight Armor
+Vagabond Knight Gauntlets
+Vagabond Knight Greaves
+Vagabond Knight Armor (Altered)
+Blue Cloth Cowl
+Blue Cloth Vest
+Warrior Gauntlets
+Warrior Greaves
+White Mask
+War Surgeon Gown
+War Surgeon Gloves
+War Surgeon Trousers
+War Surgeon Gown (Altered)
+Royal Remains Helm
+Royal Remains Armor
+Royal Remains Gauntlets
+Royal Remains Greaves
+Brave's Cord Circlet
+Brave's Battlewear
+Brave's Bracer
+Brave's Legwraps
+Brave's Leather Helm
+Brave's Battlewear (Altered)
+Beast Champion Helm
+Beast Champion Armor
+Beast Champion Gauntlets
+Beast Champion Greaves
+Beast Champion Armor (Altered)
+Champion Headband
+Champion Pauldron
+Champion Bracers
+Champion Gaiters
+Crimson Hood
+Noble's Traveling Garb
+Noble's Gloves
+Noble's Trousers
+Navy Hood
+
+Maliketh's Helm
+Maliketh's Armor
+Maliketh's Gauntlets
+Maliketh's Greaves
+Maliketh's Armor (Altered)
+Malenia's Winged Helm
+Malenia's Armor
+Malenia's Gauntlet
+Malenia's Greaves
+Malenia's Armor (Altered)
+Veteran's Helm
+Veteran's Armor
+Veteran's Gauntlets
+Veteran's Greaves
+Veteran's Armor (Altered)
+Bloodhound Knight Helm
+Bloodhound Knight Armor
+Bloodhound Knight Gauntlets
+Bloodhound Knight Greaves
+Bloodhound Knight Armor (Altered)
+Festive Hood
+Festive Garb
+Festive Hood (Altered)
+Festive Garb (Altered)
+Blue Festive Hood
+Blue Festive Garb
+Commoner's Headband
+Commoner's Garb
+Commoner's Shoes
+Commoner's Headband (Altered)
+Commoner's Garb (Altered)
+Commoner's Simple Garb
+Commoner's Simple Garb (Altered)
+Envoy Crown
+Twinsage Glintstone Crown
+Raya Lucarian Robe
+Sorcerer Manchettes
+Sorcerer Leggings
+Olivinus Glintstone Crown
+Lazuli Glintstone Crown
+Karolos Glintstone Crown
+Witch's Glintstone Crown
+
+
+
+
+
+
+Marionette Soldier Helm
+Marionette Soldier Armor
+Marionette Soldier Birdhelm
+Raging Wolf Helm
+Raging Wolf Armor
+Raging Wolf Gauntlets
+Raging Wolf Greaves
+Raging Wolf Armor (Altered)
+Land of Reeds Helm
+Land of Reeds Armor
+Land of Reeds Gauntlets
+Land of Reeds Greaves
+Land of Reeds Armor (Altered)
+Okina Mask
+White Reed Armor
+White Reed Gauntlets
+White Reed Greaves
+
+Confessor Hood
+Confessor Armor
+Confessor Gloves
+Confessor Boots
+Confessor Hood (Altered)
+Confessor Armor (Altered)
+Prisoner Iron Mask
+Prisoner Clothing
+Prisoner Trousers
+Blackguard's Iron Mask
+
+Traveling Maiden Hood
+Traveling Maiden Robe
+Traveling Maiden Gloves
+Traveling Maiden Boots
+Traveling Maiden Robe (Altered)
+
+
+Finger Maiden Fillet
+Finger Maiden Robe
+Finger Maiden Shoes
+Finger Maiden Robe (Altered)
+
+Preceptor's Big Hat
+Preceptor's Long Gown
+Preceptor's Gloves
+Preceptor's Trousers
+Mask of Confidence
+Preceptor's Long Gown (Altered)
+
+
+
+
+
+Grass Hair Ornament
+Skeletal Mask
+Raptor's Black Feathers
+Bandit Manchettes
+Bandit Boots
+Bandit Garb
+Eccentric's Hood
+Eccentric's Armor
+Eccentric's Manchettes
+Eccentric's Breeches
+Eccentric's Hood (Altered)
+Fingerprint Helm
+Fingerprint Armor
+Fingerprint Gauntlets
+Fingerprint Greaves
+Fingerprint Armor (Altered)
+Consort's Mask
+Consort's Robe
+Consort's Trousers
+Ruler's Mask
+Ruler's Robe
+Upper-Class Robe
+Marais Mask
+Marais Robe
+Bloodsoaked Manchettes
+Bloodsoaked Mask
+Official's Attire
+
+
+
+
+
+Omen Helm
+Omen Armor
+Omen Gauntlets
+Omen Greaves
+Carian Knight Helm
+Carian Knight Armor
+Carian Knight Gauntlets
+Carian Knight Greaves
+Carian Knight Armor (Altered)
+Hierodas Glintstone Crown
+Errant Sorcerer Robe
+Errant Sorcerer Manchettes
+Errant Sorcerer Boots
+Errant Sorcerer Robe (Altered)
+
+Haima Glintstone Crown
+Battlemage Robe
+Battlemage Manchettes
+Battlemage Legwraps
+Snow Witch Hat
+Snow Witch Robe
+Snow Witch Skirt
+Snow Witch Robe (Altered)
+Traveler's Clothes
+Traveler's Manchettes
+Traveler's Boots
+Juvenile Scholar Cap
+Juvenile Scholar Robe
+Radiant Gold Mask
+Goldmask's Rags
+Gold Bracelets
+Gold Waistwrap
+Fell Omen Cloak
+Albinauric Mask
+Dirty Chainmail
+Zamor Mask
+Zamor Armor
+Zamor Bracelets
+Zamor Legwraps
+Imp Head (Cat)
+Imp Head (Fanged)
+Imp Head (Long-Tongued)
+Imp Head (Corpse)
+Imp Head (Wolf)
+Imp Head (Elder)
+Silver Tear Mask
+Chain Coif
+Chain Armor
+Chain Gauntlets
+Chain Leggings
+Greathelm
+Eye Surcoat
+Tree Surcoat
+Octopus Head
+Jar
+Mushroom Head
+Mushroom Body
+Mushroom Arms
+Mushroom Legs
+Nox Mirrorhelm
+Iji's Mirrorhelm
+Black Hood
+Leather Armor
+Leather Gloves
+Leather Boots
+Bandit Mask
+Knight Helm
+Knight Armor
+Knight Gauntlets
+Knight Greaves
+Greathood
+
+Godrick Soldier Helm
+Tree-and-Beast Surcoat
+Godrick Soldier Gauntlets
+Godrick Soldier Greaves
+Raya Lucarian Helm
+Cuckoo Surcoat
+Raya Lucarian Gauntlets
+Raya Lucarian Greaves
+Leyndell Soldier Helm
+Erdtree Surcoat
+Leyndell Soldier Gauntlets
+Leyndell Soldier Greaves
+Radahn Soldier Helm
+Redmane Surcoat
+Radahn Soldier Gauntlets
+Radahn Soldier Greaves
+Mausoleum Surcoat
+Mausoleum Gauntlets
+Mausoleum Greaves
+Haligtree Helm
+Haligtree Crest Surcoat
+Haligtree Gauntlets
+Haligtree Greaves
+Gelmir Knight Helm
+Gelmir Knight Armor
+Gelmir Knight Gauntlets
+Gelmir Knight Greaves
+Gelmir Knight Armor (Altered)
+Godrick Knight Helm
+Godrick Knight Armor
+Godrick Knight Gauntlets
+Godrick Knight Greaves
+Godrick Knight Armor (Altered)
+Cuckoo Knight Helm
+Cuckoo Knight Armor
+Cuckoo Knight Gauntlets
+Cuckoo Knight Greaves
+Cuckoo Knight Armor (Altered)
+Leyndell Knight Helm
+Leyndell Knight Armor
+Leyndell Knight Gauntlets
+Leyndell Knight Greaves
+Leyndell Knight Armor (Altered)
+Redmane Knight Helm
+Redmane Knight Armor
+Redmane Knight Gauntlets
+Redmane Knight Greaves
+Redmane Knight Armor (Altered)
+Mausoleum Knight Armor
+Mausoleum Knight Gauntlets
+Mausoleum Knight Greaves
+Mausoleum Knight Armor (Altered)
+Haligtree Knight Helm
+Haligtree Knight Armor
+Haligtree Knight Gauntlets
+Haligtree Knight Greaves
+Haligtree Knight Armor (Altered)
+Foot Soldier Cap
+Chain-Draped Tabard
+Foot Soldier Gauntlets
+Foot Soldier Greaves
+Foot Soldier Helmet
+Foot Soldier Tabard
+Gilded Foot Soldier Cap
+Leather-Draped Tabard
+Foot Soldier Helm
+Scarlet Tabard
+Bloodsoaked Tabard
+Sacred Crown Helm
+Ivory-Draped Tabard
+Omensmirk Mask
+Omenkiller Robe
+Omenkiller Long Gloves
+Omenkiller Boots
+Ash-of-War Scarab
+Incantation Scarab
+Glintstone Scarab
+Crimson Tear Scarab
+Cerulean Tear Scarab
+Deathbed Dress
+Deathbed Smalls
+
+Fia's Hood
+Fia's Robe
+Fia's Robe (Altered)
+Millicent's Robe
+Millicent's Gloves
+Millicent's Boots
+
+
+Millicent's Tunic
+Golden Prosthetic
+
+
+Highwayman Hood
+Highwayman Cloth Armor
+Highwayman Gauntlets
+High Page Hood
+High Page Clothes
+High Page Clothes (Altered)
+Rotten Duelist Helm
+Rotten Gravekeeper Cloak
+Rotten Duelist Greaves
+Rotten Gravekeeper Cloak (Altered)
+Mushroom Crown
+Black Dumpling
+Lazuli Robe
+Dane's Hat
+Dryleaf Robe
+Dryleaf Arm Wraps
+Dryleaf Cuissardes
+Dryleaf Robe (Altered)
+Gaius's Helm
+Gaius's Armor
+Gaius's Gauntlets
+Gaius's Greaves
+Oathseeker Knight Helm
+Leda's Armor
+Oathseeker Knight Gauntlets
+Oathseeker Knight Greaves
+Oathseeker Knight Armor
+Verdigris Helm
+Verdigris Armor
+Verdigris Gauntlets
+Verdigris Greaves
+Pelt of Ralva
+Iron Rivet Armor
+Iron Rivet Gauntlets
+Iron Rivet Greaves
+Fang Helm
+Thiollier's Mask
+Thiollier's Garb
+Thiollier's Gloves
+Thiollier's Trousers
+Thiollier's Garb (Altered)
+
+
+
+
+
+
+
+
+
+High Priest Hat
+High Priest Robe
+High Priest Gloves
+High Priest Undergarments
+Finger Robe
+Caterpillar Mask
+Braided Cord Robe
+Braided Arm Wraps
+Soiled Loincloth
+Dancer's Hood
+Dancer's Dress
+Dancer's Bracer
+Dancer's Trousers
+Dancer's Dress (Altered)
+Helm of Night
+Armor of Night
+Gauntlets of Night
+Greaves of Night
+Igon's Helm
+Igon's Armor
+Igon's Gauntlets
+Igon's Loincloth
+Igon's Helm (Altered)
+Igon's Armor (Altered)
+
+
+
+Wise Man's Mask
+Ansbach's Attire
+Ansbach's Manchettes
+Ansbach's Boots
+Ansbach's Attire (Altered)
+Freyja's Helm
+Freyja's Armor
+Freyja's Gauntlets
+Freyja's Greaves
+Freyja's Armor (Altered)
+
+Helm of Solitude
+Armor of Solitude
+Gauntlets of Solitude
+Greaves of Solitude
+Armor of Solitude (Altered)
+Messmer Soldier Helm
+Messmer Soldier Armor
+Messmer Soldier Gauntlets
+Messmer Soldier Greaves
+Messmer Soldier Armor (Altered)
+Black Knight Helm
+Black Knight Armor
+Black Knight Gauntlets
+Black Knight Greaves
+Rakshasa Helm
+Rakshasa Armor
+Rakshasa Gauntlets
+Rakshasa Greaves
+
+
+
+
+
+
+
+
+Fire Knight Helm
+Fire Knight Armor
+Fire Knight Gauntlets
+Fire Knight Greaves
+Fire Knight Armor (Altered)
+Death Mask Helm
+Winged Serpent Helm
+Salza's Hood
+Leather Headband
+Gloried Attire
+Leather Arm Wraps
+Leather Leg Wraps
+Leather Crown
+Highland Attire
+Death Knight Helm
+Death Knight Armor
+Death Knight Gauntlets
+Death Knight Greaves
+Curseblade Mask
+Ascetic's Loincloth
+Ascetic's Wrist Guards
+Ascetic's Ankle Guards
+Messmer's Helm
+Messmer's Armor
+Messmer's Gauntlets
+Messmer's Greaves
+Messmer's Helm (Altered)
+Gravebird Helm
+Gravebird's Blackquill Armor
+Gravebird Bracelets
+Gravebird Anklets
+Gravebird Armor
+Common Soldier Helm
+Common Soldier Cloth Armor
+Common Soldier Gauntlets
+Common Soldier Greaves
+Horned Warrior Helm
+Horned Warrior Armor
+Horned Warrior Gauntlets
+Horned Warrior Greaves
+Divine Beast Helm
+Divine Beast Warrior Armor
+Divine Bird Helm
+Divine Bird Warrior Armor
+Divine Bird Warrior Gauntlets
+Divine Bird Warrior Greaves
+Rellana's Helm
+Rellana's Armor
+Rellana's Gloves
+Rellana's Greaves
+Young Lion's Helm
+Young Lion's Armor
+Young Lion's Gauntlets
+Young Lion's Greaves
+Young Lion's Armor (Altered)
+Circlet of Light
+Shadow Militiaman Helm
+Shadow Militiaman Armor
+Shadow Militiaman Gauntlets
+Shadow Militiaman Greaves
+Divine Beast Head
+St. Trina's Blossom
+Crucible Hammer-Helm
+Greatjar
+Imp Head (Lion)
+

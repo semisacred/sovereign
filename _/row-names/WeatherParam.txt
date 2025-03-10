@@ -1,0 +1,162 @@
+Default (EMEVD weather enum 0)
+Cloudless (EMEVD weather enum 5)
+Flat Clouds (EMEVD weather enum 6)
+Puffy Clouds (EMEVD weather enum 7)
+Rain (EMEVD weather enum 1)
+Rainy Clouds (EMEVD weather enum 8)
+Windy Rain (EMEVD weather enum 3)
+Windy Fog (EMEVD weather enum 9)
+Snow (EMEVD weather enum 2)
+Heavy Snow (EMEVD weather enum 10)
+Fog (EMEVD weather enum 4)
+Heavy Fog (EMEVD weather enum 11)
+Rainy Heavy Fog (EMEVD weather enum 15)
+Windy Puffy Clouds (EMEVD weather enum 12)
+Snowy Heavy Fog (EMEVD weather enum 16)
+Scattered Rain (EMEVD weather enum 17)
+Unk18 (EMEVD weather enum 18)
+ThisDoesntExistInVanilla (EMEVD weather enum 19)
+ThisDoesntExistInVanilla (EMEVD weather enum 20)
+ThisDoesntExistInVanilla (EMEVD weather enum 21)
+ThisDoesntExistInVanilla (EMEVD weather enum 22)
+ThisDoesntExistInVanilla (EMEVD weather enum 23)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

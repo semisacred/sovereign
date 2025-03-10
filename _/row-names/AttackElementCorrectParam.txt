@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physical: STR + DEX | Magic: INT | Fire: FTH | Lightning: DEX | Holy: FTH
+Physical: STR + DEX | Magic: INT | Fire: STR | Lightning: DEX | Holy: FTH
+Physical: STR + DEX + ARC | Magic: INT | Fire: FTH | Lightning: DEX | Holy: FTH
+Physical: STR + DEX + ARC | Magic: INT + ARC | Fire: FTH + ARC | Lightning: DEX + ARC | Holy: FTH + ARC
+Physical: STR + DEX + FTH | Magic: INT | Fire: FTH | Lightning: DEX | Holy: FTH
+Physical: STR + DEX + FTH | Magic: INT | Fire: STR | Lightning: DEX | Holy: FTH
+Physical: STR + DEX + FTH + ARC | Magic: INT | Fire: FTH | Lightning: DEX | Holy: FTH
+Physical: STR + DEX + INT | Magic: INT | Fire: FTH | Lightning: DEX | Holy: FTH
+Physical: STR + DEX + FTH + ARC | Magic: INT | Fire: FTH | Lightning: DEX | Holy: FTH
+Physical/Magic/Fire/Lightning/Holy: INT
+Physical/Magic/Fire/Lightning/Holy: INT + FTH
+Physical/Magic/Fire/Lightning/Holy: FTH
+Physical/Magic/Fire/Lightning/Holy: INT + ARC
+Physical/Magic/Fire/Lightning/Holy: FTH
+Physical/Magic/Fire/Lightning/Holy: INT + FTH
+Physical/Magic/Fire/Lightning/Holy: STR + FTH
+Physical/Magic/Fire/Lightning/Holy: FTH + ARC
+Physical/Magic/Fire/Lightning/Holy: STR + DEX + INT + FTH
+Fire: STR + DEX + INT + FTH
+Physical: FTH
+Physical: FTH
+Physical: FTH
+Physical/Magic/Fire/Lightning/Holy: STR + DEX + INT + FTH + ARC
+Physical/Magic/Fire/Lightning/Holy: STR + DEX + INT + FTH + ARC
+Physical/Magic/Fire/Lightning/Holy: STR + DEX + INT + FTH + ARC
+None
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Correction Ratio 10
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Correction Ratio 20
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Correction Ratio 30
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Correction Ratio 40
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Correction Ratio 50
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Correction Ratio 60
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Correction Ratio 70
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Correction Ratio 80
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Correction Ratio 90
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Correction Ratio 100
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Replacement Correction 10
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Replacement Correction 20
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Replacement Correction 30
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Replacement Correction 40
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Replacement Correction 50
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Replacement Correction 60
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Replacement Correction 70
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Replacement Correction 80
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Replacement Correction 90
+Physical: STR + DEX | Magic: DEX + INT | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Replacement Correction 100
+Physical: STR + DEX | Magic: STR + DEX | Fire: STR + DEX | Lightning: STR + DEX | Holy: STR + DEX | Replacement Correction 15
+Physical: STR | Magic: STR | Fire: STR | Lightning: STR | Holy: STR | Replacement Correction 25
+Physical: DEX | Magic: DEX | Fire: DEX | Lightning: DEX | Holy: DEX | Replacement Correction 15
+Physical: STR + DEX | Magic: STR + DEX | Fire: STR + DEX | Lightning: STR + DEX | Holy: STR + DEX | Replacement Correction 15
+Physical: STR | Magic: STR | Fire: STR | Lightning: STR | Holy: STR | Replacement Correction 25
+Physical: FTH | Magic: FTH | Fire: FTH | Lightning: FTH | Holy: FTH | Replacement Correction 25
+Physical: DEX | Magic: DEX | Fire: DEX | Lightning: DEX | Holy: DEX | Replacement Correction 25
+Physical: FTH | Magic: FTH | Fire: FTH | Lightning: FTH | Holy: FTH | Replacement Correction 25
+Physical: INT | Magic: INT | Fire: INT | Lightning: INT | Holy: INT | Replacement Correction 25
+Physical: ARC | Magic: ARC | Fire: ARC | Lightning: ARC | Holy: ARC | Replacement Correction 25
+Physical: DEX + INT | Magic: DEX + INT | Fire: DEX + INT | Lightning: DEX + INT | Holy: DEX + INT | Replacement Correction 15
+Physical: ARC | Magic: ARC | Fire: ARC | Lightning: ARC | Holy: ARC | Replacement Correction 25
+Physical: ARC | Magic: ARC | Fire: ARC | Lightning: ARC | Holy: ARC | Replacement Correction 25
+Physical: STR + DEX | Magic: ARC | Fire: STR + FTH | Lightning: FTH | Holy: FTH | Magic Replacement Correction 50
+Fire: STR + DEX
+Fire: STR + DEX
+Fire: FTH
+Lightning: STR + DEX
+Lightning: STR + DEX
+Physical: ARC
+Physical: ARC
+Holy: FTH
+Holy: FTH
+Magic: ARC
+Physical: ARC
+Fire: STR + DEX
+Lightning: STR + DEX
+Physical: ARC
+Physical: ARC
+Magic: INT
+Physical: ARC
+Magic: ARC
+Fire: STR + DEX
+Holy: FTH
+Fire: STR + DEX
+Physical: ARC
+Magic: INT + FTH
+Magic: INT
+Magic: INT
+Physical: ARC
+Physical: STR + DEX
+Physical: STR + DEX
+Physical: STR + DEX + ARC
+Physical: STR + DEX + ARC
+Physical: STR + DEX + INT | Magic: STR + DEX + INT
+Physical: STR + DEX
+Physical: STR + DEX
+Fire: STR + DEX
+Fire: STR + DEX
+Physical: STR + DEX + ARC
+Physical: STR + DEX + ARC
+Magic: INT
+Holy: INT + FTH
+Holy: INT + FTH
+Holy: FTH
+Magic: INT
+Magic: INT
+Magic: INT
+Physical: STR + INT | Magic: STR + INT
+Physical: STR + INT | Magic: STR + INT
+Magic: INT + FTH
+Fire: STR + DEX + INT
+Physical: ARC
+Physical: STR + DEX + ARC
+Physical: STR + DEX | Magic: INT | Fire: INT + FTH | Lightning: FTH | Holy: INT + FTH
+Physical: STR + DEX | Magic: INT | Fire: INT + FTH | Lightning: FTH | Holy: INT + FTH
+Physical: STR + DEX | Magic: INT | Fire: INT + FTH | Lightning: FTH | Holy: INT + FTH
+Physical: STR + DEX | Magic: INT | Fire: INT + FTH | Lightning: INT + FTH | Holy: INT + FTH
+Magic: STR + DEX + INT
+Magic: STR + DEX + INT
+Fire: STR + DEX + INT + FTH
+Fire: STR + DEX + INT + FTH
+Magic: STR + DEX + INT
+Magic: STR + DEX + INT
+Fire: STR + DEX
+Lightning: STR + DEX + FTH
+Fire: STR + DEX + INT + FTH
+Fire: STR + DEX + INT + FTH
+Fire: STR + DEX + INT + FTH
+Fire: STR + DEX + INT + FTH
+Lightning: STR + DEX + FTH
+Physical: STR + DEX + FTH | Magic: INT | Fire: INT + FTH | Lightning: FTH | Holy: INT + FTH
+Physical: STR + DEX + FTH | Magic: INT | Fire: INT + FTH | Lightning: FTH | Holy: INT + FTH
+Physical: STR + DEX + FTH + ARC | Magic: INT | Fire: INT + FTH | Lightning: FTH | Holy: INT + FTH
+Lightning: STR + DEX + FTH
+Fire: STR + DEX + INT + FTH
+Fire: STR + DEX + INT + FTH
+Fire: STR + DEX + INT + FTH
+Physical: STR + DEX | Magic: INT + ARC | Fire: INT + FTH | Lightning: FTH | Holy: INT + FTH + ARC
+Physical: STR + DEX | Magic: FTH | Fire: INT + FTH | Lightning: FTH | Holy: INT + FTH
+Physical: STR + DEX | Magic: FTH | Fire: INT + FTH | Lightning: FTH | Holy: INT + FTH
+None
+Physical: STR + DEX | Magic: STR + DEX + INT
+Physical: STR + DEX | Fire: STR + DEX + INT + FTH
+Physical: STR + DEX | Magic: STR + DEX + INT | Fire: STR + DEX + INT + FTH
+Physical: STR + DEX | Magic: STR + DEX + INT | Fire: STR + DEX + INT + FTH | Lightning: STR + DEX + FTH | Holy: STR + DEX + FTH
+Physical: STR + DEX | Magic: DEX + INT | Fire: FTH | Lightning: DEX | Holy: FTH
+Physical: STR + DEX + INT + FTH | Magic: INT | Fire: FTH | Lightning: DEX | Holy: FTH
+Physical: STR + DEX + INT + FTH | Magic: INT | Fire: STR + FTH | Lightning: DEX | Holy: FTH
+Physical: STR + DEX + INT + FTH + ARC | Magic: INT | Fire: FTH | Lightning: DEX | Holy: FTH
+Physical: STR + DEX + INT + FTH + ARC | Magic: INT | Fire: FTH | Lightning: DEX | Holy: FTH | Replacement Correction 5
+Physical: STR + DEX + INT + FTH + ARC | Magic: INT | Fire: FTH | Lightning: DEX | Holy: FTH | Replacement Correction 5
+Physical: STR + DEX + INT + FTH + ARC | Magic: INT | Fire: FTH | Lightning: DEX | Holy: FTH | Replacement Correction 5
+Physical: STR + DEX + ARC | Magic: INT | Fire: STR | Lightning: DEX | Holy: FTH
+Physical: STR + DEX | Magic: INT | Fire: FTH | Lightning: FTH | Holy: FTH
+Physical: STR + DEX | Magic: INT | Fire: STR | Lightning: FTH | Holy: FTH
+Physical: STR + DEX + ARC | Magic: INT | Fire: FTH | Lightning: FTH | Holy: FTH
+Physical: STR + DEX | Magic: INT | Fire: STR + DEX + INT + FTH | Lightning: DEX | Holy: FTH
+Physical: STR + DEX | Magic: INT | Fire: STR + FTH | Lightning: DEX | Holy: FTH
+Physical: STR + DEX + FTH + ARC | Magic: INT | Fire: FTH | Lightning: DEX | Holy: FTH
+Physical: STR + DEX + FTH + ARC | Magic: INT | Fire: STR | Lightning: DEX | Holy: FTH
+Physical: STR + DEX | Magic: INT + FTH | Fire: FTH | Lightning: DEX | Holy: FTH
+Holy: FTH
+Magic: DEX
+Lighning: ARC
+Fire: STR + DEX + INT + FTH
+Fire: STR + DEX + FTH
+Physical: STR + INT + ARC | Magic: STR + INT + ARC
+Physical: STR
+Physical: INT + FTH + ARC
+Fire: INT + FTH + ARC

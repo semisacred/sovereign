@@ -1,0 +1,98 @@
+Light Load
+Med. Load
+Heavy Load
+Overloaded
+Consumable
+Reusable
+S
+A
+B
+C
+D
+E
+-
+-
+
+
+
+
+
+
+
+
+
+Dagger
+Straight Sword
+Greatsword
+Colossal Sword
+Curved Sword
+Curved Greatsword
+Katana
+Twinblade
+Thrusting Sword
+Heavy Thrusting Sword
+Axe
+Greataxe
+Hammer
+Warhammer
+Flail
+Spear
+
+Great Spear
+Halberd
+Reaper
+Fist
+Fist
+Claw
+Whip
+Colossal Weapon
+Light Bow
+Bow
+Greatbow
+Crossbow
+Ballista
+Glintstone Staff
+Tattoo
+Sacred Seal
+
+Small Shield
+Medium Shield
+Greatshield
+Arrow
+Greatarrow
+Bolt
+Greatbolt
+Torch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cracked Pot
+Perfume Bottle
+Ritual Pot
+
+Standard
+Heavy
+Keen
+Quality
+Magic
+Fire
+Flame Art
+Lightning
+Sacred
+Poison
+Blood
+Cold
+Occult

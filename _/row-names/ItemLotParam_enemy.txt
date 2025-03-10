@@ -1,0 +1,5141 @@
+Head
+Neutralizing Boluses
+Flask of Crimson Tears +5, Flask of Crimson Tears +5, Flask of Crimson Tears +6, Flask of Crimson Tears +6, Flask of Crimson Tears +11, Flask of Crimson Tears, Flask of Crimson Tears
+Neutralizing Boluses
+Old Fang
+Miranda's Prayer
+Golden Seed
+Ancient Dragon Smithing Stone
+Neutralizing Boluses
+Neutralizing Boluses
+Neutralizing Boluses
+Neutralizing Boluses
+Neutralizing Boluses
+Neutralizing Boluses
+
+
+
+
+
+
+
+
+
+[Larva of Rot] None
+[Larva of Rot] Aeonian Butterfly
+[Black Knife Assassin] None
+[Morgott] None
+[Omen] Omen Cleaver
+[Omen] Warped Axe
+[Omen] Omen Cleaver
+[Omen] Omen Bairn
+[Unknown] None
+[Giant Crab] Crab Eggs
+[Giant Crab] Strip of White Flesh
+[Crab] Crab Eggs
+[Crab] Strip of White Flesh
+[Crab] Crab Eggs
+[Crab] Strip of White Flesh
+[Crab] Glintstone Firefly
+[Crucible Knight] None
+[Crucible Knight] None
+[Crucible Knight] None
+[Crucible Knight] None
+[Castle Exile] Soldier's Crossbow
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Bolt
+[Castle Exile] Lordsworn's Bolt
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] None
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Bolt
+[Castle Exile] Lordsworn's Bolt
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] None
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] None
+[Castle Exile] Spear
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Torchpole
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Torchpole
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Soldier's Crossbow
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Bolt
+[Castle Exile] Lordsworn's Bolt
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Smithing Stone [1]
+[Castle Exile] Smithing Stone [2]
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Bolt
+[Castle Exile] Lordsworn's Bolt
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Smithing Stone [1]
+[Castle Exile] Smithing Stone [2]
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Smithing Stone [1]
+[Castle Exile] Smithing Stone [2]
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Smithing Stone [1]
+[Castle Exile] Smithing Stone [2]
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Smithing Stone [1]
+[Castle Exile] Smithing Stone [2]
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+
+
+[Castle Exile] Spear
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smithing Stone [1]
+[Castle Exile] Smithing Stone [2]
+[Castle Exile] Torchpole
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Smithing Stone [1]
+[Castle Exile] Smithing Stone [2]
+[Castle Exile] Torchpole
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Smithing Stone [1]
+[Castle Exile] Smithing Stone [2]
+[Castle Exile] Soldier's Crossbow
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Bolt
+[Castle Exile] Lordsworn's Bolt
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Bolt
+[Castle Exile] Lordsworn's Bolt
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Spear
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Torchpole
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Castle Exile] Torchpole
+[Castle Exile] Exile Hood
+[Castle Exile] Exile Armor
+[Castle Exile] Exile Gauntlets
+[Castle Exile] Exile Greaves
+[Castle Exile] Stormhawk Feather
+[Castle Exile] Smoldering Butterfly
+[Castle Exile] Mushroom
+[Banished Knight] Banished Knight's Greatsword
+[Banished Knight] Banished Knight's Shield
+[Banished Knight] Banished Knight Helm (Altered)
+[Banished Knight] Banished Knight Armor (Altered)
+[Banished Knight] Banished Knight Gauntlets
+[Banished Knight] Banished Knight Greaves
+[Banished Knight] Dragon Communion Seal
+[Banished Knight] Banished Knight's Greatsword
+[Banished Knight] Banished Knight's Shield
+[Banished Knight] Banished Knight Helm
+[Banished Knight] Banished Knight Armor (Altered)
+[Banished Knight] Banished Knight Gauntlets
+[Banished Knight] Banished Knight Greaves
+[Banished Knight] Banished Knight's Greatsword
+[Banished Knight] Banished Knight's Shield
+[Banished Knight] Banished Knight Helm (Altered)
+[Banished Knight] Banished Knight Armor
+[Banished Knight] Banished Knight Gauntlets
+[Banished Knight] Banished Knight Greaves
+[Banished Knight] Banished Knight's Greatsword
+[Banished Knight] Banished Knight Helm (Altered)
+[Banished Knight] Banished Knight Armor (Altered)
+[Banished Knight] Banished Knight Gauntlets
+[Banished Knight] Banished Knight Greaves
+[Banished Knight] Banished Knight's Greatsword
+[Banished Knight] Banished Knight's Greatsword
+[Banished Knight] Banished Knight Helm
+[Banished Knight] Banished Knight Armor (Altered)
+[Banished Knight] Banished Knight Gauntlets
+[Banished Knight] Banished Knight Greaves
+[Banished Knight] Banished Knight's Greatsword
+[Banished Knight] Banished Knight's Greatsword
+[Banished Knight] Banished Knight Helm (Altered)
+[Banished Knight] Banished Knight Armor
+[Banished Knight] Banished Knight Gauntlets
+[Banished Knight] Banished Knight Greaves
+[Banished Knight] Banished Knight's Greatsword
+[Banished Knight] Banished Knight's Halberd
+[Banished Knight] Banished Knight Helm (Altered)
+[Banished Knight] Banished Knight Armor (Altered)
+[Banished Knight] Banished Knight Gauntlets
+[Banished Knight] Banished Knight Greaves
+[Banished Knight] Banished Knight's Halberd
+[Banished Knight] Banished Knight Helm
+[Banished Knight] Banished Knight Armor (Altered)
+[Banished Knight] Banished Knight Gauntlets
+[Banished Knight] Banished Knight Greaves
+[Banished Knight] None
+[Banished Knight] Banished Knight's Halberd
+[Banished Knight] Banished Knight Helm (Altered)
+[Banished Knight] Banished Knight Armor
+[Banished Knight] Banished Knight Gauntlets
+[Banished Knight] Banished Knight Greaves
+[Large Castle Exile] Crescent Moon Axe
+[Large Castle Exile] Stormhawk Feather
+[Large Castle Exile] Crescent Moon Axe
+[Large Castle Exile] Stormhawk Feather
+[Large Castle Exile] Smithing Stone [1]
+[Large Castle Exile] Smithing Stone [2]
+[Large Castle Exile] Crescent Moon Axe
+[Large Castle Exile] Stormhawk Feather
+[Commander] None
+[Undead Mariner] Executioner's Greataxe
+[Undead Mariner] Human Bone Shard
+[Undead Mariner] Glaive
+[Undead Mariner] Human Bone Shard
+[Dominula Celebrant] Celebrant's Cleaver
+[Dominula Celebrant] Festive Garb (Altered)
+[Dominula Celebrant] Human Bone Shard
+[Dominula Celebrant] Golden Rune [3]
+[Dominula Celebrant] Festive Hood
+[Dominula Celebrant] Festive Garb (Altered)
+[Dominula Celebrant] Human Bone Shard
+[Dominula Celebrant] Golden Rune [3]
+[Dominula Celebrant] Celebrant's Sickle
+[Dominula Celebrant] Blue Festive Hood
+[Dominula Celebrant] Blue Festive Garb
+[Dominula Celebrant] Human Bone Shard
+[Dominula Celebrant] Golden Rune [3]
+[Dominula Celebrant] Festive Hood
+[Dominula Celebrant] Festive Garb
+[Dominula Celebrant] Human Bone Shard
+[Dominula Celebrant] Golden Rune [3]
+[Dominula Celebrant] Celebrant's Rib-Rake
+[Dominula Celebrant] Festive Garb
+[Dominula Celebrant] Human Bone Shard
+[Dominula Celebrant] Golden Rune [3]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Cat)
+[Imp] Forked Hatchet
+[Imp] Imp Head (Cat)
+[Imp] Smithing Stone [1]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Cat)
+[Imp] Smithing Stone [2]
+[Imp] Smithing Stone [3]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Cat)
+[Imp] Smithing Stone [4]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Cat)
+[Imp] Smithing Stone [5]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Cat)
+[Imp] Smithing Stone [6]
+[Imp] Smithing Stone [7]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Smithing Stone [1]
+[Imp] Smoldering Butterfly
+[Imp] Mushroom
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Smithing Stone [2]
+[Imp] Smithing Stone [3]
+[Imp] Smoldering Butterfly
+[Imp] Mushroom
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Smithing Stone [4]
+[Imp] Smoldering Butterfly
+[Imp] Mushroom
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Smithing Stone [5]
+[Imp] Smoldering Butterfly
+[Imp] Mushroom
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Smithing Stone [6]
+[Imp] Smithing Stone [7]
+[Imp] Smoldering Butterfly
+[Imp] Mushroom
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Glintstone Firefly
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Glintstone Firefly
+[Imp] Smithing Stone [1]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Glintstone Firefly
+[Imp] Smithing Stone [2]
+[Imp] Smithing Stone [3]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Glintstone Firefly
+[Imp] Smithing Stone [4]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Glintstone Firefly
+[Imp] Smithing Stone [5]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Glintstone Firefly
+[Imp] Smithing Stone [6]
+[Imp] Smithing Stone [7]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Long-Tongued)
+[Imp] Forked Hatchet
+[Imp] Imp Head (Long-Tongued)
+[Imp] Smithing Stone [1]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Long-Tongued)
+[Imp] Smithing Stone [2]
+[Imp] Smithing Stone [3]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Long-Tongued)
+[Imp] Smithing Stone [4]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Long-Tongued)
+[Imp] Smithing Stone [5]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Long-Tongued)
+[Imp] Smithing Stone [6]
+[Imp] Smithing Stone [7]
+[Imp] Forked Greatsword
+[Imp] Imp Head (Wolf)
+[Imp] Forked Greatsword
+[Imp] Imp Head (Wolf)
+[Imp] Smithing Stone [1]
+[Imp] Forked Greatsword
+[Imp] Imp Head (Wolf)
+[Imp] Smithing Stone [2]
+[Imp] Smithing Stone [3]
+[Imp] Forked Greatsword
+[Imp] Imp Head (Wolf)
+[Imp] Smithing Stone [4]
+[Imp] Forked Greatsword
+[Imp] Imp Head (Wolf)
+[Imp] Smithing Stone [5]
+[Imp] Forked Greatsword
+[Imp] Imp Head (Wolf)
+[Imp] Smithing Stone [6]
+[Imp] Smithing Stone [7]
+[Imp] Forked Greatsword
+[Imp] Smithing Stone [1]
+[Imp] Forked Greatsword
+[Imp] Smithing Stone [2]
+[Imp] Smithing Stone [3]
+[Imp] Forked Greatsword
+[Imp] Smithing Stone [4]
+[Imp] Forked Greatsword
+[Imp] Smithing Stone [5]
+[Imp] Forked Greatsword
+[Imp] Smithing Stone [6]
+[Imp] Smithing Stone [7]
+[Imp] Forked Greatsword
+[Imp] Smithing Stone [1]
+[Imp] Forked Greatsword
+[Imp] Smithing Stone [2]
+[Imp] Smithing Stone [3]
+[Imp] Forked Greatsword
+[Imp] Smithing Stone [4]
+[Imp] Forked Greatsword
+[Imp] Smithing Stone [5]
+[Imp] Forked Greatsword
+[Imp] Smithing Stone [6]
+[Imp] Smithing Stone [7]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Fulgurbloom
+[Imp] Smithing Stone [1]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Fulgurbloom
+[Imp] Smithing Stone [2]
+[Imp] Smithing Stone [3]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Fulgurbloom
+[Imp] Smithing Stone [4]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Fulgurbloom
+[Imp] Smithing Stone [5]
+[Imp] Forked Hatchet
+[Imp] Imp Head (Fanged)
+[Imp] Fulgurbloom
+[Imp] Smithing Stone [6]
+[Imp] Smithing Stone [7]
+[Night's Cavalry] None
+[Night's Cavalry] None
+[Night's Cavalry - Horse] None
+[Albinauric Archer] Albinauric Bow
+[Albinauric Archer] Albinauric Bloodclot
+[Albinauric Archer] Blue Silver Mail Hood
+[Albinauric Archer] Blue Silver Mail Armor
+[Albinauric Archer] Blue Silver Bracelets
+[Albinauric Archer] Blue Silver Mail Skirt
+[Albinauric Archer] Arrow
+[Albinauric Archer] St. Trina's Arrow
+[Albinauric Archer] Albinauric Bow
+[Albinauric Archer] Blue Silver Mail Hood
+[Albinauric Archer] Blue Silver Mail Armor
+[Albinauric Archer] Blue Silver Bracelets
+[Albinauric Archer] Blue Silver Mail Skirt
+[Albinauric Archer] Albinauric Bloodclot
+[Albinauric Archer] Arrow
+[Albinauric Archer] St. Trina's Arrow
+[Dog] Thin Beast Bones
+[Dog] Lump of Flesh
+[Red Wolf of Radagon] None
+[Nomad Trader] Nomadic Merchant's Chapeau
+[Nomad Trader] Nomadic Merchant's Finery
+[Nomad Trader] Nomadic Merchant's Trousers
+[Nomad Mule] Sliver of Meat
+[Nomad Mule] Beast Liver
+[Nomad Mule] Beast Blood
+[Nomad Mule] Thin Beast Bones
+[Draconic Tree Sentinel] None
+[Tree Sentinel] None
+[Fallen Tree Sentinel] None
+[Fallen Tree Sentinel] Nox Swordstress Crown
+[Fallen Tree Sentinel] Nox Swordstress Armor
+[Fallen Tree Sentinel] Nox Monk Bracelets
+[Fallen Tree Sentinel] Nox Monk Greaves
+[Fallen Tree Sentinel] Night Maiden Twin Crown
+[Fallen Tree Sentinel] Night Maiden Armor
+[Fallen Tree Sentinel] Nox Monk Bracelets
+[Fallen Tree Sentinel] Nox Monk Greaves
+[Nox Swordstress] Nox Monk Hood
+[Nox Swordstress] Nox Monk Armor
+[Nox Swordstress] Nox Monk Bracelets
+[Nox Swordstress] Nox Monk Greaves
+[Silver Tear] Silver Tear Husk
+[Silver Tear] Silver Tear Husk
+[Silver Tear] Silver Tear Husk
+[Silver Tear] Silver Tear Husk
+[Silver Tear] Gravel Stone
+[Silver Tear] Silver Tear Husk
+[Silver Tear] Silver Tear Husk
+[Silver Tear] Silver Tear Husk
+[Silver Tear] Golden Rune [7]
+[Silver Tear Orb] Silver Tear Husk
+[Silver Tear Orb] Silver Tear Husk
+[Silver Tear Orb] Silver Tear Husk
+[Silver Tear Orb] Larval Tear
+[Silver Tear Orb] Silver Tear Husk
+[Silver Tear Orb] Larval Tear
+[Silver Tear Orb] Silver Tear Husk
+[Silver Tear Orb] Larval Tear
+[Silver Tear Orb] Silver Tear Husk
+[Silver Tear Orb] Larval Tear
+[Crystalian] None
+[Crystalian] None
+[Crystalian] None
+[Crystalian] None
+[Crystalian] Rotten Crystal Spear
+[Crystalian] Rotten Crystal Staff
+[Ancestral Follower] Jawbone Axe
+[Ancestral Follower] Fur Raiment
+[Ancestral Follower] Fur Leggings
+[Ancestral Follower] Dwelling Arrow
+[Ancestral Follower] Great Horned Headband
+[Ancestral Follower] Thin Beast Bones
+[Ancestral Follower] Budding Horn
+[Ancestral Follower] Greathorn Hammer
+[Ancestral Follower] Fur Raiment
+[Ancestral Follower] Fur Leggings
+[Ancestral Follower] Great Horned Headband
+[Ancestral Follower] Thin Beast Bones
+[Ancestral Follower] Budding Horn
+[Ancestral Follower] Fur Raiment
+[Ancestral Follower] Fur Leggings
+[Ancestral Follower] Great Horned Headband
+[Ancestral Follower] Thin Beast Bones
+[Ancestral Follower] Budding Horn
+[Ancestral Follower] Jawbone Axe
+[Ancestral Follower] Fur Raiment
+[Ancestral Follower] Fur Leggings
+[Ancestral Follower] Dwelling Arrow
+[Ancestral Follower] Great Horned Headband
+[Ancestral Follower] Thin Beast Bones
+[Ancestral Follower] Budding Horn
+[Ancestral Follower] Immunizing Horn Charm +1
+[Ancestral Follower Shaman] Shaman Furs
+[Ancestral Follower Shaman] Shaman Leggings
+[Ancestral Follower Shaman] Thin Beast Bones
+[Ancestral Follower Shaman] Budding Horn
+[Ancestral Follower Shaman] Shaman Furs
+[Ancestral Follower Shaman] Shaman Leggings
+[Ancestral Follower Shaman] Thin Beast Bones
+[Ancestral Follower Shaman] Budding Horn
+[Ancestral Follower Shaman] Shining Horned Headband
+[Ancestral Follower Shaman] Nascent Butterfly
+[Ancestral Follower Shaman] Shaman Furs
+[Ancestral Follower Shaman] Shaman Leggings
+[Ancestral Follower Shaman] Thin Beast Bones
+[Ancestral Follower Shaman] Budding Horn
+[Grave Warden Duelist] Duelist Greataxe
+[Grave Warden Duelist] Duelist Helm
+[Grave Warden Duelist] Gravekeeper Cloak
+[Grave Warden Duelist] Duelist Greaves
+[Grave Warden Duelist] None
+[Grave Warden Duelist] Battle Hammer
+[Grave Warden Duelist] Duelist Helm
+[Grave Warden Duelist] Gravekeeper Cloak
+[Grave Warden Duelist] Duelist Greaves
+[Grave Warden Duelist] None
+[Grave Warden Duelist] Rotten Battle Hammer
+[Grave Warden Duelist] Rotten Duelist Helm
+[Grave Warden Duelist] Rotten Duelist Greaves
+[Grave Warden Duelist] Rotten Greataxe
+[Misbegotten] Iron Cleaver
+[Misbegotten] Old Fang
+[Misbegotten] Misbegotten Shortbow
+[Misbegotten] Old Fang
+[Misbegotten] Longhaft Axe
+[Misbegotten] Old Fang
+[Winged Misbegotten] Iron Greatsword
+[Winged Misbegotten] Old Fang
+[Albinauric] Albinauric Shield
+[Albinauric] Dirty Chainmail
+[Albinauric] Albinauric Bloodclot
+[Albinauric] Dirty Chainmail
+[Albinauric] Albinauric Bloodclot
+[Albinauric] Albinauric Bloodclot
+[Albinauric] Albinauric Shield
+[Albinauric] Dirty Chainmail
+[Albinauric] Albinauric Bloodclot
+[Albinauric] Dirty Chainmail
+[Albinauric] Albinauric Bloodclot
+[Albinauric] Albinauric Bloodclot
+[Albinauric] Curved Club
+[Albinauric] Albinauric Bloodclot
+[Albinauric] Curved Club
+[Albinauric] Albinauric Bloodclot
+[Albinauric] Albinauric Bloodclot
+[Albinauric] Ripple Crescent Halberd
+[Albinauric] Dirty Chainmail
+[Albinauric] Albinauric Bloodclot
+[Albinauric] Ripple Crescent Halberd
+[Albinauric] Albinauric Bloodclot
+[Albinauric (Variant)] Curved Great Club
+[Albinauric (Variant)] Albinauric Bloodclot
+[Skeleton (Curved Sword)] Human Bone Shard
+[Skeleton (Curved Sword)] Human Bone Shard
+[Skeleton (Curved Sword)] Bolt
+[Skeleton (Curved Sword)] Grave Scythe
+[Skeleton (Curved Sword)] Human Bone Shard
+[Skeleton (Curved Sword)] Sun Realm Shield
+[Skeleton (Curved Sword)] Human Bone Shard
+[Skeleton (Curved Sword)] Bandit's Curved Sword
+[Skeleton (Curved Sword)] Human Bone Shard
+[Skeleton (Curved Sword)] Bandit's Curved Sword
+[Skeleton (Scimitar)] Scimitar
+[Skeleton (Scimitar)] Scripture Wooden Shield
+[Skeleton (Scimitar)] Human Bone Shard
+[Skeleton (Scimitar)] Smoldering Butterfly
+[Skeleton (Scimitar)] Mushroom
+[Skeleton (Scimitar)] Scimitar
+[Skeleton (Scimitar)] Human Bone Shard
+[Skeleton (Scimitar)] Scimitar
+[Skeleton (Scimitar)] Human Bone Shard
+[Skeleton (Scimitar)] Grossmesser
+[Skeleton (Scimitar)] Human Bone Shard
+[Skeleton (Scimitar)] Grossmesser
+[Skeleton (Scimitar)] Human Bone Shard
+[Skeleton (Scimitar)] Longbow
+[Skeleton (Scimitar)] Human Bone Shard
+[Skeleton (Scimitar)] Arrow
+[Skeleton (Scimitar)] Human Bone Shard
+[Skeleton (Scimitar)] Smoldering Butterfly
+[Skeleton (Scimitar)] Mushroom
+[Skeleton (Scimitar)] Human Bone Shard
+[Skeleton (Scimitar)] Smoldering Butterfly
+[Skeleton (Scimitar)] Mushroom
+[Skeleton (Scimitar)] Human Bone Shard
+[Skeleton (Scimitar)] Grave Violet
+[Skeleton (Scimitar)] Human Bone Shard
+[Skeleton (Scimitar)] Grave Violet
+[Sanguine Noble] Bloodrose
+[Godskin Apostle] None
+[Godskin Noble] None
+[Alabaster Lord] [Sorcery] Gravity Well
+[Alabaster Lord] Alabaster Lord's Sword
+[Alabaster Lord] Ash of War: Gravitas
+[Alabaster Lord] None
+[Alabaster Lord] Alabaster Lord's Sword
+[Oracle Envoy] Envoy's Horn
+[Oracle Envoy] Strip of White Flesh
+[Oracle Envoy] Envoy's Long Horn
+[Oracle Envoy] Strip of White Flesh
+[Oracle Envoy] Envoy's Greathorn
+[Oracle Envoy] Strip of White Flesh
+[Guardian] Guardian's Swordspear
+[Guardian] Guardian Mask
+[Guardian] Guardian Garb
+[Guardian] Guardian Bracers
+[Guardian] Guardian Greaves
+[Guardian] Tarnished Golden Sunflower
+[Guardian] Guardian's Swordspear
+[Guardian] Guardian Mask
+[Guardian] Guardian Garb (Full Bloom)
+[Guardian] Guardian Bracers
+[Guardian] Guardian Greaves
+[Guardian] Tarnished Golden Sunflower
+[Guardian] Guardian's Swordspear
+[Guardian] Guardian Mask
+[Guardian] Guardian Garb
+[Guardian] Guardian Bracers
+[Guardian] Guardian Greaves
+[Guardian] Tarnished Golden Sunflower
+[Guardian] Golden Centipede
+[Guardian] Guardian's Swordspear
+[Guardian] Guardian Mask
+[Guardian] Guardian Garb
+[Guardian] Guardian Bracers
+[Guardian] Guardian Greaves
+[Guardian] Tarnished Golden Sunflower
+[Commoner] Weathered Straight Sword
+[Commoner] Commoner's Headband (Altered)
+[Commoner] Commoner's Garb
+[Commoner] Commoner's Shoes
+[Commoner] Glass Shard
+[Commoner] Weathered Straight Sword
+[Commoner] Commoner's Headband (Altered)
+[Commoner] Commoner's Garb
+[Commoner] Commoner's Shoes
+[Commoner] Glass Shard
+[Commoner] Weathered Straight Sword
+[Commoner] Glass Shard
+[Commoner] Yellow Ember
+[Commoner] Weathered Straight Sword
+[Commoner] Glass Shard
+[Commoner] Weathered Straight Sword
+[Commoner] Glass Shard
+[Commoner] Commoner's Headband (Altered)
+[Commoner] Commoner's Garb
+[Commoner] Commoner's Shoes
+[Commoner] Glass Shard
+[Commoner] Glass Shard
+[Commoner] Yellow Ember
+[Commoner] Glass Shard
+[Commoner] Glass Shard
+[Commoner] Glass Shard
+[Commoner] Glass Shard
+[Commoner] Yellow Ember
+[Commoner] Glass Shard
+[Commoner] Glass Shard
+[Commoner] Glass Shard
+[Commoner] Human Bone Shard
+[Commoner] Grave Violet
+[Putrid Corpse] Mushroom
+[Putrid Corpse] Toxic Mushroom
+[Putrid Corpse] Melted Mushroom
+[Putrid Corpse] Mushroom
+[Putrid Corpse] Melted Mushroom
+[Putrid Corpse] Toxic Mushroom
+[Putrid Corpse] Mushroom
+[Putrid Corpse] Mushroom
+[Putrid Corpse] Bloodrose
+[Scarlet Putrid Corpse] Mushroom
+[Scarlet Putrid Corpse] Toxic Mushroom
+[Scarlet Putrid Corpse] Melted Mushroom
+[Scarlet Putrid Corpse] Mushroom
+[Scarlet Putrid Corpse] Melted Mushroom
+[Scarlet Putrid Corpse] Toxic Mushroom
+[Scarlet Putrid Corpse] Mushroom
+[Scarlet Putrid Corpse] Mushroom
+[Scarlet Putrid Corpse] Bloodrose
+[Cemetery Shade] None
+[Cemetery Shade] Mantis Blade
+[Elder Albinauric] Albinauric Bloodclot
+[Elder Albinauric] Albinauric Bloodclot
+[Elder Albinauric] Glintstone Firefly
+[Elder Albinauric] Albinauric Bloodclot
+[Elder Albinauric] Black Dumpling
+[Elder Albinauric] Albinauric Bloodclot
+[Elder Albinauric] Albinauric Bloodclot
+[Elder Albinauric] Albinauric Bloodclot
+[Depraved Perfumer] Depraved Perfumer Headscarf
+[Depraved Perfumer] Depraved Perfumer Robe
+[Depraved Perfumer] Depraved Perfumer Gloves
+[Depraved Perfumer] Depraved Perfumer Trousers
+[Depraved Perfumer] Budding Cave Moss
+[Depraved Perfumer] Altus Bloom
+[Depraved Perfumer] Miranda Powder
+[Depraved Perfumer] Depraved Perfumer Headscarf
+[Depraved Perfumer] Depraved Perfumer Robe
+[Depraved Perfumer] Depraved Perfumer Gloves
+[Depraved Perfumer] Depraved Perfumer Trousers
+[Depraved Perfumer] Budding Cave Moss
+[Depraved Perfumer] Perfumer's Shield
+[Depraved Perfumer] Altus Bloom
+[Depraved Perfumer] Miranda Powder
+[Perfumer] Perfumer Hood
+[Perfumer] Perfumer Robe
+[Perfumer] Perfumer Gloves
+[Perfumer] Perfumer Sarong
+[Perfumer] Budding Cave Moss
+[Perfumer] Altus Bloom
+[Perfumer] Miranda Powder
+[Perfumer] Perfumer Hood
+[Perfumer] Perfumer Robe
+[Perfumer] Perfumer Gloves
+[Perfumer] Perfumer Sarong
+[Perfumer] Perfumer's Shield
+[Perfumer] Budding Cave Moss
+[Perfumer] Altus Bloom
+[Perfumer] Miranda Powder
+[Depraved Perfumer] None
+
+
+
+
+
+
+[Glintstone Sorcerer] Academy Glintstone Staff
+[Glintstone Sorcerer] Raya Lucarian Robe
+[Glintstone Sorcerer] Sorcerer Manchettes
+[Glintstone Sorcerer] Sorcerer Leggings
+[Glintstone Sorcerer] Academy Glintstone Staff
+[Glintstone Sorcerer] Raya Lucarian Robe
+[Glintstone Sorcerer] Sorcerer Manchettes
+[Glintstone Sorcerer] Sorcerer Leggings
+[Glintstone Sorcerer] Lazuli Glintstone Sword
+[Glintstone Sorcerer] Lazuli Robe
+[Glintstone Sorcerer] Academy Glintstone Staff
+[Glintstone Sorcerer] Raya Lucarian Robe
+[Glintstone Sorcerer] Sorcerer Manchettes
+[Glintstone Sorcerer] Sorcerer Leggings
+[Glintstone Sorcerer] Academy Glintstone Staff
+[Glintstone Sorcerer] Raya Lucarian Robe
+[Glintstone Sorcerer] Sorcerer Manchettes
+[Glintstone Sorcerer] Sorcerer Leggings
+[Page] Page Hood
+[Page] Page Garb
+[Page] Page Trousers
+[Page] Perfumer's Bolt
+[Page] Red Branch Shortbow
+[Page] Perfumer's Bolt
+[Page] High Page Hood
+[Page] High Page Clothes
+[Page] Page Trousers
+[Page] Red Branch Shortbow
+[Battlemage] Stone Club
+[Battlemage] Stone Club
+[Battlemage] Somber Smithing Stone [1]
+[Battlemage] Somber Smithing Stone [2]
+[Battlemage] Stone Club
+[Battlemage] Somber Smithing Stone [3]
+[Battlemage] Somber Smithing Stone [4]
+[Battlemage] Stone Club
+[Battlemage] Somber Smithing Stone [7]
+[Battlemage] Somber Smithing Stone [8]
+[Battlemage] Stone Club
+[Battlemage] Somber Smithing Stone [3]
+[Battlemage] Somber Smithing Stone [4]
+[Battlemage] Haima Glintstone Crown
+[Battlemage] Battlemage Robe
+[Battlemage] Battlemage Manchettes
+[Battlemage] Battlemage Legwraps
+[Clayman] Clayman's Harpoon
+[Clayman] Silver Firefly
+[Clayman] Silver Firefly
+[Clayman] Silver Firefly
+[Cleanrot Knight] Cleanrot Knight's Sword
+[Cleanrot Knight] Cleanrot Helm
+[Cleanrot Knight] Cleanrot Armor
+[Cleanrot Knight] Cleanrot Gauntlets
+[Cleanrot Knight] Cleanrot Greaves
+[Cleanrot Knight] Cleanrot Spear
+[Cleanrot Knight] Cleanrot Knight's Sword
+[Cleanrot Knight] Cleanrot Helm
+[Cleanrot Knight] Cleanrot Armor
+[Cleanrot Knight] Cleanrot Gauntlets
+[Cleanrot Knight] Cleanrot Greaves
+[Cleanrot Knight] Cleanrot Spear
+[Cleanrot Knight] Trina's Lily
+[Cleanrot Knight] Cleanrot Knight's Sword
+[Cleanrot Knight] Cleanrot Helm
+[Cleanrot Knight] Cleanrot Armor
+[Cleanrot Knight] Cleanrot Gauntlets
+[Cleanrot Knight] Cleanrot Greaves
+[Cleanrot Knight] Cleanrot Spear
+[Cleanrot Knight] Miquella's Lily
+[Cleanrot Knight] Halo Scythe
+[Cleanrot Knight] Cleanrot Knight's Sword
+[Cleanrot Knight] Cleanrot Helm
+[Cleanrot Knight] Cleanrot Armor
+[Cleanrot Knight] Cleanrot Gauntlets
+[Cleanrot Knight] Cleanrot Greaves
+[Cleanrot Knight] Halo Scythe
+[Cleanrot Knight] Cleanrot Knight's Sword
+[Cleanrot Knight] Cleanrot Helm
+[Cleanrot Knight] Cleanrot Armor
+[Cleanrot Knight] Cleanrot Gauntlets
+[Cleanrot Knight] Cleanrot Greaves
+[Cleanrot Knight] Trina's Lily
+[Cleanrot Knight] Halo Scythe
+[Cleanrot Knight] Cleanrot Knight's Sword
+[Cleanrot Knight] Cleanrot Helm
+[Cleanrot Knight] Cleanrot Armor
+[Cleanrot Knight] Cleanrot Gauntlets
+[Cleanrot Knight] Cleanrot Greaves
+[Cleanrot Knight] Miquella's Lily
+[Kindred of Rot] Pest's Glaive
+[Kindred of Rot] Faded Erdleaf Flower
+[Kindred of Rot] Aeonian Butterfly
+[Kindred of Rot] Pest's Glaive
+[Kindred of Rot] Faded Erdleaf Flower
+[Kindred of Rot] Aeonian Butterfly
+[Kindred of Rot] Pest's Glaive
+[Kindred of Rot] Faded Erdleaf Flower
+[Kindred of Rot] Aeonian Butterfly
+[Kindred of Rot] Pest's Glaive
+[Kindred of Rot] Aeonian Butterfly
+[Kindred of Rot] Pest's Glaive
+[Kindred of Rot] Aeonian Butterfly
+[Kindred of Rot] Pest's Glaive
+[Kindred of Rot] Aeonian Butterfly
+[Marionette] Shortbow
+[Marionette] Marionette Soldier Helm
+[Marionette] Marionette Soldier Armor
+[Marionette] Cuckoo Glintstone
+[Marionette] Arrow
+[Marionette] Marionette Soldier Helm
+[Marionette] Marionette Soldier Armor
+[Marionette] Cuckoo Glintstone
+[Marionette] Spiked Spear
+[Marionette] Marionette Soldier Helm
+[Marionette] Marionette Soldier Armor
+[Marionette] Cuckoo Glintstone
+[Avionette] Marionette Soldier Birdhelm
+[Avionette] Cuckoo Glintstone
+[Fire Monk] Monk's Flamemace
+[Fire Monk] Fire Monk Hood
+[Fire Monk] Fire Monk Armor
+[Fire Monk] Fire Monk Gauntlets
+[Fire Monk] Fire Monk Greaves
+[Fire Monk] Smoldering Butterfly
+[Fire Monk] Fire Blossom
+[Fire Monk] Monk's Flameblade
+[Fire Monk] Fire Monk Hood
+[Fire Monk] Fire Monk Armor
+[Fire Monk] Fire Monk Gauntlets
+[Fire Monk] Fire Monk Greaves
+[Fire Monk] Smoldering Butterfly
+[Fire Monk] Fire Blossom
+[Blackflame Monk] Blackflame Monk Hood
+[Blackflame Monk] Blackflame Monk Armor
+[Blackflame Monk] Blackflame Monk Gauntlets
+[Blackflame Monk] Blackflame Monk Greaves
+[Blackflame Monk] Smoldering Butterfly
+[Blackflame Monk] Fire Blossom
+[Blackflame Monk] Blackflame Monk Hood
+[Blackflame Monk] Blackflame Monk Armor
+[Blackflame Monk] Blackflame Monk Gauntlets
+[Blackflame Monk] Blackflame Monk Greaves
+[Blackflame Monk] Smoldering Butterfly
+[Blackflame Monk] Fire Blossom
+[Fire Prelate] Fire Prelate Helm
+[Fire Prelate] Fire Prelate Armor (Altered)
+[Fire Prelate] Fire Prelate Gauntlets
+[Fire Prelate] Fire Prelate Greaves
+[Fire Prelate] Fire Prelate Helm
+[Fire Prelate] Fire Prelate Armor
+[Fire Prelate] Fire Prelate Gauntlets
+[Fire Prelate] Fire Prelate Greaves
+[Fire Prelate] Thorned Whip
+[Fire Prelate] Fire Prelate Helm
+[Fire Prelate] Fire Prelate Armor (Altered)
+[Fire Prelate] Fire Prelate Gauntlets
+[Fire Prelate] Fire Prelate Greaves
+[Fire Prelate] Thorned Whip
+[Fire Prelate] Fire Prelate Helm
+[Fire Prelate] Fire Prelate Armor
+[Fire Prelate] Fire Prelate Gauntlets
+[Fire Prelate] Fire Prelate Greaves
+[Fire Prelate] Fire Prelate Helm
+[Fire Prelate] Fire Prelate Armor (Altered)
+[Fire Prelate] Fire Prelate Gauntlets
+[Fire Prelate] Fire Prelate Greaves
+[Fire Prelate] Prelate's Inferno Crozier
+[Man-Serpent] Volcanic Stone
+[Man-Serpent] Man-Serpent's Shield
+[Man-Serpent] Volcanic Stone
+[Man-Serpent] Magma Blade
+[Man-Serpent] Man-Serpent's Shield
+[Man-Serpent] Volcanic Stone
+[Man-Serpent] Gelmir Glintstone Staff
+[Man-Serpent] Volcanic Stone
+[Man-Serpent] Volcanic Stone
+[Azula Beastman] Beastman's Curved Sword
+[Azula Beastman] Sanctuary Stone
+[Azula Beastman] Beastman's Curved Sword
+[Azula Beastman] Beastman's Jar-Shield
+[Azula Beastman] Sanctuary Stone
+[Azula Beastman] Beastman's Curved Sword
+[Azula Beastman] Sanctuary Stone
+[Azula Beastman] Beastman's Curved Sword
+[Azula Beastman] Beastman's Jar-Shield
+[Azula Beastman] Sanctuary Stone
+[Azula Beastman] Beastman's Curved Sword
+[Azula Beastman] Sanctuary Stone
+[Azula Beastman] Sanctuary Stone
+[Azula Beastman] Sanctuary Stone
+[Azula Beastman] Beastman's Jar-Shield
+[Azula Beastman] Sanctuary Stone
+[Azula Beastman] Beastman's Jar-Shield
+[Azula Beastman] Sanctuary Stone
+[Azula Beastman] Beastman's Cleaver
+[Azula Beastman] Sanctuary Stone
+[Azula Beastman] Beastman's Cleaver
+[Azula Beastman] Sanctuary Stone
+[Azula Beastman] Beastman's Cleaver
+[Azula Beastman] Sanctuary Stone
+[Azula Beastman] Sanctuary Stone
+[Azula Beastman] Gravel Stone
+[Azula Beastman] Sanctuary Stone
+[Azula Beastman] Gravel Stone
+[Royal Rider] Grave Violet
+[Royal Rider] Grave Violet
+[Royal Rider] Grave Violet
+[Royal Revenant] None
+[Royal Revenant] Sacrificial Twig
+[Royal Revenant] Ghost Glovewort [2]
+[Royal Revenant] Sacrificial Twig
+[Royal Revenant] Ghost Glovewort [2]
+[Royal Revenant] Sacrificial Twig
+[Royal Revenant] Ghost Glovewort [2]
+[Royal Revenant] Sacrificial Twig
+[Royal Revenant] Ghost Glovewort [4]
+[Royal Revenant] Sacrificial Twig
+[Royal Revenant] Ghost Glovewort [4]
+[Royal Revenant] Sacrificial Twig
+[Royal Revenant] Ghost Glovewort [4]
+[Royal Revenant] Sacrificial Twig
+[Royal Revenant] Ghost Glovewort [4]
+[Royal Revenant] Sacrificial Twig
+[Royal Revenant] Ghost Glovewort [4]
+[Royal Revenant] Sacrificial Twig
+[Royal Revenant] Ghost Glovewort [6]
+[Royal Revenant] Sacrificial Twig
+[Royal Revenant] Ghost Glovewort [4]
+[Royal Revenant] Sacrificial Twig
+[Royal Revenant] Ghost Glovewort [9]
+[Royal Revenant] Sacrificial Twig
+[Royal Revenant] Ghost Glovewort [9]
+[Royal Revenant] Sacrificial Twig
+[Royal Revenant] Ghost Glovewort [9]
+[Royal Revenant] Sacrificial Twig
+[Royal Revenant] Ghost Glovewort [9]
+[Royal Revenant] Sacrificial Twig
+[Royal Revenant] Ghost Glovewort [9]
+[Slug] Grave Violet
+[Slug] Grave Violet
+[Slug] Smoldering Butterfly
+[Slug] Smoldering Butterfly
+[Slug] Grave Violet
+[Kaiden Sellsword] Dismounter
+[Kaiden Sellsword] Kaiden Helm
+[Kaiden Sellsword] Kaiden Armor
+[Kaiden Sellsword] Kaiden Gauntlets
+[Kaiden Sellsword] Kaiden Trousers
+[Kaiden Sellsword] Rowa Raisin
+[Kaiden Sellsword] Sweet Raisin
+[Kaiden Sellsword] Frozen Raisin
+[Horse] Sliver of Meat
+[Horse] Beast Liver
+[Wolf] Thin Beast Bones
+[Wolf] Lump of Flesh
+[White Wolf] Thin Beast Bones
+[White Wolf] Lump of Flesh
+[Rat] Golden Rune [1]
+[Rat] Rune Arc
+[Rat] Golden Rune [1]
+[Rat] Rune Arc
+[Rat] Golden Rune [1]
+[Rat] Yellow Ember
+[Rat] Rune Arc
+[Rat] Golden Rune [1]
+[Rat] Yellow Ember
+[Rat] Rune Arc
+[Giant Rat] Golden Rune [3]
+[Giant Rat] Rune Arc
+[Giant Rat] Golden Rune [3]
+[Giant Rat] Rune Arc
+[Giant Rat] Golden Rune [3]
+[Giant Rat] Yellow Ember
+[Giant Rat] Rune Arc
+[Giant Rat] Golden Rune [3]
+[Giant Rat] Yellow Ember
+[Giant Rat] Rune Arc
+[Demi-Human] Falchion
+[Demi-Human] Rickety Shield
+[Demi-Human] String
+[Demi-Human] Glass Shard
+[Demi-Human] Ruin Fragment
+[Demi-Human] Rainbow Stone
+[Demi-Human] Glowstone
+[Demi-Human] Falchion
+[Demi-Human] Rickety Shield
+[Demi-Human] String
+[Demi-Human] Glass Shard
+[Demi-Human] Ruin Fragment
+[Demi-Human] Glowstone
+[Demi-Human] Volcanic Stone
+[Demi-Human] Falchion
+[Demi-Human] String
+[Demi-Human] Glass Shard
+[Demi-Human] Ruin Fragment
+[Demi-Human] Rainbow Stone
+[Demi-Human] Glowstone
+[Demi-Human] Falchion
+[Demi-Human] String
+[Demi-Human] Glass Shard
+[Demi-Human] Ruin Fragment
+[Demi-Human] Glowstone
+[Demi-Human] Volcanic Stone
+[Demi-Human] Club
+[Demi-Human] String
+[Demi-Human] Glass Shard
+[Demi-Human] Ruin Fragment
+[Demi-Human] Rainbow Stone
+[Demi-Human] Glowstone
+[Demi-Human] Club
+[Demi-Human] String
+[Demi-Human] Glass Shard
+[Demi-Human] Ruin Fragment
+[Demi-Human] Glowstone
+[Demi-Human] Volcanic Stone
+[Large Demi-Human] Spiked Club
+[Large Demi-Human] String
+[Large Demi-Human] Glass Shard
+[Large Demi-Human] Ruin Fragment
+[Large Demi-Human] Rainbow Stone
+[Large Demi-Human] Glowstone
+[Large Demi-Human] Spiked Club
+[Large Demi-Human] String
+[Large Demi-Human] Glass Shard
+[Large Demi-Human] Ruin Fragment
+[Large Demi-Human] Glowstone
+[Large Demi-Human] Volcanic Stone
+[Demi-Human Shaman] Great Knife
+[Demi-Human Shaman] String
+[Demi-Human Shaman] Glass Shard
+[Demi-Human Shaman] Ruin Fragment
+[Demi-Human Shaman] Rainbow Stone
+[Demi-Human Shaman] Glowstone
+[Demi-Human Beastman] Bloodstained Dagger
+[Demi-Human Beastman] String
+[Demi-Human Beastman] Glass Shard
+[Demi-Human Beastman] Ruin Fragment
+[Demi-Human Beastman] Rainbow Stone
+[Demi-Human Beastman] Glowstone
+[Demi-Human Beastman] None
+[Demi-Human Queen] None
+[Snail] Serpent Arrow
+[Snail] Serpent Arrow
+[Snail] Grave Glovewort [1]
+[Snail] Grave Glovewort [2]
+[Snail] Grave Glovewort [3]
+[Snail] Serpent Arrow
+[Snail] Glintstone Firefly
+[Snail] Serpent Arrow
+[Basilisk] None
+[Basilisk] Aeonian Butterfly
+[Basilisk] None
+[Large Stray] Thin Beast Bones
+[Large Stray] Beast Blood
+[Large Stray] Thin Beast Bones
+[Large Stray] Ruin Fragment
+[Large Stray] Sanctuary Stone
+[Large Stray] Sacramental Bud
+[Large Stray] Ruin Fragment
+[Large Stray] Beast Blood
+[Stray] Thin Beast Bones
+[Stray] Beast Blood
+[Stray] Thin Beast Bones
+[Stray] Beast Blood
+[Stray] Sanctuary Stone
+[Stray] Sacramental Bud
+[Stray] Thin Beast Bones
+[Stray] Beast Blood
+[Small Putrid Flesh] Smithing Stone [1]
+[Small Putrid Flesh] Smithing Stone [2]
+[Small Putrid Flesh] Glass Shard
+[Small Putrid Flesh] Glass Shard
+[Small Putrid Flesh] Thin Beast Bones
+[Small Putrid Flesh] Hefty Beast Bone
+[Small Putrid Flesh] Glass Shard
+[Small Putrid Flesh] Smithing Stone [1]
+[Small Putrid Flesh] Smithing Stone [2]
+[Giant Putrid Flesh] Sacramental Bud
+[Giant Putrid Flesh] Beast Blood
+[Giant Putrid Flesh] Thin Beast Bones
+[Giant Putrid Flesh] Hefty Beast Bone
+[Giant Putrid Flesh] Glass Shard
+[Giant Putrid Flesh] Thin Beast Bones
+[Giant Putrid Flesh] Hefty Beast Bone
+[Giant Putrid Flesh] Smithing Stone [1]
+[Giant Putrid Flesh] Smithing Stone [2]
+[Giant Putrid Flesh] Beast Blood
+[Giant Putrid Flesh] Thin Beast Bones
+[Giant Putrid Flesh] Hefty Beast Bone
+[Jellyfish] Golden Rune [1]
+[Jellyfish] Grave Glovewort [1]
+[Jellyfish] Grave Glovewort [2]
+[Jellyfish] Grave Glovewort [3]
+[Jellyfish] Grave Glovewort [4]
+[Jellyfish] Grave Glovewort [5]
+[Jellyfish] Grave Glovewort [6]
+[Jellyfish] Grave Glovewort [7]
+[Jellyfish] Grave Glovewort [8]
+[Jellyfish] Golden Rune [3]
+[Jellyfish] Arteria Leaf
+[Jellyfish] Trina's Lily
+[Jellyfish] Golden Rune [3]
+[Jellyfish] Grave Glovewort [7]
+[Jellyfish] Grave Glovewort [8]
+[Man-Bat] None
+[Man-Bat] Golden Rune [1]
+[Man-Bat] Golden Rune [2]
+[Man-Bat] Golden Rune [3]
+[Man-Bat] Golden Rune [4]
+[Man-Bat] Golden Rune [5]
+[Man-Bat] Golden Rune [6]
+[Man-Bat] Golden Rune [7]
+[Man-Bat] Golden Rune [8]
+[Man-Bat] Golden Rune [9]
+[Man-Bat] Golden Rune [10]
+[Man-Bat] Golden Rune [11]
+[Man-Bat] None
+[Man-Bat] Golden Rune [1]
+[Man-Bat] Golden Rune [2]
+[Man-Bat] Golden Rune [3]
+[Man-Bat] Golden Rune [4]
+[Man-Bat] Golden Rune [5]
+[Man-Bat] Golden Rune [6]
+[Man-Bat] Golden Rune [7]
+[Man-Bat] Golden Rune [8]
+[Man-Bat] Golden Rune [9]
+[Man-Bat] Golden Rune [10]
+[Man-Bat] Golden Rune [11]
+[Bat Harpy] Golden Rune [6]
+[Bat Harpy] Golden Rune [6]
+[Bat Harpy] Golden Rune [6]
+[Bat Harpy] Golden Rune [6]
+[Bat Harpy] Golden Rune [6]
+[Bat Harpy] Golden Rune [6]
+[Bat Harpy] Golden Rune [9]
+[Bat Harpy] Golden Rune [9]
+[Bat Harpy] Golden Rune [9]
+[Bat Harpy] Golden Rune [9]
+[Bat Harpy] Golden Rune [9]
+[Bat Harpy] Golden Rune [9]
+[Bat Harpy] Golden Rune [9]
+[Bat Harpy] Golden Rune [9]
+[Bat Harpy] Golden Rune [9]
+[Bat Harpy] Golden Rune [9]
+[Bat Harpy] Golden Rune [9]
+[Warhawk] Warhawk's Talon
+[Warhawk] Stormhawk Feather
+[Warhawk] Flight Pinion
+[Warhawk] Stormhawk Feather
+[Warhawk] Flight Pinion
+[Giant Land Octopus] Land Octopus Ovary
+[Giant Land Octopus] Strip of White Flesh
+[Small Land Octopus] Octopus Head
+[Small Land Octopus] Land Octopus Ovary
+[Small Land Octopus] Strip of White Flesh
+[Small Land Octopus] Sacramental Bud
+[Small Land Octopus] Octopus Head
+[Small Land Octopus] Land Octopus Ovary
+[Small Land Octopus] Strip of White Flesh
+[Land Octopus (Small)] None
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [2]
+[Large Fingercreeper] Somber Smithing Stone [4]
+[Large Fingercreeper] Somber Smithing Stone [4]
+[Large Fingercreeper] Somber Smithing Stone [4]
+[Large Fingercreeper] Somber Smithing Stone [7]
+[Large Fingercreeper] Somber Smithing Stone [7]
+[Large Fingercreeper] Somber Smithing Stone [7]
+[Large Fingercreeper] Somber Smithing Stone [7]
+[Large Fingercreeper] Somber Smithing Stone [7]
+[Large Fingercreeper] Somber Smithing Stone [7]
+[Large Fingercreeper] Somber Smithing Stone [7]
+[Large Fingercreeper] Somber Smithing Stone [7]
+[Large Fingercreeper] Somber Smithing Stone [7]
+[Large Fingercreeper] Somber Smithing Stone [7]
+[Large Fingercreeper] Somber Smithing Stone [7]
+[Large Fingercreeper] Somber Smithing Stone [7]
+[Large Fingercreeper] Somber Smithing Stone [7]
+[Large Fingercreeper] Somber Smithing Stone [7]
+[Fingercreeper (Small)] None
+[Small Fingercreeper] Somber Smithing Stone [2]
+[Small Fingercreeper] Somber Smithing Stone [4]
+[Small Fingercreeper] Somber Smithing Stone [4]
+[Small Fingercreeper] Somber Smithing Stone [7]
+[Small Fingercreeper] Somber Smithing Stone [7]
+[Erdtree Burial Watchdog] Watchdog's Greatsword
+[Erdtree Burial Watchdog] Watchdog's Greatsword
+[Erdtree Burial Watchdog] None
+[Erdtree Burial Watchdog] Watchdog's Greatsword
+[Erdtree Burial Watchdog] Watchdog's Greatsword
+[Erdtree Burial Watchdog] None
+[Elder Lion] None
+[Giant Ant] Formic Rock
+[Giant Ant] None
+[Giant Ant] None
+[Giant Ant] None
+[Giant Ant] Formic Rock
+[Giant Ant] Formic Rock
+[Giant Ant] Formic Rock
+[Giant Ant] Formic Rock
+[Giant Ant] Formic Rock
+[Bloodhound Knight] None
+[Bloodhound Knight] Bloodhound Claws
+[Bloodhound Knight] Bloodhound Knight Helm
+[Bloodhound Knight] Bloodhound Knight Armor
+[Bloodhound Knight] Bloodhound Knight Gauntlets
+[Bloodhound Knight] Bloodhound Knight Greaves
+[Wandering Noble] Noble's Slender Sword
+[Wandering Noble] Aristocrat Garb (Altered)
+[Wandering Noble] Aristocrat Boots
+[Wandering Noble] Ruin Fragment
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Noble's Slender Sword
+[Wandering Noble] Ruin Fragment
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Noble's Slender Sword
+[Wandering Noble] Ruin Fragment
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Noble's Estoc
+[Wandering Noble] Aristocrat Hat
+[Wandering Noble] Aristocrat Coat
+[Wandering Noble] Ruin Fragment
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] None
+[Wandering Noble] Glintstone Staff
+[Wandering Noble] Aristocrat Headband
+[Wandering Noble] Aristocrat Garb
+[Wandering Noble] Aristocrat Boots
+[Wandering Noble] Ruin Fragment
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] None
+[Wandering Noble] Aristocrat Headband
+[Wandering Noble] Aristocrat Garb
+[Wandering Noble] Aristocrat Boots
+[Wandering Noble] Ruin Fragment
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Glintstone Staff
+[Wandering Noble] Old Aristocrat Cowl
+[Wandering Noble] Old Aristocrat Gown
+[Wandering Noble] Old Aristocrat Shoes
+[Wandering Noble] Ruin Fragment
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Ruin Fragment
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Ruin Fragment
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Ruin Fragment
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Aristocrat Garb (Altered)
+[Wandering Noble] Ruin Fragment
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Ruin Fragment
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Ruin Fragment
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Noble's Slender Sword
+[Wandering Noble] Aristocrat Garb (Altered)
+[Wandering Noble] Aristocrat Boots
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Noble's Slender Sword
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Noble's Slender Sword
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Noble's Estoc
+[Wandering Noble] Aristocrat Hat
+[Wandering Noble] Aristocrat Coat
+[Wandering Noble] Golden Sunflower
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Glintstone Staff
+[Wandering Noble] Aristocrat Headband
+[Wandering Noble] Aristocrat Garb
+[Wandering Noble] Aristocrat Boots
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Old Aristocrat Cowl
+[Wandering Noble] Old Aristocrat Gown
+[Wandering Noble] Old Aristocrat Shoes
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Golden Rune [10]
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Golden Rune [10]
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Aristocrat Garb (Altered)
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Golden Rune [12]
+[Wandering Noble] Noble's Estoc
+[Wandering Noble] Aristocrat Hat
+[Wandering Noble] Aristocrat Coat
+[Wandering Noble] Fire Blossom
+[Wandering Noble] Rimed Crystal Bud
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Golden Rune [13]
+[Wandering Noble] Rowa Fruit
+[Wandering Noble] Herba
+[Wandering Noble] Erdleaf Flower
+[Wandering Noble] Golden Rune [13]
+[Godrick Soldier] Lordsworn's Straight Sword
+[Godrick Soldier] Brass Shield
+[Godrick Soldier] Godrick Soldier Helm
+[Godrick Soldier] Tree-and-Beast Surcoat
+[Godrick Soldier] Godrick Soldier Gauntlets
+[Godrick Soldier] Godrick Soldier Greaves
+[Godrick Soldier] Bolt
+[Godrick Soldier] Lordsworn's Bolt
+[Godrick Soldier] Smithing Stone [1]
+[Godrick Soldier] Lordsworn's Straight Sword
+[Godrick Soldier] Godrick Soldier Helm
+[Godrick Soldier] Tree-and-Beast Surcoat
+[Godrick Soldier] Godrick Soldier Gauntlets
+[Godrick Soldier] Godrick Soldier Greaves
+[Godrick Soldier] Bolt
+[Godrick Soldier] Lordsworn's Bolt
+[Godrick Soldier] Smithing Stone [1]
+[Godrick Soldier] Lordsworn's Straight Sword
+[Godrick Soldier] Brass Shield
+[Godrick Soldier] Godrick Soldier Helm
+[Godrick Soldier] Tree-and-Beast Surcoat
+[Godrick Soldier] Godrick Soldier Gauntlets
+[Godrick Soldier] Godrick Soldier Greaves
+[Godrick Soldier] Bolt
+[Godrick Soldier] Lordsworn's Bolt
+[Godrick Soldier] Smithing Stone [1]
+[Godrick Soldier] Lordsworn's Straight Sword
+[Godrick Soldier] Brass Shield
+[Godrick Soldier] Heavy Crossbow
+[Godrick Soldier] Godrick Soldier Helm
+[Godrick Soldier] Tree-and-Beast Surcoat
+[Godrick Soldier] Godrick Soldier Gauntlets
+[Godrick Soldier] Godrick Soldier Greaves
+[Godrick Soldier] Bolt
+[Godrick Soldier] Lordsworn's Bolt
+[Godrick Soldier] Smithing Stone [1]
+[Godrick Soldier] Lordsworn's Straight Sword
+[Godrick Soldier] Godrick Soldier Helm
+[Godrick Soldier] Tree-and-Beast Surcoat
+[Godrick Soldier] Godrick Soldier Gauntlets
+[Godrick Soldier] Godrick Soldier Greaves
+[Godrick Soldier] Bolt
+[Godrick Soldier] Lordsworn's Bolt
+[Godrick Soldier] Smithing Stone [1]
+[Godrick Soldier] Warpick
+[Godrick Soldier] Brass Shield
+[Godrick Soldier] Godrick Soldier Helm
+[Godrick Soldier] Tree-and-Beast Surcoat
+[Godrick Soldier] Godrick Soldier Gauntlets
+[Godrick Soldier] Godrick Soldier Greaves
+[Godrick Soldier] Bolt
+[Godrick Soldier] Lordsworn's Bolt
+[Godrick Soldier] Smithing Stone [1]
+[Godrick Soldier] Warpick
+[Godrick Soldier] Godrick Soldier Helm
+[Godrick Soldier] Tree-and-Beast Surcoat
+[Godrick Soldier] Godrick Soldier Gauntlets
+[Godrick Soldier] Godrick Soldier Greaves
+[Godrick Soldier] Bolt
+[Godrick Soldier] Lordsworn's Bolt
+[Godrick Soldier] Smithing Stone [1]
+[Godrick Soldier] Warpick
+[Godrick Soldier] Godrick Soldier Helm
+[Godrick Soldier] Tree-and-Beast Surcoat
+[Godrick Soldier] Godrick Soldier Gauntlets
+[Godrick Soldier] Godrick Soldier Greaves
+[Godrick Soldier] Bolt
+[Godrick Soldier] Lordsworn's Bolt
+[Godrick Soldier] Smithing Stone [1]
+[Godrick Soldier] Godrick Soldier Helm
+[Godrick Soldier] Tree-and-Beast Surcoat
+[Godrick Soldier] Godrick Soldier Gauntlets
+[Godrick Soldier] Godrick Soldier Greaves
+[Godrick Soldier] Smithing Stone [1]
+[Godrick Soldier] Lordsworn's Shield
+[Godrick Soldier] Godrick Soldier Helm
+[Godrick Soldier] Tree-and-Beast Surcoat
+[Godrick Soldier] Godrick Soldier Gauntlets
+[Godrick Soldier] Godrick Soldier Greaves
+[Godrick Soldier] Smithing Stone [1]
+[Raya Lucaria Soldier] Lordsworn's Straight Sword
+[Raya Lucaria Soldier] Brass Shield
+[Raya Lucaria Soldier] Raya Lucarian Helm
+[Raya Lucaria Soldier] Cuckoo Surcoat
+[Raya Lucaria Soldier] Raya Lucarian Gauntlets
+[Raya Lucaria Soldier] Raya Lucarian Greaves
+[Raya Lucaria Soldier] Cuckoo Glintstone
+[Raya Lucaria Soldier] Bolt
+[Raya Lucaria Soldier] Lordsworn's Bolt
+[Raya Lucaria Soldier] Smithing Stone [1]
+[Raya Lucaria Soldier] Smithing Stone [2]
+[Raya Lucaria Soldier] Smithing Stone [3]
+[Raya Lucaria Soldier] Lordsworn's Straight Sword
+[Raya Lucaria Soldier] Brass Shield
+[Raya Lucaria Soldier] Heavy Crossbow
+[Raya Lucaria Soldier] Raya Lucarian Helm
+[Raya Lucaria Soldier] Cuckoo Surcoat
+[Raya Lucaria Soldier] Raya Lucarian Gauntlets
+[Raya Lucaria Soldier] Raya Lucarian Greaves
+[Raya Lucaria Soldier] Cuckoo Glintstone
+[Raya Lucaria Soldier] Bolt
+[Raya Lucaria Soldier] Lordsworn's Bolt
+[Raya Lucaria Soldier] Smithing Stone [1]
+[Raya Lucaria Soldier] Smithing Stone [2]
+[Raya Lucaria Soldier] Smithing Stone [3]
+[Raya Lucaria Soldier] Warpick
+[Raya Lucaria Soldier] Raya Lucarian Helm
+[Raya Lucaria Soldier] Cuckoo Surcoat
+[Raya Lucaria Soldier] Raya Lucarian Gauntlets
+[Raya Lucaria Soldier] Raya Lucarian Greaves
+[Raya Lucaria Soldier] Cuckoo Glintstone
+[Raya Lucaria Soldier] Bolt
+[Raya Lucaria Soldier] Lordsworn's Bolt
+[Raya Lucaria Soldier] Smithing Stone [1]
+[Raya Lucaria Soldier] Smithing Stone [2]
+[Raya Lucaria Soldier] Smithing Stone [3]
+[Raya Lucaria Soldier] Raya Lucarian Helm
+[Raya Lucaria Soldier] Cuckoo Surcoat
+[Raya Lucaria Soldier] Raya Lucarian Gauntlets
+[Raya Lucaria Soldier] Raya Lucarian Greaves
+[Raya Lucaria Soldier] Cuckoo Glintstone
+[Raya Lucaria Soldier] Smithing Stone [1]
+[Raya Lucaria Soldier] Smithing Stone [2]
+[Raya Lucaria Soldier] Smithing Stone [3]
+[Raya Lucaria Soldier] Lordsworn's Shield
+[Raya Lucaria Soldier] Raya Lucarian Helm
+[Raya Lucaria Soldier] Cuckoo Surcoat
+[Raya Lucaria Soldier] Raya Lucarian Gauntlets
+[Raya Lucaria Soldier] Raya Lucarian Greaves
+[Raya Lucaria Soldier] Cuckoo Glintstone
+[Raya Lucaria Soldier] Smithing Stone [1]
+[Raya Lucaria Soldier] Smithing Stone [2]
+[Raya Lucaria Soldier] Smithing Stone [3]
+[Raya Lucaria Soldier] Lordsworn's Straight Sword
+[Raya Lucaria Soldier] Raya Lucarian Helm
+[Raya Lucaria Soldier] Cuckoo Surcoat
+[Raya Lucaria Soldier] Raya Lucarian Gauntlets
+[Raya Lucaria Soldier] Raya Lucarian Greaves
+[Raya Lucaria Soldier] Cuckoo Glintstone
+[Raya Lucaria Soldier] Bolt
+[Raya Lucaria Soldier] Lordsworn's Bolt
+[Raya Lucaria Soldier] Smithing Stone [1]
+[Raya Lucaria Soldier] Smithing Stone [2]
+[Raya Lucaria Soldier] Smithing Stone [3]
+[Raya Lucaria Soldier] Warpick
+[Raya Lucaria Soldier] Brass Shield
+[Raya Lucaria Soldier] Raya Lucarian Helm
+[Raya Lucaria Soldier] Cuckoo Surcoat
+[Raya Lucaria Soldier] Raya Lucarian Gauntlets
+[Raya Lucaria Soldier] Raya Lucarian Greaves
+[Raya Lucaria Soldier] Cuckoo Glintstone
+[Raya Lucaria Soldier] Bolt
+[Raya Lucaria Soldier] Lordsworn's Bolt
+[Raya Lucaria Soldier] Smithing Stone [1]
+[Raya Lucaria Soldier] Smithing Stone [2]
+[Raya Lucaria Soldier] Smithing Stone [3]
+[Raya Lucaria Soldier] Warpick
+[Raya Lucaria Soldier] Heavy Crossbow
+[Raya Lucaria Soldier] Raya Lucarian Helm
+[Raya Lucaria Soldier] Cuckoo Surcoat
+[Raya Lucaria Soldier] Raya Lucarian Gauntlets
+[Raya Lucaria Soldier] Raya Lucarian Greaves
+[Raya Lucaria Soldier] Cuckoo Glintstone
+[Raya Lucaria Soldier] Bolt
+[Raya Lucaria Soldier] Lordsworn's Bolt
+[Raya Lucaria Soldier] Smithing Stone [1]
+[Raya Lucaria Soldier] Smithing Stone [2]
+[Raya Lucaria Soldier] Smithing Stone [3]
+[Leyndell Soldier] Lordsworn's Straight Sword
+[Leyndell Soldier] Brass Shield
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Bolt
+[Leyndell Soldier] Lordsworn's Bolt
+[Leyndell Soldier] Smithing Stone [3]
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Lordsworn's Straight Sword
+[Leyndell Soldier] Brass Shield
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Bolt
+[Leyndell Soldier] Lordsworn's Bolt
+[Leyndell Soldier] Smithing Stone [3]
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Warpick
+[Leyndell Soldier] Brass Shield
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Bolt
+[Leyndell Soldier] Lordsworn's Bolt
+[Leyndell Soldier] Smithing Stone [3]
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Warpick
+[Leyndell Soldier] Heavy Crossbow
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Bolt
+[Leyndell Soldier] Lordsworn's Bolt
+[Leyndell Soldier] Smithing Stone [3]
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Smithing Stone [3]
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Lordsworn's Shield
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Smithing Stone [3]
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Lordsworn's Straight Sword
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Bolt
+[Leyndell Soldier] Lordsworn's Bolt
+[Leyndell Soldier] Smithing Stone [3]
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Lordsworn's Straight Sword
+[Leyndell Soldier] Brass Shield
+[Leyndell Soldier] Heavy Crossbow
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Bolt
+[Leyndell Soldier] Lordsworn's Bolt
+[Leyndell Soldier] Smithing Stone [3]
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Warpick
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Bolt
+[Leyndell Soldier] Lordsworn's Bolt
+[Leyndell Soldier] Smithing Stone [3]
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Lordsworn's Straight Sword
+[Leyndell Soldier] Brass Shield
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Bolt
+[Leyndell Soldier] Lordsworn's Bolt
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Smithing Stone [6]
+[Leyndell Soldier] Lordsworn's Straight Sword
+[Leyndell Soldier] Brass Shield
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Bolt
+[Leyndell Soldier] Lordsworn's Bolt
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Smithing Stone [6]
+[Leyndell Soldier] Warpick
+[Leyndell Soldier] Brass Shield
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Bolt
+[Leyndell Soldier] Lordsworn's Bolt
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Smithing Stone [6]
+[Leyndell Soldier] Warpick
+[Leyndell Soldier] Heavy Crossbow
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Bolt
+[Leyndell Soldier] Lordsworn's Bolt
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Smithing Stone [6]
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Smithing Stone [6]
+[Leyndell Soldier] Lordsworn's Shield
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Smithing Stone [6]
+[Leyndell Soldier] Lordsworn's Straight Sword
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Bolt
+[Leyndell Soldier] Lordsworn's Bolt
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Smithing Stone [6]
+[Leyndell Soldier] Lordsworn's Straight Sword
+[Leyndell Soldier] Brass Shield
+[Leyndell Soldier] Heavy Crossbow
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Bolt
+[Leyndell Soldier] Lordsworn's Bolt
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Smithing Stone [6]
+[Leyndell Soldier] Warpick
+[Leyndell Soldier] Leyndell Soldier Helm
+[Leyndell Soldier] Erdtree Surcoat
+[Leyndell Soldier] Leyndell Soldier Gauntlets
+[Leyndell Soldier] Leyndell Soldier Greaves
+[Leyndell Soldier] Bolt
+[Leyndell Soldier] Lordsworn's Bolt
+[Leyndell Soldier] Smithing Stone [4]
+[Leyndell Soldier] Smithing Stone [5]
+[Leyndell Soldier] Smithing Stone [6]
+[Radahn Soldier] Lordsworn's Straight Sword
+[Radahn Soldier] Brass Shield
+[Radahn Soldier] Radahn Soldier Helm
+[Radahn Soldier] Redmane Surcoat
+[Radahn Soldier] Radahn Soldier Gauntlets
+[Radahn Soldier] Radahn Soldier Greaves
+[Radahn Soldier] Bolt
+[Radahn Soldier] Lordsworn's Bolt
+[Radahn Soldier] Smoldering Butterfly
+[Radahn Soldier] Mushroom
+[Radahn Soldier] Smithing Stone [2]
+[Radahn Soldier] Smithing Stone [3]
+[Radahn Soldier] Smithing Stone [4]
+[Radahn Soldier] Lordsworn's Straight Sword
+[Radahn Soldier] Brass Shield
+[Radahn Soldier] Radahn Soldier Helm
+[Radahn Soldier] Redmane Surcoat
+[Radahn Soldier] Radahn Soldier Gauntlets
+[Radahn Soldier] Radahn Soldier Greaves
+[Radahn Soldier] Bolt
+[Radahn Soldier] Lordsworn's Bolt
+[Radahn Soldier] Smoldering Butterfly
+[Radahn Soldier] Mushroom
+[Radahn Soldier] Smithing Stone [2]
+[Radahn Soldier] Smithing Stone [3]
+[Radahn Soldier] Smithing Stone [4]
+[Radahn Soldier] Warpick
+[Radahn Soldier] Brass Shield
+[Radahn Soldier] Radahn Soldier Helm
+[Radahn Soldier] Redmane Surcoat
+[Radahn Soldier] Radahn Soldier Gauntlets
+[Radahn Soldier] Radahn Soldier Greaves
+[Radahn Soldier] Bolt
+[Radahn Soldier] Lordsworn's Bolt
+[Radahn Soldier] Smoldering Butterfly
+[Radahn Soldier] Mushroom
+[Radahn Soldier] Smithing Stone [2]
+[Radahn Soldier] Smithing Stone [3]
+[Radahn Soldier] Smithing Stone [4]
+[Radahn Soldier] Warpick
+[Radahn Soldier] Heavy Crossbow
+[Radahn Soldier] Radahn Soldier Helm
+[Radahn Soldier] Redmane Surcoat
+[Radahn Soldier] Radahn Soldier Gauntlets
+[Radahn Soldier] Radahn Soldier Greaves
+[Radahn Soldier] Bolt
+[Radahn Soldier] Lordsworn's Bolt
+[Radahn Soldier] Smoldering Butterfly
+[Radahn Soldier] Mushroom
+[Radahn Soldier] Smithing Stone [2]
+[Radahn Soldier] Smithing Stone [3]
+[Radahn Soldier] Smithing Stone [4]
+[Radahn Soldier] Radahn Soldier Helm
+[Radahn Soldier] Redmane Surcoat
+[Radahn Soldier] Radahn Soldier Gauntlets
+[Radahn Soldier] Radahn Soldier Greaves
+[Radahn Soldier] Smithing Stone [2]
+[Radahn Soldier] Smithing Stone [3]
+[Radahn Soldier] Smithing Stone [4]
+[Radahn Soldier] Lordsworn's Shield
+[Radahn Soldier] Radahn Soldier Helm
+[Radahn Soldier] Redmane Surcoat
+[Radahn Soldier] Radahn Soldier Gauntlets
+[Radahn Soldier] Radahn Soldier Greaves
+[Radahn Soldier] Smithing Stone [2]
+[Radahn Soldier] Smithing Stone [3]
+[Radahn Soldier] Smithing Stone [4]
+[Radahn Soldier] Lordsworn's Straight Sword
+[Radahn Soldier] Radahn Soldier Helm
+[Radahn Soldier] Redmane Surcoat
+[Radahn Soldier] Radahn Soldier Gauntlets
+[Radahn Soldier] Radahn Soldier Greaves
+[Radahn Soldier] Bolt
+[Radahn Soldier] Lordsworn's Bolt
+[Radahn Soldier] Smoldering Butterfly
+[Radahn Soldier] Mushroom
+[Radahn Soldier] Smithing Stone [2]
+[Radahn Soldier] Smithing Stone [3]
+[Radahn Soldier] Smithing Stone [4]
+[Radahn Soldier] Lordsworn's Straight Sword
+[Radahn Soldier] Brass Shield
+[Radahn Soldier] Heavy Crossbow
+[Radahn Soldier] Radahn Soldier Helm
+[Radahn Soldier] Redmane Surcoat
+[Radahn Soldier] Radahn Soldier Gauntlets
+[Radahn Soldier] Radahn Soldier Greaves
+[Radahn Soldier] Bolt
+[Radahn Soldier] Lordsworn's Bolt
+[Radahn Soldier] Smoldering Butterfly
+[Radahn Soldier] Mushroom
+[Radahn Soldier] Smithing Stone [2]
+[Radahn Soldier] Smithing Stone [3]
+[Radahn Soldier] Smithing Stone [4]
+[Radahn Soldier] Warpick
+[Radahn Soldier] Radahn Soldier Helm
+[Radahn Soldier] Redmane Surcoat
+[Radahn Soldier] Radahn Soldier Gauntlets
+[Radahn Soldier] Radahn Soldier Greaves
+[Radahn Soldier] Bolt
+[Radahn Soldier] Lordsworn's Bolt
+[Radahn Soldier] Smoldering Butterfly
+[Radahn Soldier] Mushroom
+[Radahn Soldier] Smithing Stone [2]
+[Radahn Soldier] Smithing Stone [3]
+[Radahn Soldier] Smithing Stone [4]
+[Mausoleum Soldier] Lordsworn's Straight Sword
+[Mausoleum Soldier] Brass Shield
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Bolt
+[Mausoleum Soldier] Lordsworn's Bolt
+[Mausoleum Soldier] Smithing Stone [1]
+[Mausoleum Soldier] Lordsworn's Straight Sword
+[Mausoleum Soldier] Brass Shield
+[Mausoleum Soldier] Heavy Crossbow
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Bolt
+[Mausoleum Soldier] Lordsworn's Bolt
+[Mausoleum Soldier] Smithing Stone [1]
+[Mausoleum Soldier] Warpick
+[Mausoleum Soldier] Brass Shield
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Bolt
+[Mausoleum Soldier] Lordsworn's Bolt
+[Mausoleum Soldier] Smithing Stone [1]
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Lordsworn's Shield
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Lordsworn's Straight Sword
+[Mausoleum Soldier] Brass Shield
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Bolt
+[Mausoleum Soldier] Lordsworn's Bolt
+[Mausoleum Soldier] Smithing Stone [1]
+[Mausoleum Soldier] Lordsworn's Straight Sword
+[Mausoleum Soldier] Brass Shield
+[Mausoleum Soldier] Heavy Crossbow
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Bolt
+[Mausoleum Soldier] Lordsworn's Bolt
+[Mausoleum Soldier] Smithing Stone [1]
+[Mausoleum Soldier] Warpick
+[Mausoleum Soldier] Brass Shield
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Bolt
+[Mausoleum Soldier] Lordsworn's Bolt
+[Mausoleum Soldier] Smithing Stone [1]
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Smithing Stone [1]
+[Mausoleum Soldier] Lordsworn's Shield
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Smithing Stone [1]
+[Mausoleum Soldier] Lordsworn's Straight Sword
+[Mausoleum Soldier] Brass Shield
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Bolt
+[Mausoleum Soldier] Lordsworn's Bolt
+[Mausoleum Soldier] Smithing Stone [1]
+[Mausoleum Soldier] Smithing Stone [2]
+[Mausoleum Soldier] Smithing Stone [3]
+[Mausoleum Soldier] Lordsworn's Straight Sword
+[Mausoleum Soldier] Brass Shield
+[Mausoleum Soldier] Heavy Crossbow
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Bolt
+[Mausoleum Soldier] Lordsworn's Bolt
+[Mausoleum Soldier] Smithing Stone [1]
+[Mausoleum Soldier] Smithing Stone [2]
+[Mausoleum Soldier] Smithing Stone [3]
+[Mausoleum Soldier] Warpick
+[Mausoleum Soldier] Brass Shield
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Bolt
+[Mausoleum Soldier] Lordsworn's Bolt
+[Mausoleum Soldier] Smithing Stone [1]
+[Mausoleum Soldier] Smithing Stone [2]
+[Mausoleum Soldier] Smithing Stone [3]
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Smithing Stone [1]
+[Mausoleum Soldier] Smithing Stone [2]
+[Mausoleum Soldier] Smithing Stone [3]
+[Mausoleum Soldier] Lordsworn's Shield
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Smithing Stone [1]
+[Mausoleum Soldier] Smithing Stone [2]
+[Mausoleum Soldier] Smithing Stone [3]
+[Mausoleum Soldier] Lordsworn's Straight Sword
+[Mausoleum Soldier] Brass Shield
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Bolt
+[Mausoleum Soldier] Lordsworn's Bolt
+[Mausoleum Soldier] Smithing Stone [6]
+[Mausoleum Soldier] Smithing Stone [7]
+[Mausoleum Soldier] Smithing Stone [8]
+[Mausoleum Soldier] Lordsworn's Straight Sword
+[Mausoleum Soldier] Brass Shield
+[Mausoleum Soldier] Heavy Crossbow
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Bolt
+[Mausoleum Soldier] Lordsworn's Bolt
+[Mausoleum Soldier] Smithing Stone [6]
+[Mausoleum Soldier] Smithing Stone [7]
+[Mausoleum Soldier] Smithing Stone [8]
+[Mausoleum Soldier] Warpick
+[Mausoleum Soldier] Brass Shield
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Bolt
+[Mausoleum Soldier] Lordsworn's Bolt
+[Mausoleum Soldier] Smithing Stone [6]
+[Mausoleum Soldier] Smithing Stone [7]
+[Mausoleum Soldier] Smithing Stone [8]
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Smithing Stone [6]
+[Mausoleum Soldier] Smithing Stone [7]
+[Mausoleum Soldier] Smithing Stone [8]
+[Mausoleum Soldier] Lordsworn's Shield
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Smithing Stone [6]
+[Mausoleum Soldier] Smithing Stone [7]
+[Mausoleum Soldier] Smithing Stone [8]
+[Mausoleum Soldier] Lordsworn's Straight Sword
+[Mausoleum Soldier] Brass Shield
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Bolt
+[Mausoleum Soldier] Lordsworn's Bolt
+[Mausoleum Soldier] Smithing Stone [4]
+[Mausoleum Soldier] Smithing Stone [5]
+[Mausoleum Soldier] Smithing Stone [6]
+[Mausoleum Soldier] Lordsworn's Straight Sword
+[Mausoleum Soldier] Brass Shield
+[Mausoleum Soldier] Heavy Crossbow
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Bolt
+[Mausoleum Soldier] Lordsworn's Bolt
+[Mausoleum Soldier] Smithing Stone [4]
+[Mausoleum Soldier] Smithing Stone [5]
+[Mausoleum Soldier] Smithing Stone [6]
+[Mausoleum Soldier] Warpick
+[Mausoleum Soldier] Brass Shield
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Bolt
+[Mausoleum Soldier] Lordsworn's Bolt
+[Mausoleum Soldier] Smithing Stone [4]
+[Mausoleum Soldier] Smithing Stone [5]
+[Mausoleum Soldier] Smithing Stone [6]
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Smithing Stone [4]
+[Mausoleum Soldier] Smithing Stone [5]
+[Mausoleum Soldier] Smithing Stone [6]
+[Mausoleum Soldier] Lordsworn's Shield
+[Mausoleum Soldier] Mausoleum Surcoat
+[Mausoleum Soldier] Mausoleum Gauntlets
+[Mausoleum Soldier] Mausoleum Greaves
+[Mausoleum Soldier] Smithing Stone [4]
+[Mausoleum Soldier] Smithing Stone [5]
+[Mausoleum Soldier] Smithing Stone [6]
+[Haligtree Soldier] Lordsworn's Straight Sword
+[Haligtree Soldier] Brass Shield
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Lordsworn's Straight Sword
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Lordsworn's Straight Sword
+[Haligtree Soldier] Brass Shield
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Lordsworn's Straight Sword
+[Haligtree Soldier] Brass Shield
+[Haligtree Soldier] Heavy Crossbow
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Warpick
+[Haligtree Soldier] Brass Shield
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Warpick
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Warpick
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Warpick
+[Haligtree Soldier] Heavy Crossbow
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Lordsworn's Shield
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Miquella's Lily
+[Haligtree Soldier] Lordsworn's Straight Sword
+[Haligtree Soldier] Brass Shield
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Miquella's Lily
+[Haligtree Soldier] Lordsworn's Straight Sword
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Miquella's Lily
+[Haligtree Soldier] Lordsworn's Straight Sword
+[Haligtree Soldier] Brass Shield
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Lordsworn's Straight Sword
+[Haligtree Soldier] Brass Shield
+[Haligtree Soldier] Heavy Crossbow
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Miquella's Lily
+[Haligtree Soldier] Warpick
+[Haligtree Soldier] Brass Shield
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Miquella's Lily
+[Haligtree Soldier] Warpick
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Miquella's Lily
+[Haligtree Soldier] Warpick
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Miquella's Lily
+[Haligtree Soldier] Warpick
+[Haligtree Soldier] Heavy Crossbow
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Bolt
+[Haligtree Soldier] Lordsworn's Bolt
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Miquella's Lily
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Haligtree Soldier] Miquella's Lily
+[Haligtree Soldier] Lordsworn's Shield
+[Haligtree Soldier] Haligtree Helm
+[Haligtree Soldier] Haligtree Crest Surcoat
+[Haligtree Soldier] Haligtree Gauntlets
+[Haligtree Soldier] Haligtree Greaves
+[Haligtree Soldier] Smithing Stone [6]
+[Haligtree Soldier] Smithing Stone [7]
+[Haligtree Soldier] Smithing Stone [8]
+[Vulgar Militia] Vulgar Militia Saw
+[Vulgar Militia] Vulgar Militia Helm
+[Vulgar Militia] Vulgar Militia Armor
+[Vulgar Militia] Vulgar Militia Gauntlets
+[Vulgar Militia] Vulgar Militia Greaves
+[Vulgar Militia] Kukri
+[Vulgar Militia] Vulgar Militia Saw
+[Vulgar Militia] Vulgar Militia Helm
+[Vulgar Militia] Vulgar Militia Armor
+[Vulgar Militia] Vulgar Militia Gauntlets
+[Vulgar Militia] Vulgar Militia Greaves
+[Vulgar Militia] Kukri
+[Vulgar Militia] Vulgar Militia Shotel
+[Vulgar Militia] Vulgar Militia Helm
+[Vulgar Militia] Vulgar Militia Armor
+[Vulgar Militia] Vulgar Militia Gauntlets
+[Vulgar Militia] Vulgar Militia Greaves
+[Vulgar Militia] Kukri
+[Vulgar Militia] Vulgar Militia Shotel
+[Vulgar Militia] Vulgar Militia Helm
+[Vulgar Militia] Vulgar Militia Armor
+[Vulgar Militia] Vulgar Militia Gauntlets
+[Vulgar Militia] Vulgar Militia Greaves
+[Vulgar Militia] Kukri
+[Vulgar Militia] Vulgar Militia Helm
+[Vulgar Militia] Vulgar Militia Armor
+[Vulgar Militia] Vulgar Militia Gauntlets
+[Vulgar Militia] Vulgar Militia Greaves
+[Vulgar Militia] Kukri
+[Vulgar Militia] Vulgar Militia Helm
+[Vulgar Militia] Vulgar Militia Armor
+[Vulgar Militia] Vulgar Militia Gauntlets
+[Vulgar Militia] Vulgar Militia Greaves
+[Vulgar Militia] Kukri
+[Mad Pumpkin Head] Chainlink Flail
+[Mad Pumpkin Head] Pumpkin Helm
+[Mad Pumpkin Head] Sanctuary Stone
+[Mad Pumpkin Head] Chainlink Flail
+[Mad Pumpkin Head] Pumpkin Helm
+[Mad Pumpkin Head] Smithing Stone [1]
+[Mad Pumpkin Head] Sanctuary Stone
+[Mad Pumpkin Head] Chainlink Flail
+[Mad Pumpkin Head] Pumpkin Helm
+[Mad Pumpkin Head] Smithing Stone [2]
+[Mad Pumpkin Head] Sanctuary Stone
+[Mad Pumpkin Head] Chainlink Flail
+[Mad Pumpkin Head] Pumpkin Helm
+[Mad Pumpkin Head] Smithing Stone [3]
+[Mad Pumpkin Head] Sanctuary Stone
+[Mad Pumpkin Head] Chainlink Flail
+[Mad Pumpkin Head] Pumpkin Helm
+[Mad Pumpkin Head] Smithing Stone [4]
+[Mad Pumpkin Head] Sanctuary Stone
+[Mad Pumpkin Head] Pumpkin Helm
+[Mad Pumpkin Head] Sanctuary Stone
+[Mad Pumpkin Head] Pumpkin Helm
+[Mad Pumpkin Head] Smithing Stone [1]
+[Mad Pumpkin Head] Sanctuary Stone
+[Mad Pumpkin Head] Pumpkin Helm
+[Mad Pumpkin Head] Smithing Stone [2]
+[Mad Pumpkin Head] Sanctuary Stone
+[Mad Pumpkin Head] Pumpkin Helm
+[Mad Pumpkin Head] Smithing Stone [3]
+[Mad Pumpkin Head] Sanctuary Stone
+[Mad Pumpkin Head] Pumpkin Helm
+[Mad Pumpkin Head] Smithing Stone [4]
+[Mad Pumpkin Head] Sanctuary Stone
+[Godrick Knight] Knight's Greatsword
+[Godrick Knight] Gilded Greatshield
+[Godrick Knight] Godrick Knight Helm
+[Godrick Knight] Godrick Knight Armor
+[Godrick Knight] Godrick Knight Gauntlets
+[Godrick Knight] Godrick Knight Greaves
+[Godrick Knight] Partisan
+[Godrick Knight] Gilded Greatshield
+[Godrick Knight] Godrick Knight Helm
+[Godrick Knight] Godrick Knight Armor
+[Godrick Knight] Godrick Knight Gauntlets
+[Godrick Knight] Godrick Knight Greaves
+[Godrick Knight] Partisan
+[Godrick Knight] Gilded Greatshield
+[Godrick Knight] Godrick Knight Helm
+[Godrick Knight] Godrick Knight Armor
+[Godrick Knight] Godrick Knight Gauntlets
+[Godrick Knight] Godrick Knight Greaves
+[Godrick Knight] Ash of War: Golden Vow
+[Cuckoo Knight] Knight's Greatsword
+[Cuckoo Knight] Cuckoo Greatshield
+[Cuckoo Knight] Cuckoo Knight Helm
+[Cuckoo Knight] Cuckoo Knight Armor
+[Cuckoo Knight] Cuckoo Knight Gauntlets
+[Cuckoo Knight] Cuckoo Knight Greaves
+[Cuckoo Knight] Partisan
+[Cuckoo Knight] Cuckoo Greatshield
+[Cuckoo Knight] Cuckoo Knight Helm
+[Cuckoo Knight] Cuckoo Knight Armor
+[Cuckoo Knight] Cuckoo Knight Gauntlets
+[Cuckoo Knight] Cuckoo Knight Greaves
+[Leyndell Knight] Knight's Greatsword
+[Leyndell Knight] Golden Greatshield
+[Leyndell Knight] Leyndell Knight Helm
+[Leyndell Knight] Leyndell Knight Armor
+[Leyndell Knight] Leyndell Knight Gauntlets
+[Leyndell Knight] Leyndell Knight Greaves
+[Leyndell Knight] Partisan
+[Leyndell Knight] Golden Greatshield
+[Leyndell Knight] Leyndell Knight Helm
+[Leyndell Knight] Leyndell Knight Armor
+[Leyndell Knight] Leyndell Knight Gauntlets
+[Leyndell Knight] Leyndell Knight Greaves
+[Leyndell Knight] Partisan
+[Leyndell Knight] Golden Greatshield
+[Leyndell Knight] Leyndell Knight Helm
+[Leyndell Knight] Leyndell Knight Armor
+[Leyndell Knight] Leyndell Knight Gauntlets
+[Leyndell Knight] Leyndell Knight Greaves
+[Leyndell Knight] Knight's Greatsword
+[Leyndell Knight] Greatbow
+[Leyndell Knight] Leyndell Knight Helm
+[Leyndell Knight] Leyndell Knight Armor
+[Leyndell Knight] Leyndell Knight Gauntlets
+[Leyndell Knight] Leyndell Knight Greaves
+[Leyndell Knight] Great Arrow
+[Leyndell Knight] Partisan
+[Leyndell Knight] Golden Greatshield
+[Leyndell Knight] Leyndell Knight Helm
+[Leyndell Knight] Leyndell Knight Armor
+[Leyndell Knight] Leyndell Knight Gauntlets
+[Leyndell Knight] Leyndell Knight Greaves
+[Leyndell Knight] Gravel Stone Seal
+[Leyndell Knight] Knight's Greatsword
+[Leyndell Knight] Golden Greatshield
+[Leyndell Knight] Leyndell Knight Helm
+[Leyndell Knight] Leyndell Knight Armor
+[Leyndell Knight] Leyndell Knight Gauntlets
+[Leyndell Knight] Leyndell Knight Greaves
+[Leyndell Knight] Dragon Cult Prayerbook
+[Redmane Knight] Knight's Greatsword
+[Redmane Knight] Redmane Greatshield
+[Redmane Knight] Redmane Knight Helm
+[Redmane Knight] Redmane Knight Armor
+[Redmane Knight] Redmane Knight Gauntlets
+[Redmane Knight] Redmane Knight Greaves
+[Redmane Knight] Partisan
+[Redmane Knight] Redmane Greatshield
+[Redmane Knight] Redmane Knight Helm
+[Redmane Knight] Redmane Knight Armor
+[Redmane Knight] Redmane Knight Gauntlets
+[Redmane Knight] Redmane Knight Greaves
+[Redmane Knight] Partisan
+[Redmane Knight] Redmane Greatshield
+[Redmane Knight] Redmane Knight Helm
+[Redmane Knight] Redmane Knight Armor
+[Redmane Knight] Redmane Knight Gauntlets
+[Redmane Knight] Redmane Knight Greaves
+[Redmane Knight] Knight's Greatsword
+[Redmane Knight] Greatbow
+[Redmane Knight] Redmane Knight Helm
+[Redmane Knight] Redmane Knight Armor
+[Redmane Knight] Redmane Knight Gauntlets
+[Redmane Knight] Redmane Knight Greaves
+[Redmane Knight] Great Arrow
+[Mausoleum Knight] Knight's Greatsword
+[Mausoleum Knight] Eclipse Crest Greatshield
+[Mausoleum Knight] Mausoleum Knight Armor
+[Mausoleum Knight] Mausoleum Knight Gauntlets
+[Mausoleum Knight] Mausoleum Knight Greaves
+[Mausoleum Knight] Partisan
+[Mausoleum Knight] Eclipse Crest Greatshield
+[Mausoleum Knight] Mausoleum Knight Armor
+[Mausoleum Knight] Mausoleum Knight Gauntlets
+[Mausoleum Knight] Mausoleum Knight Greaves
+[Mausoleum Knight] Partisan
+[Mausoleum Knight] Mausoleum Knight Armor
+[Mausoleum Knight] Mausoleum Knight Gauntlets
+[Mausoleum Knight] Mausoleum Knight Greaves
+[Mausoleum Knight] Knight's Greatsword
+[Mausoleum Knight] Greatbow
+[Mausoleum Knight] Mausoleum Knight Armor
+[Mausoleum Knight] Mausoleum Knight Gauntlets
+[Mausoleum Knight] Mausoleum Knight Greaves
+[Mausoleum Knight] Great Arrow
+[Haligtree Knight] Knight's Greatsword
+[Haligtree Knight] Haligtree Crest Greatshield
+[Haligtree Knight] Haligtree Knight Armor
+[Haligtree Knight] Haligtree Knight Gauntlets
+[Haligtree Knight] Haligtree Knight Greaves
+[Haligtree Knight] Partisan
+[Haligtree Knight] Haligtree Knight Armor
+[Haligtree Knight] Haligtree Knight Gauntlets
+[Haligtree Knight] Haligtree Knight Greaves
+[Haligtree Knight] Knight's Greatsword
+[Haligtree Knight] Greatbow
+[Haligtree Knight] Haligtree Knight Armor
+[Haligtree Knight] Haligtree Knight Gauntlets
+[Haligtree Knight] Haligtree Knight Greaves
+[Haligtree Knight] Great Arrow
+[Haligtree Knight] Miquella's Lily
+[Haligtree Knight] Knight's Greatsword
+[Haligtree Knight] Haligtree Crest Greatshield
+[Haligtree Knight] Haligtree Knight Armor
+[Haligtree Knight] Haligtree Knight Gauntlets
+[Haligtree Knight] Haligtree Knight Greaves
+[Haligtree Knight] Miquella's Lily
+[Haligtree Knight] Partisan
+[Haligtree Knight] Haligtree Knight Armor
+[Haligtree Knight] Haligtree Knight Gauntlets
+[Haligtree Knight] Haligtree Knight Greaves
+[Haligtree Knight] Miquella's Lily
+[Haligtree Knight] Knight's Greatsword
+[Haligtree Knight] Greatbow
+[Haligtree Knight] Haligtree Knight Armor
+[Haligtree Knight] Haligtree Knight Gauntlets
+[Haligtree Knight] Haligtree Knight Greaves
+[Haligtree Knight] Great Arrow
+[Godrick Knight's Horse] Sliver of Meat
+[Godrick Knight's Horse] Beast Liver
+[Knight's Horse] None
+[Godrick Foot Soldier] Dagger
+[Godrick Foot Soldier] Foot Soldier Cap
+[Godrick Foot Soldier] Chain-Draped Tabard
+[Godrick Foot Soldier] Foot Soldier Gauntlets
+[Godrick Foot Soldier] Foot Soldier Greaves
+[Godrick Foot Soldier] Bolt
+[Godrick Foot Soldier] Dagger
+[Godrick Foot Soldier] Foot Soldier Cap
+[Godrick Foot Soldier] Chain-Draped Tabard
+[Godrick Foot Soldier] Foot Soldier Gauntlets
+[Godrick Foot Soldier] Foot Soldier Greaves
+[Godrick Foot Soldier] Smoldering Butterfly
+[Godrick Foot Soldier] Mushroom
+[Godrick Foot Soldier] Dagger
+[Godrick Foot Soldier] Foot Soldier Cap
+[Godrick Foot Soldier] Chain-Draped Tabard
+[Godrick Foot Soldier] Foot Soldier Gauntlets
+[Godrick Foot Soldier] Foot Soldier Greaves
+[Godrick Foot Soldier] Bolt
+[Godrick Foot Soldier] Dagger
+[Godrick Foot Soldier] Foot Soldier Cap
+[Godrick Foot Soldier] Chain-Draped Tabard
+[Godrick Foot Soldier] Foot Soldier Gauntlets
+[Godrick Foot Soldier] Foot Soldier Greaves
+[Godrick Foot Soldier] Bolt
+[Godrick Foot Soldier] Dagger
+[Godrick Foot Soldier] Foot Soldier Cap
+[Godrick Foot Soldier] Chain-Draped Tabard
+[Godrick Foot Soldier] Foot Soldier Gauntlets
+[Godrick Foot Soldier] Foot Soldier Greaves
+[Godrick Foot Soldier] Bolt
+[Godrick Foot Soldier] Short Sword
+[Godrick Foot Soldier] Foot Soldier Cap
+[Godrick Foot Soldier] Chain-Draped Tabard
+[Godrick Foot Soldier] Foot Soldier Gauntlets
+[Godrick Foot Soldier] Foot Soldier Greaves
+[Godrick Foot Soldier] Bolt
+[Godrick Foot Soldier] Short Sword
+[Godrick Foot Soldier] Foot Soldier Cap
+[Godrick Foot Soldier] Chain-Draped Tabard
+[Godrick Foot Soldier] Foot Soldier Gauntlets
+[Godrick Foot Soldier] Foot Soldier Greaves
+[Godrick Foot Soldier] Smoldering Butterfly
+[Godrick Foot Soldier] Mushroom
+[Godrick Foot Soldier] Short Sword
+[Godrick Foot Soldier] Foot Soldier Cap
+[Godrick Foot Soldier] Chain-Draped Tabard
+[Godrick Foot Soldier] Foot Soldier Gauntlets
+[Godrick Foot Soldier] Foot Soldier Greaves
+[Godrick Foot Soldier] Bolt
+[Godrick Foot Soldier] Soldier's Crossbow
+[Godrick Foot Soldier] Foot Soldier Cap
+[Godrick Foot Soldier] Chain-Draped Tabard
+[Godrick Foot Soldier] Foot Soldier Gauntlets
+[Godrick Foot Soldier] Foot Soldier Greaves
+[Godrick Foot Soldier] Bolt
+[Godrick Foot Soldier] Short Spear
+[Godrick Foot Soldier] Foot Soldier Cap
+[Godrick Foot Soldier] Chain-Draped Tabard
+[Godrick Foot Soldier] Foot Soldier Gauntlets
+[Godrick Foot Soldier] Foot Soldier Greaves
+[Raya Lucaria Foot Soldier] Dagger
+[Raya Lucaria Foot Soldier] Foot Soldier Helmet
+[Raya Lucaria Foot Soldier] Foot Soldier Tabard
+[Raya Lucaria Foot Soldier] Bolt
+[Raya Lucaria Foot Soldier] Dagger
+[Raya Lucaria Foot Soldier] Foot Soldier Helmet
+[Raya Lucaria Foot Soldier] Foot Soldier Tabard
+[Raya Lucaria Foot Soldier] Dagger
+[Raya Lucaria Foot Soldier] Foot Soldier Helmet
+[Raya Lucaria Foot Soldier] Foot Soldier Tabard
+[Raya Lucaria Foot Soldier] Bolt
+[Raya Lucaria Foot Soldier] Short Sword
+[Raya Lucaria Foot Soldier] Foot Soldier Helmet
+[Raya Lucaria Foot Soldier] Foot Soldier Tabard
+[Raya Lucaria Foot Soldier] Bolt
+[Raya Lucaria Foot Soldier] Short Sword
+[Raya Lucaria Foot Soldier] Foot Soldier Helmet
+[Raya Lucaria Foot Soldier] Foot Soldier Tabard
+[Raya Lucaria Foot Soldier] Bolt
+[Raya Lucaria Foot Soldier] Soldier's Crossbow
+[Raya Lucaria Foot Soldier] Foot Soldier Helmet
+[Raya Lucaria Foot Soldier] Foot Soldier Tabard
+[Raya Lucaria Foot Soldier] Bolt
+[Raya Lucaria Foot Soldier] Foot Soldier Helmet
+[Raya Lucaria Foot Soldier] Foot Soldier Tabard
+[Raya Lucaria Foot Soldier] Smoldering Butterfly
+[Leyndell Foot Soldier] Dagger
+[Leyndell Foot Soldier] Gilded Foot Soldier Cap
+[Leyndell Foot Soldier] Leather-Draped Tabard
+[Leyndell Foot Soldier] Bolt
+[Leyndell Foot Soldier] Dagger
+[Leyndell Foot Soldier] Gilded Foot Soldier Cap
+[Leyndell Foot Soldier] Leather-Draped Tabard
+[Leyndell Foot Soldier] Fulgurbloom
+[Leyndell Foot Soldier] Dagger
+[Leyndell Foot Soldier] Gilded Foot Soldier Cap
+[Leyndell Foot Soldier] Leather-Draped Tabard
+[Leyndell Foot Soldier] Bolt
+[Leyndell Foot Soldier] Dagger
+[Leyndell Foot Soldier] Gilded Foot Soldier Cap
+[Leyndell Foot Soldier] Leather-Draped Tabard
+[Leyndell Foot Soldier] Bolt
+[Leyndell Foot Soldier] Dagger
+[Leyndell Foot Soldier] Gilded Foot Soldier Cap
+[Leyndell Foot Soldier] Leather-Draped Tabard
+[Leyndell Foot Soldier] Bolt
+[Leyndell Foot Soldier] Dagger
+[Leyndell Foot Soldier] Gilded Foot Soldier Cap
+[Leyndell Foot Soldier] Leather-Draped Tabard
+[Leyndell Foot Soldier] Bolt
+[Leyndell Foot Soldier] Short Sword
+[Leyndell Foot Soldier] Gilded Foot Soldier Cap
+[Leyndell Foot Soldier] Leather-Draped Tabard
+[Leyndell Foot Soldier] Bolt
+[Leyndell Foot Soldier] Short Sword
+[Leyndell Foot Soldier] Gilded Foot Soldier Cap
+[Leyndell Foot Soldier] Leather-Draped Tabard
+[Leyndell Foot Soldier] Fulgurbloom
+[Leyndell Foot Soldier] Soldier's Crossbow
+[Leyndell Foot Soldier] Gilded Foot Soldier Cap
+[Leyndell Foot Soldier] Leather-Draped Tabard
+[Leyndell Foot Soldier] Bolt
+[Leyndell Foot Soldier] Short Spear
+[Leyndell Foot Soldier] Gilded Foot Soldier Cap
+[Leyndell Foot Soldier] Leather-Draped Tabard
+[Leyndell Foot Soldier] Gilded Foot Soldier Cap
+[Leyndell Foot Soldier] Leather-Draped Tabard
+[Leyndell Foot Soldier] Smoldering Butterfly
+[Radahn Foot Soldier] Dagger
+[Radahn Foot Soldier] Foot Soldier Helm
+[Radahn Foot Soldier] Scarlet Tabard
+[Radahn Foot Soldier] Bolt
+[Radahn Foot Soldier] Dagger
+[Radahn Foot Soldier] Foot Soldier Helm
+[Radahn Foot Soldier] Scarlet Tabard
+[Radahn Foot Soldier] Smoldering Butterfly
+[Radahn Foot Soldier] Mushroom
+[Radahn Foot Soldier] Dagger
+[Radahn Foot Soldier] Foot Soldier Helm
+[Radahn Foot Soldier] Scarlet Tabard
+[Radahn Foot Soldier] Bolt
+[Radahn Foot Soldier] Dagger
+[Radahn Foot Soldier] Foot Soldier Helm
+[Radahn Foot Soldier] Scarlet Tabard
+[Radahn Foot Soldier] Bolt
+[Radahn Foot Soldier] Dagger
+[Radahn Foot Soldier] Foot Soldier Helm
+[Radahn Foot Soldier] Scarlet Tabard
+[Radahn Foot Soldier] Bolt
+[Radahn Foot Soldier] Dagger
+[Radahn Foot Soldier] Foot Soldier Helm
+[Radahn Foot Soldier] Scarlet Tabard
+[Radahn Foot Soldier] Bolt
+[Radahn Foot Soldier] Short Sword
+[Radahn Foot Soldier] Foot Soldier Helm
+[Radahn Foot Soldier] Scarlet Tabard
+[Radahn Foot Soldier] Bolt
+[Radahn Foot Soldier] Short Sword
+[Radahn Foot Soldier] Foot Soldier Helm
+[Radahn Foot Soldier] Scarlet Tabard
+[Radahn Foot Soldier] Smoldering Butterfly
+[Radahn Foot Soldier] Mushroom
+[Radahn Foot Soldier] Short Sword
+[Radahn Foot Soldier] Foot Soldier Helm
+[Radahn Foot Soldier] Scarlet Tabard
+[Radahn Foot Soldier] Bolt
+[Radahn Foot Soldier] Short Spear
+[Radahn Foot Soldier] Foot Soldier Helm
+[Radahn Foot Soldier] Scarlet Tabard
+[Radahn Foot Soldier] Foot Soldier Helm
+[Radahn Foot Soldier] Scarlet Tabard
+[Radahn Foot Soldier] Smoldering Butterfly
+[Mausoleum Foot Soldier] Bloodsoaked Tabard
+[Haligtree Foot Soldier] Dagger
+[Haligtree Foot Soldier] Sacred Crown Helm
+[Haligtree Foot Soldier] Ivory-Draped Tabard
+[Haligtree Foot Soldier] Bolt
+[Haligtree Foot Soldier] Dagger
+[Haligtree Foot Soldier] Sacred Crown Helm
+[Haligtree Foot Soldier] Ivory-Draped Tabard
+[Haligtree Foot Soldier] Smoldering Butterfly
+[Haligtree Foot Soldier] Mushroom
+[Haligtree Foot Soldier] Dagger
+[Haligtree Foot Soldier] Sacred Crown Helm
+[Haligtree Foot Soldier] Ivory-Draped Tabard
+[Haligtree Foot Soldier] Bolt
+[Haligtree Foot Soldier] Dagger
+[Haligtree Foot Soldier] Sacred Crown Helm
+[Haligtree Foot Soldier] Ivory-Draped Tabard
+[Haligtree Foot Soldier] Bolt
+[Haligtree Foot Soldier] Dagger
+[Haligtree Foot Soldier] Sacred Crown Helm
+[Haligtree Foot Soldier] Ivory-Draped Tabard
+[Haligtree Foot Soldier] Bolt
+[Haligtree Foot Soldier] Sacred Crown Helm
+[Haligtree Foot Soldier] Ivory-Draped Tabard
+[Haligtree Foot Soldier] Bolt
+[Haligtree Foot Soldier] Sacred Crown Helm
+[Haligtree Foot Soldier] Ivory-Draped Tabard
+[Haligtree Foot Soldier] Sacred Crown Helm
+[Haligtree Foot Soldier] Ivory-Draped Tabard
+[Haligtree Foot Soldier] Smoldering Butterfly
+[Highwayman] Dagger
+[Highwayman] Highwayman Hood
+[Highwayman] Highwayman Cloth Armor
+[Highwayman] Highwayman Gauntlets
+[Highwayman] Bolt
+[Highwayman] Short Sword
+[Highwayman] Highwayman Hood
+[Highwayman] Highwayman Cloth Armor
+[Highwayman] Highwayman Gauntlets
+[Highwayman] Bolt
+[Highwayman] Short Sword
+[Highwayman] Highwayman Hood
+[Highwayman] Highwayman Cloth Armor
+[Highwayman] Highwayman Gauntlets
+[Highwayman] Smoldering Butterfly
+[Highwayman] Mushroom
+[Starcaller] Gravity Stone Fan
+[Starcaller] Gravity Stone Chunk
+[Guilty] Staff of the Guilty
+[Guilty] Smoldering Butterfly
+[Guilty] Staff of the Guilty
+[Guilty] Smoldering Butterfly
+[Guilty] [Sorcery] Briars of Sin
+[Guilty] Smoldering Butterfly
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [1]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [1]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [1]
+[Stonedigger] Explosive Stone
+[Stonedigger] Explosive Stone Clump
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [1]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [1]
+[Stonedigger] Cracked Crystal
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [2]
+[Stonedigger] Smithing Stone [3]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [4]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [4]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [4]
+[Stonedigger] Explosive Stone
+[Stonedigger] Explosive Stone Clump
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [4]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [4]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [4]
+[Stonedigger] Explosive Stone
+[Stonedigger] Explosive Stone Clump
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [5]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [5]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [5]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [5]
+[Stonedigger] Cracked Crystal
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [5]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [5]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [5]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [5]
+[Stonedigger] Poisoned Stone
+[Stonedigger] Poisoned Stone Clump
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [5]
+[Stonedigger] Poisoned Stone
+[Stonedigger] Poisoned Stone Clump
+[Stonedigger] Flask of Crimson Tears
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [4]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [4]
+[Stonedigger] Explosive Stone
+[Stonedigger] Explosive Stone Clump
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [4]
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [4]
+[Stonedigger] Cracked Crystal
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [6]
+[Stonedigger] Smithing Stone [7]
+[Stonedigger] Smithing Stone [8]
+[Stonedigger] Gravel Stone
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [6]
+[Stonedigger] Smithing Stone [7]
+[Stonedigger] Smithing Stone [8]
+[Stonedigger] Gravel Stone
+[Stonedigger] Pickaxe
+[Stonedigger] Smithing Stone [6]
+[Stonedigger] Smithing Stone [7]
+[Stonedigger] Smithing Stone [8]
+[Glintstone Digger] Digger's Staff
+[Glintstone Digger] Somber Smithing Stone [2]
+[Glintstone Digger] Somber Smithing Stone [3]
+[Glintstone Digger] Glintstone Scrap
+[Glintstone Digger] Large Glintstone Scrap
+[Glintstone Digger] Digger's Staff
+[Glintstone Digger] Glintstone Scrap
+[Glintstone Digger] Large Glintstone Scrap
+[Glintstone Digger] Somber Smithing Stone [2]
+[Glintstone Digger] Somber Smithing Stone [3]
+[Glintstone Digger] Glintstone Scrap
+[Glintstone Digger] Large Glintstone Scrap
+[Glintstone Digger] Digger's Staff
+[Glintstone Digger] Somber Smithing Stone [4]
+[Glintstone Digger] Somber Smithing Stone [5]
+[Glintstone Digger] Glintstone Scrap
+[Glintstone Digger] Large Glintstone Scrap
+[Glintstone Digger] Digger's Staff
+[Glintstone Digger] Glintstone Scrap
+[Glintstone Digger] Large Glintstone Scrap
+[Glintstone Digger] Somber Smithing Stone [4]
+[Glintstone Digger] Somber Smithing Stone [5]
+[Glintstone Digger] Glintstone Scrap
+[Glintstone Digger] Large Glintstone Scrap
+[Glintstone Digger] Digger's Staff
+[Glintstone Digger] Somber Smithing Stone [3]
+[Glintstone Digger] Somber Smithing Stone [4]
+[Glintstone Digger] Glintstone Scrap
+[Glintstone Digger] Large Glintstone Scrap
+[Glintstone Digger] Digger's Staff
+[Glintstone Digger] Glintstone Scrap
+[Glintstone Digger] Large Glintstone Scrap
+[Glintstone Digger] Somber Smithing Stone [3]
+[Glintstone Digger] Somber Smithing Stone [4]
+[Glintstone Digger] Glintstone Scrap
+[Glintstone Digger] Large Glintstone Scrap
+[Glintstone Digger] Digger's Staff
+[Glintstone Digger] Somber Smithing Stone [2]
+[Glintstone Digger] Somber Smithing Stone [3]
+[Glintstone Digger] Glintstone Scrap
+[Glintstone Digger] Large Glintstone Scrap
+[Glintstone Digger] Digger's Staff
+[Glintstone Digger] Somber Smithing Stone [3]
+[Glintstone Digger] Somber Smithing Stone [4]
+[Glintstone Digger] Glintstone Scrap
+[Glintstone Digger] Large Glintstone Scrap
+[Disciple of Rot] Toxic Mushroom
+[Disciple of Rot] Toxic Mushroom
+[Disciple of Rot] Toxic Mushroom
+[Disciple of Rot] Serpent Arrow
+[Disciple of Rot] Toxic Mushroom
+[Disciple of Rot] Serpent Arrow
+[Disciple of Rot] Toxic Mushroom
+[Disciple of Rot] Serpent Arrow
+[Disciple of Rot] Toxic Mushroom
+[Giant Crayfish] Strip of White Flesh
+[Giant Crayfish] Strip of White Flesh
+[Giant Crayfish] Crab Eggs
+[Giant Crayfish] Strip of White Flesh
+[Giant Crayfish] Smithing Stone [2]
+[Giant Crayfish] Strip of White Flesh
+[Giant Crayfish] Rimed Crystal Bud
+[Watcher Stones] Ruin Fragment
+[Watcher Stones] Sanctuary Stone
+[Watcher Stones] Ruin Fragment
+[Watcher Stones] Sanctuary Stone
+[Watcher Stones] Volcanic Stone
+[Land Squirt] Golden Rune [3]
+[Land Squirt] Poisonbloom
+[Land Squirt] Strip of White Flesh
+[Land Squirt] Golden Rune [3]
+[Land Squirt] Poisonbloom
+[Land Squirt] Strip of White Flesh
+[Land Squirt] Golden Rune [5]
+[Land Squirt] Poisonbloom
+[Land Squirt] Strip of White Flesh
+[Land Squirt] Golden Rune [7]
+[Land Squirt] Poisonbloom
+[Land Squirt] Strip of White Flesh
+[Land Squirt] Golden Rune [7]
+[Land Squirt] Poisonbloom
+[Land Squirt] Strip of White Flesh
+[Land Squirt] Golden Rune [7]
+[Land Squirt] Poisonbloom
+[Land Squirt] Strip of White Flesh
+[Land Squirt] Golden Rune [9]
+[Land Squirt] Poisonbloom
+[Land Squirt] Strip of White Flesh
+[Giant Land Squirt] Golden Rune [5]
+[Giant Land Squirt] Poisonbloom
+[Giant Land Squirt] Strip of White Flesh
+[Giant Land Squirt] Golden Rune [9]
+[Giant Land Squirt] Poisonbloom
+[Giant Land Squirt] Strip of White Flesh
+[Giant Rotten Land Squirt] Golden Rune [7]
+[Giant Rotten Land Squirt] Poisonbloom
+[Giant Rotten Land Squirt] Strip of White Flesh
+[Walking Mausoleum] None
+[Flame Chariot] Smithing Stone [3]
+[Flame Chariot] Smoldering Butterfly
+[Flame Chariot] Fire Blossom
+[Flame Chariot] Smithing Stone [3]
+[Flame Chariot] Smoldering Butterfly
+[Flame Chariot] Fire Blossom
+[Flame Chariot] Smithing Stone [3]
+[Flame Chariot] Smoldering Butterfly
+[Flame Chariot] Fire Blossom
+[Flame Chariot] Smithing Stone [5]
+[Flame Chariot] Smoldering Butterfly
+[Flame Chariot] Fire Blossom
+[Flame Chariot] Smithing Stone [5]
+[Flame Chariot] Smoldering Butterfly
+[Flame Chariot] Fire Blossom
+[Flame Chariot] Smithing Stone [5]
+[Flame Chariot] Smoldering Butterfly
+[Flame Chariot] Fire Blossom
+[Flame Chariot] Smithing Stone [3]
+[Flame Chariot] Smoldering Butterfly
+[Flame Chariot] Fire Blossom
+[Flame Chariot] Smithing Stone [3]
+[Flame Chariot] Smoldering Butterfly
+[Flame Chariot] Fire Blossom
+[Flame Chariot] Smithing Stone [3]
+[Flame Chariot] Smoldering Butterfly
+[Flame Chariot] Fire Blossom
+[Flame Chariot] Smithing Stone [3]
+[Flame Chariot] Smoldering Butterfly
+[Flame Chariot] Fire Blossom
+[Flame Chariot] Smithing Stone [3]
+[Flame Chariot] Smoldering Butterfly
+[Flame Chariot] Fire Blossom
+[Flame Chariot] Smithing Stone [3]
+[Flame Chariot] Smoldering Butterfly
+[Flame Chariot] Fire Blossom
+[Ghiza Torturer] None
+[Ghiza Torturer] None
+[Ghiza Torturer] None
+[Giant Miranda Sprout] Poisonbloom
+[Giant Miranda Sprout] Miranda Powder
+[Giant Miranda Sprout] Poisonbloom
+[Giant Miranda Sprout] Miranda Powder
+[Giant Miranda Sprout] Poisonbloom
+[Giant Miranda Sprout] Cracked Crystal
+[Giant Miranda Sprout] Miranda Powder
+[Giant Miranda Sprout] Poisonbloom
+[Giant Miranda Sprout] Miranda Powder
+[Giant Miranda Sprout] Poisonbloom
+[Giant Miranda Sprout] Miranda Powder
+[Miranda Sprout] Poisonbloom
+[Miranda Sprout] Miranda Powder
+[Miranda Sprout] Poisonbloom
+[Miranda Sprout] Miranda Powder
+[Miranda Sprout] Poisonbloom
+[Miranda Sprout] Miranda Powder
+[Miranda Sprout] Poisonbloom
+[Miranda Sprout] Miranda Powder
+[Miranda Sprout] Poisonbloom
+[Miranda Sprout] Miranda Powder
+[Miranda Sprout] Miquella's Lily
+[Miranda Sprout] Poisonbloom
+[Miranda Sprout] Miquella's Lily
+[Miranda Sprout] Miranda Powder
+[Fading Giant Miranda Sprout] Poisonbloom
+[Fading Giant Miranda Sprout] Miranda Powder
+[Rotten Miranda Sprout] Poisonbloom
+[Rotten Miranda Sprout] Miranda Powder
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Living Jar Shard
+[Living Pot - Large] Raw Meat Dumpling
+[Living Pot - Small] Living Jar Shard
+[Living Pot - Small] Living Jar Shard
+[Living Pot - Small] Living Jar Shard
+[Living Pot - Small] Living Jar Shard
+[Dragon] None
+[Dragon] None
+[Dragon] None
+[Flying Dragon (Small)] None
+[Elder Dragon Greyoll] None
+[SACRED] Small Dragon Flesh
+[SACRED] Dragon Flesh
+[SACRED] Gravel Stone
+[SACRED] Dragonscale Flesh
+[Giant Dog] Hefty Beast Bone
+[Giant Dog] Beast Blood
+[Giant Dog] Hefty Beast Bone
+[Giant Dog] Beast Blood
+[Giant Crow] Hefty Beast Bone
+[Giant Crow] Beast Blood
+[Giant Crow] Golden Rune [5]
+[Monstrous Rotten Crow] Hefty Beast Bone
+[Monstrous Rotten Crow] Beast Blood
+[Monstrous Rotten Crow] Golden Rune [5]
+[Monstrous Rotten Crow] Blood-Tainted Excrement
+[Large Wormface] Gold-Tinged Excrement
+[Large Wormface] Sacrificial Twig
+[Large Wormface] Gold-Tinged Excrement
+[Large Wormface] Sacrificial Twig
+[Large Wormface] Gold-Tinged Excrement
+[Large Wormface] Sacrificial Twig
+[Giant Wormface] Gold-Tinged Excrement
+[Giant Wormface] Sacrificial Twig
+[Troll Knight] None
+[Troll Knight] Arteria Leaf
+[Troll Knight] None
+[Troll Knight] Eye of Yelough
+[Troll Knight] Troll Knight's Sword
+[Troll Knight] None
+[Troll Knight] Troll Knight's Sword
+[Astel, Stars of Darkness] None
+[Runebear] Hefty Beast Bone
+[Runebear] Beast Blood
+[Runebear] Lump of Flesh
+[Runebear] Gold-Tinged Excrement
+[Runebear] Beast Blood
+[Runebear] Hefty Beast Bone
+[Runebear] Lump of Flesh
+[Runebear] Gold-Tinged Excrement
+[Runebear] Prince of Death's Cyst
+[Guardian Golem] Golem's Halberd
+[Guardian Golem] Golem's Halberd
+[Guardian Golem] Smithing Stone [1]
+[Guardian Golem] Golem's Halberd
+[Guardian Golem] Smithing Stone [2]
+[Guardian Golem] Smithing Stone [3]
+[Guardian Golem] Golem's Halberd
+[Guardian Golem] Smithing Stone [4]
+[Guardian Golem] Golem's Halberd
+[Guardian Golem] Smithing Stone [5]
+[Guardian Golem] Golem's Halberd
+[Guardian Golem] Smithing Stone [6]
+[Guardian Golem] Golem Greatbow
+[Guardian Golem] Great Arrow
+[Guardian Golem] Golem's Great Arrow
+[Guardian Golem] Golem Greatbow
+[Guardian Golem] Great Arrow
+[Guardian Golem] Golem's Great Arrow
+[Guardian Golem] Smithing Stone [1]
+[Guardian Golem] Golem Greatbow
+[Guardian Golem] Great Arrow
+[Guardian Golem] Golem's Great Arrow
+[Guardian Golem] Smithing Stone [2]
+[Guardian Golem] Smithing Stone [3]
+[Guardian Golem] Golem Greatbow
+[Guardian Golem] Great Arrow
+[Guardian Golem] Golem's Great Arrow
+[Guardian Golem] Smithing Stone [4]
+[Guardian Golem] Golem Greatbow
+[Guardian Golem] Great Arrow
+[Guardian Golem] Golem's Great Arrow
+[Guardian Golem] Smithing Stone [5]
+[Guardian Golem] Golem Greatbow
+[Guardian Golem] Great Arrow
+[Guardian Golem] Golem's Great Arrow
+[Guardian Golem] Smithing Stone [6]
+[Guardian Golem] Smithing Stone [7]
+[Guardian Golem] Golem's Halberd
+[Guardian Golem] Smithing Stone [6]
+[Guardian Golem] Smithing Stone [7]
+[Guardian Golem] Golem's Halberd
+[Guardian Golem] Smithing Stone [4]
+[Guardian Golem] Golem Greatbow
+[Guardian Golem] Great Arrow
+[Guardian Golem] Golem's Magic Arrow
+[Guardian Golem] Smithing Stone [4]
+[Guardian Golem] Golem's Halberd
+[Guardian Golem] Golem's Halberd
+[Guardian Golem] Smithing Stone [1]
+[Guardian Golem] Golem's Halberd
+[Guardian Golem] Smithing Stone [2]
+[Guardian Golem] Smithing Stone [3]
+[Guardian Golem] Golem's Halberd
+[Guardian Golem] Smithing Stone [4]
+[Guardian Golem] Golem's Halberd
+[Guardian Golem] Smithing Stone [5]
+[Guardian Golem] Golem's Halberd
+[Guardian Golem] Smithing Stone [6]
+[Guardian Golem] Smithing Stone [7]
+[Guardian Golem] Golem Greatbow
+[Guardian Golem] Great Arrow
+[Guardian Golem] Golem's Great Arrow
+[Guardian Golem] Golem Greatbow
+[Guardian Golem] Great Arrow
+[Guardian Golem] Golem's Great Arrow
+[Guardian Golem] Smithing Stone [1]
+[Guardian Golem] Golem Greatbow
+[Guardian Golem] Great Arrow
+[Guardian Golem] Golem's Great Arrow
+[Guardian Golem] Smithing Stone [2]
+[Guardian Golem] Smithing Stone [3]
+[Guardian Golem] Golem Greatbow
+[Guardian Golem] Great Arrow
+[Guardian Golem] Golem's Great Arrow
+[Guardian Golem] Smithing Stone [4]
+[Guardian Golem] Golem Greatbow
+[Guardian Golem] Great Arrow
+[Guardian Golem] Golem's Great Arrow
+[Guardian Golem] Smithing Stone [5]
+[Guardian Golem] Golem Greatbow
+[Guardian Golem] Great Arrow
+[Guardian Golem] Golem's Great Arrow
+[Guardian Golem] Smithing Stone [6]
+[Guardian Golem] Smithing Stone [7]
+[Grafted Scion] None
+[Grafted Scion] None
+[Godrick the Grafted] None
+[Valiant Gargoyle] Gargoyle's Twinblade
+[Valiant Gargoyle] Gargoyle's Greatsword
+[Valiant Gargoyle] None
+[Mohg, Lord of Blood] None
+[Erdtree Avatar] Rotten Staff
+[Omenkiller] None
+[Omenkiller] Omensmirk Mask
+[Omenkiller] Omenkiller Robe
+[Omenkiller] Omenkiller Long Gloves
+[Omenkiller] Omenkiller Boots
+[Omenkiller] Great Omenkiller Cleaver
+[Omenkiller] Great Omenkiller Cleaver
+[Magma Wyrm] None
+[Giant Skeleton Torso] None
+[Giant Skeleton Torso] None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[SACRED] Dragonscale Flesh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[SACRED] Gravel Stone
+[SACRED] Dragonscale Flesh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[SACRED] Jagged Peak Drake
+[SACRED] Jagged Peak Drake
+[SACRED] Jagged Peak Drake
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Eagle] Flight Pinion, Flight Pinion, Flight Pinion
+[Eagle] Four-Toed Fowl Foot
+[Deer] Sliver of Meat
+[Deer] Beast Liver
+[Deer] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
+[Deer] Budding Horn
+[Deer] None
+[Bear] Lump of Flesh
+[Bear] Hefty Beast Bone, Hefty Beast Bone, Hefty Beast Bone
+[Bear] Beast Blood
+[Owl] Slumbering Egg
+[Boar] Lump of Flesh
+[Boar] Hefty Beast Bone, Hefty Beast Bone, Hefty Beast Bone
+[Boar] Old Fang
+[Boar] Gold-Tinged Excrement
+[Boar] Lump of Flesh
+[Boar] Hefty Beast Bone, Hefty Beast Bone, Hefty Beast Bone
+[Boar] Beast Blood
+[Boar] Old Fang
+[Boar] Gold-Tinged Excrement
+[Goat] Sliver of Meat
+[Goat] Beast Liver
+[Goat] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
+[Goat] Budding Horn
+[Goat] Sliver of Meat
+[Goat] Beast Liver
+[Goat] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
+[Goat] Budding Horn
+[Goat] Fulgurbloom
+[Goat] Sliver of Meat
+[Goat] Beast Liver
+[Goat] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
+[Goat] Budding Horn
+[Goat] Sliver of Meat
+[Goat] Beast Liver
+[Goat] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
+[Goat] Budding Horn
+[Goat] Fulgurbloom
+[Goat] Sliver of Meat
+[Goat] Beast Liver
+[Goat] Budding Horn
+[Goat] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
+[Goat] Sliver of Meat
+[Goat] Beast Liver
+[Goat] Budding Horn
+[Goat] Fulgurbloom
+[Goat] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
+[Murre] Flight Pinion, Flight Pinion, Flight Pinion
+[Murre] Four-Toed Fowl Foot
+[Murre] None
+[Dragonfly] Great Dragonfly Head
+[Dragonfly] Great Dragonfly Head
+[Turtle] Turtle Neck Meat
+[Turtle] Strip of White Flesh
+[Rabbitgaroo] Thin Beast Bones, Thin Beast Bones, Thin Beast Bones
+[Rabbitgaroo] Sliver of Meat
+[Rabbitgaroo] Beast Liver
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Fallen Hawk Soldier] Iron Spear
+[Fallen Hawk Soldier] Spiritflame Arrow
+[Fallen Hawk Soldier] Dewkissed Herba
+[Fallen Hawk Soldier] Inverted Hawk Towershield
+[Fallen Hawk Soldier] Spiritflame Arrow
+[Fallen Hawk Soldier] Dewkissed Herba
+[Fallen Hawk Soldier] Spiritflame Arrow
+[Fallen Hawk Soldier] Dewkissed Herba
+[Fallen Hawk Soldier] Spiritflame Arrow
+[Fallen Hawk Soldier] Dewkissed Herba
+[White Mask Assailant] None
+[SACRED][White Mask Assailant] Zamor Ice Storm (None)
+[Ballista] None
+[Trebuchet] None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

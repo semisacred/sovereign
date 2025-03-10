@@ -1,0 +1,3556 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unarmed
+Throwing Dagger
+Bone Dart
+Poisonbone Dart
+Kukri
+Crystal Dart
+Fan Daggers
+Ruin Fragment
+Explosive Stone
+Explosive Stone Clump
+Poisoned Stone
+Poisoned Stone Clump
+Ancestral Infant's Head
+Omen Bairn
+Regal Omen Bairn
+Miranda's Prayer
+Cuckoo Glintstone
+Glintstone Scrap
+Large Glintstone Scrap
+Gravity Stone Fan
+Gravity Stone Chunk
+Wraith Calling Bell
+Spark Aromatic
+Poison Spraymist
+Acid Spraymist
+Innard Meat
+Dragon Communion Harpoon
+
+Lamenter's Mask
+Spritestone
+Horned Bairn
+Perfumed Oil of Ranah
+Call of Tibia
+Surging Frenzied Flame
+Fire Coil
+Fire Spritestone
+Glinting Nail
+Fire Pot
+Redmane Fire Pot
+Giantsflame Fire Pot
+Lightning Pot
+Ancient Dragonbolt Pot
+Fetid Pot
+Swarm Pot
+Holy Water Pot
+Sacred Order Pot
+
+Poison Pot
+Roped Fire Pot
+Roped Lightning Pot
+Roped Fetid Pot
+Roped Poison Pot
+Roped Magic Pot
+Roped Fly Pot
+
+Roped Volcano Pot
+Roped Holy Water Pot
+Volcano Pot
+Sleep Pot / Eternal Sleep Pot
+Rancor Pot
+Magic Pot
+Academy Magic Pot
+
+Hefty Fire Pot
+Hefty Rock Pot
+Hefty Lightning Pot
+Hefty Fetid Pot
+Hefty Fly Pot
+Hefty Poison Pot
+Hefty Volcano Pot
+Hefty Frenzied Flame Pot
+Hefty Rancor Pot
+Hefty Magic Pot
+Hefty Furnace Pot
+Hefty Red Lightning Pot
+Red Lightning Pot
+Frenzied Flame Pot
+
+Roped Frenzied Flame Pot
+Dagger
+Heavy Dagger
+Keen Dagger
+Quality Dagger
+Fire Dagger
+Flame Art Dagger
+Lightning Dagger
+Sacred Dagger
+Magic Dagger
+Cold Dagger
+Poison Dagger
+Blood Dagger
+Occult Dagger
+Black Knife
+Parrying Dagger
+Heavy Parrying Dagger
+Keen Parrying Dagger
+Quality Parrying Dagger
+Fire Parrying Dagger
+Flame Art Parrying Dagger
+Lightning Parrying Dagger
+Sacred Parrying Dagger
+Magic Parrying Dagger
+Cold Parrying Dagger
+Poison Parrying Dagger
+Blood Parrying Dagger
+Occult Parrying Dagger
+Misericorde
+Heavy Misericorde
+Keen Misericorde
+Quality Misericorde
+Fire Misericorde
+Flame Art Misericorde
+Lightning Misericorde
+Sacred Misericorde
+Magic Misericorde
+Cold Misericorde
+Poison Misericorde
+Blood Misericorde
+Occult Misericorde
+Reduvia
+Crystal Knife
+Celebrant's Sickle
+Celebrant's Heavy Sickle
+Celebrant's Keen Sickle
+Celebrant's Quality Sickle
+Celebrant's Fire Sickle
+Celebrant's Flame Art Sickle
+Celebrant's Lightning Sickle
+Celebrant's Sacred Sickle
+Celebrant's Magic Sickle
+Celebrant's Cold Sickle
+Celebrant's Poison Sickle
+Celebrant's Blood Sickle
+Celebrant's Occult Sickle
+Glintstone Kris
+Scorpion's Stinger
+Great Knife
+Heavy Great Knife
+Keen Great Knife
+Quality Great Knife
+Fire Great Knife
+Flame Art Great Knife
+Lightning Great Knife
+Sacred Great Knife
+Magic Great Knife
+Cold Great Knife
+Poison Great Knife
+Blood Great Knife
+Occult Great Knife
+Wakizashi
+Heavy Wakizashi
+Keen Wakizashi
+Quality Wakizashi
+Fire Wakizashi
+Flame Art Wakizashi
+Lightning Wakizashi
+Sacred Wakizashi
+Magic Wakizashi
+Cold Wakizashi
+Poison Wakizashi
+Blood Wakizashi
+Occult Wakizashi
+Cinquedea
+Ivory Sickle
+Bloodstained Dagger
+Heavy Bloodstained Dagger
+Keen Bloodstained Dagger
+Quality Bloodstained Dagger
+Fire Bloodstained Dagger
+Flame Art Bloodstained Dagger
+Lightning Bloodstained Dagger
+Sacred Bloodstained Dagger
+Magic Bloodstained Dagger
+Cold Bloodstained Dagger
+Poison Bloodstained Dagger
+Blood Bloodstained Dagger
+Occult Bloodstained Dagger
+Erdsteel Dagger
+Heavy Erdsteel Dagger
+Keen Erdsteel Dagger
+Quality Erdsteel Dagger
+Fire Erdsteel Dagger
+Flame Art Erdsteel Dagger
+Lightning Erdsteel Dagger
+Sacred Erdsteel Dagger
+Magic Erdsteel Dagger
+Cold Erdsteel Dagger
+Poison Erdsteel Dagger
+Blood Erdsteel Dagger
+Occult Erdsteel Dagger
+Blade of Calling
+
+Main-gauche
+Heavy Main-gauche
+Keen Main-gauche
+Quality Main-gauche
+Fire Main-gauche
+Flame Art Main-gauche
+Lightning Main-gauche
+Sacred Main-gauche
+Magic Main-gauche
+Cold Main-gauche
+Poison Main-gauche
+Blood Main-gauche
+Occult Main-gauche
+Fire Knight's Shortsword
+Fire Knight's Heavy Shortsword
+Fire Knight's Keen Shortsword
+Fire Knight's Quality Shortsword
+Fire Knight's Fire Shortsword
+Fire Knight's Flame Art Shortsword
+Fire Knight's Lightning Shortsword
+Fire Knight's Sacred Shortsword
+Fire Knight's Magic Shortsword
+Fire Knight's Cold Shortsword
+Fire Knight's Poison Shortsword
+Fire Knight's Blood Shortsword
+Fire Knight's Occult Shortsword
+[NPC] Reduvia
+
+Longsword
+Heavy Longsword
+Keen Longsword
+Quality Longsword
+Fire Longsword
+Flame Art Longsword
+Lightning Longsword
+Sacred Longsword
+Magic Longsword
+Cold Longsword
+Poison Longsword
+Bloody Longsword
+Occult Longsword
+Short Sword
+Heavy Short Sword
+Keen Short Sword
+Quality Short Sword
+Fire Short Sword
+Flame Art Short Sword
+Lightning Short Sword
+Sacred Short Sword
+Magic Short Sword
+Cold Short Sword
+Poison Short Sword
+Blood Short Sword
+Occult Short Sword
+Broadsword
+Heavy Broadsword
+Keen Broadsword
+Quality Broadsword
+Fire Broadsword
+Flame Art Broadsword
+Lightning Broadsword
+Sacred Broadsword
+Magic Broadsword
+Cold Broadsword
+Poison Broadsword
+Blood Broadsword
+Occult Broadsword
+Lordsworn's Straight Sword
+Lordsworn's Heavy Straight Sword
+Lordsworn's Keen Straight Sword
+Lordsworn's Quality Straight Sword
+Lordsworn's Fire Straight Sword
+Lordsworn's Flame Art Straight Sword
+Lordsworn's Lightning Straight Sword
+Lordsworn's Sacred Straight Sword
+Lordsworn's Magic Straight Sword
+Lordsworn's Cold Straight Sword
+Lordsworn's Poison Straight Sword
+Lordsworn's Blood Straight Sword
+Lordsworn's Occult Straight Sword
+Weathered Straight Sword
+Weathered Heavy Straight Sword
+Weathered Keen Straight Sword
+Weathered Quality Straight Sword
+Weathered Fire Straight Sword
+Weathered Flame Art Straight Sword
+Weathered Lightning Straight Sword
+Weathered Sacred Straight Sword
+Weathered Magic Straight Sword
+Weathered Cold Straight Sword
+Weathered Poison Straight Sword
+Weathered Blood Straight Sword
+Weathered Occult Straight Sword
+Ornamental Straight Sword
+Golden Epitaph
+Nox Flowing Sword
+Inseparable Sword
+[NPC] Inseparable Sword
+Coded Sword
+Sword of Night and Flame
+Crystal Sword
+Carian Knight's Sword
+Sword of St. Trina
+Miquellan Knight's Sword
+Cane Sword
+Heavy Cane Sword
+Keen Cane Sword
+Quality Cane Sword
+Fire Cane Sword
+Flame Art Cane Sword
+Lightning Cane Sword
+Sacred Cane Sword
+Magic Cane Sword
+Cold Cane Sword
+Poison Cane Sword
+Blood Cane Sword
+Occult Cane Sword
+Regalia of Eochaid
+Noble's Slender Sword
+Noble's Heavy Slender Sword
+Noble's Keen Slender Sword
+Noble's Quality Slender Sword
+Noble's Fire Slender Sword
+Noble's Flame Art Slender Sword
+Noble's Lightning Slender Sword
+Noble's Sacred Slender Sword
+Noble's Magic Slender Sword
+Noble's Cold Slender Sword
+Noble's Poison Slender Sword
+Noble's Blood Slender Sword
+Noble's Occult Slender Sword
+Warhawk's Talon
+Warhawk's Heavy Talon
+Warhawk's Keen Talon
+Warhawk's Quality Talon
+Warhawk's Fire Talon
+Warhawk's Flame Art Talon
+Warhawk's Lightning Talon
+Warhawk's Sacred Talon
+Warhawk's Magic Talon
+Warhawk's Cold Talon
+Warhawk's Poison Talon
+Warhawk's Blood Talon
+Warhawk's Occult Talon
+Lazuli Glintstone Sword
+Rotten Crystal Sword
+Velvet Sword of St. Trina
+Star-Lined Sword
+Carian Sorcery Sword
+Stone-Sheathed Sword
+Sword of Light
+Sword of Darkness
+Bastard Sword
+Heavy Bastard Sword
+Keen Bastard Sword
+Quality Bastard Sword
+Fire Bastard Sword
+Flame Art Bastard Sword
+Lightning Bastard Sword
+Sacred Bastard Sword
+Magic Bastard Sword
+Cold Bastard Sword
+Poison Bastard Sword
+Bloody Bastard Sword
+Occult Bastard Sword
+Forked Greatsword
+Heavy Forked Greatsword
+Keen Forked Greatsword
+Quality Forked Greatsword
+Fire Forked Greatsword
+Flame Art Forked Greatsword
+Lightning Forked Greatsword
+Sacred Forked Greatsword
+Magic Forked Greatsword
+Cold Forked Greatsword
+Poison Forked Greatsword
+Blood Forked Greatsword
+Occult Forked Greatsword
+Iron Greatsword
+Heavy Iron Greatsword
+Keen Iron Greatsword
+Quality Iron Greatsword
+Fire Iron Greatsword
+Flame Art Iron Greatsword
+Lightning Iron Greatsword
+Sacred Iron Greatsword
+Magic Iron Greatsword
+Cold Iron Greatsword
+Poison Iron Greatsword
+Blood Iron Greatsword
+Occult Iron Greatsword
+Lordsworn's Greatsword
+Lordsworn's Heavy Greatsword
+Lordsworn's Keen Greatsword
+Lordsworn's Quality Greatsword
+Lordsworn's Fire Greatsword
+Lordsworn's Flame Art Greatsword
+Lordsworn's Lightning Greatsword
+Lordsworn's Sacred Greatsword
+Lordsworn's Magic Greatsword
+Lordsworn's Cold Greatsword
+Lordsworn's Poison Greatsword
+Lordsworn's Blood Greatsword
+Lordsworn's Occult Greatsword
+Knight's Greatsword
+Knight's Heavy Greatsword
+Knight's Keen Greatsword
+Knight's Quality Greatsword
+Knight's Fire Greatsword
+Knight's Flame Art Greatsword
+Knight's Lightning Greatsword
+Knight's Sacred Greatsword
+Knight's Magic Greatsword
+Knight's Cold Greatsword
+Knight's Poison Greatsword
+Knight's Blood Greatsword
+Knight's Occult Greatsword
+Flamberge
+Heavy Flamberge
+Keen Flamberge
+Quality Flamberge
+Fire Flamberge
+Flame Art Flamberge
+Lightning Flamberge
+Sacred Flamberge
+Magic Flamberge
+Cold Flamberge
+Poison Flamberge
+Blood Flamberge
+Occult Flamberge
+Ordovis's Greatsword
+Alabaster Lord's Sword
+Banished Knight's Greatsword
+Banished Knight's Heavy Greatsword
+Banished Knight's Keen Greatsword
+Banished Knight's Quality Greatsword
+Banished Knight's Fire Greatsword
+Banished Knight's Flame Art Greatsword
+Banished Knight's Lightning Greatsword
+Banished Knight's Sacred Greatsword
+Banished Knight's Magic Greatsword
+Banished Knight's Cold Greatsword
+Banished Knight's Poison Greatsword
+Banished Knight's Blood Greatsword
+Banished Knight's Occult Greatsword
+Dark Moon Greatsword
+Sacred Relic Sword
+Helphen's Steeple
+[SACRED] Blasphemous Blade
+Marais Executioner's Sword
+Sword of Milos
+Golden Order Greatsword
+Claymore
+Claymore [Heavy]
+Claymore [Keen]
+Claymore [Quality]
+Claymore [Fire]
+Claymore [Flame Art]
+Claymore [Lightning]
+Claymore [Sacred]
+Claymore [Magic]
+Claymore [Cold]
+Claymore [Poison]
+Claymore [Blood]
+Claymore [Occult]
+Gargoyle's Greatsword
+Gargoyle's Heavy Greatsword
+Gargoyle's Keen Greatsword
+Gargoyle's Quality Greatsword
+Gargoyle's Fire Greatsword
+Gargoyle's Flame Art Greatsword
+Gargoyle's Lightning Greatsword
+Gargoyle's Sacred Greatsword
+Gargoyle's Magic Greatsword
+Gargoyle's Cold Greatsword
+Gargoyle's Poison Greatsword
+Gargoyle's Blood Greatsword
+Gargoyle's Occult Greatsword
+Death's Poker
+Gargoyle's Blackblade
+
+Sword Lance
+Heavy Sword Lance
+Keen Sword Lance
+Quality Sword Lance
+Fire Sword Lance
+Flame Art Sword Lance
+Lightning Sword Lance
+Sacred Sword Lance
+Magic Sword Lance
+Cold Sword Lance
+Poison Sword Lance
+Blood Sword Lance
+Occult Sword Lance
+Greatsword of Damnation
+Lizard Greatsword
+Heavy Lizard Greatsword
+Keen Lizard Greatsword
+Quality Lizard Greatsword
+Fire Lizard Greatsword
+Flame Art Lizard Greatsword
+Lightning Lizard Greatsword
+Sacred Lizard Greatsword
+Magic Lizard Greatsword
+Cold Lizard Greatsword
+Poison Lizard Greatsword
+Blood Lizard Greatsword
+Occult Lizard Greatsword
+Greatsword of Solitude
+[NPC] Greatsword of Solitude
+
+Greatsword
+Heavy Greatsword
+Keen Greatsword
+Quality Greatsword
+Fire Greatsword
+Flame Art Greatsword
+Lightning Greatsword
+Sacred Greatsword
+Magic Greatsword
+Cold Greatsword
+Poison Greatsword
+Blood Greatsword
+Occult Greatsword
+Watchdog's Greatsword
+Watchdog's Heavy Greatsword
+Watchdog's Keen Greatsword
+Watchdog's Quality Greatsword
+Watchdog's Fire Greatsword
+Watchdog's Flame Art Greatsword
+Watchdog's Lightning Greatsword
+Watchdog's Sacred Greatsword
+Watchdog's Magic Greatsword
+Watchdog's Cold Greatsword
+Watchdog's Poison Greatsword
+Watchdog's Blood Greatsword
+Watchdog's Occult Greatsword
+[SACRED] Maliketh's Black Blade
+Troll's Golden Sword
+Troll's Golden Heavy Sword
+Troll's Golden Keen Sword
+Troll's Golden Quality Sword
+Troll's Golden Fire Sword
+Troll's Golden Flame Art Sword
+Troll's Golden Lightning Sword
+Troll's Golden Sacred Sword
+Troll's Golden Magic Sword
+Troll's Golden Cold Sword
+Troll's Golden Poison Sword
+Troll's Golden Blood Sword
+Troll's Golden Occult Sword
+[SACRED] Zweihander
+[SACRED] Zweihander [Heavy]
+[SACRED] Zweihander [Keen]
+[SACRED] Zweihander [Quality]
+[SACRED] Zweihander [Fire]
+[SACRED] Zweihander [Flame Art]
+[SACRED] Zweihander [Lightning]
+[SACRED] Zweihander [Sacred]
+[SACRED] Zweihander [Magic]
+[SACRED] Zweihander [Cold]
+[SACRED] Zweihander [Poison]
+[SACRED] Zweihander [Blood]
+[SACRED] Zweihander [Occult]
+Starscourge Greatsword
+Royal Greatsword
+[SACRED] Godslayer's Greatsword
+Ruins Greatsword
+Grafted Blade Greatsword
+Troll Knight's Sword
+Ancient Meteoric Ore Greatsword
+Fire Knight's Greatsword
+Fire Knight's Heavy Greatsword
+Fire Knight's Keen Greatsword
+Fire Knight's Quality Greatsword
+Fire Knight's Fire Greatsword
+Fire Knight's Flame Art Greatsword
+Fire Knight's Lightning Greatsword
+Fire Knight's Sacred Greatsword
+Fire Knight's Magic Greatsword
+Fire Knight's Cold Greatsword
+Fire Knight's Poison Greatsword
+Fire Knight's Blood Greatsword
+Fire Knight's Occult Greatsword
+Greatsword of Radahn (Lord)
+Moonrithyll's Knight Sword
+Greatsword of Radahn (Light)
+[NPC] Moonrithyll's Knight Sword
+
+
+Estoc
+Heavy Estoc
+Keen Estoc
+Quality Estoc
+Fire Estoc
+Flame Art Estoc
+Lightning Estoc
+Sacred Estoc
+Magic Estoc
+Cold Estoc
+Poison Estoc
+Blood Estoc
+Occult Estoc
+Cleanrot Knight's Sword
+Cleanrot Knight's Heavy Sword
+Cleanrot Knight's Keen Sword
+Cleanrot Knight's Quality Sword
+Cleanrot Knight's Fire Sword
+Cleanrot Knight's Flame Art Sword
+Cleanrot Knight's Lightning Sword
+Cleanrot Knight's Sacred Sword
+Cleanrot Knight's Magic Sword
+Cleanrot Knight's Cold Sword
+Cleanrot Knight's Poison Sword
+Cleanrot Knight's Blood Sword
+Cleanrot Knight's Occult Sword
+Rapier
+Heavy Rapier
+Keen Rapier
+Quality Rapier
+Fire Rapier
+Flame Art Rapier
+Lightning Rapier
+Sacred Rapier
+Magic Rapier
+Cold Rapier
+Poison Rapier
+Blood Rapier
+Occult Rapier
+Rogier's Rapier
+Rogier's Heavy Rapier
+Rogier's Keen Rapier
+Rogier's Quality Rapier
+Rogier's Fire Rapier
+Rogier's Flame Art Rapier
+Rogier's Lightning Rapier
+Rogier's Sacred Rapier
+Rogier's Magic Rapier
+Rogier's Cold Rapier
+Rogier's Poison Rapier
+Rogier's Blood Rapier
+Rogier's Occult Rapier
+Antspur Rapier
+Heavy Antspur Rapier
+Keen Antspur Rapier
+Quality Antspur Rapier
+Fire Antspur Rapier
+Flame Art Antspur Rapier
+Lightning Antspur Rapier
+Sacred Antspur Rapier
+Magic Antspur Rapier
+Cold Antspur Rapier
+Poison Antspur Rapier
+Blood Antspur Rapier
+Occult Antspur Rapier
+Frozen Needle
+Noble's Estoc
+Noble's Heavy Estoc
+Noble's Keen Estoc
+Noble's Quality Estoc
+Noble's Fire Estoc
+Noble's Flame Art Estoc
+Noble's Lightning Estoc
+Noble's Sacred Estoc
+Noble's Magic Estoc
+Noble's Cold Estoc
+Noble's Poison Estoc
+Noble's Blood Estoc
+Noble's Occult Estoc
+[NPC] Rapier
+Bloody Helice
+Godskin Stitcher
+Heavy Godskin Stitcher
+Keen Godskin Stitcher
+Quality Godskin Stitcher
+Fire Godskin Stitcher
+Flame Art Godskin Stitcher
+Lightning Godskin Stitcher
+Sacred Godskin Stitcher
+Magic Godskin Stitcher
+Cold Godskin Stitcher
+Poison Godskin Stitcher
+Blood Godskin Stitcher
+Occult Godskin Stitcher
+Great Epee
+Heavy Great Epee
+Keen Great Epee
+Quality Great Epee
+Fire Great Epee
+Flame Art Great Epee
+Lightning Great Epee
+Sacred Great Epee
+Magic Great Epee
+Cold Great Epee
+Poison Great Epee
+Blood Great Epee
+Occult Great Epee
+Dragon King's Cragblade
+Queelign's Greatsword
+Queelign's Heavy Greatsword
+Queelign's Keen Greatsword
+Queelign's Quality Greatsword
+Queelign's Fire Greatsword
+Queelign's Flame Art Greatsword
+Queelign's Lightning Greatsword
+Queelign's Sacred Greatsword
+Queelign's Magic Greatsword
+Queelign's Cold Greatsword
+Queelign's Poison Greatsword
+Queelign's Blood Greatsword
+Queelign's Occult Greatsword
+[NPC] Queelign's Greatsword
+
+Falchion
+Heavy Falchion
+Keen Falchion
+Quality Falchion
+Fire Falchion
+Flame Art Falchion
+Lightning Falchion
+Sacred Falchion
+Magic Falchion
+Cold Falchion
+Poison Falchion
+Blood Falchion
+Occult Falchion
+Beastman's Curved Sword
+Beastman's Heavy Curved Sword
+Beastman's Keen Curved Sword
+Beastman's Quality Curved Sword
+Beastman's Fire Curved Sword
+Beastman's Flame Art Curved Sword
+Beastman's Lightning Curved Sword
+Beastman's Sacred Curved Sword
+Beastman's Magic Curved Sword
+Beastman's Cold Curved Sword
+Beastman's Poison Curved Sword
+Beastman's Blood Curved Sword
+Beastman's Occult Curved Sword
+Shotel
+Heavy Shotel
+Keen Shotel
+Quality Shotel
+Fire Shotel
+Flame Art Shotel
+Lightning Shotel
+Sacred Shotel
+Magic Shotel
+Cold Shotel
+Poison Shotel
+Blood Shotel
+Occult Shotel
+Shamshir
+Heavy Shamshir
+Keen Shamshir
+Quality Shamshir
+Fire Shamshir
+Flame Art Shamshir
+Lightning Shamshir
+Sacred Shamshir
+Magic Shamshir
+Cold Shamshir
+Poison Shamshir
+Blood Shamshir
+Occult Shamshir
+Bandit's Curved Sword
+Bandit's Heavy Curved Sword
+Bandit's Keen Curved Sword
+Bandit's Quality Curved Sword
+Bandit's Fire Curved Sword
+Bandit's Flame Art Curved Sword
+Bandit's Lightning Curved Sword
+Bandit's Sacred Curved Sword
+Bandit's Magic Curved Sword
+Bandit's Cold Curved Sword
+Bandit's Poison Curved Sword
+Bandit's Blood Curved Sword
+Bandit's Occult Curved Sword
+Magma Blade
+Flowing Curved Sword
+Flowing Heavy Curved Sword
+Flowing Keen Curved Sword
+Flowing Quality Curved Sword
+Flowing Fire Curved Sword
+Flowing Flame Art Curved Sword
+Flowing Lightning Curved Sword
+Flowing Sacred Curved Sword
+Flowing Magic Curved Sword
+Flowing Cold Curved Sword
+Flowing Poison Curved Sword
+Flowing Blood Curved Sword
+Flowing Occult Curved Sword
+Wing of Astel
+Scavenger's Curved Sword
+Scavenger's Heavy Curved Sword
+Scavenger's Keen Curved Sword
+Scavenger's Quality Curved Sword
+Scavenger's Fire Curved Sword
+Scavenger's Flame Art Curved Sword
+Scavenger's Lightning Curved Sword
+Scavenger's Sacred Curved Sword
+Scavenger's Magic Curved Sword
+Scavenger's Cold Curved Sword
+Scavenger's Poison Curved Sword
+Scavenger's Blood Curved Sword
+Scavenger's Occult Curved Sword
+Eclipse Shotel
+Serpent-God's Curved Sword
+Serpent-God's Heavy Curved Sword
+Serpent-God's Keen Curved Sword
+Serpent-God's Quality Curved Sword
+Serpent-God's Fire Curved Sword
+Serpent-God's Flame Art Curved Sword
+Serpent-God's Lightning Curved Sword
+Serpent-God's Sacred Curved Sword
+Serpent-God's Magic Curved Sword
+Serpent-God's Cold Curved Sword
+Serpent-God's Poison Curved Sword
+Serpent-God's Blood Curved Sword
+Serpent-God's Occult Curved Sword
+Mantis Blade
+Heavy Mantis Blade
+Keen Mantis Blade
+Quality Mantis Blade
+Fire Mantis Blade
+Flame Art Mantis Blade
+Lightning Mantis Blade
+Sacred Mantis Blade
+Magic Mantis Blade
+Cold Mantis Blade
+Poison Mantis Blade
+Blood Mantis Blade
+Occult Mantis Blade
+Scimitar
+Heavy Scimitar
+Keen Scimitar
+Quality Scimitar
+Fire Scimitar
+Flame Art Scimitar
+Lightning Scimitar
+Sacred Scimitar
+Magic Scimitar
+Cold Scimitar
+Poison Scimitar
+Bloody Scimitar
+Occult Scimitar
+Grossmesser
+Heavy Grossmesser
+Keen Grossmesser
+Quality Grossmesser
+Fire Grossmesser
+Flame Art Grossmesser
+Lightning Grossmesser
+Sacred Grossmesser
+Magic Grossmesser
+Cold Grossmesser
+Poison Grossmesser
+Blood Grossmesser
+Occult Grossmesser
+Spirit Sword
+Falx
+Dancing Blade of Ranah
+Horned Warrior's Sword
+[NPC] Falx
+[NPC] Dancing Blade of Ranah
+[NPC] Falx
+Onyx Lord's Greatsword
+Dismounter
+Heavy Dismounter
+Keen Dismounter
+Quality Dismounter
+Fire Dismounter
+Flame Art Dismounter
+Lightning Dismounter
+Sacred Dismounter
+Magic Dismounter
+Cold Dismounter
+Poison Dismounter
+Blood Dismounter
+Occult Dismounter
+Bloodhound's Fang
+Magma Wyrm's Scalesword
+Zamor Curved Sword
+Omen Cleaver
+Heavy Omen Cleaver
+Keen Omen Cleaver
+Quality Omen Cleaver
+Fire Omen Cleaver
+Flame Art Omen Cleaver
+Lightning Omen Cleaver
+Sacred Omen Cleaver
+Magic Omen Cleaver
+Cold Omen Cleaver
+Poison Omen Cleaver
+Blood Omen Cleaver
+Occult Omen Cleaver
+Monk's Flameblade
+Monk's Heavy Flameblade
+Monk's Keen Flameblade
+Monk's Quality Flameblade
+Monk's Fire Flameblade
+Monk's Flame Art Flameblade
+Monk's Lightning Flameblade
+Monk's Sacred Flameblade
+Monk's Magic Flameblade
+Monk's Cold Flameblade
+Monk's Poison Flameblade
+Monk's Blood Flameblade
+Monk's Occult Flameblade
+Beastman's Cleaver
+Beastman's Heavy Cleaver
+Beastman's Keen Cleaver
+Beastman's Quality Cleaver
+Beastman's Fire Cleaver
+Beastman's Flame Art Cleaver
+Beastman's Lightning Cleaver
+Beastman's Sacred Cleaver
+Beastman's Magic Cleaver
+Beastman's Cold Cleaver
+Beastman's Poison Cleaver
+Beastman's Blood Cleaver
+Beastman's Occult Cleaver
+Morgott's Cursed Sword
+Putrescence Cleaver
+Freyja's Greatsword
+Freyja's Heavy Greatsword
+Freyja's Keen Greatsword
+Freyja's Quality Greatsword
+Freyja's Fire Greatsword
+Freyja's Flame Art Greatsword
+Freyja's Lightning Greatsword
+Freyja's Sacred Greatsword
+Freyja's Magic Greatsword
+Freyja's Cold Greatsword
+Freyja's Poison Greatsword
+Freyja's Blood Greatsword
+Freyja's Occult Greatsword
+Horned Warrior's Greatsword
+[NPC] Freyja's Greatsword
+
+Uchigatana
+Heavy Uchigatana
+Keen Uchigatana
+Quality Uchigatana
+Fire Uchigatana
+Flame Art Uchigatana
+Lightning Uchigatana
+Sacred Uchigatana
+Magic Uchigatana
+Cold Uchigatana
+Poison Uchigatana
+Blood Uchigatana
+Occult Uchigatana
+Nagakiba
+Heavy Nagakiba
+Keen Nagakiba
+Quality Nagakiba
+Fire Nagakiba
+Flame Art Nagakiba
+Lightning Nagakiba
+Sacred Nagakiba
+Magic Nagakiba
+Cold Nagakiba
+Poison Nagakiba
+Blood Nagakiba
+Occult Nagakiba
+Hand of Malenia
+Meteoric Ore Blade
+Rivers of Blood
+Moonveil
+Dragonscale Blade
+Serpentbone Blade
+Heavy Serpentbone Blade
+Keen Serpentbone Blade
+Quality Serpentbone Blade
+Fire Serpentbone Blade
+Flame Art Serpentbone Blade
+Lightning Serpentbone Blade
+Sacred Serpentbone Blade
+Magic Serpentbone Blade
+Cold Serpentbone Blade
+Poison Serpentbone Blade
+Blood Serpentbone Blade
+Occult Serpentbone Blade
+Sword of Night
+[NPC] Sword of Night
+[NPC] Sword of Night
+
+
+
+
+
+Twinblade
+Heavy Twinblade
+Keen Twinblade
+Quality Twinblade
+Fire Twinblade
+Flame Art Twinblade
+Lightning Twinblade
+Sacred Twinblade
+Magic Twinblade
+Cold Twinblade
+Poison Twinblade
+Bloody Twinblade
+Occult Twinblade
+Godskin Peeler
+Heavy Godskin Peeler
+Keen Godskin Peeler
+Quality Godskin Peeler
+Fire Godskin Peeler
+Flame Art Godskin Peeler
+Lightning Godskin Peeler
+Sacred Godskin Peeler
+Magic Godskin Peeler
+Cold Godskin Peeler
+Poison Godskin Peeler
+Blood Godskin Peeler
+Occult Godskin Peeler
+Twinned Knight Swords
+Heavy Twinned Knight Swords
+Keen Twinned Knight Swords
+Quality Twinned Knight Swords
+Fire Twinned Knight Swords
+Flame Art Twinned Knight Swords
+Lightning Twinned Knight Swords
+Sacred Twinned Knight Swords
+Magic Twinned Knight Swords
+Cold Twinned Knight Swords
+Poison Twinned Knight Swords
+Blood Twinned Knight Swords
+Occult Twinned Knight Swords
+Eleonora's Poleblade
+Gargoyle's Twinblade
+Gargoyle's Heavy Twinblade
+Gargoyle's Keen Twinblade
+Gargoyle's Quality Twinblade
+Gargoyle's Fire Twinblade
+Gargoyle's Flame Art Twinblade
+Gargoyle's Lightning Twinblade
+Gargoyle's Sacred Twinblade
+Gargoyle's Magic Twinblade
+Gargoyle's Cold Twinblade
+Gargoyle's Poison Twinblade
+Gargoyle's Blood Twinblade
+Gargoyle's Occult Twinblade
+Gargoyle's Black Blades
+Euporia
+Black Steel Twinblade
+Heavy Black Steel Twinblade
+Keen Black Steel Twinblade
+Quality Black Steel Twinblade
+Fire Black Steel Twinblade
+Flame Art Black Steel Twinblade
+Lightning Black Steel Twinblade
+Sacred Black Steel Twinblade
+Magic Black Steel Twinblade
+Cold Black Steel Twinblade
+Poison Black Steel Twinblade
+Blood Black Steel Twinblade
+Occult Black Steel Twinblade
+Mace
+Heavy Mace
+Keen Mace
+Quality Mace
+Fire Mace
+Flame Art Mace
+Lightning Mace
+Sacred Mace
+Magic Mace
+Cold Mace
+Poison Mace
+Blood Mace
+Occult Mace
+Club
+Heavy Club
+Keen Club
+Quality Club
+Fire Club
+Flame Art Club
+Lightning Club
+Sacred Club
+Magic Club
+Cold Club
+Poison Club
+Bloody Club
+Occult Club
+Curved Club
+Heavy Curved Club
+Keen Curved Club
+Quality Curved Club
+Fire Curved Club
+Flame Art Curved Club
+Lightning Curved Club
+Sacred Curved Club
+Magic Curved Club
+Cold Curved Club
+Poison Curved Club
+Blood Curved Club
+Occult Curved Club
+Warpick
+Heavy Warpick
+Keen Warpick
+Quality Warpick
+Fire Warpick
+Flame Art Warpick
+Lightning Warpick
+Sacred Warpick
+Magic Warpick
+Cold Warpick
+Poison Warpick
+Blood Warpick
+Occult Warpick
+Morning Star
+Heavy Morning Star
+Keen Morning Star
+Quality Morning Star
+Fire Morning Star
+Flame Art Morning Star
+Lightning Morning Star
+Sacred Morning Star
+Magic Morning Star
+Cold Morning Star
+Poison Morning Star
+Blood Morning Star
+Occult Morning Star
+Varre's Bouquet
+Spiked Club
+Heavy Spiked Club
+Keen Spiked Club
+Quality Spiked Club
+Fire Spiked Club
+Flame Art Spiked Club
+Lightning Spiked Club
+Sacred Spiked Club
+Magic Spiked Club
+Cold Spiked Club
+Poison Spiked Club
+Blood Spiked Club
+Occult Spiked Club
+Hammer
+Heavy Hammer
+Keen Hammer
+Quality Hammer
+Fire Hammer
+Flame Art Hammer
+Lightning Hammer
+Sacred Hammer
+Magic Hammer
+Cold Hammer
+Poison Hammer
+Blood Hammer
+Occult Hammer
+Monk's Flamemace
+Monk's Heavy Flamemace
+Monk's Keen Flamemace
+Monk's Quality Flamemace
+Monk's Fire Flamemace
+Monk's Flame Art Flamemace
+Monk's Lightning Flamemace
+Monk's Sacred Flamemace
+Monk's Magic Flamemace
+Monk's Cold Flamemace
+Monk's Poison Flamemace
+Monk's Blood Flamemace
+Monk's Occult Flamemace
+Envoy's Horn
+Scepter of the All-Knowing
+Nox Flowing Hammer
+Ringed Finger
+Stone Club
+Heavy Stone Club
+Keen Stone Club
+Quality Stone Club
+Fire Stone Club
+Flame Art Stone Club
+Lightning Stone Club
+Sacred Stone Club
+Magic Stone Club
+Cold Stone Club
+Poison Stone Club
+Blood Stone Club
+Occult Stone Club
+Marika's Hammer
+
+Flowerstone Gavel
+[NPC] Flowerstone Gavel
+Large Club
+Heavy Large Club
+Keen Large Club
+Quality Large Club
+Fire Large Club
+Flame Art Large Club
+Lightning Large Club
+Sacred Large Club
+Magic Large Club
+Cold Large Club
+Poison Large Club
+Blood Large Club
+Occult Large Club
+Greathorn Hammer
+Heavy Greathorn Hammer
+Keen Greathorn Hammer
+Quality Greathorn Hammer
+Fire Greathorn Hammer
+Flame Art Greathorn Hammer
+Lightning Greathorn Hammer
+Sacred Greathorn Hammer
+Magic Greathorn Hammer
+Cold Greathorn Hammer
+Poison Greathorn Hammer
+Blood Greathorn Hammer
+Occult Greathorn Hammer
+[SACRED] Battle Hammer
+[SACRED] Battle Hammer [Heavy]
+[SACRED] Battle Hammer [Keen]
+[SACRED] Battle Hammer [Quality]
+[SACRED] Battle Hammer [Fire]
+[SACRED] Battle Hammer [Flame Art]
+[SACRED] Battle Hammer [Lightning]
+[SACRED] Battle Hammer [Sacred]
+[SACRED] Battle Hammer [Magic]
+[SACRED] Battle Hammer [Cold]
+[SACRED] Battle Hammer [Poison]
+[SACRED] Battle Hammer [Blood]
+[SACRED] Battle Hammer [Occult]
+Great Mace
+Heavy Great Mace
+Keen Great Mace
+Quality Great Mace
+Fire Great Mace
+Flame Art Great Mace
+Lightning Great Mace
+Sacred Great Mace
+Magic Great Mace
+Cold Great Mace
+Poison Great Mace
+Blood Great Mace
+Occult Great Mace
+Curved Great Club
+Heavy Curved Great Club
+Keen Curved Great Club
+Quality Curved Great Club
+Fire Curved Great Club
+Flame Art Curved Great Club
+Lightning Curved Great Club
+Sacred Curved Great Club
+Magic Curved Great Club
+Cold Curved Great Club
+Poison Curved Great Club
+Blood Curved Great Club
+Occult Curved Great Club
+Celebrant's Skull
+Celebrant's Heavy Skull
+Celebrant's Keen Skull
+Celebrant's Quality Skull
+Celebrant's Fire Skull
+Celebrant's Flame Art Skull
+Celebrant's Lightning Skull
+Celebrant's Sacred Skull
+Celebrant's Magic Skull
+Celebrant's Cold Skull
+Celebrant's Poison Skull
+Celebrant's Blood Skull
+Celebrant's Occult Skull
+Pickaxe
+Heavy Pickaxe
+Keen Pickaxe
+Quality Pickaxe
+Fire Pickaxe
+Flame Art Pickaxe
+Lightning Pickaxe
+Sacred Pickaxe
+Magic Pickaxe
+Cold Pickaxe
+Poison Pickaxe
+Blood Pickaxe
+Occult Pickaxe
+Beastclaw Greathammer
+Envoy's Long Horn
+Cranial Vessel Candlestand
+[SACRED] Great Stars
+Heavy Great Stars
+Keen Great Stars
+Quality Great Stars
+Fire Great Stars
+Flame Art Great Stars
+Lightning Great Stars
+Sacred Great Stars
+Magic Great Stars
+Cold Great Stars
+Poison Great Stars
+Blood Great Stars
+Occult Great Stars
+Brick Hammer
+Heavy Brick Hammer
+Keen Brick Hammer
+Quality Brick Hammer
+Fire Brick Hammer
+Flame Art Brick Hammer
+Lightning Brick Hammer
+Sacred Brick Hammer
+Magic Brick Hammer
+Cold Brick Hammer
+Poison Brick Hammer
+Blood Brick Hammer
+Occult Brick Hammer
+Devourer's Scepter
+[SACRED] Rotten Battle Hammer
+[SACRED] Rotten Battle Hammer [Heavy]
+[SACRED] Rotten Battle Hammer [Keen]
+[SACRED] Rotten Battle Hammer [Quality]
+[SACRED] Rotten Battle Hammer [Fire]
+[SACRED] Rotten Battle Hammer [Flame Art]
+[SACRED] Rotten Battle Hammer [Lightning]
+[SACRED] Rotten Battle Hammer [Sacred]
+[SACRED] Rotten Battle Hammer [Magic]
+[SACRED] Rotten Battle Hammer [Cold]
+[SACRED] Rotten Battle Hammer [Poison]
+[SACRED] Rotten Battle Hammer [Blood]
+[SACRED] Rotten Battle Hammer [Occult]
+Smithscript Greathammer
+Heavy Smithscript Greathammer
+Keen Smithscript Greathammer
+Quality Smithscript Greathammer
+Fire Smithscript Greathammer
+Flame Art Smithscript Greathammer
+Lightning Smithscript Greathammer
+Sacred Smithscript Greathammer
+Magic Smithscript Greathammer
+Cold Smithscript Greathammer
+Poison Smithscript Greathammer
+Blood Smithscript Greathammer
+Occult Smithscript Greathammer
+Anvil Hammer
+Black Steel Greathammer
+Heavy Black Steel Greathammer
+Keen Black Steel Greathammer
+Quality Black Steel Greathammer
+Fire Black Steel Greathammer
+Flame Art Black Steel Greathammer
+Lightning Black Steel Greathammer
+Sacred Black Steel Greathammer
+Magic Black Steel Greathammer
+Cold Black Steel Greathammer
+Poison Black Steel Greathammer
+Blood Black Steel Greathammer
+Occult Black Steel Greathammer
+Bloodfiend's Arm
+Bloodfiend's Heavy Arm
+Bloodfiend's Keen Arm
+Bloodfiend's Quality Arm
+Bloodfiend's Fire Arm
+Bloodfiend's Flame Art Arm
+Bloodfiend's Lightning Arm
+Bloodfiend's Sacred Arm
+Bloodfiend's Magic Arm
+Bloodfiend's Cold Arm
+Bloodfiend's Poison Arm
+Bloodfiend's Blood Arm
+Bloodfiend's Occult Arm
+
+
+Nightrider Flail
+Heavy Nightrider Flail
+Keen Nightrider Flail
+Quality Nightrider Flail
+Fire Nightrider Flail
+Flame Art Nightrider Flail
+Lightning Nightrider Flail
+Sacred Nightrider Flail
+Magic Nightrider Flail
+Cold Nightrider Flail
+Poison Nightrider Flail
+Blood Nightrider Flail
+Occult Nightrider Flail
+Flail
+Heavy Flail
+Keen Flail
+Quality Flail
+Fire Flail
+Flame Art Flail
+Lightning Flail
+Sacred Flail
+Magic Flail
+Cold Flail
+Poison Flail
+Blood Flail
+Occult Flail
+Family Heads
+Bastard's Stars
+Chainlink Flail
+Heavy Chainlink Flail
+Keen Chainlink Flail
+Quality Chainlink Flail
+Fire Chainlink Flail
+Flame Art Chainlink Flail
+Lightning Chainlink Flail
+Sacred Chainlink Flail
+Magic Chainlink Flail
+Cold Chainlink Flail
+Poison Chainlink Flail
+Blood Chainlink Flail
+Occult Chainlink Flail
+Serpent Flail
+Battle Axe
+Heavy Battle Axe
+Keen Battle Axe
+Quality Battle Axe
+Fire Battle Axe
+Flame Art Battle Axe
+Lightning Battle Axe
+Sacred Battle Axe
+Magic Battle Axe
+Cold Battle Axe
+Poison Battle Axe
+Blood Battle Axe
+Occult Battle Axe
+Forked Hatchet
+Heavy Forked Hatchet
+Keen Forked Hatchet
+Quality Forked Hatchet
+Fire Forked Hatchet
+Flame Art Forked Hatchet
+Lightning Forked Hatchet
+Sacred Forked Hatchet
+Magic Forked Hatchet
+Cold Forked Hatchet
+Poison Forked Hatchet
+Blood Forked Hatchet
+Occult Forked Hatchet
+Hand Axe
+Heavy Hand Axe
+Keen Hand Axe
+Quality Hand Axe
+Fire Hand Axe
+Flame Art Hand Axe
+Lightning Hand Axe
+Sacred Hand Axe
+Magic Hand Axe
+Cold Hand Axe
+Poison Hand Axe
+Blood Hand Axe
+Occult Hand Axe
+Jawbone Axe
+Heavy Jawbone Axe
+Keen Jawbone Axe
+Quality Jawbone Axe
+Fire Jawbone Axe
+Flame Art Jawbone Axe
+Lightning Jawbone Axe
+Sacred Jawbone Axe
+Magic Jawbone Axe
+Cold Jawbone Axe
+Poison Jawbone Axe
+Blood Jawbone Axe
+Occult Jawbone Axe
+Iron Cleaver
+Heavy Iron Cleaver
+Keen Iron Cleaver
+Quality Iron Cleaver
+Fire Iron Cleaver
+Flame Art Iron Cleaver
+Lightning Iron Cleaver
+Sacred Iron Cleaver
+Magic Iron Cleaver
+Cold Iron Cleaver
+Poison Iron Cleaver
+Blood Iron Cleaver
+Occult Iron Cleaver
+Ripple Blade
+Celebrant's Cleaver
+Celebrant's Heavy Cleaver
+Celebrant's Keen Cleaver
+Celebrant's Quality Cleaver
+Celebrant's Fire Cleaver
+Celebrant's Flame Art Cleaver Blades
+Celebrant's Lightning Cleaver
+Celebrant's Sacred Cleaver
+Celebrant's Magic Cleaver
+Celebrant's Cold Cleaver
+Celebrant's Poison Cleaver
+Celebrant's Blood Cleaver
+Celebrant's Occult Cleaver
+Icerind Hatchet
+Highland Axe
+Heavy Highland Axe
+Keen Highland Axe
+Quality Highland Axe
+Fire Highland Axe
+Flame Art Highland Axe
+Lightning Highland Axe
+Sacred Highland Axe
+Magic Highland Axe
+Cold Highland Axe
+Poison Highland Axe
+Bloody Highland Axe
+Occult Highland Axe
+Sacrificial Axe
+Heavy Sacrificial Axe
+Keen Sacrificial Axe
+Quality Sacrificial Axe
+Fire Sacrificial Axe
+Flame Art Sacrificial Axe
+Lightning Sacrificial Axe
+Sacred Sacrificial Axe
+Magic Sacrificial Axe
+Cold Sacrificial Axe
+Poison Sacrificial Axe
+Blood Sacrificial Axe
+Occult Sacrificial Axe
+Rosus' Axe
+Stormhawk Axe
+Smithscript Axe
+Heavy Smithscript Axe
+Keen Smithscript Axe
+Quality Smithscript Axe
+Fire Smithscript Axe
+Flame Art Smithscript Axe
+Lightning Smithscript Axe
+Sacred Smithscript Axe
+Magic Smithscript Axe
+Cold Smithscript Axe
+Poison Smithscript Axe
+Blood Smithscript Axe
+Occult Smithscript Axe
+Death Knight's Twin Axes
+Messmer Soldier's Axe
+Messmer Soldier's Heavy Axe
+Messmer Soldier's Keen Axe
+Messmer Soldier's Quality Axe
+Messmer Soldier's Fire Axe
+Messmer Soldier's Flame Art Axe
+Messmer Soldier's Lightning Axe
+Messmer Soldier's Sacred Axe
+Messmer Soldier's Magic Axe
+Messmer Soldier's Cold Axe
+Messmer Soldier's Poison Axe
+Messmer Soldier's Blood Axe
+Messmer Soldier's Occult Axe
+Forked-Tongue Hatchet
+Greataxe
+Heavy Greataxe
+Keen Greataxe
+Quality Greataxe
+Fire Greataxe
+Flame Art Greataxe
+Lightning Greataxe
+Sacred Greataxe
+Magic Greataxe
+Cold Greataxe
+Poison Greataxe
+Blood Greataxe
+Occult Greataxe
+Warped Axe
+Heavy Warped Axe
+Keen Warped Axe
+Quality Warped Axe
+Fire Warped Axe
+Flame Art Warped Axe
+Lightning Warped Axe
+Sacred Warped Axe
+Magic Warped Axe
+Cold Warped Axe
+Poison Warped Axe
+Blood Warped Axe
+Occult Warped Axe
+Great Omenkiller Cleaver
+Heavy Great Omenkiller Cleaver
+Keen Great Omenkiller Cleaver
+Quality Great Omenkiller Cleaver
+Fire Great Omenkiller Cleaver
+Flame Art Great Omenkiller Cleaver
+Lightning Great Omenkiller Cleaver
+Sacred Great Omenkiller Cleaver
+Magic Great Omenkiller Cleaver
+Cold Great Omenkiller Cleaver
+Poison Great Omenkiller Cleaver
+Blood Great Omenkiller Cleaver
+Occult Great Omenkiller Cleaver
+Crescent Moon Axe
+Heavy Crescent Moon Axe
+Keen Crescent Moon Axe
+Quality Crescent Moon Axe
+Fire Crescent Moon Axe
+Flame Art Crescent Moon Axe
+Lightning Crescent Moon Axe
+Sacred Crescent Moon Axe
+Magic Crescent Moon Axe
+Cold Crescent Moon Axe
+Poison Crescent Moon Axe
+Blood Crescent Moon Axe
+Occult Crescent Moon Axe
+Axe of Godrick
+Longhaft Axe
+Heavy Longhaft Axe
+Keen Longhaft Axe
+Quality Longhaft Axe
+Fire Longhaft Axe
+Flame Art Longhaft Axe
+Lightning Longhaft Axe
+Sacred Longhaft Axe
+Magic Longhaft Axe
+Cold Longhaft Axe
+Poison Longhaft Axe
+Blood Longhaft Axe
+Occult Longhaft Axe
+Rusted Anchor
+Heavy Rusted Anchor
+Keen Rusted Anchor
+Quality Rusted Anchor
+Fire Rusted Anchor
+Flame Art Rusted Anchor
+Lightning Rusted Anchor
+Sacred Rusted Anchor
+Magic Rusted Anchor
+Cold Rusted Anchor
+Poison Rusted Anchor
+Blood Rusted Anchor
+Occult Rusted Anchor
+Executioner's Greataxe
+Executioner's Heavy Greataxe
+Executioner's Keen Greataxe
+Executioner's Quality Greataxe
+Executioner's Fire Greataxe
+Executioner's Flame Art Greataxe
+Executioner's Lightning Greataxe
+Executioner's Sacred Greataxe
+Executioner's Magic Greataxe
+Executioner's Cold Greataxe
+Executioner's Poison Greataxe
+Executioner's Blood Greataxe
+Executioner's Occult Greataxe
+Winged Greathorn
+Butchering Knife
+Heavy Butchering Knife
+Keen Butchering Knife
+Quality Butchering Knife
+Fire Butchering Knife
+Flame Art Butchering Knife
+Lightning Butchering Knife
+Sacred Butchering Knife
+Magic Butchering Knife
+Cold Butchering Knife
+Poison Butchering Knife
+Blood Butchering Knife
+Occult Butchering Knife
+Gargoyle's Great Axe
+Gargoyle's Heavy Great Axe
+Gargoyle's Keen Great Axe
+Gargoyle's Quality Great Axe
+Gargoyle's Fire Great Axe
+Gargoyle's Flame Art Great Axe
+Gargoyle's Lightning Great Axe
+Gargoyle's Sacred Great Axe
+Gargoyle's Magic Great Axe
+Gargoyle's Cold Great Axe
+Gargoyle's Poison Great Axe
+Gargoyle's Blood Great Axe
+Gargoyle's Occult Great Axe
+Gargoyle's Black Axe
+Death Knight's Longhaft Axe
+Bonny Butchering Knife
+[NPC] Bonny Butchering Knife
+
+Short Spear
+Heavy Short Spear
+Keen Short Spear
+Quality Short Spear
+Fire Short Spear
+Flame Art Short Spear
+Lightning Short Spear
+Sacred Short Spear
+Magic Short Spear
+Cold Short Spear
+Poison Short Spear
+Blood Short Spear
+Occult Short Spear
+Spear
+Heavy Spear
+Keen Spear
+Quality Spear
+Fire Spear
+Flame Art Spear
+Lightning Spear
+Sacred Spear
+Magic Spear
+Cold Spear
+Poison Spear
+Bloody Spear
+Occult Spear
+Crystal Spear
+Clayman's Harpoon
+Clayman's Heavy Harpoon
+Clayman's Keen Harpoon
+Clayman's Quality Harpoon
+Clayman's Fire Harpoon
+Clayman's Flame Art Harpoon
+Clayman's Lightning Harpoon
+Clayman's Sacred Harpoon
+Clayman's Magic Harpoon
+Clayman's Cold Harpoon
+Clayman's Poison Harpoon
+Clayman's Blood Harpoon
+Clayman's Occult Harpoon
+Cleanrot Spear
+Partisan
+Heavy Partisan
+Keen Partisan
+Quality Partisan
+Fire Partisan
+Flame Art Partisan
+Lightning Partisan
+Sacred Partisan
+Magic Partisan
+Cold Partisan
+Poison Partisan
+Blood Partisan
+Occult Partisan
+Celebrant's Rib-Rake
+Celebrant's Heavy Rib-Rake
+Celebrant's Keen Rib-Rake
+Celebrant's Quality Rib-Rake
+Celebrant's Fire Rib-Rake
+Celebrant's Flame Art Rib-Rake
+Celebrant's Lightning Rib-Rake
+Celebrant's Sacred Rib-Rake
+Celebrant's Magic Rib-Rake
+Celebrant's Cold Rib-Rake
+Celebrant's Poison Rib-Rake
+Celebrant's Blood Rib-Rake
+Celebrant's Occult Rib-Rake
+Pike
+Heavy Pike
+Keen Pike
+Quality Pike
+Fire Pike
+Flame Art Pike
+Lightning Pike
+Sacred Pike
+Magic Pike
+Cold Pike
+Poison Pike
+Blood Pike
+Occult Pike
+Torchpole
+Bolt of Gransax
+Cross-Naginata
+Heavy Cross-Naginata
+Keen Cross-Naginata
+Quality Cross-Naginata
+Fire Cross-Naginata
+Flame Art Cross-Naginata
+Lightning Cross-Naginata
+Sacred Cross-Naginata
+Magic Cross-Naginata
+Cold Cross-Naginata
+Poison Cross-Naginata
+Blood Cross-Naginata
+Occult Cross-Naginata
+Death Ritual Spear
+Inquisitor's Girandole
+Spiked Spear
+Heavy Spiked Spear
+Keen Spiked Spear
+Quality Spiked Spear
+Fire Spiked Spear
+Flame Art Spiked Spear
+Lightning Spiked Spear
+Sacred Spiked Spear
+Magic Spiked Spear
+Cold Spiked Spear
+Poison Spiked Spear
+Blood Spiked Spear
+Occult Spiked Spear
+Iron Spear
+Heavy Iron Spear
+Keen Iron Spear
+Quality Iron Spear
+Fire Iron Spear
+Flame Art Iron Spear
+Lightning Iron Spear
+Sacred Iron Spear
+Magic Iron Spear
+Cold Iron Spear
+Poison Iron Spear
+Blood Iron Spear
+Occult Iron Spear
+Rotten Crystal Spear
+Smithscript Spear
+Heavy Smithscript Spear
+Keen Smithscript Spear
+Quality Smithscript Spear
+Fire Smithscript Spear
+Flame Art Smithscript Spear
+Lightning Smithscript Spear
+Sacred Smithscript Spear
+Magic Smithscript Spear
+Cold Smithscript Spear
+Poison Smithscript Spear
+Blood Smithscript Spear
+Occult Smithscript Spear
+Swift Spear
+Heavy Swift Spear
+Keen Swift Spear
+Quality Swift Spear
+Fire Swift Spear
+Flame Art Swift Spear
+Lightning Swift Spear
+Sacred Swift Spear
+Magic Swift Spear
+Cold Swift Spear
+Poison Swift Spear
+Blood Swift Spear
+Occult Swift Spear
+Bloodfiend's Fork
+Bloodfiend's Heavy Fork
+Bloodfiend's Keen Fork
+Bloodfiend's Quality Fork
+Bloodfiend's Fire Fork
+Bloodfiend's Flame Art Fork
+Bloodfiend's Lightning Fork
+Bloodfiend's Sacred Fork
+Bloodfiend's Magic Fork
+Bloodfiend's Cold Fork
+Bloodfiend's Poison Fork
+Bloodfiend's Blood Fork
+Bloodfiend's Occult Fork
+Bloodfiend's Sacred Spear
+Mohgwyn's Sacred Spear
+Siluria's Tree
+Serpent-Hunter
+Vyke's War Spear
+Lance
+Heavy Lance
+Keen Lance
+Quality Lance
+Fire Lance
+Flame Art Lance
+Lightning Lance
+Sacred Lance
+Magic Lance
+Cold Lance
+Poison Lance
+Bloody Lance
+Occult Lance
+Treespear
+Heavy Treespear
+Keen Treespear
+Quality Treespear
+Fire Treespear
+Flame Art Treespear
+Lightning Treespear
+Sacred Treespear
+Magic Treespear
+Cold Treespear
+Poison Treespear
+Blood Treespear
+Occult Treespear
+Spear of the Impaler
+Messmer Soldier's Spear
+Messmer Soldier's Heavy Spear
+Messmer Soldier's Keen Spear
+Messmer Soldier's Quality Spear
+Messmer Soldier's Fire Spear
+Messmer Soldier's Flame Art Spear
+Messmer Soldier's Lightning Spear
+Messmer Soldier's Sacred Spear
+Messmer Soldier's Magic Spear
+Messmer Soldier's Cold Spear
+Messmer Soldier's Poison Spear
+Messmer Soldier's Blood Spear
+Messmer Soldier's Occult Spear
+Barbed Staff-Spear
+
+
+Halberd
+Heavy Halberd
+Keen Halberd
+Quality Halberd
+Fire Halberd
+Flame Art Halberd
+Lightning Halberd
+Sacred Halberd
+Magic Halberd
+Cold Halberd
+Poison Halberd
+Blood Halberd
+Occult Halberd
+Pest's Glaive
+Pest's Heavy Glaive
+Pest's Keen Glaive
+Pest's Quality Glaive
+Pest's Fire Glaive
+Pest's Flame Art Glaive
+Pest's Lightning Glaive
+Pest's Sacred Glaive
+Pest's Magic Glaive
+Pest's Cold Glaive
+Pest's Poison Glaive
+Pest's Blood Glaive
+Pest's Occult Glaive
+Lucerne
+Heavy Lucerne
+Keen Lucerne
+Quality Lucerne
+Fire Lucerne
+Flame Art Lucerne
+Lightning Lucerne
+Sacred Lucerne
+Magic Lucerne
+Cold Lucerne
+Poison Lucerne
+Blood Lucerne
+Occult Lucerne
+Banished Knight's Halberd
+Banished Knight's Heavy Halberd
+Banished Knight's Keen Halberd
+Banished Knight's Quality Halberd
+Banished Knight's Fire Halberd
+Banished Knight's Flame Art Halberd
+Banished Knight's Lightning Halberd
+Banished Knight's Sacred Halberd
+Banished Knight's Magic Halberd
+Banished Knight's Cold Halberd
+Banished Knight's Poison Halberd
+Banished Knight's Blood Halberd
+Banished Knight's Occult Halberd
+Commander's Standard
+Nightrider Glaive
+Heavy Nightrider Glaive
+Keen Nightrider Glaive
+Quality Nightrider Glaive
+Fire Nightrider Glaive
+Flame Art Nightrider Glaive
+Lightning Nightrider Glaive
+Sacred Nightrider Glaive
+Magic Nightrider Glaive
+Cold Nightrider Glaive
+Poison Nightrider Glaive
+Blood Nightrider Glaive
+Occult Nightrider Glaive
+Ripple Crescent Halberd
+Vulgar Militia Saw
+Heavy Vulgar Militia Saw
+Keen Vulgar Militia Saw
+Quality Vulgar Militia Saw
+Fire Vulgar Militia Saw
+Flame Art Vulgar Militia Saw
+Lightning Vulgar Militia Saw
+Sacred Vulgar Militia Saw
+Magic Vulgar Militia Saw
+Cold Vulgar Militia Saw
+Poison Vulgar Militia Saw
+Blood Vulgar Militia Saw
+Occult Vulgar Militia Saw
+Golden Halberd
+Glaive
+Heavy Glaive
+Keen Glaive
+Quality Glaive
+Fire Glaive
+Flame Art Glaive
+Lightning Glaive
+Sacred Glaive
+Magic Glaive
+Cold Glaive
+Poison Glaive
+Blood Glaive
+Occult Glaive
+Loretta's War Sickle
+Guardian's Swordspear
+Guardian's Heavy Swordspear
+Guardian's Keen Swordspear
+Guardian's Quality Swordspear
+Guardian's Fire Swordspear
+Guardian's Flame Art Swordspear
+Guardian's Lightning Swordspear
+Guardian's Sacred Swordspear
+Guardian's Magic Swordspear
+Guardian's Cold Swordspear
+Guardian's Poison Swordspear
+Guardian's Blood Swordspear
+Guardian's Occult Swordspear
+Vulgar Militia Shotel
+Heavy Vulgar Militia Shotel
+Keen Vulgar Militia Shotel
+Quality Vulgar Militia Shotel
+Fire Vulgar Militia Shotel
+Flame Art Vulgar Militia Shotel
+Lightning Vulgar Militia Shotel
+Sacred Vulgar Militia Shotel
+Magic Vulgar Militia Shotel
+Cold Vulgar Militia Shotel
+Poison Vulgar Militia Shotel
+Blood Vulgar Militia Shotel
+Occult Vulgar Militia Shotel
+Dragon Halberd
+Gargoyle's Halberd
+Gargoyle's Heavy Halberd
+Gargoyle's Keen Halberd
+Gargoyle's Quality Halberd
+Gargoyle's Fire Halberd
+Gargoyle's Flame Art Halberd
+Gargoyle's Lightning Halberd
+Gargoyle's Sacred Halberd
+Gargoyle's Magic Halberd
+Gargoyle's Cold Halberd
+Gargoyle's Poison Halberd
+Gargoyle's Blood Halberd
+Gargoyle's Occult Halberd
+Gargoyle's Black Halberd
+Spirit Glaive
+Poleblade of the Bud
+Scythe
+Heavy Scythe
+Keen Scythe
+Quality Scythe
+Fire Scythe
+Flame Art Scythe
+Lightning Scythe
+Sacred Scythe
+Magic Scythe
+Cold Scythe
+Poison Scythe
+Blood Scythe
+Occult Scythe
+Grave Scythe
+Heavy Grave Scythe
+Keen Grave Scythe
+Quality Grave Scythe
+Fire Grave Scythe
+Flame Art Grave Scythe
+Lightning Grave Scythe
+Sacred Grave Scythe
+Magic Grave Scythe
+Cold Grave Scythe
+Poison Grave Scythe
+Blood Grave Scythe
+Occult Grave Scythe
+Halo Scythe
+Winged Scythe
+Obsidian Lamina
+[NPC] Obsidian Lamina
+Whip
+Heavy Whip
+Keen Whip
+Quality Whip
+Fire Whip
+Flame Art Whip
+Lightning Whip
+Sacred Whip
+Magic Whip
+Cold Whip
+Poison Whip
+Blood Whip
+Occult Whip
+Thorned Whip
+Heavy Thorned Whip
+Keen Thorned Whip
+Quality Thorned Whip
+Fire Thorned Whip
+Flame Art Thorned Whip
+Lightning Thorned Whip
+Sacred Thorned Whip
+Magic Thorned Whip
+Cold Thorned Whip
+Poison Thorned Whip
+Blood Thorned Whip
+Occult Thorned Whip
+Magma Whip Candlestick
+Hoslow's Petal Whip
+Hoslow's Heavy Petal Whip
+Hoslow's Keen Petal Whip
+Hoslow's Quality Petal Whip
+Hoslow's Fire Petal Whip
+Hoslow's Flame Art Petal Whip
+Hoslow's Lightning Petal Whip
+Hoslow's Sacred Petal Whip
+Hoslow's Magic Petal Whip
+Hoslow's Cold Petal Whip
+Hoslow's Poison Petal Whip
+Hoslow's Blood Petal Whip
+Hoslow's Occult Petal Whip
+Giant's Red Braid
+Urumi
+Heavy Urumi
+Keen Urumi
+Quality Urumi
+Fire Urumi
+Flame Art Urumi
+Lightning Urumi
+Sacred Urumi
+Magic Urumi
+Cold Urumi
+Poison Urumi
+Blood Urumi
+Occult Urumi
+Tooth Whip
+Caestus
+Heavy Caestus
+Keen Caestus
+Quality Caestus
+Fire Caestus
+Flame Art Caestus
+Lightning Caestus
+Sacred Caestus
+Magic Caestus
+Cold Caestus
+Poison Caestus
+Blood Caestus
+Occult Caestus
+Spiked Caestus
+Heavy Spiked Caestus
+Keen Spiked Caestus
+Quality Spiked Caestus
+Fire Spiked Caestus
+Flame Art Spiked Caestus
+Lightning Spiked Caestus
+Sacred Spiked Caestus
+Magic Spiked Caestus
+Cold Spiked Caestus
+Poison Spiked Caestus
+Blood Spiked Caestus
+Occult Spiked Caestus
+Grafted Dragon
+Iron Ball
+Heavy Iron Ball
+Keen Iron Ball
+Quality Iron Ball
+Fire Iron Ball
+Flame Art Iron Ball
+Lightning Iron Ball
+Sacred Iron Ball
+Magic Iron Ball
+Cold Iron Ball
+Poison Iron Ball
+Blood Iron Ball
+Occult Iron Ball
+Star Fist
+Heavy Star Fist
+Keen Star Fist
+Quality Star Fist
+Fire Star Fist
+Flame Art Star Fist
+Lightning Star Fist
+Sacred Star Fist
+Magic Star Fist
+Cold Star Fist
+Poison Star Fist
+Blood Star Fist
+Occult Star Fist
+Katar
+Heavy Katar
+Keen Katar
+Quality Katar
+Fire Katar
+Flame Art Katar
+Lightning Katar
+Sacred Katar
+Magic Katar
+Cold Katar
+Poison Katar
+Blood Katar
+Occult Katar
+Clinging Bone
+Veteran's Prosthesis
+Cipher Pata
+Thiollier's Hidden Needle
+Pata
+Heavy Pata
+Keen Pata
+Quality Pata
+Fire Pata
+Flame Art Pata
+Lightning Pata
+Sacred Pata
+Magic Pata
+Cold Pata
+Poison Pata
+Blood Pata
+Occult Pata
+Poisoned Hand
+Madding Hand
+Golem Fist
+Heavy Golem Fist
+Keen Golem Fist
+Quality Golem Fist
+Fire Golem Fist
+Flame Art Golem Fist
+Lightning Golem Fist
+Sacred Golem Fist
+Magic Golem Fist
+Cold Golem Fist
+Poison Golem Fist
+Blood Golem Fist
+Occult Golem Fist
+Shield of Night
+[NPC] Madding Hand
+[NPC] Thiollier's Hidden Neddle
+[NPC] Shield of Night
+Hookclaws
+Heavy Hookclaws
+Keen Hookclaws
+Quality Hookclaws
+Fire Hookclaws
+Flame Art Hookclaws
+Lightning Hookclaws
+Sacred Hookclaws
+Magic Hookclaws
+Cold Hookclaws
+Poison Hookclaws
+Blood Hookclaws
+Occult Hookclaws
+Venomous Fang
+Heavy Venomous Fang
+Keen Venomous Fang
+Quality Venomous Fang
+Fire Venomous Fang
+Flame Art Venomous Fang
+Lightning Venomous Fang
+Sacred Venomous Fang
+Magic Venomous Fang
+Cold Venomous Fang
+Poison Venomous Fang
+Blood Venomous Fang
+Occult Venomous Fang
+Bloodhound Claws
+Heavy Bloodhound Claws
+Keen Bloodhound Claws
+Quality Bloodhound Claws
+Fire Bloodhound Claws
+Flame Art Bloodhound Claws
+Lightning Bloodhound Claws
+Sacred Bloodhound Claws
+Magic Bloodhound Claws
+Cold Bloodhound Claws
+Poison Bloodhound Claws
+Blood Bloodhound Claws
+Occult Bloodhound Claws
+Raptor Talons
+Heavy Raptor Talons
+Keen Raptor Talons
+Quality Raptor Talons
+Fire Raptor Talons
+Flame Art Raptor Talons
+Lightning Raptor Talons
+Sacred Raptor Talons
+Magic Raptor Talons
+Cold Raptor Talons
+Poison Raptor Talons
+Blood Raptor Talons
+Occult Raptor Talons
+Claws of Night
+[NPC] Claws of Night
+Prelate's Inferno Crozier
+Prelate's Heavy Inferno Crozier
+Prelate's Keen Inferno Crozier
+Prelate's Quality Inferno Crozier
+Prelate's Fire Inferno Crozier
+Prelate's Flame Art Inferno Crozier
+Prelate's Lightning Inferno Crozier
+Prelate's Sacred Inferno Crozier
+Prelate's Magic Inferno Crozier
+Prelate's Cold Inferno Crozier
+Prelate's Poison Inferno Crozier
+Prelate's Blood Inferno Crozier
+Prelate's Occult Inferno Crozier
+Watchdog's Staff
+Great Club
+Heavy Great Club
+Keen Great Club
+Quality Great Club
+Fire Great Club
+Flame Art Great Club
+Lightning Great Club
+Sacred Great Club
+Magic Great Club
+Cold Great Club
+Poison Great Club
+Blood Great Club
+Occult Great Club
+Envoy's Greathorn
+Duelist Greataxe
+Heavy Duelist Greataxe
+Keen Duelist Greataxe
+Quality Duelist Greataxe
+Fire Duelist Greataxe
+Flame Art Duelist Greataxe
+Lightning Duelist Greataxe
+Sacred Duelist Greataxe
+Magic Duelist Greataxe
+Cold Duelist Greataxe
+Poison Duelist Greataxe
+Blood Duelist Greataxe
+Occult Duelist Greataxe
+Axe of Godfrey
+Dragon Greatclaw
+Staff of the Avatar
+Fallingstar Beast Jaw
+Ghiza's Wheel
+Giant-Crusher
+Heavy Giant-Crusher
+Keen Giant-Crusher
+Quality Giant-Crusher
+Fire Giant-Crusher
+Flame Art Giant-Crusher
+Lightning Giant-Crusher
+Sacred Giant-Crusher
+Magic Giant-Crusher
+Cold Giant-Crusher
+Poison Giant-Crusher
+Blood Giant-Crusher
+Occult Giant-Crusher
+Golem's Halberd
+Golem's Heavy Halberd
+Golem's Keen Halberd
+Golem's Quality Halberd
+Golem's Fire Halberd
+Golem's Flame Art Halberd
+Golem's Lightning Halberd
+Golem's Sacred Halberd
+Golem's Magic Halberd
+Golem's Cold Halberd
+Golem's Poison Halberd
+Golem's Blood Halberd
+Golem's Occult Halberd
+Troll's Hammer
+Troll's Heavy Hammer
+Troll's Keen Hammer
+Troll's Quality Hammer
+Troll's Fire Hammer
+Troll's Flame Art Hammer
+Troll's Lightning Hammer
+Troll's Sacred Hammer
+Troll's Magic Hammer
+Troll's Cold Hammer
+Troll's Poison Hammer
+Troll's Blood Hammer
+Troll's Occult Hammer
+Rotten Staff
+Rotten Greataxe
+Heavy Rotten Greataxe
+Keen Rotten Greataxe
+Quality Rotten Greataxe
+Fire Rotten Greataxe
+Flame Art Rotten Greataxe
+Lightning Rotten Greataxe
+Sacred Rotten Greataxe
+Magic Rotten Greataxe
+Cold Rotten Greataxe
+Poison Rotten Greataxe
+Blood Rotten Greataxe
+Occult Rotten Greataxe
+Devonia's Hammer
+Shadow Sunflower Blossom
+Gazing Finger
+
+
+
+
+Torch
+Steel-Wire Torch
+St. Trina's Torch
+Ghostflame Torch
+Beast-Repellent Torch
+Sentry's Torch
+Nanaya's Torch
+Lamenting Visage
+
+Buckler
+Heavy Buckler
+Keen Buckler
+Quality Buckler
+Fire Buckler
+Flame Art Buckler
+Lightning Buckler
+Sacred Buckler
+Magic Buckler
+Cold Buckler
+Poison Buckler
+Bloody Buckler
+Occult Buckler
+Perfumer's Shield
+Perfumer's Heavy Shield
+Perfumer's Keen Shield
+Perfumer's Quality Shield
+Perfumer's Fire Shield
+Perfumer's Flame Art Shield
+Perfumer's Lightning Shield
+Perfumer's Sacred Shield
+Perfumer's Magic Shield
+Perfumer's Cold Shield
+Perfumer's Poison Shield
+Perfumer's Blood Shield
+Perfumer's Occult Shield
+Man-Serpent's Shield
+Man-serpent's Heavy Shield
+Man-serpent's Keen Shield
+Man-serpent's Quality Shield
+Man-serpent's Fire Shield
+Man-serpent's Flame Art Shield
+Man-serpent's Lightning Shield
+Man-serpent's Sacred Shield
+Man-serpent's Magic Shield
+Man-serpent's Cold Shield
+Man-serpent's Poison Shield
+Man-serpent's Blood Shield
+Man-serpent's Occult Shield
+Rickety Shield
+Heavy Rickety Shield
+Keen Rickety Shield
+Quality Rickety Shield
+Fire Rickety Shield
+Flame Art Rickety Shield
+Lightning Rickety Shield
+Sacred Rickety Shield
+Magic Rickety Shield
+Cold Rickety Shield
+Poison Rickety Shield
+Bloody Rickety Shield
+Occult Rickety Shield
+Pillory Shield
+Heavy Pillory Shield
+Keen Pillory Shield
+Quality Pillory Shield
+Fire Pillory Shield
+Flame Art Pillory Shield
+Lightning Pillory Shield
+Sacred Pillory Shield
+Magic Pillory Shield
+Cold Pillory Shield
+Poison Pillory Shield
+Blood Pillory Shield
+Occult Pillory Shield
+Beastman's Jar-Shield
+Beastman's Heavy Jar-Shield
+Beastman's Keen Jar-Shield
+Beastman's Quality Jar-Shield
+Beastman's Fire Jar-Shield
+Beastman's Flame Art Jar-Shield
+Beastman's Lightning Jar-Shield
+Beastman's Sacred Jar-Shield
+Beastman's Magic Jar-Shield
+Beastman's Cold Jar-Shield
+Beastman's Poison Jar-Shield
+Beastman's Blood Jar-Shield
+Beastman's Occult Jar-Shield
+Red Thorn Roundshield
+Heavy Red Thorn Roundshield
+Keen Red Thorn Roundshield
+Quality Red Thorn Roundshield
+Fire Red Thorn Roundshield
+Flame Art Red Thorn Roundshield
+Lightning Red Thorn Roundshield
+Sacred Red Thorn Roundshield
+Magic Red Thorn Roundshield
+Cold Red Thorn Roundshield
+Poison Red Thorn Roundshield
+Bloody Red Thorn Roundshield
+Occult Red Thorn Roundshield
+Scripture Wooden Shield
+Heavy Scripture Wooden Shield
+Keen Scripture Wooden Shield
+Quality Scripture Wooden Shield
+Fire Scripture Wooden Shield
+Flame Art Scripture Wooden Shield
+Lightning Scripture Wooden Shield
+Sacred Scripture Wooden Shield
+Magic Scripture Wooden Shield
+Cold Scripture Wooden Shield
+Poison Scripture Wooden Shield
+Blood Scripture Wooden Shield
+Occult Scripture Wooden Shield
+Riveted Wooden Shield
+Heavy Riveted Wooden Shield
+Keen Riveted Wooden Shield
+Quality Riveted Wooden Shield
+Fire Riveted Wooden Shield
+Flame Art Riveted Wooden Shield
+Lightning Riveted Wooden Shield
+Sacred Riveted Wooden Shield
+Magic Riveted Wooden Shield
+Cold Riveted Wooden Shield
+Poison Riveted Wooden Shield
+Blood Riveted Wooden Shield
+Occult Riveted Wooden Shield
+Blue-White Wooden Shield
+Heavy Blue-White Wooden Shield
+Keen Blue-White Wooden Shield
+Quality Blue-White Wooden Shield
+Fire Blue-White Wooden Shield
+Flame Art Blue-White Wooden Shield
+Lightning Blue-White Wooden Shield
+Sacred Blue-White Wooden Shield
+Magic Blue-White Wooden Shield
+Cold Blue-White Wooden Shield
+Poison Blue-White Wooden Shield
+Blood Blue-White Wooden Shield
+Occult Blue-White Wooden Shield
+Rift Shield
+Heavy Rift Shield
+Keen Rift Shield
+Quality Rift Shield
+Fire Rift Shield
+Flame Art Rift Shield
+Lightning Rift Shield
+Sacred Rift Shield
+Magic Rift Shield
+Cold Rift Shield
+Poison Rift Shield
+Blood Rift Shield
+Occult Rift Shield
+Iron Roundshield
+Heavy Iron Roundshield
+Keen Iron Roundshield
+Quality Iron Roundshield
+Fire Iron Roundshield
+Flame Art Iron Roundshield
+Lightning Iron Roundshield
+Sacred Iron Roundshield
+Magic Iron Roundshield
+Cold Iron Roundshield
+Poison Iron Roundshield
+Bloody Iron Roundshield
+Occult Iron Roundshield
+Gilded Iron Shield
+Gilded Heavy Iron Shield
+Gilded Keen Iron Shield
+Gilded Quality Iron Shield
+Gilded Fire Iron Shield
+Gilded Flame Art Iron Shield
+Gilded Lightning Iron Shield
+Gilded Sacred Iron Shield
+Gilded Magic Iron Shield
+Gilded Cold Iron Shield
+Gilded Poison Iron Shield
+Gilded Blood Iron Shield
+Gilded Occult Iron Shield
+Ice Crest Shield
+Heavy Ice Crest Shield
+Keen Ice Crest Shield
+Quality Ice Crest Shield
+Fire Ice Crest Shield
+Flame Art Ice Crest Shield
+Lightning Ice Crest Shield
+Sacred Ice Crest Shield
+Magic Ice Crest Shield
+Cold Ice Crest Shield
+Poison Ice Crest Shield
+Blood Ice Crest Shield
+Occult Ice Crest Shield
+Smoldering Shield
+Spiralhorn Shield
+Heavy Spiralhorn Shield
+Keen Spiralhorn Shield
+Quality Spiralhorn Shield
+Fire Spiralhorn Shield
+Flame Art Spiralhorn Shield
+Lightning Spiralhorn Shield
+Sacred Spiralhorn Shield
+Magic Spiralhorn Shield
+Cold Spiralhorn Shield
+Poison Spiralhorn Shield
+Blood Spiralhorn Shield
+Occult Spiralhorn Shield
+Coil Shield
+Smithscript Shield
+Kite Shield
+Heavy Kite Shield
+Keen Kite Shield
+Quality Kite Shield
+Fire Kite Shield
+Flame Art Kite Shield
+Lightning Kite Shield
+Sacred Kite Shield
+Magic Kite Shield
+Cold Kite Shield
+Poison Kite Shield
+Blood Kite Shield
+Occult Kite Shield
+Marred Leather Shield
+Marred Heavy Leather Shield
+Marred Keen Leather Shield
+Marred Quality Leather Shield
+Marred Fire Leather Shield
+Marred Flame Art Leather Shield
+Marred Lightning Leather Shield
+Marred Sacred Leather Shield
+Marred Magic Leather Shield
+Marred Cold Leather Shield
+Marred Poison Leather Shield
+Marred Blood Leather Shield
+Marred Occult Leather Shield
+Marred Wooden Shield
+Marred Heavy Wooden Shield
+Marred Keen Wooden Shield
+Marred Quality Wooden Shield
+Marred Fire Wooden Shield
+Marred Flame Art Wooden Shield
+Marred Lightning Wooden Shield
+Marred Sacred Wooden Shield
+Marred Magic Wooden Shield
+Marred Cold Wooden Shield
+Marred Poison Wooden Shield
+Marred Blood Wooden Shield
+Marred Occult Wooden Shield
+Banished Knight's Shield
+Banished Knight's Heavy Shield
+Banished Knight's Keen Shield
+Banished Knight's Quality Shield
+Banished Knight's Fire Shield
+Banished Knight's Flame Art Shield
+Banished Knight's Lightning Shield
+Banished Knight's Sacred Shield
+Banished Knight's Magic Shield
+Banished Knight's Cold Shield
+Banished Knight's Poison Shield
+Banished Knight's Blood Shield
+Banished Knight's Occult Shield
+Albinauric Shield
+Heavy Albinauric Shield
+Keen Albinauric Shield
+Quality Albinauric Shield
+Fire Albinauric Shield
+Flame Art Albinauric Shield
+Lightning Albinauric Shield
+Sacred Albinauric Shield
+Magic Albinauric Shield
+Cold Albinauric Shield
+Poison Albinauric Shield
+Blood Albinauric Shield
+Occult Albinauric Shield
+Sun Realm Shield
+Heavy Sun Realm Shield
+Keen Sun Realm Shield
+Quality Sun Realm Shield
+Fire Sun Realm Shield
+Flame Art Sun Realm Shield
+Lightning Sun Realm Shield
+Sacred Sun Realm Shield
+Magic Sun Realm Shield
+Cold Sun Realm Shield
+Poison Sun Realm Shield
+Blood Sun Realm Shield
+Occult Sun Realm Shield
+Silver Mirrorshield
+Round Shield
+Heavy Round Shield
+Keen Round Shield
+Quality Round Shield
+Fire Round Shield
+Flame Art Round Shield
+Lightning Round Shield
+Sacred Round Shield
+Magic Round Shield
+Cold Round Shield
+Poison Round Shield
+Blood Round Shield
+Occult Round Shield
+Scorpion Kite Shield
+Heavy Scorpion Kite Shield
+Keen Scorpion Kite Shield
+Quality Scorpion Kite Shield
+Fire Scorpion Kite Shield
+Flame Art Scorpion Kite Shield
+Lightning Scorpion Kite Shield
+Sacred Scorpion Kite Shield
+Magic Scorpion Kite Shield
+Cold Scorpion Kite Shield
+Poison Scorpion Kite Shield
+Blood Scorpion Kite Shield
+Occult Scorpion Kite Shield
+Twinbird Kite Shield
+Heavy Twinbird Kite Shield
+Keen Twinbird Kite Shield
+Quality Twinbird Kite Shield
+Fire Twinbird Kite Shield
+Flame Art Twinbird Kite Shield
+Lightning Twinbird Kite Shield
+Sacred Twinbird Kite Shield
+Magic Twinbird Kite Shield
+Cold Twinbird Kite Shield
+Poison Twinbird Kite Shield
+Blood Twinbird Kite Shield
+Occult Twinbird Kite Shield
+Blue-Gold Kite Shield
+Heavy Blue-Gold Kite Shield
+Keen Blue-Gold Kite Shield
+Quality Blue-Gold Kite Shield
+Fire Blue-Gold Kite Shield
+Flame Art Blue-Gold Kite Shield
+Lightning Blue-Gold Kite Shield
+Sacred Blue-Gold Kite Shield
+Magic Blue-Gold Kite Shield
+Cold Blue-Gold Kite Shield
+Poison Blue-Gold Kite Shield
+Blood Blue-Gold Kite Shield
+Occult Blue-Gold Kite Shield
+Brass Shield
+Heavy Brass Shield
+Keen Brass Shield
+Quality Brass Shield
+Fire Brass Shield
+Flame Art Brass Shield
+Lightning Brass Shield
+Sacred Brass Shield
+Magic Brass Shield
+Cold Brass Shield
+Poison Brass Shield
+Blood Brass Shield
+Occult Brass Shield
+Great Turtle Shell
+Heavy Great Turtle Shell
+Keen Great Turtle Shell
+Quality Great Turtle Shell
+Fire Great Turtle Shell
+Flame Art Great Turtle Shell
+Lightning Great Turtle Shell
+Sacred Great Turtle Shell
+Magic Great Turtle Shell
+Cold Great Turtle Shell
+Poison Great Turtle Shell
+Blood Great Turtle Shell
+Occult Great Turtle Shell
+Shield of the Guilty
+Heavy Shield of the Guilty
+Keen Shield of the Guilty
+Quality Shield of the Guilty
+Fire Shield of the Guilty
+Flame Art Shield of the Guilty
+Lightning Shield of the Guilty
+Sacred Shield of the Guilty
+Magic Shield of the Guilty
+Cold Shield of the Guilty
+Poison Shield of the Guilty
+Blood Shield of the Guilty
+Occult Shield of the Guilty
+Carian Knight's Shield
+Carian Knight's Heavy Shield
+Carian Knight's Keen Shield
+Carian Knight's Quality Shield
+Carian Knight's Fire Shield
+Carian Knight's Flame Art Shield
+Carian Knight's Lightning Shield
+Carian Knight's Sacred Shield
+Carian Knight's Magic Shield
+Carian Knight's Cold Shield
+Carian Knight's Poison Shield
+Carian Knight's Bloody Shield
+Carian Knight's Occult Shield
+Large Leather Shield
+Heavy Large Leather Shield
+Keen Large Leather Shield
+Quality Large Leather Shield
+Fire Large Leather Shield
+Flame Art Large Leather Shield
+Lightning Large Leather Shield
+Sacred Large Leather Shield
+Magic Large Leather Shield
+Cold Large Leather Shield
+Poison Large Leather Shield
+Bloody Large Leather Shield
+Occult Large Leather Shield
+Horse Crest Wooden Shield
+Heavy Horse Crest Wooden Shield
+Keen Horse Crest Wooden Shield
+Quality Horse Crest Wooden Shield
+Fire Horse Crest Wooden Shield
+Flame Art Horse Crest Wooden Shield
+Lightning Horse Crest Wooden Shield
+Sacred Horse Crest Wooden Shield
+Magic Horse Crest Wooden Shield
+Cold Horse Crest Wooden Shield
+Poison Horse Crest Wooden Shield
+Blood Horse Crest Wooden Shield
+Occult Horse Crest Wooden Shield
+Candletree Wooden Shield
+Heavy Candletree Wooden Shield
+Keen Candletree Wooden Shield
+Quality Candletree Wooden Shield
+Fire Candletree Wooden Shield
+Flame Art Candletree Wooden Shield
+Lightning Candletree Wooden Shield
+Sacred Candletree Wooden Shield
+Magic Candletree Wooden Shield
+Cold Candletree Wooden Shield
+Poison Candletree Wooden Shield
+Blood Candletree Wooden Shield
+Occult Candletree Wooden Shield
+Flame Crest Wooden Shield
+Heavy Flame Crest Wooden Shield
+Keen Flame Crest Wooden Shield
+Quality Flame Crest Wooden Shield
+Fire Flame Crest Wooden Shield
+Flame Art Flame Crest Wooden Shield
+Lightning Flame Crest Wooden Shield
+Sacred Flame Crest Wooden Shield
+Magic Flame Crest Wooden Shield
+Cold Flame Crest Wooden Shield
+Poison Flame Crest Wooden Shield
+Blood Flame Crest Wooden Shield
+Occult Flame Crest Wooden Shield
+Hawk Crest Wooden Shield
+Heavy Hawk Crest Wooden Shield
+Keen Hawk Crest Wooden Shield
+Quality Hawk Crest Wooden Shield
+Fire Hawk Crest Wooden Shield
+Flame Art Hawk Crest Wooden Shield
+Lightning Hawk Crest Wooden Shield
+Sacred Hawk Crest Wooden Shield
+Magic Hawk Crest Wooden Shield
+Cold Hawk Crest Wooden Shield
+Poison Hawk Crest Wooden Shield
+Blood Hawk Crest Wooden Shield
+Occult Hawk Crest Wooden Shield
+Beast Crest Heater Shield
+Heavy Beast Crest Heater Shield
+Keen Beast Crest Heater Shield
+Quality Beast Crest Heater Shield
+Fire Beast Crest Heater Shield
+Flame Art Beast Crest Heater Shield
+Lightning Beast Crest Heater Shield
+Sacred Beast Crest Heater Shield
+Magic Beast Crest Heater Shield
+Cold Beast Crest Heater Shield
+Poison Beast Crest Heater Shield
+Blood Beast Crest Heater Shield
+Occult Beast Crest Heater Shield
+Red Crest Heater Shield
+Heavy Red Crest Heater Shield
+Keen Red Crest Heater Shield
+Quality Red Crest Heater Shield
+Fire Red Crest Heater Shield
+Flame Art Red Crest Heater Shield
+Lightning Red Crest Heater Shield
+Sacred Red Crest Heater Shield
+Magic Red Crest Heater Shield
+Cold Red Crest Heater Shield
+Poison Red Crest Heater Shield
+Blood Red Crest Heater Shield
+Occult Red Crest Heater Shield
+Blue Crest Heater Shield
+Heavy Blue Crest Heater Shield
+Keen Blue Crest Heater Shield
+Quality Blue Crest Heater Shield
+Fire Blue Crest Heater Shield
+Flame Art Blue Crest Heater Shield
+Lightning Blue Crest Heater Shield
+Sacred Blue Crest Heater Shield
+Magic Blue Crest Heater Shield
+Cold Blue Crest Heater Shield
+Poison Blue Crest Heater Shield
+Blood Blue Crest Heater Shield
+Occult Blue Crest Heater Shield
+Eclipse Crest Heater Shield
+Heavy Eclipse Crest Heater Shield
+Keen Eclipse Crest Heater Shield
+Quality Eclipse Crest Heater Shield
+Fire Eclipse Crest Heater Shield
+Flame Art Eclipse Crest Heater Shield
+Lightning Eclipse Crest Heater Shield
+Sacred Eclipse Crest Heater Shield
+Magic Eclipse Crest Heater Shield
+Cold Eclipse Crest Heater Shield
+Poison Eclipse Crest Heater Shield
+Blood Eclipse Crest Heater Shield
+Occult Eclipse Crest Heater Shield
+Inverted Hawk Heater Shield
+Heavy Inverted Hawk Heater Shield
+Keen Inverted Hawk Heater Shield
+Quality Inverted Hawk Heater Shield
+Fire Inverted Hawk Heater Shield
+Flame Art Inverted Hawk Heater Shield
+Lightning Inverted Hawk Heater Shield
+Sacred Inverted Hawk Heater Shield
+Magic Inverted Hawk Heater Shield
+Cold Inverted Hawk Heater Shield
+Poison Inverted Hawk Heater Shield
+Blood Inverted Hawk Heater Shield
+Occult Inverted Hawk Heater Shield
+Heater Shield
+Heavy Heater Shield
+Keen Heater Shield
+Quality Heater Shield
+Fire Heater Shield
+Flame Art Heater Shield
+Lightning Heater Shield
+Sacred Heater Shield
+Magic Heater Shield
+Cold Heater Shield
+Poison Heater Shield
+Blood Heater Shield
+Occult Heater Shield
+Black Leather Shield
+Heavy Black Leather Shield
+Keen Black Leather Shield
+Quality Black Leather Shield
+Fire Black Leather Shield
+Flame Art Black Leather Shield
+Lightning Black Leather Shield
+Sacred Black Leather Shield
+Magic Black Leather Shield
+Cold Black Leather Shield
+Poison Black Leather Shield
+Blood Black Leather Shield
+Occult Black Leather Shield
+Messmer Soldier Shield
+Heavy Messmer Soldier Shield
+Keen Messmer Soldier Shield
+Quality Messmer Soldier Shield
+Fire Messmer Soldier Shield
+Flame Art Messmer Soldier Shield
+Lightning Messmer Soldier Shield
+Sacred Messmer Soldier Shield
+Magic Messmer Soldier Shield
+Cold Messmer Soldier Shield
+Poison Messmer Soldier Shield
+Blood Messmer Soldier Shield
+Occult Messmer Soldier Shield
+Wolf Crest Shield
+Heavy Wolf Crest Shield
+Keen Wolf Crest Shield
+Quality Wolf Crest Shield
+Fire Wolf Crest Shield
+Flame Art Wolf Crest Shield
+Lightning Wolf Crest Shield
+Sacred Wolf Crest Shield
+Magic Wolf Crest Shield
+Cold Wolf Crest Shield
+Poison Wolf Crest Shield
+Blood Wolf Crest Shield
+Occult Wolf Crest Shield
+Serpent Crest Shield
+Heavy Serpent Crest Shield
+Keen Serpent Crest Shield
+Quality Serpent Crest Shield
+Fire Serpent Crest Shield
+Flame Art Serpent Crest Shield
+Lightning Serpent Crest Shield
+Sacred Serpent Crest Shield
+Magic Serpent Crest Shield
+Cold Serpent Crest Shield
+Poison Serpent Crest Shield
+Blood Serpent Crest Shield
+Occult Serpent Crest Shield
+Golden Lion Shield
+[NPC] Golden Lion Shield
+Dragon Towershield
+Heavy Dragon Towershield
+Keen Dragon Towershield
+Quality Dragon Towershield
+Fire Dragon Towershield
+Flame Art Dragon Towershield
+Lightning Dragon Towershield
+Sacred Dragon Towershield
+Magic Dragon Towershield
+Cold Dragon Towershield
+Poison Dragon Towershield
+Blood Dragon Towershield
+Occult Dragon Towershield
+Distinguished Greatshield
+Distinguished Heavy Greatshield
+Distinguished Keen Greatshield
+Distinguished Quality Greatshield
+Distinguished Fire Greatshield
+Distinguished Flame Art Greatshield
+Distinguished Lightning Greatshield
+Distinguished Sacred Greatshield
+Distinguished Magic Greatshield
+Distinguished Cold Greatshield
+Distinguished Poison Greatshield
+Distinguished Blood Greatshield
+Distinguished Occult Greatshield
+Crucible Hornshield
+Dragonclaw Shield
+Briar Greatshield
+Heavy Briar Greatshield
+Keen Briar Greatshield
+Quality Briar Greatshield
+Fire Briar Greatshield
+Flame Art Briar Greatshield
+Lightning Briar Greatshield
+Sacred Briar Greatshield
+Magic Briar Greatshield
+Cold Briar Greatshield
+Poison Briar Greatshield
+Blood Briar Greatshield
+Occult Briar Greatshield
+Erdtree Greatshield
+Golden Beast Crest Shield
+Heavy Golden Beast Crest Shield
+Keen Golden Beast Crest Shield
+Quality Golden Beast Crest Shield
+Fire Golden Beast Crest Shield
+Flame Art Golden Beast Crest Shield
+Lightning Golden Beast Crest Shield
+Sacred Golden Beast Crest Shield
+Magic Golden Beast Crest Shield
+Cold Golden Beast Crest Shield
+Poison Golden Beast Crest Shield
+Blood Golden Beast Crest Shield
+Occult Golden Beast Crest Shield
+Jellyfish Shield
+Fingerprint Stone Shield
+Heavy Fingerprint Stone Shield
+Keen Fingerprint Stone Shield
+Quality Fingerprint Stone Shield
+Fire Fingerprint Stone Shield
+Flame Art Fingerprint Stone Shield
+Lightning Fingerprint Stone Shield
+Sacred Fingerprint Stone Shield
+Magic Fingerprint Stone Shield
+Cold Fingerprint Stone Shield
+Poison Fingerprint Stone Shield
+Blood Fingerprint Stone Shield
+Occult Fingerprint Stone Shield
+Icon Shield
+One-Eyed Shield
+Visage Shield
+Spiked Palisade Shield
+Heavy Spiked Palisade Shield
+Keen Spiked Palisade Shield
+Quality Spiked Palisade Shield
+Fire Spiked Palisade Shield
+Flame Art Spiked Palisade Shield
+Lightning Spiked Palisade Shield
+Sacred Spiked Palisade Shield
+Magic Spiked Palisade Shield
+Cold Spiked Palisade Shield
+Poison Spiked Palisade Shield
+Blood Spiked Palisade Shield
+Occult Spiked Palisade Shield
+Manor Towershield
+Heavy Manor Towershield
+Keen Manor Towershield
+Quality Manor Towershield
+Fire Manor Towershield
+Flame Art Manor Towershield
+Lightning Manor Towershield
+Sacred Manor Towershield
+Magic Manor Towershield
+Cold Manor Towershield
+Poison Manor Towershield
+Blood Manor Towershield
+Occult Manor Towershield
+Crossed-Tree Towershield
+Heavy Crossed-Tree Towershield
+Keen Crossed-Tree Towershield
+Quality Crossed-Tree Towershield
+Fire Crossed-Tree Towershield
+Flame Art Crossed-Tree Towershield
+Lightning Crossed-Tree Towershield
+Sacred Crossed-Tree Towershield
+Magic Crossed-Tree Towershield
+Cold Crossed-Tree Towershield
+Poison Crossed-Tree Towershield
+Blood Crossed-Tree Towershield
+Occult Crossed-Tree Towershield
+Inverted Hawk Towershield
+Heavy Inverted Hawk Towershield
+Keen Inverted Hawk Towershield
+Quality Inverted Hawk Towershield
+Fire Inverted Hawk Towershield
+Flame Art Inverted Hawk Towershield
+Lightning Inverted Hawk Towershield
+Sacred Inverted Hawk Towershield
+Magic Inverted Hawk Towershield
+Cold Inverted Hawk Towershield
+Poison Inverted Hawk Towershield
+Blood Inverted Hawk Towershield
+Occult Inverted Hawk Towershield
+Ant's Skull Plate
+Redmane Greatshield
+Heavy Redmane Greatshield
+Keen Redmane Greatshield
+Quality Redmane Greatshield
+Fire Redmane Greatshield
+Flame Art Redmane Greatshield
+Lightning Redmane Greatshield
+Sacred Redmane Greatshield
+Magic Redmane Greatshield
+Cold Redmane Greatshield
+Poison Redmane Greatshield
+Blood Redmane Greatshield
+Occult Redmane Greatshield
+[SACRED] Eclipse Crest Greatshield
+Heavy Eclipse Crest Greatshield
+Keen Eclipse Crest Greatshield
+Quality Eclipse Crest Greatshield
+Fire Eclipse Crest Greatshield
+Flame Art Eclipse Crest Greatshield
+Lightning Eclipse Crest Greatshield
+Sacred Eclipse Crest Greatshield
+Magic Eclipse Crest Greatshield
+Cold Eclipse Crest Greatshield
+Poison Eclipse Crest Greatshield
+Blood Eclipse Crest Greatshield
+Occult Eclipse Crest Greatshield
+Cuckoo Greatshield
+Heavy Cuckoo Greatshield
+Keen Cuckoo Greatshield
+Quality Cuckoo Greatshield
+Fire Cuckoo Greatshield
+Flame Art Cuckoo Greatshield
+Lightning Cuckoo Greatshield
+Sacred Cuckoo Greatshield
+Magic Cuckoo Greatshield
+Cold Cuckoo Greatshield
+Poison Cuckoo Greatshield
+Blood Cuckoo Greatshield
+Occult Cuckoo Greatshield
+Golden Greatshield
+Heavy Golden Greatshield
+Keen Golden Greatshield
+Quality Golden Greatshield
+Fire Golden Greatshield
+Flame Art Golden Greatshield
+Lightning Golden Greatshield
+Sacred Golden Greatshield
+Magic Golden Greatshield
+Cold Golden Greatshield
+Poison Golden Greatshield
+Blood Golden Greatshield
+Occult Golden Greatshield
+Gilded Greatshield
+Heavy Gilded Greatshield
+Keen Gilded Greatshield
+Quality Gilded Greatshield
+Fire Gilded Greatshield
+Flame Art Gilded Greatshield
+Lightning Gilded Greatshield
+Sacred Gilded Greatshield
+Magic Gilded Greatshield
+Cold Gilded Greatshield
+Poison Gilded Greatshield
+Blood Gilded Greatshield
+Occult Gilded Greatshield
+Haligtree Crest Greatshield
+Heavy Haligtree Crest Greatshield
+Keen Haligtree Crest Greatshield
+Quality Haligtree Crest Greatshield
+Fire Haligtree Crest Greatshield
+Flame Art Haligtree Crest Greatshield
+Lightning Haligtree Crest Greatshield
+Sacred Haligtree Crest Greatshield
+Magic Haligtree Crest Greatshield
+Cold Haligtree Crest Greatshield
+Poison Haligtree Crest Greatshield
+Blood Haligtree Crest Greatshield
+Occult Haligtree Crest Greatshield
+Wooden Greatshield
+Heavy Wooden Greatshield
+Keen Wooden Greatshield
+Quality Wooden Greatshield
+Fire Wooden Greatshield
+Flame Art Wooden Greatshield
+Lightning Wooden Greatshield
+Sacred Wooden Greatshield
+Magic Wooden Greatshield
+Cold Wooden Greatshield
+Poison Wooden Greatshield
+Blood Wooden Greatshield
+Occult Wooden Greatshield
+Lordsworn's Shield
+Heavy Lordsworn's Shield
+Keen Lordsworn's Shield
+Quality Lordsworn's Shield
+Fire Lordsworn's Shield
+Flame Art Lordsworn's Shield
+Lightning Lordsworn's Shield
+Sacred Lordsworn's Shield
+Magic Lordsworn's Shield
+Cold Lordsworn's Shield
+Poison Lordsworn's Shield
+Blood Lordsworn's Shield
+Occult Lordsworn's Shield
+Black Steel Greatshield
+Heavy Black Steel Greatshield
+Keen Black Steel Greatshield
+Quality Black Steel Greatshield
+Fire Black Steel Greatshield
+Flame Art Black Steel Greatshield
+Lightning Black Steel Greatshield
+Sacred Black Steel Greatshield
+Magic Black Steel Greatshield
+Cold Black Steel Greatshield
+Poison Black Steel Greatshield
+Blood Black Steel Greatshield
+Occult Black Steel Greatshield
+Verdigris Greatshield
+[NPC] Verdigris Greatshield
+
+
+
+Glintstone Staff
+Crystal Staff
+Gelmir Glintstone Staff
+Demi-Human Queen's Staff
+Carian Regal Scepter
+Digger's Staff
+Astrologer's Staff
+Carian Glintblade Staff
+Prince of Death's Staff
+Albinauric Staff
+Academy Glintstone Staff
+Carian Glintstone Staff
+Azur's Glintstone Staff
+Lusat's Glintstone Staff
+Meteorite Staff
+Staff of the Guilty
+Rotten Crystal Staff
+Staff of Loss
+Staff of the Great Beyond
+Maternal Staff
+[NPC] Maternal Staff
+
+
+
+
+
+
+
+
+
+Finger Seal
+Godslayer's Seal
+Giant's Seal
+Gravel Stone Seal
+Clawmark Seal
+Golden Order Seal
+Erdtree Seal
+[SACRED] Formless Sigil
+Frenzied Flame Seal
+[SACRED] Elderblood Sigil
+[SACRED] Ascension Sigil
+Dryleaf Seal
+Fire Knight's Seal
+Spiraltree Seal
+[NPC] Frenzied Flame Seal
+[NPC] Dryleaf Seal
+[NPC] Clawmark Seal
+[NPC] Dryleaf Seal
+[NPC] Erdtree Seal
+[NPC] Fire Knight's Seal
+[NPC] Dragon Communion Seal
+[NPC] Gravel Stone Seal
+[NPC] Dragon Communion Seal
+
+
+
+
+
+
+
+
+
+
+Shortbow
+Misbegotten Shortbow
+Red Branch Shortbow
+Harp Bow
+Composite Bow
+Bone Bow
+Longbow
+Albinauric Bow
+Horn Bow
+Erdtree Bow
+Serpent Bow
+Pulley Bow
+Black Bow
+Ansbach's Longbow
+[NPC] Ansbach's Longbow
+Lion Greatbow
+Golem Greatbow
+Erdtree Greatbow
+Greatbow
+Igon's Greatbow
+[NPC] Igon's Greatbow
+Soldier's Crossbow
+Light Crossbow
+Heavy Crossbow
+Pulley Crossbow
+Full Moon Crossbow
+Arbalest
+Crepus's Black-Key Crossbow
+Repeating Crossbow
+Spread Crossbow
+[NPC] Repeating Crossbow
+
+Hand Ballista
+Jar Cannon
+Rabbath's Cannon
+
+
+Arrow
+Fire Arrow
+Serpent Arrow
+Bone Arrow (Fletched)
+St. Trina's Arrow
+Shattershard Arrow (Fletched)
+Rainbow Stone Arrow (Fletched)
+Golden Arrow
+Dwelling Arrow
+Bone Arrow
+Firebone Arrow (Fletched)
+Firebone Arrow
+Poisonbone Arrow (Fletched)
+Poisonbone Arrow
+Sleepbone Arrow (Fletched)
+Sleepbone Arrow
+Stormwing Bone Arrow
+Lightningbone Arrow (Fletched)
+Lightningbone Arrow
+Rainbow Stone Arrow
+Shattershard Arrow
+Spiritflame Arrow
+Magicbone Arrow (Fletched)
+Magicbone Arrow
+Haligbone Arrow (Fletched)
+Haligbone Arrow
+Bloodbone Arrow (Fletched)
+Bloodbone Arrow
+Coldbone Arrow (Fletched)
+Coldbone Arrow
+Rotbone Arrow (Fletched)
+Rotbone Arrow
+Piquebone Arrow (Fletched)
+Piquebone Arrow
+Great Arrow
+Golem's Great Arrow
+Golden Great Arrow
+Golem's Magic Arrow
+Radahn's Spear
+Bone Great Arrow (Fletched)
+Bone Great Arrow
+Igon's Harpoon
+Bolt
+Lightning Bolt
+Perfumer's Bolt
+Black-Key Bolt
+Burred Bolt
+Meteor Bolt
+Explosive Bolt
+Golden Bolt
+Lordsworn's Bolt
+Bone Bolt
+Firebone Bolt
+Lightningbone Bolt
+Magicbone Bolt
+Haligbone Bolt
+Poisonbone Bolt
+Bloodbone Bolt
+Coldbone Bolt
+Rotbone Bolt
+Sleepbone Bolt
+Flaming Bolt
+Piquebone Bolt
+[NPC] Perfumer's Bolt
+
+
+Ballista Bolt
+Lightning Greatbolt
+Explosive Greatbolt
+Bone Ballista Bolt
+Rabbath's Greatbolt
+Dryleaf Arts
+Heavy Dryleaf Arts
+Keen Dryleaf Arts
+Quality Dryleaf Arts
+Fire Dryleaf Arts
+Flame Art Dryleaf Arts
+Lightning Dryleaf Arts
+Sacred Dryleaf Arts
+Magic Dryleaf Arts
+Cold Dryleaf Arts
+Poison Dryleaf Arts
+Blood Dryleaf Arts
+Occult Dryleaf Arts
+Dane's Footwork
+Dane's Heavy Footwork
+Dane's Keen Footwork
+Dane's Quality Footwork
+Dane's Fire Footwork
+Dane's Flame Art Footwork
+Dane's Lightning Footwork
+Dane's Sacred Footwork
+Dane's Magic Footwork
+Dane's Cold Footwork
+Dane's Poison Footwork
+Dane's Blood Footwork
+Dane's Occult Footwork
+[NPC] Dane's Footwork
+[NPC] Dryleaf Arts
+Firespark Perfume Bottle
+Chilling Perfume Bottle
+Frenzyflame Perfume Bottle
+Lightning Perfume Bottle
+Deadly Poison Perfume Bottle
+[NPC] Deadly Poison Perfume Bottle
+Dueling Shield
+Heavy Dueling Shield
+Keen Dueling Shield
+Quality Dueling Shield
+Fire Dueling Shield
+Flame Art Dueling Shield
+Lightning Dueling Shield
+Sacred Dueling Shield
+Magic Dueling Shield
+Cold Dueling Shield
+Poison Dueling Shield
+Blood Dueling Shield
+Occult Dueling Shield
+Carian Thrusting Shield
+Heavy Carian Thrusting Shield
+Keen Carian Thrusting Shield
+Quality Carian Thrusting Shield
+Fire Carian Thrusting Shield
+Flame Art Carian Thrusting Shield
+Lightning Carian Thrusting Shield
+Sacred Carian Thrusting Shield
+Magic Carian Thrusting Shield
+Cold Carian Thrusting Shield
+Poison Carian Thrusting Shield
+Blood Carian Thrusting Shield
+Occult Carian Thrusting Shield
+Smithscript Dagger
+Heavy Smithscript Dagger
+Keen Smithscript Dagger
+Quality Smithscript Dagger
+Fire Smithscript Dagger
+Flame Art Smithscript Dagger
+Lightning Smithscript Dagger
+Sacred Smithscript Dagger
+Magic Smithscript Dagger
+Cold Smithscript Dagger
+Poison Smithscript Dagger
+Blood Smithscript Dagger
+Occult Smithscript Dagger
+Backhand Blade
+Heavy Backhand Blade
+Keen Backhand Blade
+Quality Backhand Blade
+Fire Backhand Blade
+Flame Art Backhand Blade
+Lightning Backhand Blade
+Sacred Backhand Blade
+Magic Backhand Blade
+Cold Backhand Blade
+Poison Backhand Blade
+Blood Backhand Blade
+Occult Backhand Blade
+Smithscript Cirque
+Heavy Smithscript Cirque
+Keen Smithscript Cirque
+Quality Smithscript Cirque
+Fire Smithscript Cirque
+Flame Art Smithscript Cirque
+Lightning Smithscript Cirque
+Sacred Smithscript Cirque
+Magic Smithscript Cirque
+Cold Smithscript Cirque
+Poison Smithscript Cirque
+Blood Smithscript Cirque
+Occult Smithscript Cirque
+Curseblade's Cirque
+Great Katana
+Heavy Great Katana
+Keen Great Katana
+Quality Great Katana
+Fire Great Katana
+Flame Art Great Katana
+Lightning Great Katana
+Sacred Great Katana
+Magic Great Katana
+Cold Great Katana
+Poison Great Katana
+Blood Great Katana
+Occult Great Katana
+Dragon-Hunter's Great Katana
+Rakshasa's Great Katana
+[NPC] Rakshasa's Great Katana
+[NPC] Dragon-Hunter's Great Katana
+Milady
+Heavy Milady
+Keen Milady
+Quality Milady
+Fire Milady
+Flame Art Milady
+Lightning Milady
+Sacred Milady
+Magic Milady
+Cold Milady
+Poison Milady
+Blood Milady
+Occult Milady
+Leda's Sword
+Rellana's Twin Blades
+[NPC] Leda's Sword
+Beast Claw
+Heavy Beast Claw
+Keen Beast Claw
+Quality Beast Claw
+Fire Beast Claw
+Flame Art Beast Claw
+Lightning Beast Claw
+Sacred Beast Claw
+Magic Beast Claw
+Cold Beast Claw
+Poison Beast Claw
+Blood Beast Claw
+Occult Beast Claw
+Red Bear's Claw
+
+
+[NPC] Beast Claw
+[NPC] Red Bear's Claw
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,190 @@
+
+Furlcalling Finger Remedy - Default
+Fire Pot - Default
+Redmane Fire Pot - Armorer's Cookbook [4]
+Giantsflame Fire Pot - Armorer's Cookbook [7]
+Lightning Pot - Ancient Dragon Apostle's Cookbook [2]
+Ancient Dragonbolt Pot - Ancient Dragon Apostle's Cookbook [4]
+Fetid Pot - Nomadic Warrior's Cookbook [4]
+Swarm Pot - Nomadic Warrior's Cookbook [24]
+Holy Water Pot - Missionary's Cookbook [1]
+Sacred Order Pot - Missionary's Cookbook [5]
+Freezing Pot - Glintstone Craftsman's Cookbook [6]
+Poison Pot - Nomadic Warrior's Cookbook [14]
+Oil Pot - Nomadic Warrior's Cookbook [17]
+Alluring Pot - Nomadic Warrior's Cookbook [21]
+Beastlure Pot - Nomadic Warrior's Cookbook [5]
+Roped Fire Pot - Nomadic Warrior's Cookbook [7]
+Roped Lightning Pot - Ancient Dragon Apostle's Cookbook [2]
+Roped Fetid Pot - Nomadic Warrior's Cookbook [4]
+Roped Poison Pot - Nomadic Warrior's Cookbook [14]
+Roped Oil Pot - Nomadic Warrior's Cookbook [17]
+Roped Magic Pot - Glintstone Craftsman's Cookbook [4]
+Roped Fly Pot - Nomadic Warrior's Cookbook [24]
+Roped Volcano Pot - Nomadic Warrior's Cookbook [20]
+Roped Holy Water Pot - Missionary's Cookbook [1]
+Volcano Pot - Nomadic Warrior's Cookbook [20]
+Albinauric Pot - Glintstone Craftsman's Cookbook [3]
+Cursed-Blood Pot - Nomadic Warrior's Cookbook [12]
+Sleep Pot - Fevor's Cookbook [1]
+Rancor Pot - Nomadic Warrior's Cookbook [9]
+Magic Pot - Glintstone Craftsman's Cookbook [4]
+Academy Magic Pot - Glintstone Craftsman's Cookbook [8]
+Rot Pot - Nomadic Warrior's Cookbook [22]
+Rowa Raisin - Default
+Sweet Raisin - Nomadic Warrior's Cookbook [19]
+Frozen Raisin - Nomadic Warrior's Cookbook [23]
+Neutralizing Boluses - Armorer's Cookbook [2]
+Stanching Boluses - Nomadic Cookbook [7]
+Thawfrost Boluses - Nomadic Warrior's Cookbook [16]
+Stimulating Boluses - Nomadic Warrior's Cookbook [16]
+Preserving Boluses - Armorer's Cookbook [6]
+Rejuvenating Boluses - Missionary's Cookbook [7]
+Clarifying Boluses - Frenzied's Cookbook [1]
+Pickled Turtle Neck - Nomadic Warrior's Cookbook [3]
+Immunizing Cured Meat - Armorer's Cookbook [5]
+Invigorating Cured Meat - Nomadic Warrior's Cookbook [2]
+Clarifying Cured Meat - Nomadic Warrior's Cookbook [23]
+Dappled Cured Meat - Nomadic Warrior's Cookbook [18]
+Spellproof Dried Liver - Nomadic Warrior's Cookbook [11]
+Fireproof Dried Liver - Armorer's Cookbook [1]
+Lightningproof Dried Liver - Ancient Dragon Apostle's Cookbook [4]
+Holyproof Dried Liver - Missionary's Cookbook [6]
+Silver-Pickled Fowl Foot - Missionary's Cookbook [3]
+Gold-Pickled Fowl Foot - Missionary's Cookbook [2]
+Exalted Flesh - Armorer's Cookbook [3]
+Immunizing White Cured Meat - Armorer's Cookbook [5]
+Invigorating White Cured Meat - Nomadic Warrior's Cookbook [2]
+Clarifying White Cured Meat - Nomadic Warrior's Cookbook [23]
+Dappled White Cured Meat - Nomadic Warrior's Cookbook [18]
+Fire Grease - Armorer's Cookbook [1]
+Lightning Grease - Ancient Dragon Apostle's Cookbook [1]
+Magic Grease - Glintstone Craftsman's Cookbook [5]
+Holy Grease - Missionary's Cookbook [4]
+Blood Grease - Nomadic Warrior's Cookbook [6]
+Soporific Grease - Fevor's Cookbook [2]
+Poison Grease - Nomadic Warrior's Cookbook [8]
+Freezing Grease - Glintstone Craftsman's Cookbook [2]
+Dragonwound Grease - Ancient Dragon Apostle's Cookbook [3]
+Rot Grease - Nomadic Warrior's Cookbook [22]
+Drawstring Fire Grease - Armorer's Cookbook [1]
+Drawstring Lightning Grease - Ancient Dragon Apostle's Cookbook [1]
+Drawstring Magic Grease - Glintstone Craftsman's Cookbook [5]
+Drawstring Holy Grease - Missionary's Cookbook [4]
+Drawstring Blood Grease - Nomadic Warrior's Cookbook [6]
+Drawstring Soporific Grease - Fevor's Cookbook [2]
+Drawstring Poison Grease - Nomadeic Warrior's Cookbook [8]
+Drawstring Rot Grease - Nomadic Warrior's Cookbook [22]
+Shield Grease - Glintstone Craftsman's Cookbook [4]
+Bone Dart - Default
+Poisonbone Dart - Nomadic Warrior's Cookbook [14]
+Crystal Dart - Nomadic Warrior's Cookbook [11]
+Rainbow Stone - Default
+Glowstone - Nomadic Warrior's Cookbook [2]
+Grace Mimic - Missionary's Cookbook [2]
+Soft Cotton - Nomadic Warrior's Cookbook [7]
+Soap - Nomadic Warrior's Cookbook [17]
+Cuckoo Glintstone - Glintstone Craftsman's Cookbook [1]
+Warming Stone - Nomadic Warrior's Cookbook [19]
+Frenzyflame Stone - Frenzied’s Cookbook [2]
+Scriptstone - Missionary's Cookbook [2]
+Bewitching Branch - Fevor's Cookbook [3]
+Uplifting Aromatic - Perfumer's Cookbook [1]
+Spark Aromatic - Perfumer's Cookbook [1]
+Ironjar Aromatic - Perfumer's Cookbook [3]
+Bloodboil Aromatic - Perfumer's Cookbook [2]
+Poison Spraymist - Perfumer's Cookbook [2]
+Acid Spraymist - Perfumer's Cookbook [4]
+Bone Arrow (Fletched) - Nomadic Warrior's Cookbook [1]
+Bone Arrow - Nomadic Warrior's Cookbook [1]
+Firebone Arrow (Fletched) - Armorer's Cookbook [2]
+Firebone Arrow - Armorer's Cookbook [2]
+Poisonbone Arrow (Fletched) - Nomadic Warrior's Cookbook [3]
+Poisonbone Arrow - Nomadic Warrior's Cookbook [3]
+Sleepbone Arrow (Fletched) - Fevor's Cookbook [2]
+Sleepbone Arrow - Fevor's Cookbook [2]
+Stormwing Bone Arrow - Nomadic Warrior's Cookbook [10]
+Lightningbone Arrow (Fletched) - Ancient Dragon Apostle's Cookbook [1]
+Lightningbone Arrow - Ancient Dragon Apostle's Cookbook [1]
+Rainbow Stone Arrow - Nomadic Warrior's Cookbook [7]
+Shattershard Arrow - Nomadic Warrior's Cookbook [11]
+Magicbone Arrow (Fletched) - Glintstone Craftsman's Cookbook [5]
+Magicbone Arrow - Glintstone Craftsman's Cookbook [5]
+Haligbone Arrow (Fletched) - Missionary's Cookbook [4]
+Haligbone Arrow - Missionary's Cookbook [4]
+Bloodbone Arrow (Fletched) - Nomadic Warrior's Cookbook [6]
+Bloodbone Arrow - Nomadic Warrior's Cookbook [6]
+Coldbone Arrow (Fletched) - Glintstone Craftsman's Cookbook [7]
+Coldbone Arrow - Glintstone Craftsman's Cookbook [7]
+Rotbone Arrow (Fletched) - Nomadic Warrior's Cookbook [15]
+Rotbone Arrow - Nomadic Warrior's Cookbook [15]
+Bone Great Arrow (Fletched) - Nomadic Warrior's Cookbook [1]
+Bone Great Arrow - Nomadic Warrior's Cookbook [1]
+Bone Bolt - Nomadic Warrior's Cookbook [1]
+Firebone Bolt - Armorer's Cookbook [2]
+Lightningbone Bolt - Ancient Dragon Apostle's Cookbook [1]
+Magicbone Bolt - Glintstone Craftsman's Cookbook [5]
+Haligbone Bolt - Missionary's Cookbook [4]
+Poisonbone Bolt - Nomadic Warrior's Cookbook [3]
+Bloodbone Bolt - Nomadic Warrior's Cookbook [6]
+Coldbone Bolt - Glintstone Craftsman's Cookbook [7]
+Rotbone Bolt - Nomadic Warrior's Cookbook [15]
+Sleepbone Bolt -  Fevor's Cookbook [2]
+Bone Ballista Bolt - Nomadic Warrior's Cookbook [13]
+[SACRED] Rune Arc
+[SACRED] Numen's Rune
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

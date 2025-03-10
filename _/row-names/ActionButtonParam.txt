@@ -1,0 +1,399 @@
+
+
+Retrieve lost runes
+
+Touch bloodstain
+
+Ride
+Touch gold summon sign
+Touch red summon sign
+Check your summon sign
+Read message
+Check your message
+Read message
+Pick up item
+Pillage corpse
+Pick up item
+Pillage remains
+Pillage remains
+Pillage remains
+Pick up item
+Pick up item
+Pick up item
+Pick up item
+Pick up item
+Pick up item
+Pick up item
+Search treasure chest
+Pick up item
+OK
+Climb
+Descend
+Talk
+Talk
+Touch grace
+Rest at site of grace
+Rest at table of lost grace
+Rest at table of lost grace
+Talk
+Talk
+Talk
+Hand over Deathroot
+Talk
+Touch Hyetta
+Examine
+Talk
+Use smithing table
+Talk
+Talk
+Talk
+Talk
+Accept primal glintstone
+Accept primal glintstone
+Transplant primal glintstone
+Talk
+Touch Fractured Marika
+Examine
+Touch the Two Fingers
+Be held
+Touch Fia
+Talk
+
+Summon Latenna
+Examine
+Talk
+Pick up item
+Atone
+Use dressing table
+Speak the truth about Radagon
+Talk
+Administer draught
+Administer draught
+Administer draught
+Where did the body go?
+Talk
+Examine
+Examine remains
+Receive mending rune
+Receive mending rune
+Receive mending rune
+Offer finger
+Dye cloth with maiden's blood
+Dye cloth with maiden's blood
+Talk
+Talk
+Talk
+
+Touch bloodstain
+Return Unalloyed Gold Needle
+
+
+
+
+
+
+
+
+
+Talk
+
+
+Talk
+Examine altar
+Examine grave
+Talk
+
+
+
+
+Examine
+Open
+Open
+Open
+Close
+Open
+Open
+Open
+Close
+Open
+Open
+Open
+Open
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Open
+Open
+Pull lever
+Pull lever
+Pull lever
+Pull lever
+Pull lever
+Pull lever
+Pull lever
+Pull lever
+Pull lever
+Push lever
+Pull lever
+Pull lever
+Open
+Examine
+Invade White Mask Varré's world
+Invade Old Knight Istvan's world
+Invade Rileigh the Idle's world
+Invade Juno Hoslow Knight of Blood's world
+Invade Vargram the Raging Wolf's world
+Invade Great Horned Tragoth's world
+Be summoned to assist Yura Hunter of Bloody Fingers
+Be summoned to assist Sorceress Sellen
+Be summoned to challenge Sorceress Sellen
+Be summoned to assist Millicent
+Be summoned to challenge Millicent
+
+Touch cooperative sign
+Touch invasion sign
+Restore the power of the Great Rune
+Restore the power of the Great Rune
+Restore the power of the Great Rune
+Restore the power of the Great Rune
+Restore the power of the Great Rune
+Restore the power of the Great Rune
+Touch
+Examine
+Open
+Examine
+Examine
+Kick ladder
+Examine
+Examine
+Examine
+Stargaze
+
+Examine
+Use Birdseye Telescope
+Examine
+Return to entrance
+Examine
+Examine
+Examine
+Examine
+Touch wall of thorns
+Touch golden light
+Examine seal
+Examine
+Examine seal
+Examine seal
+
+
+Examine
+Light flame
+Touch phantom
+Examine seal
+Examine
+Light flame
+Touch horned remains
+Go back
+Examine
+Light flame
+Examine seal
+Examine seal
+Examine
+Pillage corpse
+Examine
+Summon Castellan Jerren
+Summon Blaidd the Half-Wolf
+Summon Alexander Warrior Jar
+Summon Great Horned Tragoth
+Summon Okina
+Summon Finger Maiden Therolina
+Summon Lionel the Lionhearted
+Summon Patches
+Examine
+Become the Elden Lord
+Summon Ranni
+Become the Lord of Frenzied Flame
+Wear ring
+Open door
+
+
+Hoist medallion
+Hoist secret medallion
+Rest in coffin
+Rest in coffin
+Examine pedestal
+Remove inverted statue
+Open door
+Lie down
+
+Examine
+Examine
+Traverse the mist
+Traverse the mist
+Traverse the mist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Talk
+
+Touch cross
+Touch cross
+Touch cross
+Touch cross
+Examine puppet
+Examine
+Talk
+Examine altar
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Acquire materials
+Pull lever
+Push lever
+Sound hanging bell
+Sound hanging bell
+Sound hanging bell
+Examine
+Be summoned to assist Needle Knight Leda
+Be summoned to assist Sir Ansbach
+Be summoned to assist Needle Knight Leda
+Be summoned to assist Hornsent
+Be summoned to challenge Needle Knight Leda and her allies
+Touch gold summon sign
+Examine altar
+Pick up item
+Touch withered arm
+Examine
+Examine seal
+
+Touch gold summon sign
+Touch gold summon sign
+Examine
+Pick up item
+Examine altar
+Examine altar
+Examine monument
+Touch gold summon sign
+Touch gold summon sign
+Touch gold summon sign
+Touch memory
+Examine sealing tree
+Rest in coffin
+Traverse the mist
+

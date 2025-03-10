@@ -1,0 +1,228 @@
+
+
+
+Build - Standard
+Build - Slim
+Build - Very Slim
+Build - Burly
+Build - Very Burly
+Build - Burly Upper-body
+Build - Burly Lower-body
+Build - Small Head
+Build - Big Head
+Musculature - Standard
+Musculature - Muscular
+Body Hair - Type 1
+Body Hair - Type 2
+Body Hair - Type 3
+Body Hair - Type 4
+Body Hair - Type 5
+Body Hair - Type 6
+Base Template - Warrior
+Base Template - Truth-Seeker
+Base Template - Aristocrat
+Base Template - Loner
+Base Template - Northerner
+Base Template - Seafarer
+Base Template - Reedlander
+Base Template - Draconian
+Base Template - Nightfolk
+Base Template - Numen
+Base Template - Warrior (Female)
+Base Template - Truth-Seeker (Female)
+Base Template - Aristocrat (Female)
+Base Template - Loner (Female)
+Base Template - Northerner (Female)
+Base Template - Seafarer (Female)
+Base Template - Reedlander (Female)
+Base Template - Draconian (Female)
+Base Template - Nightfolk (Female)
+Base Template - Numen (Female)
+Right Eye - Normal Eye (Medium)
+Right Eye - Normal Eye (Small)
+Right Eye - Normal Eye (Large)
+Right Eye - All Sclera (Medium)
+Right Eye - All Sclera (Small)
+Right Eye - All Sclera (Large)
+Right Eye - All Pupil (Medium)
+Right Eye - All Pupil (Small)
+Right Eye - All Pupil (Large)
+Left Eye - Normal Eye (Medium)
+Left Eye - Normal Eye (Small)
+Left Eye - Normal Eye (Large)
+Left Eye - All Sclera (Medium)
+Left Eye - All Sclera (Small)
+Left Eye - All Sclera (Large)
+Left Eye - All Pupil (Medium)
+Left Eye - All Pupil (Small)
+Left Eye - All Pupil (Large)
+Eyebrows - Type 1
+Eyebrows - Type 2
+Eyebrows - Type 3
+Eyebrows - Type 4
+Eyebrows - Type 5
+Eyebrows - Type 6
+Eyebrows - Type 7
+Eyebrows - Type 8
+Eyebrows - Type 9
+Eyebrows - Type 10
+Eyebrows - Type 11
+Eyebrows - Type 12
+Eyebrows - Type 13
+Eyebrows - Type 14
+Eyebrows - Type 15
+Eyebrows - Type 16
+Eyebrows - Type 17
+Beard - Type 1
+Beard - Type 2
+Beard - Type 3
+Beard - Type 4
+Beard - Type 5
+Beard - Type 6
+Beard - Type 7
+Beard - Type 8
+Beard - Type 9
+Beard - Type 10
+Beard - Type 11
+Beard - Type 12
+Beard (Female) - Type 1
+Beard (Female) - Type 2
+Beard (Female) - Type 3
+Beard (Female) - Type 4
+Beard (Female) - Type 5
+Beard (Female) - Type 6
+Beard (Female) - Type 7
+Beard (Female) - Type 8
+Beard (Female) - Type 9
+Beard (Female) - Type 10
+Beard (Female) - Type 11
+Beard (Female) - Type 12
+Hairstyle - Type 1
+Hairstyle - Type 2
+Hairstyle - Type 3
+Hairstyle - Type 4
+Hairstyle - Type 5
+Hairstyle - Type 6
+Hairstyle - Type 7
+Hairstyle - Type 8
+Hairstyle - Type 9
+Hairstyle - Type 10
+Hairstyle - Type 11
+Hairstyle - Type 12
+Hairstyle - Type 13
+Hairstyle - Type 14
+Hairstyle - Type 15
+Hairstyle - Type 16
+Hairstyle - Type 17
+Hairstyle - Type 18
+Hairstyle - Type 19
+Hairstyle - Type 20
+Hairstyle - Type 21
+Hairstyle - Type 22
+Hairstyle - Type 23
+Hairstyle - Type 24
+Hairstyle - Type 25
+Hairstyle - Type 26
+Hairstyle - Type 27
+Hairstyle - Type 28
+Hairstyle - Type 29
+Hairstyle - Type 30
+Hairstyle - Type 31
+Hairstyle - Type 32
+Hairstyle - Type 33
+Hairstyle - Type 34
+Hairstyle - Type 35
+Hairstyle - Type 36
+Hairstyle - Type 37
+Tattoo - Type 1
+Tattoo - Type 2
+Tattoo - Type 3
+Tattoo - Type 4
+Tattoo - Type 5
+Tattoo - Type 6
+Tattoo - Type 7
+Tattoo - Type 8
+Tattoo - Type 9
+Tattoo - Type 10
+Tattoo - Type 11
+Tattoo - Type 12
+Tattoo - Type 13
+Tattoo - Type 14
+Tattoo - Type 15
+Tattoo - Type 16
+Tattoo - Type 17
+Tattoo - Type 18
+Tattoo - Type 19
+Tattoo - Type 20
+Tattoo - Type 21
+Tattoo - Type 22
+Tattoo - Type 23
+Tattoo - Type 24
+Tattoo - Type 25
+Tattoo - Type 26
+Tattoo - Type 27
+Tattoo - Type 28
+Tattoo - Type 29
+Tattoo - Type 30
+Tattoo - Type 31
+Tattoo - Type 32
+Tattoo - Type 33
+Tattoo - Type 34
+Tattoo - Type 35
+Tattoo - Type 36
+Tattoo - Type 37
+Tattoo - Type 38
+Accessories - Type 1
+Accessories - Type 2
+Accessories - Type 3
+Accessories - Type 4
+Pupil Type - Normal 1
+Pupil Type - Normal 2
+Pupil Type - Normal 3
+Pupil Type - Sclera 1
+Pupil Type - Sclera 2
+Pupil Type - Sclera 3
+Pupil Color - Cornea 1
+Pupil Color - Cornea 2
+Pupil Color - Cornea 3
+Eyelashes - None
+Eyelashes - Short
+Eyelashes - Medium
+Eyelashes - Long
+ON
+OFF
+ON
+OFF
+ON
+OFF
+Body Type - A
+Body Type - B
+Age - Young
+Age - Mature
+Age - Aged
+Class - Vagabond
+Class - Warrior
+Class - Hero
+Class - Bandit
+Class - Astrologer
+Class - Prophet
+Class - Samurai
+Class - Prisoner
+Class - Confessor
+Class - Wretch
+Gift - None
+Gift - Crimson Amber Medallion
+Gift - Lands Between Rune
+Gift - Golden Seed
+Gift - Fanged Imp Ashes
+Gift - Cracked Pot
+Gift - Stonesword Key
+Gift - Bewitching Branch
+Gift - Boiled Prawn
+Gift - Shabriri's Woe
+Voice - Young 1
+Voice - Young 2
+Voice - Mature 1
+Voice - Mature 2
+Voice - Aged 1
+Voice - Aged 2

@@ -14,7 +14,7 @@
  - Alternatively, install the mod with Vortex Mod Manager.
  
 3. 
- - Launch Steam once so Steam Services are running.
+ - Launch Steam once so that Steam Services are running.
  - Click launchmod_eldenring.bat to launch the game.
 
 #-------------------------------------------

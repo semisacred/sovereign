@@ -1,0 +1,1663 @@
+Longsword +6 - test gem 1
+Blank +6 - Lion's Claw
+Blank +6 - Lion's Claw
+Blank +6 - Lion's Claw
+Blank +6 - Lion's Claw
+Longsword +0 - Lion's Claw
+Heavy Longsword +0 - Lion's Claw
+Keen Longsword +0 - Lion's Claw
+Quality Longsword +0 - Lion's Claw
+Fire Longsword +0 - Lion's Claw
+Flame Art Longsword +0 - Lion's Claw
+Lightning Longsword +0 - Lion's Claw
+Sacred Longsword +0 - Lion's Claw
+Magic Longsword +0 - Lion's Claw
+Cold Longsword +0 - Lion's Claw
+Poison Longsword +0 - Lion's Claw
+Bastard Sword +0 - Lion's Claw
+Longsword +0 - Impaling Thrust
+Uchigatana +0 - Piercing Fang
+Longsword +0 - Spinning Slash
+Bastard Sword +0 - Spinning Slash
+Lance +0 - Charge Forth
+Bastard Sword +0 - Stamp (Upward Cut)
+Greatsword +0 - Stamp (Sweep)
+Longsword +0 - Blood Tax
+Longsword +0 - Repeating Thrust
+Battle Axe +0 - Wild Strikes
+Halberd +0 - Spinning Strikes
+Uchigatana +0 - Double Slash
+Prelate's Inferno Crozier +0 - Prelate's Charge
+Uchigatana +0 - Unsheathe
+Longsword +0 - Square Off
+Lance +0 - Giant Hunt
+Torch +0 - Torch Attack
+Twinblade +0 - Loretta's Slash
+Longsword +0 - Poison Moth Flight
+Longsword +0 - Spinning Weapon
+Longsword +0 -
+Banished Knight's Halberd +0 - Storm Assault
+Banished Knight's Halberd +0 - Stormcaller
+Longsword +0 - Glintblade Phalanx
+Longsword +0 - Sacred Blade
+Short Spear +0 - Ice Spear
+Longsword +0 - Glintstone Pebble
+Longsword +0 - Bloody Slash
+Caestus +0 - Lifesteal Fist
+Great Mace +0 - Eruption
+Great Mace +0 - Prayerful Strike
+Blank +0 - Gravitas
+Longsword +0 - Storm Blade
+Nightrider Glaive +0 - Phantom Slash
+Great Mace +0 - Earthshaker
+Great Mace +0 - Golden Land
+Longsword +0 - Flaming Strike
+Short Spear +0 - Thunderbolt
+Uchigatana +0 - Lightning Slash
+Longsword +0 - Carian Grandeur
+Longsword +0 - Carian Greatsword
+Longsword +0 - Vacuum Slice
+Twinblade +0 - Black Flame Tornado
+Short Spear +0 - Sacred Ring of Light
+Short Spear +0 - Spectral Lance
+Kite Shield +0 - Shield Bash
+Kite Shield +0 - Barricade Shield
+Kite Shield +0 - Parry
+Buckler +0 - Buckler Parry
+Kite Shield +0 - Carian Retaliation
+Kite Shield +0 - Storm Wall
+Kite Shield +0 - Golden Parry
+Kite Shield +0 - Shield Crash
+Lion Greatbow +0 - Through and Through
+Longbow +0 - Barrage
+Longbow +0 - Mighty Shot
+Longbow +0 - Enchanted Shot
+Longbow +0 - Sky Shot
+Lion Greatbow +0 - Rain of Arrows
+Longbow +0 -
+Longsword +0 -
+Longsword +0 - Hoarfrost Stomp
+Longsword +0 - Storm Stomp
+Longsword +0 - Kick
+Longsword +0 - Lightning Ram
+Longsword +0 - Flame of the Redmanes
+Longsword +0 - Ground Slam
+Longsword +0 - Golden Slam
+Great Mace +0 - Waves of Darkness
+Caestus +0 - Hoarah Loux's Earthshaker
+Longsword +0 - Determination
+Longsword +0 - Assassin's Gambit
+Longsword +0 - Golden Vow
+Longsword +0 - Sacred Order
+Longsword +0 - Seppuku
+Greatsword +0 - Cragblade
+Longsword +0 - Shared Order
+Longsword +0 - Barbaric Roar
+Longsword +0 - Beast's Roar
+Longsword +0 -
+Longsword +0 - Braggart's Roar
+Longsword +0 - Troll's Roar
+Mace +0 - Endure
+Kite Shield +0 - Vow of the Indomitable
+Kite Shield +0 - Holy Ground
+Great Club +0 - Endure
+Caestus +0 - Endure
+Longsword +0 - Quickstep
+Longsword +0 - Bloodhound's Step
+Longsword +0 - Raptor of the Mists
+Longsword +0 - Royal Knight's Resolve
+Longsword +0 - White Shadow's Lure
+Twinblade +0 - Spinning Slash
+Short Spear +0 - Spinning Slash
+Short Spear +0 - Loretta's Slash
+Short Spear +0 - Storm Assault
+Short Spear +0 - Stormcaller
+Longsword +0 - Sword Dance
+Bastard Sword +0 - Sword Dance
+Short Spear +0 - Sword Dance
+Torch +0 - Firebreather
+Longsword +0 - Blood Blade
+Dragon Towershield +0 - Shield Bash
+Buckler +0 - Shield Bash
+Dragon Towershield +0 - Barricade Shield
+Buckler +0 - Barricade Shield
+Buckler +0 - Parry
+Dagger +0 - Parry
+Falchion +0 - Parry
+Dragon Towershield +0 - Shield Crash
+Buckler +0 - Shield Crash
+Kite Shield +0 - Thops's Barrier
+Short Spear +0 - Determination
+Short Spear +0 - Black Flame Tornado
+Lance +0 - Black Flame Tornado
+Lucerne +0 - Black Flame Tornado
+Scythe +0 - Black Flame Tornado
+Hookclaws +0 - Barbaric Roar
+Longsword +0 - Barbaric Roar
+Twinblade +0 - Barbaric Roar
+Bastard Sword +0 - Barbaric Roar
+Greatsword +0 - Barbaric Roar
+Falchion +0 - Barbaric Roar
+Uchigatana +0 - Barbaric Roar
+Battle Axe +0 - Barbaric Roar
+Duelist Greataxe +0 - Barbaric Roar
+Watchdog's Staff +0 - Barbaric Roar
+Greataxe +0 - Barbaric Roar
+Mace +0 - Barbaric Roar
+Flail +0 - Barbaric Roar
+Great Mace +0 - Barbaric Roar
+Short Spear +0 - Barbaric Roar
+Mohgwyn's Sacred Spear +0 - Barbaric Roar
+Halberd +0 - Barbaric Roar
+Blank +0 - Barbaric Roar
+Caestus +0 - Barbaric Roar
+Scythe +0 - Barbaric Roar
+Hookclaws +0 - War Cry
+Longsword +0 - War Cry
+Twinblade +0 - War Cry
+Bastard Sword +0 - War Cry
+Greatsword +0 - War Cry
+Falchion +0 - War Cry
+Uchigatana +0 - War Cry
+Battle Axe +0 - War Cry
+Duelist Greataxe +0 - War Cry
+Watchdog's Staff +0 - War Cry
+Greataxe +0 - War Cry
+Mace +0 - War Cry
+Flail +0 - War Cry
+Great Mace +0 - War Cry
+Short Spear +0 - War Cry
+Mohgwyn's Sacred Spear +0 - War Cry
+Halberd +0 - War Cry
+Blank +0 - War Cry
+Caestus +0 - War Cry
+Scythe +0 - War Cry
+Bastard Sword +0 - Double Slash
+Banished Knight's Halberd +0 - Double Slash
+Bastard Sword +0 - Bloody Slash
+Twinblade +0 - Bloody Slash
+Longsword +0 - Chilling Mist
+Longsword +0 - Poisonous Mist
+Twinblade +0 - Ice Spear
+Caestus +0 - Thunderbolt
+Banished Knight's Halberd +0 - Lightning Slash
+Scimitar +0 - Storm Blade
+Spear +0 - Determination
+Club +0 - Blank
+Rickety Shield +0 - Holy Ground
+Bastard Sword +0 - Thunderbolt
+Bastard Sword +0 - Lion's Claw
+Longsword +0 - Impaling Thrust
+Longsword +0 - Spinning Slash
+Short Spear +0 -
+Flame Art Longsword +0 - Glintblade Phalanx
+Poison Longsword +0 -
+Sacred Bastard Sword +0 - Eruption
+Quality Bastard Sword +0 - Gravitas
+Quality Longsword +0 - Storm Blade
+Heavy Bastard Sword +0 - Earthshaker
+Magic Longsword +0 - Flaming Strike
+Cold Short Spear +0 - Thunderbolt
+Flame Art Longsword +0 - Carian Greatsword
+Heavy Longsword +0 - Storm Stomp
+Quality Longsword +0 - Determination
+Fire Longsword +0 - Holy Ground
+Keen Longsword +0 - Quickstep
+Keen Longsword +0 - Raptor of the Mists
+Blank +4 - No Skill
+Blank +4 - Storm Assault
+Blank +0 - No Skill
+Blank +5 - No Skill
+Spear +7 - Kick
+Blank +10 - No Skill
+Spear +0 - Kick
+Blank +0 - No Skill
+Banished Knight's Halberd +8 - Spinning Strikes
+Blank +0 - No Skill
+Flamberge +9 - Flaming Strike
+Blank +10 - No Skill
+Blank +0 - Flaming Strike
+Blank +0 - No Skill
+Hoslow's Petal Whip +3 - Kick
+Blank +10 - No Skill
+Blank +6 - No Skill
+Nagakiba +7 - Impaling Thrust
+Blank +10 - No Skill
+Uchigatana +5 - Impaling Thrust
+Blank +7 - Impaling Thrust
+Inseparable Sword +1 - Sacred Order
+Blank +10 - No Skill
+Blank +1 - Sacred Order
+Blank +10 - No Skill
+Erdsteel Dagger +10 - Sacred Order
+Blank +0 - No Skill
+Sword of Milos +10 - Blank
+Blank +7 - No Skill
+Blank +8 - No Skill
+Rogier's Rapier +10 - Glintblade Phalanx
+Blank +10 - No Skill
+Blank +6 - Vacuum Slice
+Blank +10 - No Skill
+Devourer's Scepter +7 - Blank
+Eleonora's Poleblade +2 - Blank
+Blank +0 - No Skill
+Great epee +8 - Repeating Thrust
+Blank +10 - No Skill
+Blank +0 - Blank
+Blank +0 - No Skill
+Iron Ball +7 - Braggart's Roar
+Blank +5 - No Skill
+Stormhawk Axe +4 - Blank
+Scavenger's Curved Sword +10 - Beast's Roar
+Blank +10 - No Skill
+Clinging Bone +3 - Blank
+Blank +6 - No Skill
+Raptor Talons +8 - Raptor of the Mists
+Reduvia +10 - Blank
+Blank +8 - Ground Slam
+Blank +10 - No Skill
+Blank +0 - Ground Slam
+Blank +0 - No Skill
+Blank +6 - Gravitas
+Scorpion's Stinger +5 - Quickstep
+Crepus's Black-Key Crossbow +10 - No Skill
+Hoslow's Petal Whip +9 - Bloodhound's Step
+Flail +5 - Blank
+Blank +5 - No Skill
+Blank +0 - No Skill
+Blank +6 - Wild Strikes
+Sacred Butchering Knife +6 - Wild Strikes
+Sacred Butchering Knife +7 - Prayerful Strike
+Rivers of Blood +4 - Blank
+Wakizashi +10 - Quickstep
+Rivers of Blood +0 - Blank
+Wakizashi +0 - Quickstep
+Flail +10 - Wild Strikes
+Blank +0 - No Skill
+Carian Knight's Sword +2 - Glintblade Phalanx
+Carian Knight's Shield +10 - Carian Retaliation
+Blank +0 - No Skill
+Godslayer's Greatsword +6 - Blank
+Quality Twinblade +18 - Spinning Slash
+Iron Roundshield +18 - No Skill
+Quality Twinblade +25 - Spinning Slash
+Iron Roundshield +25 - No Skill
+Blank +7 - Seppuku
+Wakizashi +8 - No Skill
+Light Crossbow +9 - Kick
+Mace +8 - Kick
+Blank +6 - Kick
+Short Spear +6 - Kick
+Inverted Hawk Towershield +9 - No Skill
+Blank +6 - Eruption
+Blank +18 - Endure
+Blank +18 - No Skill
+Blank +25 - Endure
+Blank +25 - No Skill
+Blank +18 - Quickstep
+Heater Shield +18 - No Skill
+Blank +25 - Quickstep
+Heater Shield +25 - No Skill
+Antspur Rapier +10 - Impaling Thrust
+Blank +10 - No Skill
+Keen Misericorde +25 - Poison Moth Flight
+Buckler +25 - Parry
+Heavy Great Mace +25 - Prayerful Strike
+Banished Knight's Shield +25 - No Skill
+Magic Estoc +25 - Parry
+Albinauric Staff +25 - No Skill
+Black Knife +3 - Blank
+Blank +10 - No Skill
+Blood Misericorde +10 - Blood Tax
+Blank +10 - No Skill
+Blank +6 - No Skill
+Blank +0 - No Skill
+One-Eyed Shield +10 - Blank
+Torchpole +2 - Kick
+Blank +10 - No Skill
+Ghiza's Wheel +7 - Blank
+Cold Scythe +7 - Sword Dance
+Staff of the Guilty +7 - No Skill
+Reduvia +10 - Blank
+Blank +10 - No Skill
+Halo Scythe +3 - Blank
+Blank +6 - Charge Forth
+Flowing Curved Sword +7 - Sword Dance
+Blank +7 - Blank
+Blank +7 - No Skill
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Banished Knight's Halberd +8 - Spinning Strikes
+Rogier's Rapier +8 - Glintblade Phalanx
+Spear +7 - Charge Forth
+Nagakiba +0 - Piercing Fang
+Iron Ball +0 - Braggart's Roar
+Magic Ice Crest Shield +25 - Carian Retaliation
+Heavy Giant-Crusher +25 - Bloodhound's Step
+Heavy Stone Club +25 - Hoarah Loux's Earthshaker
+Heavy Greatsword +25 - Bloodhound's Step
+Quality Grossmesser +25 - Sword Dance
+Banished Knight's Quality Greatsword +25 - Storm Stomp
+Hoslow's Keen Petal Whip +25 - Bloodhound's Step
+Composite Bow +25 - Barrage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Heavy Longsword +25 - Lion's Claw
+Heavy Bastard Sword +25 - Lion's Claw
+Heavy Greatsword +25 - Lion's Claw
+Heavy Falchion +25 - Lion's Claw
+Heavy Dismounter +25 - Lion's Claw
+Heavy Uchigatana +25 - Lion's Claw
+Heavy Twinblade +25 - Lion's Claw
+Heavy Battle Axe +25 - Lion's Claw
+Heavy Greataxe +25 - Lion's Claw
+Heavy Mace +25 - Lion's Claw
+Heavy Large Club +25 - Lion's Claw
+Heavy Nightrider Flail +25 - Lion's Claw
+Heavy Duelist Greataxe +25 - Lion's Claw
+Keen Dagger +25 - Impaling Thrust
+Keen Longsword +25 - Impaling Thrust
+Keen Bastard Sword +25 - Impaling Thrust
+Keen Uchigatana +25 - Impaling Thrust
+Keen Twinblade +25 - Impaling Thrust
+Keen Rapier +25 - Impaling Thrust
+Keen Great epee +25 - Impaling Thrust
+Keen Short Spear +25 - Impaling Thrust
+Keen Lance +25 - Impaling Thrust
+Keen Halberd +25 - Impaling Thrust
+Keen Longsword +25 - Piercing Fang
+Keen Bastard Sword +25 - Piercing Fang
+Keen Uchigatana +25 - Piercing Fang
+Keen Twinblade +25 - Piercing Fang
+Keen Rapier +25 - Piercing Fang
+Keen Great epee +25 - Piercing Fang
+Keen Short Spear +25 - Piercing Fang
+Keen Lance +25 - Piercing Fang
+Keen Halberd +25 - Piercing Fang
+Keen Dagger +25 - Spinning Slash
+Keen Longsword +25 - Spinning Slash
+Keen Bastard Sword +25 - Spinning Slash
+Keen Falchion +25 - Spinning Slash
+Keen Dismounter +25 - Spinning Slash
+Keen Uchigatana +25 - Spinning Slash
+Keen Twinblade +25 - Spinning Slash
+Keen Battle Axe +25 - Spinning Slash
+Keen Greataxe +25 - Spinning Slash
+Keen Short Spear +25 - Spinning Slash
+Keen Lance +25 - Spinning Slash
+Keen Halberd +25 - Spinning Slash
+Keen Scythe +25 - Spinning Slash
+Quality Twinblade +25 - Charge Forth
+Quality Great epee +25 - Charge Forth
+Quality Short Spear +25 - Charge Forth
+Quality Lance +25 - Charge Forth
+Quality Halberd +25 - Charge Forth
+Heavy Bastard Sword +25 - Stamp (Upward Cut)
+Heavy Greatsword +25 - Stamp (Upward Cut)
+Heavy Dismounter +25 - Stamp (Upward Cut)
+Heavy Battle Axe +25 - Stamp (Upward Cut)
+Heavy Greataxe +25 - Stamp (Upward Cut)
+Heavy Mace +25 - Stamp (Upward Cut)
+Heavy Large Club +25 - Stamp (Upward Cut)
+Heavy Nightrider Flail +25 - Stamp (Upward Cut)
+Heavy Duelist Greataxe +25 - Stamp (Upward Cut)
+Heavy Bastard Sword +25 - Stamp (Sweep)
+Heavy Greatsword +25 - Stamp (Sweep)
+Heavy Dismounter +25 - Stamp (Sweep)
+Heavy Battle Axe +25 - Stamp (Sweep)
+Heavy Greataxe +25 - Stamp (Sweep)
+Heavy Mace +25 - Stamp (Sweep)
+Heavy Large Club +25 - Stamp (Sweep)
+Heavy Nightrider Flail +25 - Stamp (Sweep)
+Heavy Duelist Greataxe +25 - Stamp (Sweep)
+Blood Dagger +25 - Blood Tax
+Bloody Longsword +25 - Blood Tax
+Bloody Bastard Sword +25 - Blood Tax
+Blood Uchigatana +25 - Blood Tax
+Bloody Twinblade +25 - Blood Tax
+Blood Rapier +25 - Blood Tax
+Blood Great epee +25 - Blood Tax
+Blood Short Spear +25 - Blood Tax
+Bloody Lance +25 - Blood Tax
+Blood Halberd +25 - Blood Tax
+Keen Dagger +25 - Repeating Thrust
+Keen Longsword +25 - Repeating Thrust
+Keen Bastard Sword +25 - Repeating Thrust
+Keen Uchigatana +25 - Repeating Thrust
+Keen Twinblade +25 - Repeating Thrust
+Keen Rapier +25 - Repeating Thrust
+Keen Great epee +25 - Repeating Thrust
+Keen Short Spear +25 - Repeating Thrust
+Keen Lance +25 - Repeating Thrust
+Keen Halberd +25 - Repeating Thrust
+Quality Bastard Sword +25 - Wild Strikes
+Quality Falchion +25 - Wild Strikes
+Quality Dismounter +25 - Wild Strikes
+Quality Battle Axe +25 - Wild Strikes
+Quality Greataxe +25 - Wild Strikes
+Quality Mace +25 - Wild Strikes
+Quality Large Club +25 - Wild Strikes
+Quality Nightrider Flail +25 - Wild Strikes
+Quality Scythe +25 - Wild Strikes
+Heavy Short Spear +25 - Spinning Strikes
+Heavy Halberd +25 - Spinning Strikes
+Heavy Scythe +25 - Spinning Strikes
+Keen Dagger +25 - Double Slash
+Keen Longsword +25 - Double Slash
+Keen Bastard Sword +25 - Double Slash
+Keen Falchion +25 - Double Slash
+Keen Dismounter +25 - Double Slash
+Keen Uchigatana +25 - Double Slash
+Keen Twinblade +25 - Double Slash
+Keen Halberd +25 - Double Slash
+Keen Scythe +25 - Double Slash
+Flame Art Greataxe +25 - Prelate's Charge
+Flame Art Large Club +25 - Prelate's Charge
+Flame Art Duelist Greataxe +25 - Prelate's Charge
+Keen Uchigatana +25 - Unsheathe
+Quality Longsword +25 - Square Off
+Quality Bastard Sword +25 - Giant Hunt
+Quality Greatsword +25 - Giant Hunt
+Quality Twinblade +25 - Giant Hunt
+Quality Great epee +25 - Giant Hunt
+Quality Short Spear +25 - Giant Hunt
+Quality Lance +25 - Giant Hunt
+Quality Halberd +25 - Giant Hunt
+Magic Twinblade +25 - Loretta's Slash
+Magic Short Spear +25 - Loretta's Slash
+Magic Lance +25 - Loretta's Slash
+Magic Halberd +25 - Loretta's Slash
+Magic Scythe +25 - Loretta's Slash
+Poison Dagger +25 - Poison Moth Flight
+Poison Longsword +25 - Poison Moth Flight
+Poison Falchion +25 - Poison Moth Flight
+Poison Uchigatana +25 - Poison Moth Flight
+Poison Rapier +25 - Poison Moth Flight
+Magic Dagger +25 - Spinning Weapon
+Magic Longsword +25 - Spinning Weapon
+Magic Falchion +25 - Spinning Weapon
+Magic Uchigatana +25 - Spinning Weapon
+Magic Twinblade +25 - Spinning Weapon
+Magic Rapier +25 - Spinning Weapon
+Magic Battle Axe +25 - Spinning Weapon
+Magic Mace +25 - Spinning Weapon
+Magic Nightrider Flail +25 - Spinning Weapon
+Magic Short Spear +25 - Spinning Weapon
+Magic Halberd +25 - Spinning Weapon
+Magic Scythe +25 - Spinning Weapon
+Quality Twinblade +25 - Storm Assault
+Quality Great epee +25 - Storm Assault
+Quality Short Spear +25 - Storm Assault
+Quality Lance +25 - Storm Assault
+Quality Halberd +25 - Storm Assault
+Quality Longsword +25 - Stormcaller
+Quality Bastard Sword +25 - Stormcaller
+Quality Falchion +25 - Stormcaller
+Quality Dismounter +25 - Stormcaller
+Quality Uchigatana +25 - Stormcaller
+Quality Twinblade +25 - Stormcaller
+Quality Battle Axe +25 - Stormcaller
+Quality Greataxe +25 - Stormcaller
+Quality Mace +25 - Stormcaller
+Quality Large Club +25 - Stormcaller
+Quality Nightrider Flail +25 - Stormcaller
+Quality Short Spear +25 - Stormcaller
+Quality Lance +25 - Stormcaller
+Quality Halberd +25 - Stormcaller
+Quality Scythe +25 - Stormcaller
+Keen Dagger +25 - Sword Dance
+Keen Longsword +25 - Sword Dance
+Keen Bastard Sword +25 - Sword Dance
+Keen Falchion +25 - Sword Dance
+Keen Dismounter +25 - Sword Dance
+Keen Uchigatana +25 - Sword Dance
+Keen Twinblade +25 - Sword Dance
+Keen Battle Axe +25 - Sword Dance
+Keen Greataxe +25 - Sword Dance
+Keen Halberd +25 - Sword Dance
+Keen Scythe +25 - Sword Dance
+Magic Dagger +25 - Glintblade Phalanx
+Magic Longsword +25 - Glintblade Phalanx
+Magic Bastard Sword +25 - Glintblade Phalanx
+Magic Falchion +25 - Glintblade Phalanx
+Magic Dismounter +25 - Glintblade Phalanx
+Magic Uchigatana +25 - Glintblade Phalanx
+Magic Twinblade +25 - Glintblade Phalanx
+Magic Rapier +25 - Glintblade Phalanx
+Magic Great epee +25 - Glintblade Phalanx
+Magic Short Spear +25 - Glintblade Phalanx
+Magic Lance +25 - Glintblade Phalanx
+Magic Halberd +25 - Glintblade Phalanx
+Sacred Dagger +25 - Sacred Blade
+Sacred Longsword +25 - Sacred Blade
+Sacred Bastard Sword +25 - Sacred Blade
+Sacred Greatsword +25 - Sacred Blade
+Sacred Falchion +25 - Sacred Blade
+Sacred Dismounter +25 - Sacred Blade
+Sacred Uchigatana +25 - Sacred Blade
+Sacred Twinblade +25 - Sacred Blade
+Sacred Rapier +25 - Sacred Blade
+Sacred Great epee +25 - Sacred Blade
+Sacred Battle Axe +25 - Sacred Blade
+Sacred Greataxe +25 - Sacred Blade
+Sacred Mace +25 - Sacred Blade
+Sacred Large Club +25 - Sacred Blade
+Sacred Nightrider Flail +25 - Sacred Blade
+Sacred Short Spear +25 - Sacred Blade
+Sacred Lance +25 - Sacred Blade
+Sacred Halberd +25 - Sacred Blade
+Sacred Scythe +25 - Sacred Blade
+Sacred Caestus +25 - Sacred Blade
+Sacred Hookclaws +25 - Sacred Blade
+Sacred Duelist Greataxe +25 - Sacred Blade
+Cold Twinblade +25 - Ice Spear
+Cold Short Spear +25 - Ice Spear
+Cold Lance +25 - Ice Spear
+Cold Halberd +25 - Ice Spear
+Magic Dagger +25 - Glintstone Pebble
+Magic Longsword +25 - Glintstone Pebble
+Magic Bastard Sword +25 - Glintstone Pebble
+Magic Falchion +25 - Glintstone Pebble
+Magic Dismounter +25 - Glintstone Pebble
+Magic Uchigatana +25 - Glintstone Pebble
+Magic Twinblade +25 - Glintstone Pebble
+Magic Rapier +25 - Glintstone Pebble
+Magic Great epee +25 - Glintstone Pebble
+Magic Short Spear +25 - Glintstone Pebble
+Magic Lance +25 - Glintstone Pebble
+Magic Halberd +25 - Glintstone Pebble
+Blood Dagger +25 - Bloody Slash
+Bloody Longsword +25 - Bloody Slash
+Bloody Bastard Sword +25 - Bloody Slash
+Blood Falchion +25 - Bloody Slash
+Blood Dismounter +25 - Bloody Slash
+Blood Uchigatana +25 - Bloody Slash
+Bloody Twinblade +25 - Bloody Slash
+Blood Rapier +25 - Bloody Slash
+Blood Great epee +25 - Bloody Slash
+Blood Caestus +25 - Lifesteal Fist
+Blood Hookclaws +25 - Lifesteal Fist
+Fire Bastard Sword +25 - Eruption
+Fire Greatsword +25 - Eruption
+Fire Dismounter +25 - Eruption
+Fire Greataxe +25 - Eruption
+Fire Large Club +25 - Eruption
+Fire Duelist Greataxe +25 - Eruption
+Sacred Battle Axe +25 - Prayerful Strike
+Sacred Greataxe +25 - Prayerful Strike
+Sacred Mace +25 - Prayerful Strike
+Sacred Large Club +25 - Prayerful Strike
+Sacred Nightrider Flail +25 - Prayerful Strike
+Sacred Duelist Greataxe +25 - Prayerful Strike
+Magic Longsword +25 - Gravitas
+Magic Bastard Sword +25 - Gravitas
+Magic Greatsword +25 - Gravitas
+Magic Falchion +25 - Gravitas
+Magic Dismounter +25 - Gravitas
+Magic Uchigatana +25 - Gravitas
+Magic Twinblade +25 - Gravitas
+Magic Rapier +25 - Gravitas
+Magic Great epee +25 - Gravitas
+Magic Battle Axe +25 - Gravitas
+Magic Greataxe +25 - Gravitas
+Magic Mace +25 - Gravitas
+Magic Large Club +25 - Gravitas
+Magic Nightrider Flail +25 - Gravitas
+Magic Short Spear +25 - Gravitas
+Magic Lance +25 - Gravitas
+Magic Halberd +25 - Gravitas
+Magic Scythe +25 - Gravitas
+Magic Duelist Greataxe +25 - Gravitas
+Quality Dagger +25 - Storm Blade
+Quality Longsword +25 - Storm Blade
+Quality Bastard Sword +25 - Storm Blade
+Quality Falchion +25 - Storm Blade
+Quality Dismounter +25 - Storm Blade
+Quality Uchigatana +25 - Storm Blade
+Quality Rapier +25 - Storm Blade
+Heavy Greatsword +25 - Earthshaker
+Heavy Greataxe +25 - Earthshaker
+Heavy Large Club +25 - Earthshaker
+Heavy Lance +25 - Earthshaker
+Heavy Duelist Greataxe +25 - Earthshaker
+Sacred Greatsword +25 - Golden Land
+Sacred Greataxe +25 - Golden Land
+Sacred Large Club +25 - Golden Land
+Sacred Lance +25 - Golden Land
+Sacred Duelist Greataxe +25 - Golden Land
+Fire Dagger +25 - Flaming Strike
+Fire Longsword +25 - Flaming Strike
+Fire Bastard Sword +25 - Flaming Strike
+Fire Greatsword +25 - Flaming Strike
+Fire Falchion +25 - Flaming Strike
+Fire Dismounter +25 - Flaming Strike
+Fire Uchigatana +25 - Flaming Strike
+Fire Twinblade +25 - Flaming Strike
+Fire Rapier +25 - Flaming Strike
+Fire Great epee +25 - Flaming Strike
+Fire Battle Axe +25 - Flaming Strike
+Fire Greataxe +25 - Flaming Strike
+Fire Mace +25 - Flaming Strike
+Fire Large Club +25 - Flaming Strike
+Fire Nightrider Flail +25 - Flaming Strike
+Fire Short Spear +25 - Flaming Strike
+Fire Lance +25 - Flaming Strike
+Fire Halberd +25 - Flaming Strike
+Fire Scythe +25 - Flaming Strike
+Fire Caestus +25 - Flaming Strike
+Fire Hookclaws +25 - Flaming Strike
+Fire Duelist Greataxe +25 - Flaming Strike
+Lightning Dagger +25 - Thunderbolt
+Lightning Longsword +25 - Thunderbolt
+Lightning Bastard Sword +25 - Thunderbolt
+Lightning Greatsword +25 - Thunderbolt
+Lightning Falchion +25 - Thunderbolt
+Lightning Dismounter +25 - Thunderbolt
+Lightning Uchigatana +25 - Thunderbolt
+Lightning Twinblade +25 - Thunderbolt
+Lightning Rapier +25 - Thunderbolt
+Lightning Great epee +25 - Thunderbolt
+Lightning Battle Axe +25 - Thunderbolt
+Lightning Greataxe +25 - Thunderbolt
+Lightning Mace +25 - Thunderbolt
+Lightning Large Club +25 - Thunderbolt
+Lightning Nightrider Flail +25 - Thunderbolt
+Lightning Short Spear +25 - Thunderbolt
+Lightning Lance +25 - Thunderbolt
+Lightning Halberd +25 - Thunderbolt
+Lightning Scythe +25 - Thunderbolt
+Lightning Caestus +25 - Thunderbolt
+Lightning Hookclaws +25 - Thunderbolt
+Lightning Whip +25 - Thunderbolt
+Lightning Duelist Greataxe +25 - Thunderbolt
+Lightning Dagger +25 - Lightning Slash
+Lightning Longsword +25 - Lightning Slash
+Lightning Bastard Sword +25 - Lightning Slash
+Lightning Greatsword +25 - Lightning Slash
+Lightning Falchion +25 - Lightning Slash
+Lightning Dismounter +25 - Lightning Slash
+Lightning Uchigatana +25 - Lightning Slash
+Lightning Twinblade +25 - Lightning Slash
+Lightning Rapier +25 - Lightning Slash
+Lightning Great epee +25 - Lightning Slash
+Lightning Battle Axe +25 - Lightning Slash
+Lightning Greataxe +25 - Lightning Slash
+Lightning Mace +25 - Lightning Slash
+Lightning Large Club +25 - Lightning Slash
+Lightning Nightrider Flail +25 - Lightning Slash
+Lightning Duelist Greataxe +25 - Lightning Slash
+Magic Dagger +25 - Carian Grandeur
+Magic Longsword +25 - Carian Grandeur
+Magic Bastard Sword +25 - Carian Grandeur
+Magic Falchion +25 - Carian Grandeur
+Magic Dismounter +25 - Carian Grandeur
+Magic Uchigatana +25 - Carian Grandeur
+Magic Twinblade +25 - Carian Grandeur
+Magic Rapier +25 - Carian Grandeur
+Magic Great epee +25 - Carian Grandeur
+Magic Dagger +25 - Carian Greatsword
+Magic Longsword +25 - Carian Greatsword
+Magic Bastard Sword +25 - Carian Greatsword
+Magic Falchion +25 - Carian Greatsword
+Magic Dismounter +25 - Carian Greatsword
+Magic Uchigatana +25 - Carian Greatsword
+Magic Twinblade +25 - Carian Greatsword
+Magic Rapier +25 - Carian Greatsword
+Magic Great epee +25 - Carian Greatsword
+Quality Dagger +25 - Vacuum Slice
+Quality Longsword +25 - Vacuum Slice
+Quality Bastard Sword +25 - Vacuum Slice
+Quality Greatsword +25 - Vacuum Slice
+Quality Falchion +25 - Vacuum Slice
+Quality Dismounter +25 - Vacuum Slice
+Quality Uchigatana +25 - Vacuum Slice
+Quality Twinblade +25 - Vacuum Slice
+Quality Rapier +25 - Vacuum Slice
+Quality Great epee +25 - Vacuum Slice
+Quality Battle Axe +25 - Vacuum Slice
+Quality Greataxe +25 - Vacuum Slice
+Flame Art Twinblade +25 - Black Flame Tornado
+Flame Art Short Spear +25 - Black Flame Tornado
+Flame Art Lance +25 - Black Flame Tornado
+Flame Art Halberd +25 - Black Flame Tornado
+Flame Art Scythe +25 - Black Flame Tornado
+Sacred Short Spear +25 - Sacred Ring of Light
+Sacred Halberd +25 - Sacred Ring of Light
+Sacred Scythe +25 - Sacred Ring of Light
+Blood Dagger +25 - Blood Blade
+Bloody Longsword +25 - Blood Blade
+Blood Falchion +25 - Blood Blade
+Blood Uchigatana +25 - Blood Blade
+Bloody Twinblade +25 - Blood Blade
+Blood Rapier +25 - Blood Blade
+Quality Twinblade +25 - Phantom Slash
+Quality Short Spear +25 - Phantom Slash
+Quality Halberd +25 - Phantom Slash
+Quality Scythe +25 - Phantom Slash
+Occult Short Spear +25 - Spectral Lance
+Occult Lance +25 - Spectral Lance
+Occult Halberd +25 - Spectral Lance
+Cold Dagger +25 - Chilling Mist
+Cold Longsword +25 - Chilling Mist
+Cold Bastard Sword +25 - Chilling Mist
+Cold Greatsword +25 - Chilling Mist
+Cold Falchion +25 - Chilling Mist
+Cold Dismounter +25 - Chilling Mist
+Cold Uchigatana +25 - Chilling Mist
+Cold Twinblade +25 - Chilling Mist
+Cold Rapier +25 - Chilling Mist
+Cold Great epee +25 - Chilling Mist
+Cold Battle Axe +25 - Chilling Mist
+Cold Greataxe +25 - Chilling Mist
+Cold Mace +25 - Chilling Mist
+Cold Large Club +25 - Chilling Mist
+Cold Nightrider Flail +25 - Chilling Mist
+Cold Short Spear +25 - Chilling Mist
+Cold Lance +25 - Chilling Mist
+Cold Halberd +25 - Chilling Mist
+Cold Scythe +25 - Chilling Mist
+Cold Caestus +25 - Chilling Mist
+Cold Hookclaws +25 - Chilling Mist
+Cold Duelist Greataxe +25 - Chilling Mist
+Poison Dagger +25 - Poisonous Mist
+Poison Longsword +25 - Poisonous Mist
+Poison Bastard Sword +25 - Poisonous Mist
+Poison Greatsword +25 - Poisonous Mist
+Poison Falchion +25 - Poisonous Mist
+Poison Dismounter +25 - Poisonous Mist
+Poison Uchigatana +25 - Poisonous Mist
+Poison Twinblade +25 - Poisonous Mist
+Poison Rapier +25 - Poisonous Mist
+Poison Great epee +25 - Poisonous Mist
+Poison Battle Axe +25 - Poisonous Mist
+Poison Greataxe +25 - Poisonous Mist
+Poison Mace +25 - Poisonous Mist
+Poison Large Club +25 - Poisonous Mist
+Poison Nightrider Flail +25 - Poisonous Mist
+Poison Short Spear +25 - Poisonous Mist
+Poison Lance +25 - Poisonous Mist
+Poison Halberd +25 - Poisonous Mist
+Poison Scythe +25 - Poisonous Mist
+Poison Caestus +25 - Poisonous Mist
+Poison Hookclaws +25 - Poisonous Mist
+Poison Duelist Greataxe +25 - Poisonous Mist
+Red Thorn Roundshield +25 - Shield Bash
+Kite Shield +25 - Shield Bash
+Dragon Towershield +25 - Shield Bash
+Red Thorn Roundshield +25 - Barricade Shield
+Kite Shield +25 - Barricade Shield
+Dragon Towershield +25 - Barricade Shield
+Dagger +25 - Parry
+Falchion +25 - Parry
+Rapier +25 - Parry
+Caestus +25 - Poisonous Mist
+Hookclaws +25 - Poisonous Mist
+Red Thorn Roundshield +25 - Parry
+Kite Shield +25 - Parry
+Red Thorn Roundshield +25 - Carian Retaliation
+Kite Shield +25 - Carian Retaliation
+Red Thorn Roundshield +25 - Storm Wall
+Kite Shield +25 - Storm Wall
+Red Thorn Roundshield +25 - Golden Parry
+Kite Shield +25 - Golden Parry
+Red Thorn Roundshield +25 - Shield Crash
+Kite Shield +25 - Shield Crash
+Dragon Towershield +25 - Shield Crash
+Red Thorn Roundshield +25 - No Skill
+Kite Shield +25 - No Skill
+Dragon Towershield +25 - No Skill
+Torch +25 - No Skill
+Red Thorn Roundshield +25 - Thops's Barrier
+Kite Shield +25 - Thops's Barrier
+Greatbow +25 - Through and Through
+Composite Bow +25 - Barrage
+Longbow +25 - Barrage
+Composite Bow +25 - Mighty Shot
+Longbow +25 - Mighty Shot
+Composite Bow +25 - Enchanted Shot
+Longbow +25 - Enchanted Shot
+Composite Bow +25 - Sky Shot
+Longbow +25 - Sky Shot
+Composite Bow +25 - Rain of Arrows
+Longbow +25 - Rain of Arrows
+Greatbow +25 - Rain of Arrows
+Cold Dagger +25 - Hoarfrost Stomp
+Cold Longsword +25 - Hoarfrost Stomp
+Cold Bastard Sword +25 - Hoarfrost Stomp
+Cold Greatsword +25 - Hoarfrost Stomp
+Cold Falchion +25 - Hoarfrost Stomp
+Cold Dismounter +25 - Hoarfrost Stomp
+Cold Uchigatana +25 - Hoarfrost Stomp
+Cold Twinblade +25 - Hoarfrost Stomp
+Cold Rapier +25 - Hoarfrost Stomp
+Cold Great epee +25 - Hoarfrost Stomp
+Cold Battle Axe +25 - Hoarfrost Stomp
+Cold Greataxe +25 - Hoarfrost Stomp
+Cold Mace +25 - Hoarfrost Stomp
+Cold Large Club +25 - Hoarfrost Stomp
+Cold Nightrider Flail +25 - Hoarfrost Stomp
+Cold Short Spear +25 - Hoarfrost Stomp
+Cold Lance +25 - Hoarfrost Stomp
+Cold Halberd +25 - Hoarfrost Stomp
+Cold Scythe +25 - Hoarfrost Stomp
+Cold Caestus +25 - Hoarfrost Stomp
+Cold Hookclaws +25 - Hoarfrost Stomp
+Cold Whip +25 - Hoarfrost Stomp
+Cold Duelist Greataxe +25 - Hoarfrost Stomp
+Quality Dagger +25 - Storm Stomp
+Quality Longsword +25 - Storm Stomp
+Quality Bastard Sword +25 - Storm Stomp
+Quality Greatsword +25 - Storm Stomp
+Quality Falchion +25 - Storm Stomp
+Quality Dismounter +25 - Storm Stomp
+Quality Uchigatana +25 - Storm Stomp
+Quality Twinblade +25 - Storm Stomp
+Quality Rapier +25 - Storm Stomp
+Quality Great epee +25 - Storm Stomp
+Quality Battle Axe +25 - Storm Stomp
+Quality Greataxe +25 - Storm Stomp
+Quality Mace +25 - Storm Stomp
+Quality Large Club +25 - Storm Stomp
+Quality Nightrider Flail +25 - Storm Stomp
+Quality Short Spear +25 - Storm Stomp
+Quality Lance +25 - Storm Stomp
+Quality Halberd +25 - Storm Stomp
+Quality Scythe +25 - Storm Stomp
+Quality Caestus +25 - Storm Stomp
+Quality Hookclaws +25 - Storm Stomp
+Quality Whip +25 - Storm Stomp
+Quality Duelist Greataxe +25 - Storm Stomp
+Heavy Dagger +25 - Kick
+Heavy Longsword +25 - Kick
+Heavy Bastard Sword +25 - Kick
+Heavy Greatsword +25 - Kick
+Heavy Falchion +25 - Kick
+Heavy Dismounter +25 - Kick
+Heavy Uchigatana +25 - Kick
+Heavy Twinblade +25 - Kick
+Heavy Rapier +25 - Kick
+Heavy Great epee +25 - Kick
+Heavy Battle Axe +25 - Kick
+Heavy Greataxe +25 - Kick
+Heavy Mace +25 - Kick
+Heavy Large Club +25 - Kick
+Heavy Nightrider Flail +25 - Kick
+Heavy Short Spear +25 - Kick
+Heavy Lance +25 - Kick
+Heavy Halberd +25 - Kick
+Heavy Scythe +25 - Kick
+Heavy Caestus +25 - Kick
+Heavy Hookclaws +25 - Kick
+Heavy Whip +25 - Kick
+Heavy Duelist Greataxe +25 - Kick
+Lightning Dagger +25 - Lightning Ram
+Lightning Longsword +25 - Lightning Ram
+Lightning Bastard Sword +25 - Lightning Ram
+Lightning Greatsword +25 - Lightning Ram
+Lightning Falchion +25 - Lightning Ram
+Lightning Dismounter +25 - Lightning Ram
+Lightning Uchigatana +25 - Lightning Ram
+Lightning Twinblade +25 - Lightning Ram
+Lightning Rapier +25 - Lightning Ram
+Lightning Great epee +25 - Lightning Ram
+Lightning Battle Axe +25 - Lightning Ram
+Lightning Greataxe +25 - Lightning Ram
+Lightning Mace +25 - Lightning Ram
+Lightning Large Club +25 - Lightning Ram
+Lightning Nightrider Flail +25 - Lightning Ram
+Lightning Short Spear +25 - Lightning Ram
+Lightning Lance +25 - Lightning Ram
+Lightning Halberd +25 - Lightning Ram
+Lightning Scythe +25 - Lightning Ram
+Lightning Caestus +25 - Lightning Ram
+Lightning Hookclaws +25 - Lightning Ram
+Lightning Whip +25 - Lightning Ram
+Lightning Duelist Greataxe +25 - Lightning Ram
+Fire Dagger +25 - Flame of the Redmanes
+Fire Longsword +25 - Flame of the Redmanes
+Fire Bastard Sword +25 - Flame of the Redmanes
+Fire Greatsword +25 - Flame of the Redmanes
+Fire Falchion +25 - Flame of the Redmanes
+Fire Dismounter +25 - Flame of the Redmanes
+Fire Uchigatana +25 - Flame of the Redmanes
+Fire Twinblade +25 - Flame of the Redmanes
+Fire Rapier +25 - Flame of the Redmanes
+Fire Great epee +25 - Flame of the Redmanes
+Fire Battle Axe +25 - Flame of the Redmanes
+Fire Greataxe +25 - Flame of the Redmanes
+Fire Mace +25 - Flame of the Redmanes
+Fire Large Club +25 - Flame of the Redmanes
+Fire Nightrider Flail +25 - Flame of the Redmanes
+Fire Short Spear +25 - Flame of the Redmanes
+Fire Lance +25 - Flame of the Redmanes
+Fire Halberd +25 - Flame of the Redmanes
+Fire Scythe +25 - Flame of the Redmanes
+Fire Caestus +25 - Flame of the Redmanes
+Fire Hookclaws +25 - Flame of the Redmanes
+Fire Whip +25 - Flame of the Redmanes
+Fire Duelist Greataxe +25 - Flame of the Redmanes
+Heavy Dagger +25 - Ground Slam
+Heavy Longsword +25 - Ground Slam
+Heavy Bastard Sword +25 - Ground Slam
+Heavy Greatsword +25 - Ground Slam
+Heavy Falchion +25 - Ground Slam
+Heavy Dismounter +25 - Ground Slam
+Heavy Uchigatana +25 - Ground Slam
+Heavy Twinblade +25 - Ground Slam
+Heavy Rapier +25 - Ground Slam
+Heavy Great epee +25 - Ground Slam
+Heavy Battle Axe +25 - Ground Slam
+Heavy Greataxe +25 - Ground Slam
+Heavy Mace +25 - Ground Slam
+Heavy Large Club +25 - Ground Slam
+Heavy Nightrider Flail +25 - Ground Slam
+Heavy Short Spear +25 - Ground Slam
+Heavy Lance +25 - Ground Slam
+Heavy Halberd +25 - Ground Slam
+Heavy Scythe +25 - Ground Slam
+Heavy Caestus +25 - Ground Slam
+Heavy Hookclaws +25 - Ground Slam
+Heavy Whip +25 - Ground Slam
+Heavy Duelist Greataxe +25 - Ground Slam
+Sacred Dagger +25 - Golden Slam
+Sacred Longsword +25 - Golden Slam
+Sacred Bastard Sword +25 - Golden Slam
+Sacred Greatsword +25 - Golden Slam
+Sacred Falchion +25 - Golden Slam
+Sacred Dismounter +25 - Golden Slam
+Sacred Uchigatana +25 - Golden Slam
+Sacred Twinblade +25 - Golden Slam
+Sacred Rapier +25 - Golden Slam
+Sacred Great epee +25 - Golden Slam
+Sacred Battle Axe +25 - Golden Slam
+Sacred Greataxe +25 - Golden Slam
+Sacred Mace +25 - Golden Slam
+Sacred Large Club +25 - Golden Slam
+Sacred Nightrider Flail +25 - Golden Slam
+Sacred Short Spear +25 - Golden Slam
+Sacred Lance +25 - Golden Slam
+Sacred Halberd +25 - Golden Slam
+Sacred Scythe +25 - Golden Slam
+Sacred Caestus +25 - Golden Slam
+Sacred Hookclaws +25 - Golden Slam
+Sacred Whip +25 - Golden Slam
+Sacred Duelist Greataxe +25 - Golden Slam
+Magic Greatsword +25 - Waves of Darkness
+Magic Greataxe +25 - Waves of Darkness
+Magic Large Club +25 - Waves of Darkness
+Magic Lance +25 - Waves of Darkness
+Magic Duelist Greataxe +25 - Waves of Darkness
+Heavy Dagger +25 - Hoarah Loux's Earthshaker
+Heavy Longsword +25 - Hoarah Loux's Earthshaker
+Heavy Bastard Sword +25 - Hoarah Loux's Earthshaker
+Heavy Greatsword +25 - Hoarah Loux's Earthshaker
+Heavy Falchion +25 - Hoarah Loux's Earthshaker
+Heavy Dismounter +25 - Hoarah Loux's Earthshaker
+Heavy Uchigatana +25 - Hoarah Loux's Earthshaker
+Heavy Twinblade +25 - Hoarah Loux's Earthshaker
+Heavy Rapier +25 - Hoarah Loux's Earthshaker
+Heavy Great epee +25 - Hoarah Loux's Earthshaker
+Heavy Battle Axe +25 - Hoarah Loux's Earthshaker
+Heavy Greataxe +25 - Hoarah Loux's Earthshaker
+Heavy Mace +25 - Hoarah Loux's Earthshaker
+Heavy Large Club +25 - Hoarah Loux's Earthshaker
+Heavy Nightrider Flail +25 - Hoarah Loux's Earthshaker
+Heavy Short Spear +25 - Hoarah Loux's Earthshaker
+Heavy Lance +25 - Hoarah Loux's Earthshaker
+Heavy Halberd +25 - Hoarah Loux's Earthshaker
+Heavy Scythe +25 - Hoarah Loux's Earthshaker
+Heavy Caestus +25 - Hoarah Loux's Earthshaker
+Heavy Hookclaws +25 - Hoarah Loux's Earthshaker
+Heavy Whip +25 - Hoarah Loux's Earthshaker
+Heavy Duelist Greataxe +25 - Hoarah Loux's Earthshaker
+Quality Dagger +25 - Determination
+Quality Longsword +25 - Determination
+Quality Bastard Sword +25 - Determination
+Quality Greatsword +25 - Determination
+Quality Falchion +25 - Determination
+Quality Dismounter +25 - Determination
+Quality Uchigatana +25 - Determination
+Quality Twinblade +25 - Determination
+Quality Rapier +25 - Determination
+Quality Great epee +25 - Determination
+Quality Battle Axe +25 - Determination
+Quality Greataxe +25 - Determination
+Quality Mace +25 - Determination
+Quality Large Club +25 - Determination
+Quality Nightrider Flail +25 - Determination
+Quality Short Spear +25 - Determination
+Quality Lance +25 - Determination
+Quality Halberd +25 - Determination
+Quality Scythe +25 - Determination
+Quality Caestus +25 - Determination
+Quality Hookclaws +25 - Determination
+Quality Whip +25 - Determination
+Quality Duelist Greataxe +25 - Determination
+Quality Dagger +25 - Royal Knight's Resolve
+Quality Longsword +25 - Royal Knight's Resolve
+Quality Bastard Sword +25 - Royal Knight's Resolve
+Quality Greatsword +25 - Royal Knight's Resolve
+Quality Falchion +25 - Royal Knight's Resolve
+Quality Dismounter +25 - Royal Knight's Resolve
+Quality Uchigatana +25 - Royal Knight's Resolve
+Quality Twinblade +25 - Royal Knight's Resolve
+Quality Rapier +25 - Royal Knight's Resolve
+Quality Great epee +25 - Royal Knight's Resolve
+Quality Battle Axe +25 - Royal Knight's Resolve
+Quality Greataxe +25 - Royal Knight's Resolve
+Quality Mace +25 - Royal Knight's Resolve
+Quality Large Club +25 - Royal Knight's Resolve
+Quality Nightrider Flail +25 - Royal Knight's Resolve
+Quality Short Spear +25 - Royal Knight's Resolve
+Quality Lance +25 - Royal Knight's Resolve
+Quality Halberd +25 - Royal Knight's Resolve
+Quality Scythe +25 - Royal Knight's Resolve
+Quality Caestus +25 - Royal Knight's Resolve
+Quality Hookclaws +25 - Royal Knight's Resolve
+Quality Whip +25 - Royal Knight's Resolve
+Quality Duelist Greataxe +25 - Royal Knight's Resolve
+Blood Dagger +25 - Assassin's Gambit
+Bloody Longsword +25 - Assassin's Gambit
+Blood Uchigatana +25 - Assassin's Gambit
+Bloody Twinblade +25 - Assassin's Gambit
+Blood Rapier +25 - Assassin's Gambit
+Sacred Dagger +25 - Golden Vow
+Sacred Longsword +25 - Golden Vow
+Sacred Bastard Sword +25 - Golden Vow
+Sacred Greatsword +25 - Golden Vow
+Sacred Falchion +25 - Golden Vow
+Sacred Dismounter +25 - Golden Vow
+Sacred Uchigatana +25 - Golden Vow
+Sacred Twinblade +25 - Golden Vow
+Sacred Rapier +25 - Golden Vow
+Sacred Great epee +25 - Golden Vow
+Sacred Battle Axe +25 - Golden Vow
+Sacred Greataxe +25 - Golden Vow
+Sacred Mace +25 - Golden Vow
+Sacred Large Club +25 - Golden Vow
+Sacred Nightrider Flail +25 - Golden Vow
+Sacred Short Spear +25 - Golden Vow
+Sacred Lance +25 - Golden Vow
+Sacred Halberd +25 - Golden Vow
+Sacred Scythe +25 - Golden Vow
+Sacred Caestus +25 - Golden Vow
+Sacred Hookclaws +25 - Golden Vow
+Sacred Whip +25 - Golden Vow
+Sacred Duelist Greataxe +25 - Golden Vow
+Sacred Dagger +25 - Sacred Order
+Sacred Longsword +25 - Sacred Order
+Sacred Bastard Sword +25 - Sacred Order
+Sacred Greatsword +25 - Sacred Order
+Sacred Falchion +25 - Sacred Order
+Sacred Dismounter +25 - Sacred Order
+Sacred Uchigatana +25 - Sacred Order
+Sacred Twinblade +25 - Sacred Order
+Sacred Rapier +25 - Sacred Order
+Sacred Great epee +25 - Sacred Order
+Sacred Battle Axe +25 - Sacred Order
+Sacred Greataxe +25 - Sacred Order
+Sacred Mace +25 - Sacred Order
+Sacred Large Club +25 - Sacred Order
+Sacred Nightrider Flail +25 - Sacred Order
+Sacred Short Spear +25 - Sacred Order
+Sacred Lance +25 - Sacred Order
+Sacred Halberd +25 - Sacred Order
+Sacred Scythe +25 - Sacred Order
+Sacred Caestus +25 - Sacred Order
+Sacred Hookclaws +25 - Sacred Order
+Sacred Whip +25 - Sacred Order
+Sacred Duelist Greataxe +25 - Sacred Order
+Sacred Dagger +25 - Shared Order
+Sacred Longsword +25 - Shared Order
+Sacred Bastard Sword +25 - Shared Order
+Sacred Greatsword +25 - Shared Order
+Sacred Falchion +25 - Shared Order
+Sacred Dismounter +25 - Shared Order
+Sacred Uchigatana +25 - Shared Order
+Sacred Twinblade +25 - Shared Order
+Sacred Rapier +25 - Shared Order
+Sacred Great epee +25 - Shared Order
+Sacred Battle Axe +25 - Shared Order
+Sacred Greataxe +25 - Shared Order
+Sacred Mace +25 - Shared Order
+Sacred Large Club +25 - Shared Order
+Sacred Nightrider Flail +25 - Shared Order
+Sacred Short Spear +25 - Shared Order
+Sacred Lance +25 - Shared Order
+Sacred Halberd +25 - Shared Order
+Sacred Scythe +25 - Shared Order
+Sacred Caestus +25 - Shared Order
+Sacred Hookclaws +25 - Shared Order
+Sacred Whip +25 - Shared Order
+Sacred Duelist Greataxe +25 - Shared Order
+Blood Dagger +25 - Seppuku
+Bloody Longsword +25 - Seppuku
+Bloody Bastard Sword +25 - Seppuku
+Blood Falchion +25 - Seppuku
+Blood Dismounter +25 - Seppuku
+Blood Uchigatana +25 - Seppuku
+Bloody Twinblade +25 - Seppuku
+Blood Rapier +25 - Seppuku
+Blood Great epee +25 - Seppuku
+Blood Short Spear +25 - Seppuku
+Bloody Lance +25 - Seppuku
+Blood Halberd +25 - Seppuku
+Heavy Dagger +25 - Cragblade
+Heavy Longsword +25 - Cragblade
+Heavy Bastard Sword +25 - Cragblade
+Heavy Greatsword +25 - Cragblade
+Heavy Falchion +25 - Cragblade
+Heavy Dismounter +25 - Cragblade
+Heavy Uchigatana +25 - Cragblade
+Heavy Twinblade +25 - Cragblade
+Heavy Rapier +25 - Cragblade
+Heavy Great epee +25 - Cragblade
+Heavy Battle Axe +25 - Cragblade
+Heavy Greataxe +25 - Cragblade
+Heavy Mace +25 - Cragblade
+Heavy Large Club +25 - Cragblade
+Heavy Nightrider Flail +25 - Cragblade
+Heavy Short Spear +25 - Cragblade
+Heavy Lance +25 - Cragblade
+Heavy Halberd +25 - Cragblade
+Heavy Scythe +25 - Cragblade
+Heavy Caestus +25 - Cragblade
+Heavy Hookclaws +25 - Cragblade
+Heavy Duelist Greataxe +25 - Cragblade
+Heavy Longsword +25 - Barbaric Roar
+Heavy Bastard Sword +25 - Barbaric Roar
+Heavy Greatsword +25 - Barbaric Roar
+Heavy Falchion +25 - Barbaric Roar
+Heavy Dismounter +25 - Barbaric Roar
+Heavy Uchigatana +25 - Barbaric Roar
+Heavy Twinblade +25 - Barbaric Roar
+Heavy Battle Axe +25 - Barbaric Roar
+Heavy Greataxe +25 - Barbaric Roar
+Heavy Mace +25 - Barbaric Roar
+Heavy Large Club +25 - Barbaric Roar
+Heavy Nightrider Flail +25 - Barbaric Roar
+Heavy Short Spear +25 - Barbaric Roar
+Heavy Lance +25 - Barbaric Roar
+Heavy Halberd +25 - Barbaric Roar
+Heavy Scythe +25 - Barbaric Roar
+Heavy Caestus +25 - Barbaric Roar
+Heavy Hookclaws +25 - Barbaric Roar
+Heavy Duelist Greataxe +25 - Barbaric Roar
+Heavy Longsword +25 - War Cry
+Heavy Bastard Sword +25 - War Cry
+Heavy Greatsword +25 - War Cry
+Heavy Falchion +25 - War Cry
+Heavy Dismounter +25 - War Cry
+Heavy Uchigatana +25 - War Cry
+Heavy Twinblade +25 - War Cry
+Heavy Battle Axe +25 - War Cry
+Heavy Greataxe +25 - War Cry
+Heavy Mace +25 - War Cry
+Heavy Large Club +25 - War Cry
+Heavy Nightrider Flail +25 - War Cry
+Heavy Short Spear +25 - War Cry
+Heavy Lance +25 - War Cry
+Heavy Halberd +25 - War Cry
+Heavy Scythe +25 - War Cry
+Heavy Caestus +25 - War Cry
+Heavy Hookclaws +25 - War Cry
+Heavy Duelist Greataxe +25 - War Cry
+Keen Dagger +25 - Beast's Roar
+Keen Longsword +25 - Beast's Roar
+Keen Bastard Sword +25 - Beast's Roar
+Keen Greatsword +25 - Beast's Roar
+Keen Falchion +25 - Beast's Roar
+Keen Dismounter +25 - Beast's Roar
+Keen Uchigatana +25 - Beast's Roar
+Keen Twinblade +25 - Beast's Roar
+Keen Rapier +25 - Beast's Roar
+Keen Great epee +25 - Beast's Roar
+Keen Battle Axe +25 - Beast's Roar
+Keen Greataxe +25 - Beast's Roar
+Keen Mace +25 - Beast's Roar
+Keen Large Club +25 - Beast's Roar
+Keen Nightrider Flail +25 - Beast's Roar
+Keen Short Spear +25 - Beast's Roar
+Keen Lance +25 - Beast's Roar
+Keen Halberd +25 - Beast's Roar
+Keen Scythe +25 - Beast's Roar
+Keen Caestus +25 - Beast's Roar
+Keen Hookclaws +25 - Beast's Roar
+Keen Whip +25 - Beast's Roar
+Keen Duelist Greataxe +25 - Beast's Roar
+Heavy Bastard Sword +25 - Troll's Roar
+Heavy Greatsword +25 - Troll's Roar
+Heavy Dismounter +25 - Troll's Roar
+Heavy Greataxe +25 - Troll's Roar
+Heavy Large Club +25 - Troll's Roar
+Heavy Duelist Greataxe +25 - Troll's Roar
+Heavy Longsword +25 - Braggart's Roar
+Heavy Bastard Sword +25 - Braggart's Roar
+Heavy Greatsword +25 - Braggart's Roar
+Heavy Falchion +25 - Braggart's Roar
+Heavy Dismounter +25 - Braggart's Roar
+Heavy Uchigatana +25 - Braggart's Roar
+Heavy Twinblade +25 - Braggart's Roar
+Heavy Battle Axe +25 - Braggart's Roar
+Heavy Greataxe +25 - Braggart's Roar
+Heavy Mace +25 - Braggart's Roar
+Heavy Large Club +25 - Braggart's Roar
+Heavy Nightrider Flail +25 - Braggart's Roar
+Heavy Short Spear +25 - Braggart's Roar
+Heavy Lance +25 - Braggart's Roar
+Heavy Halberd +25 - Braggart's Roar
+Heavy Scythe +25 - Braggart's Roar
+Heavy Caestus +25 - Braggart's Roar
+Heavy Hookclaws +25 - Braggart's Roar
+Heavy Duelist Greataxe +25 - Braggart's Roar
+Quality Dagger +25 - Endure
+Quality Longsword +25 - Endure
+Quality Bastard Sword +25 - Endure
+Quality Greatsword +25 - Endure
+Quality Falchion +25 - Endure
+Quality Dismounter +25 - Endure
+Quality Uchigatana +25 - Endure
+Quality Twinblade +25 - Endure
+Quality Rapier +25 - Endure
+Quality Great epee +25 - Endure
+Quality Battle Axe +25 - Endure
+Quality Greataxe +25 - Endure
+Quality Mace +25 - Endure
+Quality Large Club +25 - Endure
+Quality Nightrider Flail +25 - Endure
+Quality Short Spear +25 - Endure
+Quality Lance +25 - Endure
+Quality Halberd +25 - Endure
+Quality Scythe +25 - Endure
+Quality Caestus +25 - Endure
+Quality Hookclaws +25 - Endure
+Quality Whip +25 - Endure
+Quality Duelist Greataxe +25 - Endure
+Quality Red Thorn Roundshield +25 - Vow of the Indomitable
+Quality Kite Shield +25 - Vow of the Indomitable
+Quality Dragon Towershield +25 - Vow of the Indomitable
+Quality Red Thorn Roundshield +25 - Holy Ground
+Quality Kite Shield +25 - Holy Ground
+Quality Dragon Towershield +25 - Holy Ground
+Quality Dagger +25 - Quickstep
+Quality Longsword +25 - Quickstep
+Quality Bastard Sword +25 - Quickstep
+Quality Greatsword +25 - Quickstep
+Quality Falchion +25 - Quickstep
+Quality Dismounter +25 - Quickstep
+Quality Uchigatana +25 - Quickstep
+Quality Twinblade +25 - Quickstep
+Quality Rapier +25 - Quickstep
+Quality Great epee +25 - Quickstep
+Quality Battle Axe +25 - Quickstep
+Quality Greataxe +25 - Quickstep
+Quality Mace +25 - Quickstep
+Quality Large Club +25 - Quickstep
+Quality Nightrider Flail +25 - Quickstep
+Quality Short Spear +25 - Quickstep
+Quality Lance +25 - Quickstep
+Quality Halberd +25 - Quickstep
+Quality Scythe +25 - Quickstep
+Quality Caestus +25 - Quickstep
+Quality Hookclaws +25 - Quickstep
+Quality Whip +25 - Quickstep
+Quality Duelist Greataxe +25 - Quickstep
+Quality Dagger +25 - Bloodhound's Step
+Quality Longsword +25 - Bloodhound's Step
+Quality Bastard Sword +25 - Bloodhound's Step
+Quality Greatsword +25 - Bloodhound's Step
+Quality Falchion +25 - Bloodhound's Step
+Quality Dismounter +25 - Bloodhound's Step
+Quality Uchigatana +25 - Bloodhound's Step
+Quality Twinblade +25 - Bloodhound's Step
+Quality Rapier +25 - Bloodhound's Step
+Quality Great epee +25 - Bloodhound's Step
+Quality Battle Axe +25 - Bloodhound's Step
+Quality Greataxe +25 - Bloodhound's Step
+Quality Mace +25 - Bloodhound's Step
+Quality Large Club +25 - Bloodhound's Step
+Quality Nightrider Flail +25 - Bloodhound's Step
+Quality Short Spear +25 - Bloodhound's Step
+Quality Lance +25 - Bloodhound's Step
+Quality Halberd +25 - Bloodhound's Step
+Quality Scythe +25 - Bloodhound's Step
+Quality Caestus +25 - Bloodhound's Step
+Quality Hookclaws +25 - Bloodhound's Step
+Quality Whip +25 - Bloodhound's Step
+Quality Duelist Greataxe +25 - Bloodhound's Step
+Quality Dagger +25 - Raptor of the Mists
+Quality Longsword +25 - Raptor of the Mists
+Quality Bastard Sword +25 - Raptor of the Mists
+Quality Greatsword +25 - Raptor of the Mists
+Quality Falchion +25 - Raptor of the Mists
+Quality Dismounter +25 - Raptor of the Mists
+Quality Uchigatana +25 - Raptor of the Mists
+Quality Twinblade +25 - Raptor of the Mists
+Quality Rapier +25 - Raptor of the Mists
+Quality Great epee +25 - Raptor of the Mists
+Quality Battle Axe +25 - Raptor of the Mists
+Quality Greataxe +25 - Raptor of the Mists
+Quality Mace +25 - Raptor of the Mists
+Quality Large Club +25 - Raptor of the Mists
+Quality Nightrider Flail +25 - Raptor of the Mists
+Quality Short Spear +25 - Raptor of the Mists
+Quality Lance +25 - Raptor of the Mists
+Quality Halberd +25 - Raptor of the Mists
+Quality Scythe +25 - Raptor of the Mists
+Quality Caestus +25 - Raptor of the Mists
+Quality Hookclaws +25 - Raptor of the Mists
+Quality Whip +25 - Raptor of the Mists
+Quality Duelist Greataxe +25 - Raptor of the Mists
+Quality Dagger +25 - White Shadow's Lure
+Quality Longsword +25 - White Shadow's Lure
+Quality Bastard Sword +25 - White Shadow's Lure
+Quality Greatsword +25 - White Shadow's Lure
+Quality Falchion +25 - White Shadow's Lure
+Quality Dismounter +25 - White Shadow's Lure
+Quality Uchigatana +25 - White Shadow's Lure
+Quality Twinblade +25 - White Shadow's Lure
+Quality Rapier +25 - White Shadow's Lure
+Quality Great epee +25 - White Shadow's Lure
+Quality Battle Axe +25 - White Shadow's Lure
+Quality Greataxe +25 - White Shadow's Lure
+Quality Mace +25 - White Shadow's Lure
+Quality Large Club +25 - White Shadow's Lure
+Quality Nightrider Flail +25 - White Shadow's Lure
+Quality Short Spear +25 - White Shadow's Lure
+Quality Lance +25 - White Shadow's Lure
+Quality Halberd +25 - White Shadow's Lure
+Quality Scythe +25 - White Shadow's Lure
+Quality Caestus +25 - White Shadow's Lure
+Quality Hookclaws +25 - White Shadow's Lure
+Quality Whip +25 - White Shadow's Lure
+Quality Duelist Greataxe +25 - White Shadow's Lure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

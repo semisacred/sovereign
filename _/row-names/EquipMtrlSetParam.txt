@@ -1,0 +1,846 @@
+None
+Smithing Stone [1] * 2
+Smithing Stone [1] * 4
+Smithing Stone [1] * 6
+Smithing Stone [2] * 2
+Smithing Stone [2] * 4
+Smithing Stone [2] * 6
+Smithing Stone [3] * 2
+Smithing Stone [3] * 4
+Smithing Stone [3] * 6
+Smithing Stone [4] * 2
+Smithing Stone [4] * 4
+Smithing Stone [4] * 6
+Smithing Stone [5] * 2
+Smithing Stone [5] * 4
+Smithing Stone [5] * 6
+Smithing Stone [6] * 2
+Smithing Stone [6] * 4
+Smithing Stone [6] * 6
+Smithing Stone [7] * 2
+Smithing Stone [7] * 4
+Smithing Stone [7] * 6
+Smithing Stone [8] * 2
+Smithing Stone [8] * 4
+Smithing Stone [8] * 6
+Ancient Dragon Smithing Stone * 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+None
+Somber Smithing Stone [1] * 1
+Somber Smithing Stone [2] * 1
+Somber Smithing Stone [3] * 1
+Somber Smithing Stone [4] * 1
+Somber Smithing Stone [5] * 1
+Somber Smithing Stone [6] * 1
+Somber Smithing Stone [7] * 1
+Somber Smithing Stone [8] * 1
+Somber Smithing Stone [9] * 1
+Somber Ancient Dragon Smithing Stone * 1
+Grave Glovewort [1] * 1
+Grave Glovewort [2] * 1
+Grave Glovewort [3] * 1
+Grave Glovewort [4] * 1
+Grave Glovewort [5] * 1
+Grave Glovewort [6] * 1
+Grave Glovewort [7] * 1
+Grave Glovewort [8] * 1
+Grave Glovewort [9] * 1
+Great Grave Glovewort * 1
+
+Ghost Glovewort [1] * 1
+Ghost Glovewort [2] * 1
+Ghost Glovewort [3] * 1
+Ghost Glovewort [4] * 1
+Ghost Glovewort [5] * 1
+Ghost Glovewort [6] * 1
+Ghost Glovewort [7] * 1
+Ghost Glovewort [8] * 1
+Ghost Glovewort [9] * 1
+Great Ghost Glovewort * 1
+
+[SACRED] Rune Arc
+[SACRED] Numen's Rune
+[SACRED] Starlight Shards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Erdleaf Flower * 2
+Mushroom * 1, Smoldering Butterfly * 1
+Mushroom * 2, Smoldering Butterfly * 1, Old Fang * 1
+Fire Blossom * 2
+Mushroom * 1, Fulgurbloom * 1
+Mushroom * 2, Fulgurbloom * 1, Gravel Stone * 1
+Mushroom * 1, Gold-Tinged Excrement * 1
+Mushroom * 1, Blood-Tainted Excrement * 1
+Mushroom * 1, Tarnished Golden Sunflower * 1
+Mushroom * 2, Golden Sunflower * 1, Golden Centipede * 1
+Rimed Crystal Bud * 2
+Toxic Mushroom * 1, Poisonbloom * 1
+Melted Mushroom * 1
+Albinauric Bloodclot * 1, Human Bone Shard * 5
+Beast Blood * 1, Hefty Beast Bone * 2
+Mushroom * 1, Smoldering Butterfly * 1, String * 1
+Mushroom * 1, Fulgurbloom * 1, String * 1
+Mushroom * 1, Gold-Tinged Excrement * 1, String * 1
+Toxic Mushroom * 1, Poisonbloom * 1, String * 1
+Melted Mushroom * 1, String * 1
+Glintstone Firefly * 2, String * 1
+Mushroom * 1, Blood-Tainted Excrement * 1, String * 1
+Volcanic Stone * 2, String * 1
+Mushroom * 1, Tarnished Golden Sunflower * 1, String * 1
+Volcanic Stone * 2
+Mushroom * 2, Albinauric Bloodclot * 1
+Mushroom * 2, Beast Blood * 1, Bloodrose * 1
+Mushroom * 1, Trina's Lily * 1
+Grave Violet * 2, Human Bone Shard * 1
+Glintstone Firefly * 2
+Glintstone Firefly * 2, Old Fang * 1
+Toxic Mushroom * 2, Faded Erdleaf Flower * 2, Aeonian Butterfly * 1
+Rowa Fruit * 1
+Golden Rowa * 1
+Rimed Rowa * 1
+Herba * 1, Cave Moss * 1, Great Dragonfly Head * 1
+Herba * 1, Cave Moss * 1, Land Octopus Ovary * 1
+Herba * 1, Cave Moss * 1, Crab Eggs * 1
+Herba * 1, Cave Moss * 1, Slumbering Egg * 1
+Dewkissed Herba * 2, Crystal Cave Moss * 1, Sacramental Bud * 1
+Dewkissed Herba * 2, Crystal Cave Moss * 1, Golden Centipede * 1
+Dewkissed Herba * 2, Crystal Cave Moss * 1, Eye of Yelough * 1
+Rowa Fruit * 3, Turtle Neck Meat * 1, Herba * 1
+Rowa Fruit * 3, Sliver of Meat * 1, Great Dragonfly Head * 1, Smoldering Butterfly * 1
+Golden Rowa * 3, Sliver of Meat * 1, Crab Eggs * 1, Land Octopus Ovary * 1
+Rimed Rowa * 5, Sliver of Meat * 1, Slumbering Egg * 1, Eye of Yelough * 1
+Golden Rowa * 5, Sliver of Meat * 1, Budding Horn * 1, Nascent Butterfly * 1
+Rowa Fruit * 3, Beast Liver * 1, Glintstone Firefly * 2
+Rowa Fruit * 3, Beast Liver * 1, Smoldering Butterfly * 1
+Rowa Fruit * 3, Beast Liver * 1, Fulgurbloom * 1
+Golden Rowa * 5, Beast Liver * 1, Golden Sunflower * 3
+Rowa Fruit * 3, Four-Toed Fowl Foot * 1, Silver Firefly * 1
+Rowa Fruit * 3, Four-Toed Fowl Foot * 1, Gold Firefly * 1
+Rowa Fruit * 5, Lump of Flesh * 1, Hefty Beast Bone * 1, Arteria Leaf * 1
+Rowa Fruit * 3, Strip of White Flesh * 1, Great Dragonfly Head * 1, Smoldering Butterfly * 1
+Golden Rowa * 3, Strip of White Flesh * 1, Crab Eggs * 1, Land Octopus Ovary * 1
+Rimed Rowa * 5, Strip of White Flesh * 1, Slumbering Egg * 1, Eye of Yelough * 1
+Golden Rowa * 5, Strip of White Flesh * 1, Budding Horn * 1, Nascent Butterfly * 1
+Root Resin * 1, Smoldering Butterfly * 1
+Root Resin * 1, Fulgurbloom * 1
+Root Resin * 1, Crystal Bud * 1
+Root Resin * 1, Golden Sunflower * 1
+Root Resin * 1, Bloodrose * 1
+Root Resin * 1, Trina's Lily * 1
+Root Resin * 1, Poisonbloom * 1
+Root Resin * 1, Rimed Crystal Bud * 1
+Root Resin * 1, Beast Blood * 1, Gravel Stone * 1
+Root Resin * 1, Aeonian Butterfly * 1
+Root Resin * 1, Smoldering Butterfly * 1, String * 1
+Root Resin * 1, Fulgurbloom * 1, String * 1
+Root Resin * 1, Crystal Bud * 1, String * 1
+Root Resin * 1, Golden Sunflower * 1, String * 1
+Root Resin * 1, Bloodrose * 1, String * 1
+Root Resin * 1, String * 1, Trina's Lily * 1
+Root Resin * 1, Poisonbloom * 1, String * 1
+Root Resin * 1, String * 1, Aeonian Butterfly * 1
+Root Resin * 1, Silver Tear Husk * 1, Crystal Bud * 1
+Thin Beast Bones * 2
+Thin Beast Bones * 2, Poisonbloom * 1
+Cracked Crystal * 3
+Ruin Fragment * 1
+Ruin Fragment * 1, Dewkissed Herba * 1
+Erdleaf Flower * 1, Human Bone Shard * 1
+Rowa Fruit * 3, Smoldering Butterfly * 1
+[SACRED] Melted Mushroom * 2
+Crystal Bud * 1, Cracked Crystal * 1
+Erdleaf Flower * 1, Smoldering Butterfly * 1, Sanctuary Stone * 1
+Yellow Ember * 1, Sanctuary Stone * 1
+Ruin Fragment * 1, Human Bone Shard * 1
+Sacramental Bud * 1, Miquella's Lily * 1
+Altus Bloom * 1, Budding Cave Moss * 1, Silver Tear Husk * 1, Arteria Leaf * 1
+Altus Bloom * 1, Miranda Powder * 1
+Altus Bloom * 2, Budding Cave Moss * 1, Living Jar Shard * 3
+Altus Bloom * 2, Budding Cave Moss * 1, Land Octopus Ovary * 1, Arteria Leaf * 1
+Altus Bloom * 1, Miranda Powder * 1, Poisonbloom * 1
+Altus Bloom * 1, Miranda Powder * 1, Formic Rock * 4
+Thin Beast Bones * 3, Flight Pinion * 1
+Thin Beast Bones * 3
+Thin Beast Bones * 3, Smoldering Butterfly * 1, Flight Pinion * 1
+Thin Beast Bones * 3, Smoldering Butterfly * 1
+Thin Beast Bones * 3, Poisonbloom * 1, Flight Pinion * 1
+Thin Beast Bones * 3, Poisonbloom * 1
+Thin Beast Bones * 3, Flight Pinion * 1, Trina's Lily * 1
+Thin Beast Bones * 3, Trina's Lily * 1
+Thin Beast Bones * 3, Stormhawk Feather * 1
+Thin Beast Bones * 3, Fulgurbloom * 1, Flight Pinion * 1
+Thin Beast Bones * 3, Fulgurbloom * 1
+Thin Beast Bones * 3, Ruin Fragment * 3
+Thin Beast Bones * 3, Cracked Crystal * 2
+Thin Beast Bones * 3, Glintstone Firefly * 2, Flight Pinion * 1
+Thin Beast Bones * 3, Glintstone Firefly * 2
+Thin Beast Bones * 3, Golden Sunflower * 2, Flight Pinion * 1
+Thin Beast Bones * 3, Golden Sunflower * 2
+Thin Beast Bones * 3, Bloodrose * 1, Flight Pinion * 1
+Thin Beast Bones * 3, Bloodrose * 1
+Thin Beast Bones * 3, Rimed Crystal Bud * 3, Flight Pinion * 1
+Thin Beast Bones * 3, Rimed Crystal Bud * 3
+Thin Beast Bones * 3, Flight Pinion * 1, Aeonian Butterfly * 1
+Thin Beast Bones * 3, Aeonian Butterfly * 1
+Hefty Beast Bone * 1, Flight Pinion * 1
+Hefty Beast Bone * 1
+Thin Beast Bones * 2
+Thin Beast Bones * 2, Smoldering Butterfly * 1
+Thin Beast Bones * 2, Fulgurbloom * 1
+Thin Beast Bones * 2, Glintstone Firefly * 2
+Thin Beast Bones * 2, Golden Sunflower * 2
+Thin Beast Bones * 2, Poisonbloom * 1
+Thin Beast Bones * 2, Bloodrose * 1
+Thin Beast Bones * 2, Rimed Crystal Bud * 3
+Thin Beast Bones * 2, Aeonian Butterfly * 1
+Thin Beast Bones * 2, Trina's Lily * 1
+Hefty Beast Bone * 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remembrance of the Grafted * 1
+Remembrance of the Grafted * 1
+Remembrance of the Starscourge * 1
+Remembrance of the Starscourge * 1
+Remembrance of the Omen King * 1
+Remembrance of the Omen King * 1
+Remembrance of the Blasphemous * 1
+Remembrance of the Blasphemous * 1
+Remembrance of the Rot Goddess * 1
+Remembrance of the Rot Goddess * 1
+Remembrance of the Blood Lord * 1
+Remembrance of the Blood Lord * 1
+Remembrance of the Black Blade * 1
+Remembrance of the Black Blade * 1
+Remembrance of Hoarah Loux * 1
+Remembrance of Hoarah Loux * 1
+Remembrance of the Dragonlord * 1
+Remembrance of the Dragonlord * 1
+Remembrance of the Full Moon Queen * 1
+Remembrance of the Full Moon Queen * 1
+Remembrance of the Lichdragon * 1
+Remembrance of the Lichdragon * 1
+Remembrance of the Fire Giant * 1
+Remembrance of the Fire Giant * 1
+Remembrance of the Regal Ancestor * 1
+Remembrance of the Regal Ancestor * 1
+Elden Remembrance * 1
+Elden Remembrance * 1
+Remembrance of the Naturalborn * 1
+Remembrance of the Naturalborn * 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drake Knight Helm * 1
+Drake Knight Armor * 1
+Scaled Armor * 1
+Perfumer Robe * 1
+Perfumer's Traveling Garb * 1
+Spellblade's Traveling Attire * 1
+Ronin's Armor * 1
+Blaidd's Armor * 1
+Black Knife Armor * 1
+Briar Armor * 1
+Page Garb * 1
+Night's Cavalry Helm * 1
+Night's Cavalry Armor * 1
+Blue Silver Mail Armor * 1
+Nomadic Merchant's Finery * 1
+Tree Sentinel Armor * 1
+Royal Knight Armor * 1
+Nox Monk Hood * 1
+Nox Monk Armor * 1
+Nox Swordstress Crown * 1
+Nox Swordstress Armor * 1
+Gravekeeper Cloak * 1
+Cleanrot Helm * 1
+Cleanrot Armor * 1
+Depraved Perfumer Robe * 1
+All-Knowing Armor * 1
+Twinned Armor * 1
+[SACRED] Scaled Armor Black * 1
+Prophet Robe * 1
+Astrologer Robe * 1
+Lionel's Armor * 1
+Hoslow's Armor * 1
+Vagabond Knight Armor * 1
+War Surgeon Gown * 1
+Veteran's Armor * 1
+Bloodhound Knight Armor * 1
+Festive Hood * 1
+Commoner's Garb * 1
+Commoner's Simple Garb * 1
+Raging Wolf Armor * 1
+Land of Reeds Armor * 1
+Confessor Hood * 1
+Confessor Armor * 1
+Finger Maiden Robe * 1
+Preceptor's Long Gown * 1
+Eccentric's Hood * 1
+Fingerprint Armor * 1
+Carian Knight Armor * 1
+Errant Sorcerer Robe * 1
+Gelmir Knight Armor * 1
+Godrick Knight Armor * 1
+Cuckoo Knight Armor * 1
+Leyndell Knight Armor * 1
+Redmane Knight Armor * 1
+Mausoleum Knight Armor * 1
+Haligtree Knight Armor * 1
+High Page Clothes * 1
+Rotten Gravekeeper Cloak * 1
+Beast Champion Armor * 1
+Snow Witch Robe * 1
+Crucible Axe Armor * 1
+Crucible Tree Armor * 1
+Fia's Robe * 1
+Alberich's Pointed Hat * 1
+Alberich's Robe * 1
+Traveling Maiden Robe * 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Elden Lord Armor * 1
+Radahn's Lion Armor * 1
+Lord of Blood's Robe * 1
+Maliketh's Armor * 1
+Malenia's Armor * 1
+
+
+Drake Knight Helm (Altered) * 1
+Drake Knight Armor (Altered) * 1
+Scaled Armor (Altered) * 1
+Perfumer Robe (Altered) * 1
+Perfumer's Traveling Garb (Altered) * 1
+Spellblade's Traveling Attire (Altered) * 1
+Ronin's Armor (Altered) * 1
+Blaidd's Armor (Altered) * 1
+Black Knife Armor (Altered) * 1
+Briar Armor (Altered) * 1
+Page Garb (Altered) * 1
+Night's Cavalry Helm (Altered) * 1
+Night's Cavalry Armor (Altered) * 1
+Blue Silver Mail Armor (Altered) * 1
+Nomadic Merchant's Finery (Altered) * 1
+Tree Sentinel Armor (Altered) * 1
+Royal Knight Armor (Altered) * 1
+Nox Monk Hood (Altered) * 1
+Nox Monk Armor (Altered) * 1
+Nox Swordstress Crown (Altered) * 1
+Nox Swordstress Armor (Altered) * 1
+Gravekeeper Cloak (Altered) * 1
+Cleanrot Helm (Altered) * 1
+Cleanrot Armor (Altered) * 1
+Depraved Perfumer Robe (Altered) * 1
+All-Knowing Armor (Altered) * 1
+Twinned Armor (Altered) * 1
+[SACRED] Scaled Armor (Altered) * 1
+Prophet Robe (Altered) * 1
+Astrologer Robe (Altered) * 1
+Lionel's Armor (Altered) * 1
+Hoslow's Armor (Altered) * 1
+Vagabond Knight Armor (Altered) * 1
+War Surgeon Gown (Altered) * 1
+Veteran's Armor (Altered) * 1
+Bloodhound Knight Armor (Altered) * 1
+Festive Hood (Altered) * 1
+Commoner's Garb (Altered) * 1
+Commoner's Simple Garb (Altered) * 1
+Raging Wolf Armor (Altered) * 1
+Land of Reeds Armor (Altered) * 1
+Confessor Hood (Altered) * 1
+Confessor Armor (Altered) * 1
+Finger Maiden Robe (Altered) * 1
+Preceptor's Long Gown (Altered) * 1
+Eccentric's Hood (Altered) * 1
+Fingerprint Armor (Altered) * 1
+Carian Knight Armor (Altered) * 1
+Errant Sorcerer Robe (Altered) * 1
+Gelmir Knight Armor (Altered) * 1
+Godrick Knight Armor (Altered) * 1
+Cuckoo Knight Armor (Altered) * 1
+Leyndell Knight Armor (Altered) * 1
+Redmane Knight Armor (Altered) * 1
+Mausoleum Knight Armor (Altered) * 1
+Haligtree Knight Armor (Altered) * 1
+High Page Clothes (Altered) * 1
+Rotten Gravekeeper Cloak (Altered) * 1
+Beast Champion Armor (Altered) * 1
+Snow Witch Robe (Altered) * 1
+Crucible Axe Armor (Altered) * 1
+Crucible Tree Armor (Altered) * 1
+Fia's Robe (Altered) * 1
+Alberich's Pointed Hat (Altered) * 1
+Alberich's Robe (Altered) * 1
+Traveling Maiden Robe (Altered) * 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Elden Lord Armor (Altered) * 1
+Radahn's Lion Armor (Altered) * 1
+Lord of Blood's Robe (Altered) * 1
+Maliketh's Armor (Altered) * 1
+Malenia's Armor (Altered) * 1
+
+

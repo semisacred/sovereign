@@ -1,0 +1,318 @@
+[Sorcery] Glintstone Pebble
+[Sorcery] Great Glintstone Shard
+[Sorcery] Swift Glintstone Shard
+[Sorcery] Glintstone Cometshard
+[Sorcery] Comet
+[Sorcery] Shard Spiral
+[Sorcery] Glintstone Stars
+[Sorcery] Star Shower
+[Sorcery] Crystal Barrage
+[Sorcery] Glintstone Arc
+[Sorcery] Cannon of Haima
+[Sorcery] Crystal Burst
+[Sorcery] Shatter Earth
+[Sorcery] Rock Blaster
+[Sorcery] Gavel of Haima
+[Sorcery] Terra Magicus
+[Sorcery] Starlight
+[Sorcery] Comet Azur
+[Sorcery] Founding Rain of Stars
+[Sorcery] Stars of Ruin
+[Sorcery] Glintblade Phalanx
+[Sorcery] Carian Phalanx
+[Sorcery] Greatblade Phalanx
+[Sorcery] Rennala's Full Moon
+[Sorcery] Ranni's Dark Moon
+[Sorcery] Magic Downpour
+[Sorcery] Loretta's Greatbow
+[Sorcery] Loretta's Mastery
+[Sorcery] Magic Glintblade
+[Sorcery] Glintstone Icecrag
+[Sorcery] Zamor Ice Storm
+[Sorcery] Freezing Mist
+[Sorcery] Carian Greatsword
+[Sorcery] Adula's Moonblade
+[Sorcery] Carian Slicer
+[Sorcery] Carian Piercer
+[Sorcery] Scholar's Armament
+[Sorcery] Scholar's Shield
+[Sorcery] Lucidity
+[Sorcery] Frozen Armament
+[Sorcery] Shattering Crystal
+[Sorcery] Crystal Release
+[Sorcery] Crystal Torrent
+[Sorcery] Ambush Shard
+[Sorcery] Night Shard
+[Sorcery] Night Comet
+[SACRED] Thops's Barrier
+[Sorcery] Carian Retaliation
+[Sorcery] Carian Retaliation (Unused 1)
+[Sorcery] Carian Retaliation (Unused 2)
+[Sorcery] Eternal Darkness
+[Sorcery] Unseen Blade
+[Sorcery] Unseen Form
+[Sorcery] Meteorite
+[Sorcery] Meteorite of Astel
+[Sorcery] Rock Sling
+[Sorcery] Gravity Well
+[Sorcery] Collapsing Stars
+[Sorcery] Magma Shot
+[Sorcery] Gelmir's Fury
+[Sorcery] Roiling Magma
+[Sorcery] Rykard's Rancor
+[Sorcery] Briars of Sin
+[Sorcery] Briars of Punishment
+[Sorcery] Rancorcall
+[Sorcery] Ancient Death Rancor
+[Sorcery] Explosive Ghostflame
+[Sorcery] Fia's Mist
+[Sorcery] Tibia's Summons
+[Sorcery] Death Lightning
+[Sorcery] Oracle Bubbles
+[Sorcery] Great Oracular Bubble
+[Incantation] Catch Flame
+[Incantation] O, Flame!
+[Incantation] Flame Sling
+[Incantation] Flame Fall Upon Them
+[Incantation] Whirl, O Flame
+[Incantation] Flame Cleanse Me
+[Incantation] Flame Grant Me Strength
+[Incantation] Flame Protect Me
+[SACRED] Giantsflame Take Thee
+[SACRED] Flame of the Fell God
+[Incantation] Burn, O Flame!
+[Incantation] Black Flame
+[Incantation] Surge, O Flame
+[Incantation] Scouring Black Flame
+[Incantation] Black Flame Ritual
+[Incantation] Black Flame Blade
+[Incantation] Black Flame's Protection
+[Incantation] Noble Presence
+[Incantation] Bloodflame Talons
+[Incantation] Bloodboon
+[Incantation] Bloodflame Blade
+[Incantation] Barrier of Gold
+[Incantation] Protection of The Erdtree
+[Incantation] Rejection
+[Incantation] Wrath of Gold
+[Incantation] Urgent Heal
+[Incantation] Heal
+[Incantation] Great Heal
+[Incantation] Lord's Heal
+[Incantation] Erdtree Heal
+[Incantation] Blessing's Boon
+[Incantation] Blessing of The Erdtree
+[Incantation] Cure Poison
+[Incantation] Lord's Aid
+[Incantation] Flame Fortification
+[Incantation] Magic Fortification
+[Incantation] Lightning Fortification
+[Incantation] Divine Fortification
+[Incantation] Lord's Divine Fortification
+[Incantation] Night Maiden's Mist
+[Incantation] Assassin's Approach
+[Incantation] Shadow Bait
+[Incantation] Darkness
+[Incantation] Golden Vow
+[Incantation] Discus of Light
+[Incantation] Triple Rings of Light
+[Incantation] Radagon's Rings of Light
+[Incantation] Elden Stars
+[Incantation] Law of Regression
+[Incantation] Immutable Shield
+[Incantation] Litany of Proper Death
+[Incantation] Law of Causality
+[Incantation] Order's Blade
+[Incantation] Order Healing
+[Incantation] Bestial Sling
+[Incantation] Stone of Gurranq
+[Incantation] Beast Claw
+[Incantation] Gurranq's Beast Claw
+[Incantation] Bestial Vitality
+[Incantation] Bestial Constitution
+[Incantation] Lightning Spear
+[SACRED] Ancient Dragons' Light Strike
+[Incantation] Lightning Strike
+[Incantation] Frozen Lightning Spear
+[Incantation] Honed Bolt
+[SACRED] Ancient Dragons' Light Spear
+[SACRED] Fortissax's Light Spear
+[SACRED] Lansseax's Glaive
+[Incantation] Electrify Armament
+[SACRED] Vyke's Dragonbolt
+[Incantation] Dragonbolt Blessing
+[Incantation] Dragonfire
+[Incantation] Agheel's Flame
+[Incantation] Magma Breath
+[Incantation] Theodorix's Magma
+[Incantation] Dragonice
+[Incantation] Borealis's Mist
+[Incantation] Rotten Breath
+[Incantation] Ekzykes's Decay
+[Incantation] Glintstone Breath
+[Incantation] Smarag's Glint Breath
+[Incantation] Placidusax's Ruin
+[Incantation] Dragonclaw
+[Incantation] Dragonmaw
+[Incantation] Greyoll's Roar
+[SACRED] Elderblood Greatbow
+[Incantation] Pest Threads
+[Incantation] Swarm of Flies
+[Incantation] Poison Mist
+[Incantation] Poison Armament
+[Incantation] Scarlet Aeonia
+[Incantation] Inescapable Frenzy
+[Incantation] The Flame of Frenzy
+[Incantation] Unendurable Frenzy
+[Incantation] Frenzied Burst
+[Incantation] Howl of Shabriri
+[Incantation] Aspects of the Crucible: Tail
+[Incantation] Aspects of the Crucible: Horns
+[Incantation] Aspects of the Crucible: Breath
+[Incantation] Black Blade
+[Incantation] Fire's Deadly Sin
+[Incantation] Golden Light Fortification
+[Incantation] Briars of Sin
+[Incantation] Briars of Punishment
+[NPC: Incantation] Catch Flame
+[NPC: Incantation] Bloodflame Blade
+[NPC: Incantation] Swarm of Flies 1
+[NPC: Incantation] Lightning Strike
+[NPC: Incantation] Fortissax's Lightning Spear
+[NPC: Incantation] Vyke's Dragonbolt
+[NPC: Incantation] The Flame of Frenzy
+[NPC: Incantation] Frenzied Burst
+[NPC: Incantation] Howl of Shabriri (Variant)
+[NPC: Incantation] Wrath of Gold 1
+[NPC: Incantation] Golden Vow 1
+[NPC: Sorcery] Magic Glintblade 1
+[NPC: Sorcery] Glintstone Cometshard
+[NPC: Sorcery] Founding Rain of Stars
+[NPC: Sorcery] Shattering Crystal
+[NPC: Sorcery] Crystal Release
+[NPC: Incantation] Inescapable Frenzy (Variant)
+[NPC: Incantation] Unendurable Frenzy (Variant)
+[NPC: Incantation] Unendurable Frenzy (Variant)
+[NPC: Incantation] Howl of Shabriri (Variant)
+[NPC: Incantation] Litany of Proper Death
+[NPC: Incantation] Beast Claw 1
+[NPC: Incantation] Discus of Light
+[NPC: Incantation] Wrath of Gold 2
+[NPC: Sorcery] Comet
+[NPC: Sorcery] Comet Azur
+[NPC: Sorcery] Carian Phalanx
+[NPC: Incantation] Black Flame Ritual
+[NPC: Incantation] Triple Rings of Light 1
+[NPC: Incantation] Law of Causality
+[NPC: Sorcery] Rykard's Rancor
+[NPC: Incantation] Bloodboon
+[NPC: Incantation] Scarlet Aeonia
+[NPC: Sorcery] Glintstone Pebble
+[NPC: Sorcery] Magic Downpour 1
+[NPC: Sorcery] Scholar's Armament
+[NPC: Incantation] Protection of The Erdtree
+[NPC: Incantation] Golden Vow 2
+[NPC: Incantation] Agheel's Flame
+[NPC: Incantation] Greyoll's Roar
+[NPC: Sorcery] Rancorcall
+[NPC: Sorcery] Fia's Mist
+[NPC: Sorcery] Great Glintstone Shard
+[NPC: Incantation] Triple Rings of Light 2
+[NPC: Sorcery] Collapsing Stars
+[NPC: Incantation] Heal
+[NPC: Sorcery] Loretta's Greatbow 1
+[NPC: Sorcery] Loretta's Greatbow 2
+[NPC: Sorcery] Greatblade Phalanx
+[NPC: Sorcery] Magic Downpour 2
+[NPC: Sorcery] Carian Slicer 1
+[NPC: Incantation] O, Flame!
+[NPC: Incantation] Flame of The Fell God
+[NPC: Sorcery] Carian Piercer
+[NPC: Sorcery] Carian Slicer 2
+[NPC: Incantation] Great Heal
+[NPC: Incantation] Poison Mist
+[NPC: Sorcery] Carian Phalanx
+[NPC: Sorcery] Magic Glintblade 2
+[NPC: Incantation] Tibia's Summons
+[NPC: Sorcery] Great Glintstone Shard
+[NPC: Sorcery] Crystal Burst
+[NPC: Sorcery] Stars of Ruin
+[NPC: Sorcery] Ambush Shard 1
+[NPC: Sorcery] Night Comet 1
+[NPC: Sorcery] Ambush Shard 2
+[NPC: Sorcery] Night Comet 2
+[NPC: Incantation] Catch Flame
+[NPC: Incantation] Burn, O Flame!
+[NPC: Incantation] Surge, O Flame!
+[NPC: Incantation] Whirl, O Flame!
+[NPC: Sorcery] Glintstone Icecrag
+[NPC: Sorcery] Freezing Mist
+[NPC: Sorcery] Briars of Sin
+[NPC: Sorcery] Bloodflame Talons
+[NPC: Sorcery] Swarm of Flies 2
+[NPC: Sorcery] Pest Threads
+[NPC: Incantation] Bestial Sling
+[NPC: Incantation] Beast Claw 2
+[NPC: Incantation] Gurranq's Beast Claw
+[Sorcery] Miriam's Vanishing
+[Sorcery] Glintblade Trio
+[Sorcery] Rellana's Twin Moons
+[Sorcery] Glintstone Nail
+[Sorcery] Glintstone Nails
+[Sorcery] Blades of Stone
+[Sorcery] Gravitational Missile
+[Sorcery] Mantle of Thorns
+[Sorcery] Impenetrable Thorns
+[Sorcery] Rings of Spectral Light
+[Sorcery] Vortex of Putrescence
+[Sorcery] Mass of Putrescence
+[Incantation] Furious Blade of Ansbach
+[Incantation] Heal from Afar
+[Incantation] Aspects of the Crucible: Thorns
+[Incantation] Aspects of the Crucible: Bloom
+[Incantation] Minor Erdtree
+[Incantation] Land of Shadow
+[Incantation] Wrath from Afar
+[Incantation] Light of Miquella
+[Incantation] Multilayered Ring of Light
+[Incantation] Roar of Rugalea
+[Incantation] Knight's Lightning Spear
+[Incantation] Dragonbolt of Florissax
+[Incantation] Electrocharge
+[Incantation] Bayle's Tyranny
+[Incantation] Bayle's Flame Lightning
+[Incantation] Ghostflame Breath
+[Incantation] Rotten Butterflies
+[Incantation] Pest-Thread Spears
+[Incantation] Midra's Flame of Frenzy
+[Sorcery] Fleeting Microcosm
+[Sorcery] Cherishing Fingers
+[Sorcery] Watchful Spirit
+[Sorcery] Golden Arcs
+[Sorcery] Giant Golden Arc
+[Sorcery] Spira
+[Incantation] Divine Beast Tornado
+[Incantation] Divine Bird Feathers
+[Incantation] Fire Serpent
+[Incantation] Rain of Fire
+[Incantation] Messmer's Orb
+[NPC: Incantation] Dragonclaw
+[NPC: Incantation] Greyoll's Roar
+[NPC: Incantation]
+[NPC: Incantation] Dragonbolt of Florissax
+[NPC: Incantation] Magma Breath
+[NPC: Incantation] Dragonmaw
+[NPC: Incantation] Fire Serpent
+[NPC: Incantation] Multilayered Ring of Light
+[NPC: Incantation] Furious Blade of Ansbach
+[NPC: Sorcery] Miriam's Vanishing
+[NPC: Sorcery] Glintstone Nails
+[NPC: Sorcery] Cherishing Fingers
+[NPC: Sorcery] Fleeting Microcosm
+[NPC: Sorcery] Fleeting Microcosm
+[NPC: Incantation] Roar of Rugalea
+[NPC: Incantation] Lord's Heal
+[NPC: Incantation] Golden Vow
+[NPC: Incantation] Discus of Light
+[NPC: Incantation] The Flame of Frenzy
+[NPC: Incantation] Golden Lightning Fortification

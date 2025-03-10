@@ -1,0 +1,11790 @@
+
+
+
+
+[Item] Tarnished's Furled Finger - Create Summon Sign
+
+
+[Item] Finger Severer - Return to World
+
+
+[Item] Duelist's Furled Finger - Create Invasion Sign
+[Item] Bloody Finger - Attempt Invasion
+
+
+
+
+[Item] Festering/Recusant Finger - Attempt Invasion
+
+
+
+
+
+Animation Offset +10k - Unknown
+
+
+Stake of Marika
+
+
+
+HKS - Unk Throw Def Invalid
+Behavior - Counter Frames
+HKS - Unk Jump Throw Def Invalid
+
+
+
+
+
+
+
+
+[HKS] Counter Frames
+
+
+
+
+
+
+
+
+Blight Effect
+
+
+
+
+PLAN_SP_EFFECT_FALL_FROM_HORSE_START
+
+Spectral Steed Whistle
+
+
+
+
+HKS - Unk Toughness Increase
+
+
+
+
+
+
+
+
+HKS - Unk Is Jump Attacking
+
+Grace - Restore HP
+Grace - Remove All Status
+Grace - Remove Hemorrhage
+Grace - Remove Poison
+Grace - Remove Scarlet Rot
+Grace - Remove Frostbite
+Grace - Reload
+Grace - Remove Madness
+Grace - Remove Sleep
+Grace - Remove Blight
+
+
+
+
+
+
+
+
+
+
+
+Torrent
+Torrent
+
+
+
+
+[HKS] Torrent - Unk Ride Attack Move Cancel
+[HKS] Recovery Window - Heavy Attack
+[HKS] Switch Heavy to Heavy Sub
+[HKS] Switch Heavy Sub to Heavy
+[HKS] Light Sub Start Type 0
+[HKS] Light Sub Start Type 1
+[HKS] Light Sub Start Type 2
+[HKS] Light Sub Start Type 3
+[HKS] Is Jumping
+[HKS] Unk Jump Fall Default
+[HKS] Unk Jump
+[HKS] Unk Jump
+[HKS] Unk Jump
+[HKS] Is Falling
+[HKS] Swing Window
+[HKS] Falling Attack
+
+
+
+
+
+[HKS] Unk Unable To Cancel Guard
+[HKS] Unk Guard Toughness Increase
+[HKS] Guard Start Type
+[HKS] Guard Counter - End
+[HKS] Guard Counter - Window
+[HKS] Unk Guard Break & Block Animation Resist
+[HKS] Unk Guard Block Animation Resist
+
+
+
+Spiritspring - In Range
+Spirit Spring - Fall Immune (Torrent)
+Spiritspring - Fall Immune
+Spiritspring - Is Jumping
+
+
+
+
+
+PLAN_SP_EFFECT_BUDDY_ORDER_GO
+PLAN_SP_EFFECT_BUDDY_ORDER_COME
+PLAN_SP_EFFECT_BUDDY_ORDER_UNSUMMON
+PLAN_SP_EFFECT_BUDDY_ORDER_TRIGGER
+[SACRED] Player Double Jump VFX
+[SACRED] Player/Torrent Fall Damage Immunity
+[SACRED] Player/Torrent Fall Death Immunity
+[SACRED] Player/Torrent Fall Damage Immunity Short
+[SACRED] Player/Torrent Fall Death Immunity Short
+[SACRED] Disable Jump Cast State Info
+[SACRED] HP State Info 0
+[SACRED] HP State Info 1
+[SACRED] HP State Info 2
+[SACRED] HP State Info 3
+[SACRED] HP State Info 4
+[SACRED] HP State Info 5
+[SACRED] HP State Info 6
+[SACRED] HP State Info 7
+[SACRED] HP State Info 8
+[SACRED] HP State Info 9
+[SACRED] HP State Info BB 0
+[SACRED] HP State Info BB 1
+[SACRED] HP State Info BB 2
+[SACRED] HP State Info BB 3
+[SACRED] HP State Info BB 4
+[SACRED] HP State Info BB 5
+[SACRED] HP State Info BB 6
+[SACRED] HP State Info BB 7
+[SACRED] HP State Info BB 8
+[SACRED] HP State Info BB 9
+[SACRED] FP State Info 0
+[SACRED] FP State Info 1
+[SACRED] FP State Info 2
+[SACRED] FP State Info 3
+[SACRED] FP State Info 4
+[SACRED] FP State Info 5
+[SACRED] FP State Info 6
+[SACRED] FP State Info 7
+[SACRED] FP State Info 8
+[SACRED] FP State Info 9
+
+[SACRED] Torrent Air Dismount Fall Immunity Apply
+[SACRED] Torrent Air Dismount Fall Immunity
+[SACRED] Torrent Air Dismount Fall Immunity
+[SACRED] Torrent Death Apply
+[SACRED] Torrent Death
+[SACRED] Torrent Death
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[SACRED] Disable Special Attack State Info 1
+[SACRED] Disable Special Attack State Info 2
+[SACRED] Torrent State Info
+[SACRED] Rapture State Info
+[SACRED] Endure State Info
+[SACRED] Margit's Shackle State Info
+[SACRED] Totality State Info
+[SACRED] Mohg's Shackle State Info
+[SACRED] Load Top Up HP/FP Apply
+[SACRED] Load Top Up HP/FP
+[SACRED] Load Remove Hemorrhage Apply
+[SACRED] Load Remove Poison Apply
+[SACRED] Load Remove Scarlet Rot Apply
+[SACRED] Load Remove Frostbite Apply
+[SACRED] Load Remove Madness Apply
+[SACRED] Load Remove Sleep Apply
+[SACRED] Load Remove Blight Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Torch Effect
+Sentry's Torch - Effect
+
+Oil Pot
+Slug - Bullet - Slow
+
+
+
+
+
+
+
+
+
+
+
+
+Beast-Repellent Torch Effect
+
+
+
+Swarm Pot (Cycled)
+
+
+Gravity - Pull towards Caster
+
+
+Swarm Pot
+Heal - HP Regen
+Blessing of the Erdtree - HP Regen
+
+Shadow Bait
+Alluring Pot
+Alluring Pot
+Beastlure Pot Effect
+
+
+
+Rune Arc
+Rune Arc
+Rune Arc
+Hemorrhage (Cycled)
+Hemorrhage - Presence of Blood
+
+
+Poison/Scarlet Rot (Cycled)
+Poison/Scarlet Rot - Presence of Rot
+
+
+
+
+
+
+
+[Item] Furlcalling Finger Remedy - Reveal Phantom Signs
+[Item] White Cipher Ring - Request Aid
+[Item] Blue Cipher Ring - Answer Aid Request
+[Item] Taunter's Tongue - Encourage Invasion
+[Item] Small Golden Effigy - Send Summon Sign to Summoning Pool
+[Item] Small Red Effigy - Send Invasion Sign to Summoning Pool
+[Item] Phantom Bloody/Recusant Finger - Attempt Invasion
+
+
+
+
+
+
+
+
+[SACRED] Godrick's Great Rune Passive
+[SACRED] Rennala's Great Rune Passive
+[SACRED] Radahn's Great Rune Passive
+[SACRED] Morgott's Great Rune Passive
+[SACRED] Rykard's Great Rune Passive
+[SACRED] Rykard Crimson Hunger Apply
+[SACRED] Rykard Crimson Hunger
+[SACRED] Mohg's Great Rune Passive
+[SACRED] Mohg Blood Attack Buff on Bleed Apply
+[SACRED] Mohg Blood Attack Buff on Bleed
+[SACRED] Malenia's Great Rune Passive
+
+
+
+[SACRED] Godrick's Great Rune
+
+
+
+
+
+
+
+
+
+[SACRED] Radahn's Great Rune
+
+
+
+
+
+
+
+
+
+[SACRED] Morgott's Great Rune
+
+
+
+
+
+
+
+
+
+[SACRED] Rykard's Great Rune
+
+
+
+
+
+
+
+
+
+[SACRED] Mohg's Great Rune
+[SACRED] Mohg's Great Rune Melee Bleed Buff
+
+
+
+
+
+
+
+
+[SACRED] Malenia's Great Rune
+[SACRED] Malenia's Great Rune
+[SACRED] Malenia's Great Rune
+[SACRED] Malenia's Great Rune
+
+
+
+
+
+
+
+[Weapon] Barricade Shield
+[Weapon] Barricade Shield (Medium Shields) - Hardness Buff
+[Weapon] Barricade Shield
+[Weapon] Barricade Shield (Medium Shields) - Hardness Buff
+[Weapon] Barricade Shield
+[Weapon] Barricade Shield
+[Weapon] Barricade Shield (Small Shields) - Hardness Buff
+[Weapon] Barricade Shield
+[Weapon] Barricade Shield
+[Weapon] Barricade Shield (Small Shields) - Hardness Buff
+[Weapon] Barricade Shield
+[Weapon] Barricade Shield (Greatshields) - Hardness Buff
+[Weapon] Barricade Shield
+[Weapon] Barricade Shield
+[Weapon] Barricade Shield (Greatshields) - Hardness Buff
+[Weapon] Sacred Blade
+[Weapon] Sacred Blade - Anti-Undead/Holy Buff
+[Weapon] Sacred Blade
+[Weapon] Sacred Blade - Anti-Undead/Holy Buff
+[Weapon] Chilling Mist
+[Weapon] Chilling Mist - Frost Buff
+[Weapon] Chilling Mist
+[Weapon] Chilling Mist - Frost Buff
+[Weapon] Chilling Mist - Frost
+[Weapon] Poisonous Mist
+[Weapon] Poisonous Mist - Poison Buff
+[Weapon] Poisonous Mist
+[Weapon] Poisonous Mist - Poison Buff
+[Weapon] Poisonous Mist - Poison
+[Weapon] Black Flame Tornado - HP Burn
+
+
+
+[Weapon] Roar
+[Weapon] Roar - Damage Buff
+[Weapon] Roar
+[Weapon] Roar - Damage Buff
+[Weapon] Roar - No FP
+[Weapon] Roar - Damage Buff - No FP
+[Weapon] Roar - No FP
+[Weapon] Roar - Damage Buff - No FP
+
+[Weapon] Godslayer's Greatsword - HP Burn
+[Weapon] Gargoyle's Blackblade - HP Burn
+
+[Weapon] Reduvia - Bullet
+[Weapon] Dragon Halberd - Frost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Weapon] Stormhawk Axe
+[Weapon] Stormhawk Axe - Lightning Buff
+[Weapon] Stormhawk Axe
+[Weapon] Stormhawk Axe - Lightning Buff
+[Weapon] Carian Retaliation
+
+
+[Weapon] Erdtree Greatshield - Bullet
+
+[Weapon] Ice Spear - Bullet - Frost
+[Weapon] Raptor of the Mists - Protection
+[Weapon] Winged Greathorn - Bullet
+
+[Weapon] Winged Scythe - No Flask
+
+[Weapon] Blasphemous Blade - HP Absorb
+
+[Weapon] Royal Greatsword
+[Weapon] Royal Greatsword - Bullet
+
+[Weapon] Jellyfish Shield
+[Weapon] Jellyfish Shield - Damage Buff
+[Weapon] Jellyfish Shield
+[Weapon] Jellyfish Shield - Damage Buff
+
+
+
+[Weapon] Tongues of Fire - FP Cost
+
+
+[Weapon] Sea of Magma - FP Cost
+[Weapon] Cursed-Blood Slice
+[Weapon] Cursed-Blood Slice - VFX
+[Weapon] Cursed-Blood Slice
+[Weapon] Cursed-Blood Slice - VFX
+
+[Weapon] Ash of War: Lifesteal Fist - Self Heal 1
+[Weapon] Ash of War: Lifesteal Fist - Self Heal 2
+
+
+[Weapon] Poison Moth Flight - VFX
+[Weapon] Poison Moth Flight - VFX
+[Weapon] Poison Moth Flight - VFX
+[Weapon] Poison Moth Flight
+[Weapon] Poison Moth Flight
+[Weapon] Poison Moth Flight
+[Weapon] Poison Moth Flight
+[Weapon] Poison Moth Flight - VFX
+[Weapon] Mohgwyn's Sacred Spear - Bullet
+[Weapon] Mohgwyn's Sacred Spear
+[Weapon] Mohgwyn's Sacred Spear - Fire Buff
+[Weapon] Mohgwyn's Sacred Spear
+[Weapon] Mohgwyn's Sacred Spear - Fire Buff
+[Weapon] Prayerful Strike
+[Weapon] Prayerful Strike
+[Weapon] Prayerful Strike
+[Weapon] Prayerful Strike
+[Weapon] Prayerful Strike
+[Weapon] Holy Ground - Defence
+[Weapon] Holy Ground - HP Regen
+[Weapon] Loretta's Slash - VFX
+[Weapon] Loretta's Slash - VFX
+[Weapon] Loretta's Slash - VFX
+[Weapon] Loretta's Slash - VFX
+[SACRED] Endure
+[SACRED] Endure No FP
+[SACRED] Endure Damage Level
+[SACRED] Endure Damage Level No FP
+[SACRED] Endure Repel
+[Weapon] Endure - Poise Buff
+[Weapon] Endure - Poise Buff - No FP
+
+Determination Removal - Right (Cycle)
+
+Determination Removal - Right
+Determination Removal - Left (Cycle)
+Determination Removal - Left
+[Weapon] Thunderbolt - VFX
+[Weapon] Thunderbolt - VFX
+[Weapon] Lightning Slash
+[Weapon] Lightning Slash - Lightning Buff
+[Weapon] Lightning Slash
+[Weapon] Lightning Slash - Lightning Buff
+[Weapon] Barbaric/Milos Roar
+[SACRED] Barbaric Roar
+[Weapon] Barbaric/Milos Roar
+[Weapon] Barbaric/Milos Roar - Damage Buff
+[Weapon] Barbaric/Milos Roar - No FP
+[Weapon] Barbaric/Milos Roar - Damage Buff - No FP
+[Weapon] Barbaric/Milos Roar - No FP
+[Weapon] Barbaric/Milos Roar - Damage Buff - No FP
+[Weapon] Determination
+[Weapon] Determination - Damage Buff
+[Weapon] Determination
+[Weapon] Determination - Damage Buff
+[Weapon] Determination - Critical Damage Debuff
+[Weapon] Determination - No FP
+[Weapon] Determination - Damage Buff - No FP
+[Weapon] Determination - No FP
+[Weapon] Determination - Damage Buff - No FP
+[Weapon] Determination - No FP - Critical Damage Debuff
+[Weapon] Royal Knight's Resolve
+[Weapon] Royal Knight's Resolve - Damage Buff
+[Weapon] Royal Knight's Resolve
+[Weapon] Royal Knight's Resolve - Damage Buff
+[Weapon] Royal Knight's Resolve - Critical Damage Debuff
+[Weapon] Royal Knight's Resolve - No FP
+[Weapon] Royal Knight's Resolve - Damage Buff - No FP
+[Weapon] Royal Knight's Resolve - No FP
+[Weapon] Royal Knight's Resolve - Damage Buff - No FP
+[Weapon] Royal Knight's Resolve - No FP - Critical Damage Debuff
+
+
+
+
+
+[Weapon] Golden Tempering
+[Weapon] Golden Tempering - Anti-Undead/Holy Buff
+[Weapon] Golden Tempering
+[Weapon] Golden Tempering - Anti-Undead/Holy Buff
+[Weapon] DMGS
+[Weapon] DMGS - Frost/Magic Buff
+[Weapon] DMGS
+[Weapon] DMGS - Frost/Magic Buff
+[Weapon] DMGS - Frost
+[Weapon] Zamor Ice Storm - VFX
+[Weapon] Zamor Ice Storm - VFX
+[Weapon] Zamor Ice Storm - VFX
+[Weapon] Zamor Ice Storm - VFX
+[Weapon] Golden Vow - Damage/Defence Buff
+[Weapon] Golden Vow - Icon
+[Weapon] Golden Great Arrow - Damage/Defence Buff
+[Weapon] Golden Great Arrow - Icon
+
+
+
+
+
+
+
+
+[Weapon] Seppuku - Self Bleed
+[Weapon] Seppuku
+[Weapon] Seppuku - Damage/Bleed Buff
+[Weapon] Seppuku - Bleed
+[Weapon] Seppuku
+[Weapon] Seppuku - Damage/Bleed Buff
+[Weapon] Seppuku - Bleed
+[Weapon] Blood Blade - Self Bleed
+[Weapon] Blood Blade - Bleed
+[Weapon] Bloody Slash - Self Bleed
+
+[Weapon] Assassin's Gambit
+[Weapon] Assassin's Gambit
+[Weapon] Assassin's Gambit
+[Weapon] Commander's Standard - Bullet
+[Weapon] Commander's Standard - Icon
+[Weapon] Commander's Standard - Icon
+[Weapon] Blood Blade - VFX
+[Weapon] Blood Blade - VFX
+[Weapon] Blood Blade - VFX
+[Weapon] Blood Blade - VFX
+[Weapon] Flaming Strike
+[Weapon] Flaming Strike - Fire Buff
+[Weapon] Flaming Strike
+[Weapon] Flaming Strike - Fire Buff
+
+
+[Weapon] Vyke's Spear - Self Madness
+[Weapon] Viper Bite - Poison
+[Weapon] Eclipse Shotel - Bullet - Blight
+[Weapon] Eclipse Shotel
+[Weapon] Eclipse Shotel - Holy/Blight Buff
+[Weapon] Eclipse Shotel
+[Weapon] Eclipse Shotel - Holy/Blight Buff
+[Weapon] Eclipse Shotel - Blight
+
+[Weapon] Hoarfrost Stomp - Frost
+[Weapon] Hoarfrost Stomp - Frost
+[Weapon] Ruinous Ghostflame
+[Weapon] Ruinous Ghostflame - Frost/Magic Buff
+[Weapon] Ruinous Ghostflame
+[Weapon] Ruinous Ghostflame - Frost/Magic Buff
+[Weapon] Ruinous Ghostflame - Frost
+[Weapon] War Cry
+[Weapon] War Cry - Damage Buff
+[Weapon] War Cry
+[Weapon] War Cry - Damage Buff
+[Weapon] War Cry - No FP
+[Weapon] War Cry - Damage Buff - No FP
+[Weapon] War Cry - No FP
+[Weapon] War Cry - Damage Buff - No FP
+[Weapon] Cragblade
+[Weapon] Cragblade - Damage/Stagger Buff
+[Weapon] Cragblade
+[Weapon] Cragblade - Damage/Stagger Buff
+[Weapon] Cragblade - No FP
+[Weapon] Cragblade - Damage/Stagger Buff - No FP
+[Weapon] Cragblade - No FP
+[Weapon] Cragblade - Damage/Stagger Buff - No FP
+[Weapon] Blood Tax - HP Absorb
+[Weapon] Blood Tax - HP Absorb
+[Weapon] Last Rites - Anti-Undead/Damage Buff - Self
+[Weapon] Last Rites - Anti-Undead/Damage Buff - Allies
+
+
+
+[Weapon] Sacred Order
+[Weapon] Sacred Order - Anti-Undead/Damage Buff
+[Weapon] Sacred Order
+[Weapon] Sacred Order - Anti-Undead/Damage Buff
+[Weapon] Sacred Order - No FP
+[Weapon] Sacred Order - Anti-Undead/Damage Buff - No FP
+[Weapon] Sacred Order - No FP
+[Weapon] Sacred Order - Anti-Undead/Damage Buff - No FP
+
+[Weapon] Oath of Vengeance - Stat Buff
+[Weapon] Oath of Vengeance - Poise
+[Weapon] Oath of Vengeance - Poise - No FP
+[Weapon] Sword of Milos - Bullet
+[Weapon] Sword of Milos - Bullet
+[Weapon] Starscourge Greatsword - Poise
+[Weapon] Braggart's Roar
+[Weapon] Braggart's Roar - Damage/Defence/Stamina Buff
+[Weapon] Braggart's Roar
+[Weapon] Braggart's Roar - Damage/Defence/Stamina Buff
+[Weapon] Braggart's Roar - Icon
+[Weapon] Braggart's Roar - No FP
+[Weapon] Braggart's Roar - Damage/Defence/Stamina Buff - No FP
+[Weapon] Braggart's Roar - No FP
+[Weapon] Braggart's Roar - Damage/Defence/Stamina Buff - No FP
+[Weapon] Braggart's Roar - Icon - No FP
+[Weapon] Shared Order - Anti-Undead/Damage Buff - Self
+[Weapon] Shared Order - Anti-Undead/Damage Buff
+
+
+
+
+[Weapon] Sword of St. Trina
+[Weapon] Sword of St. Trina - Sleep Buff
+[Weapon] Sword of St. Trina
+[Weapon] Sword of St. Trina - Sleep Buff
+[Weapon] Sword of St. Trina - Sleep
+[Weapon] Sword of St. Trina - Bullet - Sleep
+[Weapon] Ice Lightning Sword
+[Weapon] Ice Lightning Sword - Frost/Lightning Buff
+[Weapon] Ice Lightning Sword
+[Weapon] Ice Lightning Sword - Frost/Lightning Buff
+[Weapon] Ice Lightning Sword - Frost
+[Weapon] Devourer's Scepter - Bullet
+[Weapon] Scepter of the All-Knowing - Bullet
+
+
+
+
+
+
+
+
+
+
+[Weapon] Carian Regal Scepter - Boost Damage
+[Weapon] Carian Glintstone Staff - Boost Damage
+[Weapon] Carian Glintblade Staff - Boost Damage
+[Weapon] Digger's Staff - Boost Damage
+[Weapon] Crystal Staff - Boost Damage
+
+
+[Weapon] Gelmir Glintstone Staff - Boost Damage
+[Weapon] Staff of the Guilty - Boost Damage
+[Weapon] Prince of Death's Staff - Boost Damage
+[Weapon] Meteorite Staff - Boost Damage
+[Weapon] Staff of Loss - Boost Damage
+[Weapon] Godslayer's Seal - Boost Damage
+[Weapon] Giant's Seal - Boost Damage
+[Weapon] Gravel Stone Seal - Boost Damage
+[Weapon] Clawmark Seal - Boost Damage
+[Weapon] Golden Order Seal - Boost Damage
+[Weapon] Dragon Communion Seal - Boost Damage
+[Weapon] Frenzied Flame Seal - Boost Damage
+
+
+
+
+[Weapon] Azur's Glintstone Staff - Effect
+[Weapon] Lusat's Glintstone Staff - Effect
+
+
+[Weapon] Lion Greatbow
+[Weapon] Serpent Bow
+[Weapon] Serpent Bow (On Attack)
+[Weapon] Arrow - Anti-Undead Effect
+Twinsage Crown Glow
+
+Olivinius Crown Glow
+
+Lazuli Crown Glow
+
+Karolos Crown Glow
+
+Witch's Crown Glow
+
+[SACRED] Mohg Bleed Buff on Bleed [Attack]
+[SACRED] Mohg Bleed Buff VFX
+[SACRED] Malenia Consecutive Hits (Triggered by Accumulator)
+[SACRED] Malenia Consecutive Hits (Triggered by Accumulator)
+[SACRED] Malenia Consecutive Hits (Triggered by Accumulator)
+[SACRED] Malenia Consecutive Hits (Triggered by Accumulator)
+[SACRED] Malenia Consecutive Hits - Boost - Stage 1
+[SACRED] Malenia Consecutive Hits - Boost - Stage 2
+[SACRED] Malenia Consecutive Hits - Boost - Stage 3
+[SACRED] Malenia Consecutive Hits - Boost - Stage 4
+[Item] Full Heal
+
+[Item] Stanching Boluses
+[Item] Stanching Boluses - Remove Hemorrhage (Chained)
+
+[Item] Stimulating Boluses
+[Item] Stimulating Boluses - Remove Sleep (Chained)
+[Item] Neutralizing Boluses
+[Item] Neutralizing Boluses - Remove Poison (Chained)
+[Item] Clarifying Boluses
+[Item] Clarifying Boluses - Remove Madness (Chained)
+[Item] Preserving Boluses
+[Item] Preserving Boluses - Remove Scarlet Rot (Chained)
+
+
+[Item] Rejuvenating Boluses - Remove Blight
+[Item] Rejuvenating Boluses (Chained)
+[Item] Thawfrost Boluses
+[Item] Thawfrost Boluses - Remove Frostbite (Chained)
+
+[Item] Kukri
+[Item] Fetid Pot
+
+[Item] Swarm of Flies - Hemorrhage (Cycled)
+[Item] Swarm of Flies - Hemorrhage
+
+
+
+
+[Item] Freezing Grease - Right
+[Item] Freezing Grease - Right (On Attack)
+[Item] Drawstring Freezing Grease - Right
+[Item] Drawstring Freezing Grease - Right (On Attack)
+[Item] Freezing Grease - Left
+[Item] Freezing Grease - Left (On Attack)
+[Item] Drawstring Freezing Grease - Left
+[Item] Drawstring Freezing Grease - Left (On Attack)
+[Item] Soporific Grease - Right
+[Item] Soporific Grease - Right (On Attack)
+[Item] Drawstring Soporific Grease - Right
+[Item] Drawstring Soporific Grease - Right (On Attack)
+[Item] Soporific Grease - Left
+[Item] Soporific Grease - Left (On Attack)
+[Item] Drawstring Soporific Grease - Left
+[Item] Drawstring Soporific Grease - Left (On Attack)
+[Item] Fire Grease - Right
+[Item] Drawstring Fire Grease - Right
+[Item] Fire Grease - Left
+[Item] Drawstring Fire Grease - Left
+[Item] Lightning Grease - Right
+[Item] Drawstring Lightning Grease - Right
+[Item] Lightning Grease - Left
+[Item] Drawstring Lightning Grease - Left
+[Item] Magic Grease - Right
+[Item] Drawstring Magic Grease - Right
+[Item] Magic Grease - Left
+[Item] Drawstring Magic Grease - Left
+[Item] Poison Grease - Right
+[Item] Poison Grease - Right (On Attack)
+[Item] Drawstring Poison Grease - Right
+[Item] Drawstring Poison Grease - Right (On Attack)
+[Item] Poison Grease - Left
+[Item] Poison Grease - Left (On Attack)
+[Item] Drawstring Poison Grease - Left
+[Item] Drawstring Poison Grease - Left (On Attack)
+[Item] Holy Grease - Right
+[Item] Drawstring Holy Grease - Right
+[Item] Holy Grease - Left
+[Item] Drawstring Holy Grease - Left
+[Item] Blood Grease - Right
+[Item] Blood Grease - Right (On Attack)
+[Item] Drawstring Blood Grease - Right
+[Item] Drawstring Blood Grease - Right (On Attack)
+[Item] Blood Grease - Left
+[Item] Blood Grease - Left (On Attack)
+[Item] Drawstring Blood Grease - Left
+[Item] Drawstring Blood Grease - Left (On Attack)
+[Item] Holy Water Pot
+
+
+
+
+
+
+
+
+
+
+[Item] Telescope
+[Item] Lantern - Right
+[Item] Lantern - Left
+
+[Item] Dragonwound Grease - Right
+[Item] Dragonwound Grease - Left
+[Item] Golden Rune [1]
+[Item] Golden Rune [2]
+[Item] Golden Rune [3]
+[Item] Golden Rune [4]
+[Item] Golden Rune [5]
+[Item] Golden Rune [6]
+[Item] Golden Rune [7]
+[Item] Golden Rune [8]
+[Item] Golden Rune [9]
+[Item] Golden Rune [10]
+[Item] Golden Rune [11]
+[Item] Golden Rune [12]
+[Item] Golden Rune [13]
+[SACRED] Numen's Rune
+[Item] Hero's Rune [1]
+[Item] Hero's Rune [2]
+[Item] Hero's Rune [3]
+[Item] Hero's Rune [4]
+[Item] Hero's Rune [5]
+[Item] Lord's Rune
+
+
+
+
+[Item] Rot Grease - Right
+[Item] Rot Grease - Right (On Attack)
+[Item] Drawstring Rot Grease - Right
+[Item] Drawstring Rot Grease - Right (On Attack)
+[Item] Rot Grease - Left
+[Item] Rot Grease - Left (On Attack)
+[Item] Drawstring Rot Grease - Left
+[Item] Drawstring Rot Grease - Left (On Attack)
+
+
+[Item] Warming Stone
+
+
+[Item] Holy Water Grease - Right
+[Item] Holy Water Grease - Left
+[Item] Cursed-Blood Pot
+[Item] Cursed-Blood Pot - PLAN_SP_EFFECT_BUDDY_AGGRESSIVE
+[Item] Cursed-Blood Pot
+[Item] Cursed-Blood Pot
+[SACRED] Rune Arc
+[SACRED] Quick Buff Detector
+[Tear] Crimsonspill Crystal Tear
+[Tear] Greenspill Crystal Tear
+[Tear] Crimson Crystal Tear
+[Tear] Cerulean Crystal Tear
+[SACRED] Opaline Bubbletear
+[Tear] Opaline Bubbletear
+[SACRED] Hard Landing Bubble Pop
+[SACRED] Hard Landing Bubble Pop
+[Tear] Crimson Bubbletear
+[Tear] Crimson Bubbletear (Chained)
+[Tear] Strength-knot Crystal Tear
+[Tear] Dexterity-knot Crystal Tear
+[Tear] Intelligence-knot Crystal Tear
+[Tear] Faith-knot Crystal Tear
+[Tear] Leaden Hardtear
+
+
+[Tear] Thorny Cracked Tear
+[Tear] Thorny Cracked Tear (Cycled)
+[Tear] Thorny Cracked Tear (Cycled)
+[Tear] Thorny Cracked Tear (Cycled)
+[Tear] Thorny Cracked Tear (Chained)
+[Tear] Thorny Cracked Tear (Chained)
+[Tear] Thorny Cracked Tear (Chained)
+[Tear] Thorny Cracked Tear (Chained)
+[Tear] Thorny Cracked Tear (Triggered on State Info)
+[Tear] Thorny Cracked Tear (Triggered on State Info)
+[Tear] Thorny Cracked Tear (Triggered on State Info)
+[Tear] Thorny Cracked Tear (Triggered on State Info)
+[Tear] Crimsonwhorl Bubbletear
+[Tear] Crimsonwhorl Bubbletear (Chained)
+[Tear] Crimsonwhorl Bubbletear (Chained)
+[Tear] Crimsonwhorl Bubbletear (Cycled)
+[Tear] Crimsonwhorl Bubbletear (Chained)
+
+
+
+[Tear] Lucent Baldachin's Blessing
+
+
+[Tear] Speckled Hardtear
+[Tear] Speckled Hardtear (Cycled)
+[Tear] Speckled Hardtear (Chained)
+[Tear] Speckled Hardtear (Chained)
+[Tear] Speckled Hardtear (Chained)
+[Tear] Speckled Hardtear (Chained)
+[Tear] Speckled Hardtear (Chained)
+[Tear] Speckled Hardtear (Chained)
+[Tear] Speckled Hardtear (Chained)
+[Tear] Speckled Hardtear - Remove Hemorrhage (Cycled)
+[Tear] Speckled Hardtear - Remove Sleep (Cycled)
+[Tear] Speckled Hardtear - Remove Poison (Cycled)
+[Tear] Speckled Hardtear - Remove Madness (Cycled)
+[Tear] Speckled Hardtear - Remove Scarlet Rot (Cycled)
+[Tear] Speckled Hardtear - Remove Frostbite (Cycled)
+[Tear] Speckled Hardtear - Remove Blight (Cycled)
+
+
+
+[Item] Remembrance of the Grafted
+[Item] Remembrance of the Starscourge
+[Item] Remembrance of the Omen King
+[Item] Remembrance of the Blasphemous
+[Item] Remembrance of the Rot Goddess
+[Item] Remembrance of the Blood Lord
+[Item] Remembrance of the Black Blade
+[Item] Remembrance of Hoarah Loux
+[Item] Remembrance of the Dragonlord
+[Item] Remembrance of the Full Moon Queen
+[Item] Remembrance of the Lichdragon
+[Item] Remembrance of the Fire Giant
+[Item] Remembrance of the Regal Ancestor
+[Item] Elden Remembrance
+[Item] Remembrance of the Naturalborn
+
+
+
+[Item] Spellproof Dried Liver
+[Item] Fireproof Dried Liver
+[Item] Lightningproof Dried Liver
+[Item] Holyproof Dried Liver
+[Item] Exalted Flesh
+[Item] Pickled Turtle Neck
+[Item] Immunizing Cured Meat
+[Item] Invigorating Cured Meat
+[Item] Clarifying Cured Meat
+[Item] Dappled Cured Meat
+[Item] Silver-Pickled Fowl Foot
+[Item] Gold-Pickled Fowl Foot
+Poison Swamp
+Poison Swamp
+Poison Swamp
+Poison Swamp
+Wetting Debuff
+
+
+
+
+
+
+
+
+
+Lava
+Scarlet Rot Swamp
+Scarlet Rot Swamp
+Scarlet Rot Swamp
+Scarlet Rot Swamp
+Lake of Rot
+Lake of Rot
+
+
+
+
+Forced Slow Walk/Jump (Excl. Dodge)
+Forced Slow Walk/Jump
+
+
+
+
+
+
+
+
+
+Golden Leaves Weather (Bonus Runes)
+
+
+
+
+
+
+
+
+
+
+
+Disable Grace Warp
+Disable Grace Warp
+Disable Grace Warp
+
+
+Disable Grace Warp
+
+Disable Grace Warp (Trap)
+
+Disable Grace Warp
+
+
+
+Enemy: Fade After Death
+Enemy: Fade After Death (Boss)
+Enemy: Fade After Death (Blue)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLAN_SP_EFFECT_SPIRIT_CANDLE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wet (Rain)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLAN_SP_EFFECT_HORSE_RIDE
+
+PLAN_SP_EFFECT_FACILITY_RIDE
+
+
+
+PLAN_SP_EFFECT_PATROL_ANIME
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLAN_SP_EFFECT_NATURAL_SLEEP
+PLAN_SP_EFFECT_NATURAL_SLEEP_MORNING
+PLAN_SP_EFFECT_NATURAL_SLEEP_DAYTIME
+PLAN_SP_EFFECT_NATURAL_SLEEP_GUARD
+
+PLAN_SP_EFFECT_INITIAL_STANDBY
+PLAN_SP_EFFECT_RETURN_INITIAL_STANDBY
+PLAN_SP_EFFECT_RETURN_INITIAL_STANDBY_WITHANIM
+
+
+
+
+
+
+
+
+
+
+
+PLAN_SP_EFFECT_ANIME_SLEEPING
+PLAN_SP_EFFECT_ANIME_COLLECTSLEEPING
+
+
+PLAN_SP_EFFECT_BEAST_REPELLENT_UNDAMAGED
+
+
+
+
+
+
+
+
+
+
+PLAN_SP_EFFECT_DETECT_ANIM_COOLTIME
+PLAN_SP_EFFECT_FINDSHOOT_STEP_ON_FAILED_PATHGOAL
+
+
+
+
+
+
+
+
+PLAN_SP_EFFECT_BARISTA_RIDE
+PLAN_SP_EFFECT_L_BARISTA_RIDE
+PLAN_SP_EFFECT_FLAMETHROWER_RIDE
+
+
+Enemy: Golden Eyes (Bonus Runes)
+
+
+
+Enemy: Golden Eyes Failed (No Reroll)
+
+Enemy: Golden Eyes Chance (0.5%)
+Enemy: Golden Eyes Chance (1%)
+Enemy: Golden Eyes Chance (2%)
+Enemy: Golden Eyes Chance (3%)
+Enemy: Golden Eyes Chance (5%)
+Enemy: Golden Eyes Chance (10%)
+Enemy: Golden Eyes Chance (30%)
+Enemy: Golden Eyes Chance (50%)
+Enemy: Golden Eyes Chance (Guaranteed)
+
+
+
+No Stag
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+No Small Stag
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+NPC: Damage Level Override
+No Stag
+Light Stag 4 XL Hits + Light 4 Large
+Med Stag 4 XL Hits
+Med Stag 4 XL Hits + Light 4 Large
+Light Stag 4 XL Hits
+X Stag
+Resist Stag
+Heavy Stag 4 XL Hits + Heavy 4 Large
+Same Stag 4 XL Hits
+Heavy Stag 4 XL Hits + Med 4 Large
+No Stag [Armor]
+Light Stag 4 XL Hits + Light 4 Large [Armor]
+Med Stag 4 XL Hits [Armor]
+Med Stag 4 XL Hits + Light 4 Large [Armor]
+Light Stag 4 XL Hits [Armor]
+
+Animation Offset +1m - Generic
+Animation Offset +2m - Generic
+Animation Offset +3m - Generic
+Animation Offset +4m - Generic
+Animation Offset +5m - Generic
+Animation Offset +3m - Unknown
+
+Animation Offset +3m - Unknown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NPC: Infinite FP
+NPC: Faster Stamina Recovery
+
+Sword Arts Dodge Unk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damaged by Healing Incantations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Undead Enemy
+Undead Enemy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enemy - Pushed by Rolls
+
+
+
+
+
+
+
+
+
+Enemy - Ignores Roll Push
+Enemy - Parry Resistance +1 (2 parries before riposte)
+Enemy - Parry Resistance +2 (3 parries before riposte)
+Enemy - Parry Resistance +3 (4 parries before riposte)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toughness Unk - Damage Level Small
+Toughness 1 (Small/Min)
+Toughness 2 (Medium/Push)
+Toughness 3 (Large)
+Toughness 4 (All)
+Toughness 5 (All)
+
+
+
+
+
+Hemorrhage - Type 1 - Special 1
+Hemorrhage - Type 1 - Special 2
+Hemorrhage - Type 1 - Special 3
+Hemorrhage - Type 1 - Special 4
+Hemorrhage - Type 1 - Special 5
+Hemorrhage - Type 1 - Special 6
+Hemorrhage - Type 1 - Special 7
+Hemorrhage - Type 2 - Special 1
+Hemorrhage - Type 2 - Special 2
+Hemorrhage - Type 2 - Special 3
+Hemorrhage - Type 2 - Special 4
+Hemorrhage - Type 2 - Special 5
+Hemorrhage - Type 2 - Special 6
+Sleep - Type 1 - Special 1
+Sleep - Type 1 - Special 2
+Sleep - Type 1 - Special 3
+Sleep - Type 1 - Special 4
+Sleep - Type 1 - Special 5
+Sleep - Type 1 - Special 6
+Sleep - Type 1 - Special 7
+Sleep - Type 2 - Special 1
+Poison - Type 1 - Special 1
+Poison - Type 1 - Special 2
+Poison - Type 1 - Special 3
+Poison - Type 1 - Special 4
+Poison - Type 1 - Special 5
+Poison - Type 1 - Special 6
+Poison - Type 2 - Special 1
+Poison - Type 2 - Special 2
+Poison - Type 2 - Special 3
+Poison - Type 2 - Special 4
+Poison - Type 2 - Special 5
+Poison - Type 2 - Special 6
+Scarlet Rot - Type 1 - Special 1
+Scarlet Rot - Type 1 - Special 2
+Scarlet Rot - Type 1 - Special 3
+Scarlet Rot - Type 1 - Special 4
+Scarlet Rot - Type 1 - Special 5
+Scarlet Rot - Type 1 - Special 6
+Frostbite - Type 1 - Special 1
+Frostbite - Type 1 - Special 2
+Frostbite - Type 1 - Special 3
+Frostbite - Type 1 - Special 4
+Frostbite - Type 1 - Special 5
+Frostbite - Type 1 - Special 6
+Madness - Type 1 - Special 1
+Madness - Type 1 - Special 2
+Madness - Type 1 - Special 3
+Madness - Type 1 - Special 4
+Madness - Type 1 - Special 5
+Madness - Type 1 - Special 6
+Blight - Type 1 - Special 1
+Blight - Type 1 - Special 2
+Blight - Type 1 - Special 3
+Blight - Type 1 - Special 4
+Blight - Type 1 - Special 5
+Blight - Type 1 - Special 6
+
+
+Black Knife - Bullet
+Destined Death - (DoT Main)
+
+Destined Death - (Max HP Debuff)
+
+Destined Death - (Max HP Debuff)
+Accumulator Increase +2
+Accumulator Increase +4
+Accumulator Increase +6
+Accumulator Increase +8
+Accumulator Increase +10
+Accumulator Increase +12
+Accumulator Increase +14
+Accumulator Increase +16
+Accumulator Increase +18
+Accumulator Increase +20
+Enemy - Crystal Dart Confusion
+Enemy - Crystal Dart Confusion - Visual
+Enemy - Crystal Dart Confusion - Border A
+Enemy - Crystal Dart Confusion - Border B
+Enemy - Crystal Dart Confusion - Border C
+Enemy - Crystal Dart Confusion - Point A
+Enemy - Crystal Dart Confusion - Point B
+Enemy - Crystal Dart Confusion - Point C
+
+
+PLAN_SP_EFFECT_TRUNK_COLLAPSE
+
+
+
+
+
+
+
+Area Scaling - Tier 01 (Stranded Graveyard)
+Area Scaling - Tier 02 (Limgrave)
+Area Scaling - Tier 03 (Weeping Peninsula)
+Area Scaling - Tier 04 (Stormveil Castle)
+Area Scaling - Tier 05 (Misc. Limgrave)
+Area Scaling - Tier 06 (Ainsel River)
+Area Scaling - Tier 07 (Liurnia / Caria Manor / Academy)
+Area Scaling - Tier 08 (Caelid)
+Area Scaling - Tier 09 (Altus Plateau)
+Area Scaling - Tier 10 (Mt. Gelmir / Capital Outskirts / Nokron)
+Area Scaling - Tier 11 (Leyndell / SE Caelid)
+Area Scaling - Tier 12 (Volcano Manor / Deeproot Depths / Nokstella)
+Area Scaling - Tier 13 (Mountaintops)
+Area Scaling - Tier 14 (Moonlight Altar / Leyndell Sewers)
+Area Scaling - Tier 15 (Farum Azula)
+Area Scaling - Tier 16 (Dragonbarrow / Ashen Capital)
+Area Scaling - Tier 17 (Consecrated Snowfield)
+Area Scaling - Tier 18 (Mohgwyn Palace)
+Area Scaling - Tier 19 (Haligtree Roots)
+Area Scaling - Tier 20 (Elphael)
+Area Scaling - Tier 21 (Malenia)
+Area Scaling - (Unused)
+Area Scaling - (Unused)
+Area Scaling - (Unused)
+Area Scaling - (Unused)
+Area Scaling - (Unused)
+Area Scaling - (Unused)
+Area Scaling - (Unused)
+Area Scaling - (Unused)
+[SACRED] Base Modifier
+[SACRED] Elite Modifier
+[SACRED] Boss Modifier
+[SACRED] Nightmare Modifier
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+NG+ Scaling -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[HKS] Is Stealth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLAN_SP_EFFECT_STRAGGLER_DEACT
+PLAN_SP_EFFECT_STRAGGLER_ACT
+PLAN_SP_EFFECT_STRAGGLER_ACT_HOSTILE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spirit Summon Active
+
+
+
+
+
+
+
+Spirit Summon Disappeared
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disallow Hostile Actions
+
+
+
+
+
+
+
+
+Lipsync
+Lipsync (Subtle)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+Animation Offset - Unk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exile Soldier - Bullet
+Dog - Bullet
+Demi-human - Bullet
+Wandering Noble - Bullet
+
+Castle Foot Soldier - Bullet
+Fallen Hawks Soldier - Bullet
+
+Man-Serpent - Bullet
+
+Dominula Celebrant - Bullet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dragon-faced Flamethrower - Bullet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fallen Hawks Soldier - Bullet
+Fallen Hawks Soldier - Bullet (Chained)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLAN_SP_EFFECT_BUDDY_AGGRESSIVE_DEMIHUMAN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mohg Phase 2 - Animation Offset +1m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[HKS] Unk Event 6001 Event Action Not Possible
+
+
+
+
+
+Mohg - Bullet
+Mohg - Bullet (Cycled)
+
+
+Animation Offset +1m - Unknown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Warhawk - Bullet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tarnished's Furled Finger
+
+
+
+
+Duelist's Furled Finger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Commander Phase 2 - Animation Offset +1m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Commander - Glory Attack
+Commander - Glory Defend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Animation Offset +1m - Unknown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nox Swordstress
+
+
+
+Nox Swordstress/Silver Tear - Bullet
+
+
+
+
+
+
+
+
+Animation Offset +1m - Unknown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rykard Phase 2/3 - Animation Offset +1m
+Rykard Phase 2/3 - Animation Offset +1m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+God Devouring Serpent / Rykard Lord of Blasphemy - Bullet
+
+
+
+Vulgar Militia - Bullet
+
+
+
+
+
+
+
+
+Large Fingercreeper - Bullet
+
+
+
+
+
+
+
+
+
+
+
+Giant Fingercreeper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Godfrey/Hoarah Loux Phase 2 - VFX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wolf - Bullet
+
+
+
+
+Wolf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Castle Soldier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alabaster Lord - Bullet
+Alabaster Lord - Bullet
+
+
+
+Ancestral Follower - Bullet
+Ancestral Follower - Bullet
+
+Ancestral Follower Shaman - Bullet
+
+
+
+
+
+
+
+Ancestral Follower
+
+
+
+
+
+Ancestral Follower - Winged Greathorn
+
+
+
+
+
+
+
+Ancestral Follower - HP Restore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mad Pumpkin Head/Mad Pumpkin Head (Thin) - Bullet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Castle Soldier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Putrid Corpse - Explosion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ancestor Spirit - Drain Attack
+
+
+
+
+
+
+
+
+
+
+
+
+Ancestor Spirit Phase 2 - Animation Offset +1m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tree Sentinel - Sacred Vow Self
+
+Tree Sentinel - Sacred Vow Ally
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cleanrot Knight - Bullet - Buff
+Cleanrot Knight - Bullet - Buff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Giant Crow - Bullet
+
+
+
+
+
+
+
+
+Giant Dog - Bullet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Rennala]
+[Rennala]
+[Rennala]
+[Rennala]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Juvenile Scholar - Main Target
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Depraved Perfumer - Shield Bullet
+Depraved Perfumer - Bullet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Depraved Perfumer
+
+
+
+Depraved Perfumer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blaidd the Half-Wolf - Bullet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rennala - Bullet
+
+
+
+
+
+
+
+
+
+
+
+Rennala 2 - Bullet Magic DEF Down
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ancient Dragon - Lich Close Trigger Shock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tibia Mariner - Bullet
+Tibia Mariner - Bullet (Chained)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Godskin Apostle - Sleep Awake
+
+
+
+
+
+
+
+
+
+
+
+Godskin Apostle - Lifedrain
+
+
+
+
+
+
+
+
+
+
+
+
+Godskin Noble
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Morgott Phase 2 - Animation Offset +1m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spirit Summon - Fade In
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Elemer of the Briar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fallingstar Beast - Ground AoE Alert
+
+
+
+Fallingstar Beast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Omen Phase 2 - Animation Offset +1m
+Omen Phase 2 - Animation Offset +1m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Imp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Gargoyles) ???
+(Gargoyles) Cancel Opportunity to 3001/ 3011
+(Gargoyles) Cancel Opportunity to 3009
+(Gargoyles) Evading Backwards - Don't Take Certain Actions
+(Gargoyles) Cancel Opportunity to 3010
+(Gargoyles) Cancel Opportunity to 3003/ 3013
+
+
+(Gargoyles) Cancel Opportunity to 3019/ 3027
+(Gargoyles) Cancel Opportunity to 3019/ 3021/ 3022/ 3026/ 3027/ 3033
+(Gargoyles) Cancel Opportunity to 3017/ 3024/ 3028
+(Gargoyles) Cancel Opportunity to 3021/ 3022/ 3027/ 3031/ 3033
+
+(Gargoyles) Cancel Opportunity to 3024/ 3028
+
+(Gargoyles) ???
+(Gargoyles) Cancel Opportunity to 3029/ 3034
+(Gargoyles) Cancel Opportunity to 3025/ 3029
+(Gargoyles) Cancel Opportunity to 3016/ 3024
+(Gargoyles) Cancel Opportunity to 3030
+(Gargoyles) Cancel Opportunity to 3018/ 3019/ 3027
+
+(Gargoyles) Currently Walking
+(Gargoyles) ???
+
+(Gargoyles) Accumulator 1 - Base
+(Gargoyles) Accumulator 1 - [Trigger] Enemy LUA AI Probabilities Change
+(Gargoyles) Accumulator 1 - Reset
+(Gargoyles) Accumulator 1 - On Attack +10
+(Gargoyles) Accumulator 1 - Battle Movement +10
+(Gargoyles) Evading Sideways - Don't Take Certain Actions
+(Gargoyles) ???
+
+(Gargoyles) Greatsword Attack Set
+(Gargoyles) Halberd Attack Set
+(Gargoyles) Greataxe Attack Set
+(Gargoyles) Twinblade Attack Set
+(Gargoyles) Ruined Attack Set
+(Gargoyles) Can Use Poison Breath
+(Gargoyles) Black Blade Kindred
+(Gargoyles) Less Aggressive Battle State
+(Gargoyles) Less Aggressive Battle State
+
+
+
+
+
+
+Death Rite Bird - Bullet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Malenia: HP Recovery on ?
+Malenia: HP Recovery on ?
+Malenia: HP Recovery on ?
+Malenia: HP Recovery on ?
+Malenia: HP Recovery on Phase Change
+Malenia: HP Recovery on ?
+Malenia: HP Recovery on Hit
+Malenia: HP Recovery on Hit
+Malenia: HP Recovery on Hit
+Malenia: HP Recovery on Hit
+Malenia: HP Recovery on Hit
+Malenia: HP Recovery on Hit
+Malenia: HP Recovery on Hit
+Malenia: HP Recovery on Grab
+Malenia: HP Recovery on Hit
+Malenia: HP Recovery on ?
+
+
+
+
+
+
+
+
+
+
+Malenia: Rot 180
+Malenia: Rot 90
+Malenia: Rot 120
+Malenia: Rot 60
+
+
+
+
+
+
+
+
+
+Malenia - Bullet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Weapon] Grafted Dragon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unknown FFX
+
+
+
+
+
+
+
+
+
+
+
+
+Melina - HP Recovery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+[SACRED] Human-NPC Area Scaling:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+Human-NPC NG+ Scaling:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Miquella's Great Rune
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Weapon] Euporia
+[Weapon] Euporia
+[Weapon] Euporia (Triggered by Accumulator)
+[Weapon] Euporia (Triggered by Accumulator)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Sorcery] Miriam's Vanishing
+[Item] Rock Heart
+[Item] Priestess Heart
+
+
+[Talisman] Verdigris Discus
+
+
+[Talisman] Sharpshot Talisman
+
+Forced Torrent Dismount (Abyssal Woods)
+Remove Forced Torrent Dismount (Abyssal Woods)
+
+
+
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison
+NPC: Fast Poison - Affect Self
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Scarlet Rot
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Hemorrhage
+NPC: Maggots - Hemorrhage
+NPC: Maggots - Hemorrhage
+NPC: Maggots - Hemorrhage
+NPC: Maggots - Hemorrhage
+NPC: Maggots - Hemorrhage
+NPC: Maggots - Hemorrhage
+NPC: Maggots - Hemorrhage
+NPC: Maggots - Hemorrhage
+NPC: Maggots - Hemorrhage
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Blight
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Frostbite
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Sleep
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: Madness
+NPC: HP Burn on Hit (DoT Black Flame)
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit (DoT Small Destined)
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit (DoT Destined)
+NPC: Max HP Reduction on Hit (Small)
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: HP Burn on Hit
+NPC: Max HP Reduction on Hit
+NPC: Max HP Reduction on Hit
+NPC: Cure Poison
+NPC: Cure Scarlet Rot
+NPC: Cure Hemorrhage
+NPC: Cure Blight
+NPC: Cure Frostbite
+NPC: Cure Sleep
+NPC: Cure Madness
+NPC: Cure All Status
+NPC: Disable Poison
+NPC: Disable Scarlet Rot
+NPC: Disable Hemorrhage
+NPC: Disable Blight
+NPC: Disable Frostbite
+NPC: Disable Madness
+
+NPC: Ignore Fake Targets - All
+NPC: Ignore Fake Targets - Normal
+NPC: Ignore Fake Targets - Undead
+NPC: Ignore Fake Targets - Animal
+Unk71 - 2
+Unk71 - 4
+NPC: Ignore Fake Targets - Normal and Undead
+NPC: Ignore Fake Targets - Animal
+NPC: Ignore Fake Targets - Undead and Animal
+NPC: Enable Charm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Animation Offset +1m - Unknown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Animation Offset +1m - Unknown
+
+
+
+
+
+
+
+
+
+
+
+[HKS] Slow Walk
+[HKS] Walking
+[HKS] Dashing
+
+
+
+
+[HKS] Out of Stamina
+
+
+[HKS] Sword Arts - One Shot Combo End
+[HKS] Sword Arts - One Shot Combo End
+[HKS] Sword Arts - Combo Window 1
+[HKS] Sword Arts - Combo Window 2
+[HKS] Sword Arts - One Shot Combo End
+[HKS] Sword Arts - One Shot Combo End 2
+
+
+
+
+
+
+
+[HKS] Stance - SetMoveType 1
+[HKS] Stance - SetMoveType 2
+[HKS] Stance - SetMoveType 0
+[HKS] Stance - SetMoveType 3
+[HKS] Unk Lock On Angle
+
+
+[HKS] Gesture Animation
+
+[HKS] Unk Dash
+
+
+[HKS] Draw Stance Heavy Combo
+
+
+[HKS] Is Charging Heavy Attack
+[HKS] Sword Arts - Unk Shield Charge
+[HKS] Sword Arts - Unk Shield Charge Cancel
+[HKS] Unk Attack Right Special
+
+[HKS] Unk Dash
+
+
+[HKS] Unk Rolling
+
+[HKS] Guard On
+
+[HKS] Sword Arts - Raptor Dodge
+[HKS] Sword Arts - Unk Charge or Right 90 Attack
+[HKS] Sword Arts - 180 Attack
+[HKS] Magic - Right Combo Window 1
+[HKS] Magic - Right Combo Window 2
+[HKS] Magic - Left Combo Window 1
+[HKS] Magic - Left Combo Window 2
+[HKS] Magic - Is Firing
+[HKS] Hand Style - Right Hand
+[HKS] Hand Style - Left Hand
+[HKS] Throw Unk
+[HKS] Unk Toughness Increase
+
+[HKS] Sword Arts - Loop
+[HKS] Sword Arts - Loop
+
+Resting at Grace
+[HKS] Sword Arts - Half Loop
+[HKS] Sword Arts Rolling Self Trans
+[HKS] Rolling Damage Count Unk
+[HKS] Cannot Weapon Change
+[HKS] Item Combo Window
+
+[HKS] Torrent - Unk Can Dash
+[HKS] Torrent - Is Jumping
+[HKS] Torrent - Is Galloping
+
+
+
+
+
+
+
+
+
+
+[SACRED] Deflecting Hardtear
+[Tear] Deflecting Hardtear
+[Tear] Deflecting Hardtear
+[Tear] Deflecting Hardtear
+[Tear] Deflecting Hardtear
+[Tear] Deflecting Hardtear
+[Tear] Deflecting Hardtear
+[SACRED] Deflecting Hardtear
+[SACRED] Deflecting Hardtear
+[SACRED] Deflecting Hardtear
+[SACRED] Deflecting Hardtear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[SACRED] Perfect Block 2H Guard Stamina Multiplier
+[SACRED] Sovereign Fury Perfect Block 1
+[SACRED] Sovereign Fury Perfect Block 2
+[SACRED] Sovereign Fury Perfect Block 3
+[SACRED] Sovereign Fury Perfect Block 4
+[SACRED] Sovereign Fury Perfect Block 2H 1
+[SACRED] Sovereign Fury Perfect Block 2H 2
+[SACRED] Sovereign Fury Perfect Block 2H 3
+[SACRED] Sovereign Fury Perfect Block 2H 4
+[SACRED] Divinity Perfect Block
+[SACRED] Divinity Perfect Block 2H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Item] Eternal Sleep Grease - Right
+[Item] Eternal Sleep Grease - Right (On Attack)
+[Item] Drawstring Eternal Sleep Grease - Right
+[Item] Drawstring Eternal Sleep Grease - Right (On Attack)
+[Item] Eternal Sleep Grease - Left
+[Item] Eternal Sleep Grease - Left (On Attack)
+[Item] Drawstring Eternal Sleep Grease - Left
+[Item] Drawstring Eternal Sleep Grease - Left (On Attack)
+
+
+
+
+
+
+
+
+
+[Item] Thiollier's Concoction
+[Item] Thiollier's Concoction (Chained)
+
+
+[Tear] Viridian Hidden Tear
+[Tear] Viridian Hidden Tear
+[Tear] Viridian Hidden Tear
+[Tear] Viridian Hidden Tear
+[Tear] Viridian Hidden Tear
+[Tear] Viridian Hidden Tear
+[Tear] Viridian Hidden Tear
+[Tear] Viridian Hidden Tear
+[Tear] Viridian Hidden Tear
+[Tear] Viridian Hidden Tear
+
+
+
+
+Hemorrhage - Low - Addition +0
+Hemorrhage - Low - Addition +1
+Hemorrhage - Low - Addition +2
+Hemorrhage - Low - Addition +3
+Hemorrhage - Low - Addition +4
+Hemorrhage - Low - Addition +5
+Hemorrhage - Low - Addition +6
+Hemorrhage - Low - Addition +7
+Hemorrhage - Low - Addition +8
+Hemorrhage - Low - Addition +9
+Hemorrhage - Low - Addition +10
+Hemorrhage - Low - Addition +11
+Hemorrhage - Low - Addition +12
+Hemorrhage - Low - Addition +13
+Hemorrhage - Low - Addition +14
+Hemorrhage - Low - Addition +15
+Hemorrhage - Low - Addition +16
+Hemorrhage - Low - Addition +17
+Hemorrhage - Low - Addition +18
+Hemorrhage - Low - Addition +19
+Hemorrhage - Low - Addition +20
+Hemorrhage - Low - Addition +21
+Hemorrhage - Low - Addition +22
+Hemorrhage - Low - Addition +23
+Hemorrhage - Low - Addition +24
+Hemorrhage - Low - Addition +25
+Hemorrhage - Low - Innate +0
+Hemorrhage - Low - Innate +1
+Hemorrhage - Low - Innate +2
+Hemorrhage - Low - Innate +3
+Hemorrhage - Low - Innate +4
+Hemorrhage - Low - Innate +5
+Hemorrhage - Low - Innate +6
+Hemorrhage - Low - Innate +7
+Hemorrhage - Low - Innate +8
+Hemorrhage - Low - Innate +9
+Hemorrhage - Low - Innate +10
+Hemorrhage - Low - Innate +11
+Hemorrhage - Low - Innate +12
+Hemorrhage - Low - Innate +13
+Hemorrhage - Low - Innate +14
+Hemorrhage - Low - Innate +15
+Hemorrhage - Low - Innate +16
+Hemorrhage - Low - Innate +17
+Hemorrhage - Low - Innate +18
+Hemorrhage - Low - Innate +19
+Hemorrhage - Low - Innate +20
+Hemorrhage - Low - Innate +21
+Hemorrhage - Low - Innate +22
+Hemorrhage - Low - Innate +23
+Hemorrhage - Low - Innate +24
+Hemorrhage - Low - Innate +25
+Hemorrhage - Medium - Addition +0
+Hemorrhage - Medium - Addition +1
+Hemorrhage - Medium - Addition +2
+Hemorrhage - Medium - Addition +3
+Hemorrhage - Medium - Addition +4
+Hemorrhage - Medium - Addition +5
+Hemorrhage - Medium - Addition +6
+Hemorrhage - Medium - Addition +7
+Hemorrhage - Medium - Addition +8
+Hemorrhage - Medium - Addition +9
+Hemorrhage - Medium - Addition +10
+Hemorrhage - Medium - Addition +11
+Hemorrhage - Medium - Addition +12
+Hemorrhage - Medium - Addition +13
+Hemorrhage - Medium - Addition +14
+Hemorrhage - Medium - Addition +15
+Hemorrhage - Medium - Addition +16
+Hemorrhage - Medium - Addition +17
+Hemorrhage - Medium - Addition +18
+Hemorrhage - Medium - Addition +19
+Hemorrhage - Medium - Addition +20
+Hemorrhage - Medium - Addition +21
+Hemorrhage - Medium - Addition +22
+Hemorrhage - Medium - Addition +23
+Hemorrhage - Medium - Addition +24
+Hemorrhage - Medium - Addition +25
+Hemorrhage - Medium - Innate +0
+Hemorrhage - Medium - Innate +1
+Hemorrhage - Medium - Innate +2
+Hemorrhage - Medium - Innate +3
+Hemorrhage - Medium - Innate +4
+Hemorrhage - Medium - Innate +5
+Hemorrhage - Medium - Innate +6
+Hemorrhage - Medium - Innate +7
+Hemorrhage - Medium - Innate +8
+Hemorrhage - Medium - Innate +9
+Hemorrhage - Medium - Innate +10
+Hemorrhage - Medium - Innate +11
+Hemorrhage - Medium - Innate +12
+Hemorrhage - Medium - Innate +13
+Hemorrhage - Medium - Innate +14
+Hemorrhage - Medium - Innate +15
+Hemorrhage - Medium - Innate +16
+Hemorrhage - Medium - Innate +17
+Hemorrhage - Medium - Innate +18
+Hemorrhage - Medium - Innate +19
+Hemorrhage - Medium - Innate +20
+Hemorrhage - Medium - Innate +21
+Hemorrhage - Medium - Innate +22
+Hemorrhage - Medium - Innate +23
+Hemorrhage - Medium - Innate +24
+Hemorrhage - Medium - Innate +25
+Hemorrhage - High - Addition +0
+Hemorrhage - High - Addition +1
+Hemorrhage - High - Addition +2
+Hemorrhage - High - Addition +3
+Hemorrhage - High - Addition +4
+Hemorrhage - High - Addition +5
+Hemorrhage - High - Addition +6
+Hemorrhage - High - Addition +7
+Hemorrhage - High - Addition +8
+Hemorrhage - High - Addition +9
+Hemorrhage - High - Addition +10
+Hemorrhage - High - Addition +11
+Hemorrhage - High - Addition +12
+Hemorrhage - High - Addition +13
+Hemorrhage - High - Addition +14
+Hemorrhage - High - Addition +15
+Hemorrhage - High - Addition +16
+Hemorrhage - High - Addition +17
+Hemorrhage - High - Addition +18
+Hemorrhage - High - Addition +19
+Hemorrhage - High - Addition +20
+Hemorrhage - High - Addition +21
+Hemorrhage - High - Addition +22
+Hemorrhage - High - Addition +23
+Hemorrhage - High - Addition +24
+Hemorrhage - High - Addition +25
+Hemorrhage - High - Innate +0
+Hemorrhage - High - Innate +1
+Hemorrhage - High - Innate +2
+Hemorrhage - High - Innate +3
+Hemorrhage - High - Innate +4
+Hemorrhage - High - Innate +5
+Hemorrhage - High - Innate +6
+Hemorrhage - High - Innate +7
+Hemorrhage - High - Innate +8
+Hemorrhage - High - Innate +9
+Hemorrhage - High - Innate +10
+Hemorrhage - High - Innate +11
+Hemorrhage - High - Innate +12
+Hemorrhage - High - Innate +13
+Hemorrhage - High - Innate +14
+Hemorrhage - High - Innate +15
+Hemorrhage - High - Innate +16
+Hemorrhage - High - Innate +17
+Hemorrhage - High - Innate +18
+Hemorrhage - High - Innate +19
+Hemorrhage - High - Innate +20
+Hemorrhage - High - Innate +21
+Hemorrhage - High - Innate +22
+Hemorrhage - High - Innate +23
+Hemorrhage - High - Innate +24
+Hemorrhage - High - Innate +25
+Hemorrhage - Special - Addition +0
+Hemorrhage - Special - Addition +1
+Hemorrhage - Special - Addition +2
+Hemorrhage - Special - Addition +3
+Hemorrhage - Special - Addition +4
+Hemorrhage - Special - Addition +5
+Hemorrhage - Special - Addition +6
+Hemorrhage - Special - Addition +7
+Hemorrhage - Special - Addition +8
+Hemorrhage - Special - Addition +9
+Hemorrhage - Special - Addition +10
+Hemorrhage - Special - Addition +11
+Hemorrhage - Special - Addition +12
+Hemorrhage - Special - Addition +13
+Hemorrhage - Special - Addition +14
+Hemorrhage - Special - Addition +15
+Hemorrhage - Special - Addition +16
+Hemorrhage - Special - Addition +17
+Hemorrhage - Special - Addition +18
+Hemorrhage - Special - Addition +19
+Hemorrhage - Special - Addition +20
+Hemorrhage - Special - Addition +21
+Hemorrhage - Special - Addition +22
+Hemorrhage - Special - Addition +23
+Hemorrhage - Special - Addition +24
+Hemorrhage - Special - Addition +25
+Sleep - Low - Addition +0
+Sleep - Low - Addition +1
+Sleep - Low - Addition +2
+Sleep - Low - Addition +3
+Sleep - Low - Addition +4
+Sleep - Low - Addition +5
+Sleep - Low - Addition +6
+Sleep - Low - Addition +7
+Sleep - Low - Addition +8
+Sleep - Low - Addition +9
+Sleep - Low - Addition +10
+Sleep - Low - Addition +11
+Sleep - Low - Addition +12
+Sleep - Low - Addition +13
+Sleep - Low - Addition +14
+Sleep - Low - Addition +15
+Sleep - Low - Addition +16
+Sleep - Low - Addition +17
+Sleep - Low - Addition +18
+Sleep - Low - Addition +19
+Sleep - Low - Addition +20
+Sleep - Low - Addition +21
+Sleep - Low - Addition +22
+Sleep - Low - Addition +23
+Sleep - Low - Addition +24
+Sleep - Low - Addition +25
+Sleep - Low - Innate +0
+Sleep - Low - Innate +1
+Sleep - Low - Innate +2
+Sleep - Low - Innate +3
+Sleep - Low - Innate +4
+Sleep - Low - Innate +5
+Sleep - Low - Innate +6
+Sleep - Low - Innate +7
+Sleep - Low - Innate +8
+Sleep - Low - Innate +9
+Sleep - Low - Innate +10
+Sleep - Low - Innate +11
+Sleep - Low - Innate +12
+Sleep - Low - Innate +13
+Sleep - Low - Innate +14
+Sleep - Low - Innate +15
+Sleep - Low - Innate +16
+Sleep - Low - Innate +17
+Sleep - Low - Innate +18
+Sleep - Low - Innate +19
+Sleep - Low - Innate +20
+Sleep - Low - Innate +21
+Sleep - Low - Innate +22
+Sleep - Low - Innate +23
+Sleep - Low - Innate +24
+Sleep - Low - Innate +25
+Sleep - Medium - Addition +0
+Sleep - Medium - Addition +1
+Sleep - Medium - Addition +2
+Sleep - Medium - Addition +3
+Sleep - Medium - Addition +4
+Sleep - Medium - Addition +5
+Sleep - Medium - Addition +6
+Sleep - Medium - Addition +7
+Sleep - Medium - Addition +8
+Sleep - Medium - Addition +9
+Sleep - Medium - Addition +10
+Sleep - Medium - Addition +11
+Sleep - Medium - Addition +12
+Sleep - Medium - Addition +13
+Sleep - Medium - Addition +14
+Sleep - Medium - Addition +15
+Sleep - Medium - Addition +16
+Sleep - Medium - Addition +17
+Sleep - Medium - Addition +18
+Sleep - Medium - Addition +19
+Sleep - Medium - Addition +20
+Sleep - Medium - Addition +21
+Sleep - Medium - Addition +22
+Sleep - Medium - Addition +23
+Sleep - Medium - Addition +24
+Sleep - Medium - Addition +25
+Sleep - Medium - Innate +0
+Sleep - Medium - Innate +1
+Sleep - Medium - Innate +2
+Sleep - Medium - Innate +3
+Sleep - Medium - Innate +4
+Sleep - Medium - Innate +5
+Sleep - Medium - Innate +6
+Sleep - Medium - Innate +7
+Sleep - Medium - Innate +8
+Sleep - Medium - Innate +9
+Sleep - Medium - Innate +10
+Sleep - Medium - Innate +11
+Sleep - Medium - Innate +12
+Sleep - Medium - Innate +13
+Sleep - Medium - Innate +14
+Sleep - Medium - Innate +15
+Sleep - Medium - Innate +16
+Sleep - Medium - Innate +17
+Sleep - Medium - Innate +18
+Sleep - Medium - Innate +19
+Sleep - Medium - Innate +20
+Sleep - Medium - Innate +21
+Sleep - Medium - Innate +22
+Sleep - Medium - Innate +23
+Sleep - Medium - Innate +24
+Sleep - Medium - Innate +25
+Sleep - High - Addition +0
+Sleep - High - Addition +1
+Sleep - High - Addition +2
+Sleep - High - Addition +3
+Sleep - High - Addition +4
+Sleep - High - Addition +5
+Sleep - High - Addition +6
+Sleep - High - Addition +7
+Sleep - High - Addition +8
+Sleep - High - Addition +9
+Sleep - High - Addition +10
+Sleep - High - Addition +11
+Sleep - High - Addition +12
+Sleep - High - Addition +13
+Sleep - High - Addition +14
+Sleep - High - Addition +15
+Sleep - High - Addition +16
+Sleep - High - Addition +17
+Sleep - High - Addition +18
+Sleep - High - Addition +19
+Sleep - High - Addition +20
+Sleep - High - Addition +21
+Sleep - High - Addition +22
+Sleep - High - Addition +23
+Sleep - High - Addition +24
+Sleep - High - Addition +25
+Sleep - High - Innate +0
+Sleep - High - Innate +1
+Sleep - High - Innate +2
+Sleep - High - Innate +3
+Sleep - High - Innate +4
+Sleep - High - Innate +5
+Sleep - High - Innate +6
+Sleep - High - Innate +7
+Sleep - High - Innate +8
+Sleep - High - Innate +9
+Sleep - High - Innate +10
+Sleep - High - Innate +11
+Sleep - High - Innate +12
+Sleep - High - Innate +13
+Sleep - High - Innate +14
+Sleep - High - Innate +15
+Sleep - High - Innate +16
+Sleep - High - Innate +17
+Sleep - High - Innate +18
+Sleep - High - Innate +19
+Sleep - High - Innate +20
+Sleep - High - Innate +21
+Sleep - High - Innate +22
+Sleep - High - Innate +23
+Sleep - High - Innate +24
+Sleep - High - Innate +25
+Poison - Low - Addition +0
+Poison - Low - Addition +1
+Poison - Low - Addition +2
+Poison - Low - Addition +3
+Poison - Low - Addition +4
+Poison - Low - Addition +5
+Poison - Low - Addition +6
+Poison - Low - Addition +7
+Poison - Low - Addition +8
+Poison - Low - Addition +9
+Poison - Low - Addition +10
+Poison - Low - Addition +11
+Poison - Low - Addition +12
+Poison - Low - Addition +13
+Poison - Low - Addition +14
+Poison - Low - Addition +15
+Poison - Low - Addition +16
+Poison - Low - Addition +17
+Poison - Low - Addition +18
+Poison - Low - Addition +19
+Poison - Low - Addition +20
+Poison - Low - Addition +21
+Poison - Low - Addition +22
+Poison - Low - Addition +23
+Poison - Low - Addition +24
+Poison - Low - Addition +25
+Poison - Low - Innate +0
+Poison - Low - Innate +1
+Poison - Low - Innate +2
+Poison - Low - Innate +3
+Poison - Low - Innate +4
+Poison - Low - Innate +5
+Poison - Low - Innate +6
+Poison - Low - Innate +7
+Poison - Low - Innate +8
+Poison - Low - Innate +9
+Poison - Low - Innate +10
+Poison - Low - Innate +11
+Poison - Low - Innate +12
+Poison - Low - Innate +13
+Poison - Low - Innate +14
+Poison - Low - Innate +15
+Poison - Low - Innate +16
+Poison - Low - Innate +17
+Poison - Low - Innate +18
+Poison - Low - Innate +19
+Poison - Low - Innate +20
+Poison - Low - Innate +21
+Poison - Low - Innate +22
+Poison - Low - Innate +23
+Poison - Low - Innate +24
+Poison - Low - Innate +25
+Poison - Medium - Addition +0
+Poison - Medium - Addition +1
+Poison - Medium - Addition +2
+Poison - Medium - Addition +3
+Poison - Medium - Addition +4
+Poison - Medium - Addition +5
+Poison - Medium - Addition +6
+Poison - Medium - Addition +7
+Poison - Medium - Addition +8
+Poison - Medium - Addition +9
+Poison - Medium - Addition +10
+Poison - Medium - Addition +11
+Poison - Medium - Addition +12
+Poison - Medium - Addition +13
+Poison - Medium - Addition +14
+Poison - Medium - Addition +15
+Poison - Medium - Addition +16
+Poison - Medium - Addition +17
+Poison - Medium - Addition +18
+Poison - Medium - Addition +19
+Poison - Medium - Addition +20
+Poison - Medium - Addition +21
+Poison - Medium - Addition +22
+Poison - Medium - Addition +23
+Poison - Medium - Addition +24
+Poison - Medium - Addition +25
+Poison - Medium - Innate +0
+Poison - Medium - Innate +1
+Poison - Medium - Innate +2
+Poison - Medium - Innate +3
+Poison - Medium - Innate +4
+Poison - Medium - Innate +5
+Poison - Medium - Innate +6
+Poison - Medium - Innate +7
+Poison - Medium - Innate +8
+Poison - Medium - Innate +9
+Poison - Medium - Innate +10
+Poison - Medium - Innate +11
+Poison - Medium - Innate +12
+Poison - Medium - Innate +13
+Poison - Medium - Innate +14
+Poison - Medium - Innate +15
+Poison - Medium - Innate +16
+Poison - Medium - Innate +17
+Poison - Medium - Innate +18
+Poison - Medium - Innate +19
+Poison - Medium - Innate +20
+Poison - Medium - Innate +21
+Poison - Medium - Innate +22
+Poison - Medium - Innate +23
+Poison - Medium - Innate +24
+Poison - Medium - Innate +25
+Poison - High - Addition +0
+Poison - High - Addition +1
+Poison - High - Addition +2
+Poison - High - Addition +3
+Poison - High - Addition +4
+Poison - High - Addition +5
+Poison - High - Addition +6
+Poison - High - Addition +7
+Poison - High - Addition +8
+Poison - High - Addition +9
+Poison - High - Addition +10
+Poison - High - Addition +11
+Poison - High - Addition +12
+Poison - High - Addition +13
+Poison - High - Addition +14
+Poison - High - Addition +15
+Poison - High - Addition +16
+Poison - High - Addition +17
+Poison - High - Addition +18
+Poison - High - Addition +19
+Poison - High - Addition +20
+Poison - High - Addition +21
+Poison - High - Addition +22
+Poison - High - Addition +23
+Poison - High - Addition +24
+Poison - High - Addition +25
+Poison - High - Innate +0
+Poison - High - Innate +1
+Poison - High - Innate +2
+Poison - High - Innate +3
+Poison - High - Innate +4
+Poison - High - Innate +5
+Poison - High - Innate +6
+Poison - High - Innate +7
+Poison - High - Innate +8
+Poison - High - Innate +9
+Poison - High - Innate +10
+Poison - High - Innate +11
+Poison - High - Innate +12
+Poison - High - Innate +13
+Poison - High - Innate +14
+Poison - High - Innate +15
+Poison - High - Innate +16
+Poison - High - Innate +17
+Poison - High - Innate +18
+Poison - High - Innate +19
+Poison - High - Innate +20
+Poison - High - Innate +21
+Poison - High - Innate +22
+Poison - High - Innate +23
+Poison - High - Innate +24
+Poison - High - Innate +25
+Poison - Special - Addition +0
+Poison - Special - Addition +1
+Poison - Special - Addition +2
+Poison - Special - Addition +3
+Poison - Special - Addition +4
+Poison - Special - Addition +5
+Poison - Special - Addition +6
+Poison - Special - Addition +7
+Poison - Special - Addition +8
+Poison - Special - Addition +9
+Poison - Special - Addition +10
+Poison - Special - Addition +11
+Poison - Special - Addition +12
+Poison - Special - Addition +13
+Poison - Special - Addition +14
+Poison - Special - Addition +15
+Poison - Special - Addition +16
+Poison - Special - Addition +17
+Poison - Special - Addition +18
+Poison - Special - Addition +19
+Poison - Special - Addition +20
+Poison - Special - Addition +21
+Poison - Special - Addition +22
+Poison - Special - Addition +23
+Poison - Special - Addition +24
+Poison - Special - Addition +25
+Scarlet Rot - Low - Addition +0
+Scarlet Rot - Low - Addition +1
+Scarlet Rot - Low - Addition +2
+Scarlet Rot - Low - Addition +3
+Scarlet Rot - Low - Addition +4
+Scarlet Rot - Low - Addition +5
+Scarlet Rot - Low - Addition +6
+Scarlet Rot - Low - Addition +7
+Scarlet Rot - Low - Addition +8
+Scarlet Rot - Low - Addition +9
+Scarlet Rot - Low - Addition +10
+Scarlet Rot - Low - Addition +11
+Scarlet Rot - Low - Addition +12
+Scarlet Rot - Low - Addition +13
+Scarlet Rot - Low - Addition +14
+Scarlet Rot - Low - Addition +15
+Scarlet Rot - Low - Addition +16
+Scarlet Rot - Low - Addition +17
+Scarlet Rot - Low - Addition +18
+Scarlet Rot - Low - Addition +19
+Scarlet Rot - Low - Addition +20
+Scarlet Rot - Low - Addition +21
+Scarlet Rot - Low - Addition +22
+Scarlet Rot - Low - Addition +23
+Scarlet Rot - Low - Addition +24
+Scarlet Rot - Low - Addition +25
+Scarlet Rot - Low - Innate +0
+Scarlet Rot - Low - Innate +1
+Scarlet Rot - Low - Innate +2
+Scarlet Rot - Low - Innate +3
+Scarlet Rot - Low - Innate +4
+Scarlet Rot - Low - Innate +5
+Scarlet Rot - Low - Innate +6
+Scarlet Rot - Low - Innate +7
+Scarlet Rot - Low - Innate +8
+Scarlet Rot - Low - Innate +9
+Scarlet Rot - Low - Innate +10
+Scarlet Rot - Low - Innate +11
+Scarlet Rot - Low - Innate +12
+Scarlet Rot - Low - Innate +13
+Scarlet Rot - Low - Innate +14
+Scarlet Rot - Low - Innate +15
+Scarlet Rot - Low - Innate +16
+Scarlet Rot - Low - Innate +17
+Scarlet Rot - Low - Innate +18
+Scarlet Rot - Low - Innate +19
+Scarlet Rot - Low - Innate +20
+Scarlet Rot - Low - Innate +21
+Scarlet Rot - Low - Innate +22
+Scarlet Rot - Low - Innate +23
+Scarlet Rot - Low - Innate +24
+Scarlet Rot - Low - Innate +25
+Scarlet Rot - Medium - Addition +0
+Scarlet Rot - Medium - Addition +1
+Scarlet Rot - Medium - Addition +2
+Scarlet Rot - Medium - Addition +3
+Scarlet Rot - Medium - Addition +4
+Scarlet Rot - Medium - Addition +5
+Scarlet Rot - Medium - Addition +6
+Scarlet Rot - Medium - Addition +7
+Scarlet Rot - Medium - Addition +8
+Scarlet Rot - Medium - Addition +9
+Scarlet Rot - Medium - Addition +10
+Scarlet Rot - Medium - Addition +11
+Scarlet Rot - Medium - Addition +12
+Scarlet Rot - Medium - Addition +13
+Scarlet Rot - Medium - Addition +14
+Scarlet Rot - Medium - Addition +15
+Scarlet Rot - Medium - Addition +16
+Scarlet Rot - Medium - Addition +17
+Scarlet Rot - Medium - Addition +18
+Scarlet Rot - Medium - Addition +19
+Scarlet Rot - Medium - Addition +20
+Scarlet Rot - Medium - Addition +21
+Scarlet Rot - Medium - Addition +22
+Scarlet Rot - Medium - Addition +23
+Scarlet Rot - Medium - Addition +24
+Scarlet Rot - Medium - Addition +25
+Scarlet Rot - Medium - Innate +0
+Scarlet Rot - Medium - Innate +1
+Scarlet Rot - Medium - Innate +2
+Scarlet Rot - Medium - Innate +3
+Scarlet Rot - Medium - Innate +4
+Scarlet Rot - Medium - Innate +5
+Scarlet Rot - Medium - Innate +6
+Scarlet Rot - Medium - Innate +7
+Scarlet Rot - Medium - Innate +8
+Scarlet Rot - Medium - Innate +9
+Scarlet Rot - Medium - Innate +10
+Scarlet Rot - Medium - Innate +11
+Scarlet Rot - Medium - Innate +12
+Scarlet Rot - Medium - Innate +13
+Scarlet Rot - Medium - Innate +14
+Scarlet Rot - Medium - Innate +15
+Scarlet Rot - Medium - Innate +16
+Scarlet Rot - Medium - Innate +17
+Scarlet Rot - Medium - Innate +18
+Scarlet Rot - Medium - Innate +19
+Scarlet Rot - Medium - Innate +20
+Scarlet Rot - Medium - Innate +21
+Scarlet Rot - Medium - Innate +22
+Scarlet Rot - Medium - Innate +23
+Scarlet Rot - Medium - Innate +24
+Scarlet Rot - Medium - Innate +25
+Scarlet Rot - High - Addition +0
+Scarlet Rot - High - Addition +1
+Scarlet Rot - High - Addition +2
+Scarlet Rot - High - Addition +3
+Scarlet Rot - High - Addition +4
+Scarlet Rot - High - Addition +5
+Scarlet Rot - High - Addition +6
+Scarlet Rot - High - Addition +7
+Scarlet Rot - High - Addition +8
+Scarlet Rot - High - Addition +9
+Scarlet Rot - High - Addition +10
+Scarlet Rot - High - Addition +11
+Scarlet Rot - High - Addition +12
+Scarlet Rot - High - Addition +13
+Scarlet Rot - High - Addition +14
+Scarlet Rot - High - Addition +15
+Scarlet Rot - High - Addition +16
+Scarlet Rot - High - Addition +17
+Scarlet Rot - High - Addition +18
+Scarlet Rot - High - Addition +19
+Scarlet Rot - High - Addition +20
+Scarlet Rot - High - Addition +21
+Scarlet Rot - High - Addition +22
+Scarlet Rot - High - Addition +23
+Scarlet Rot - High - Addition +24
+Scarlet Rot - High - Addition +25
+Scarlet Rot - High - Innate +0
+Scarlet Rot - High - Innate +1
+Scarlet Rot - High - Innate +2
+Scarlet Rot - High - Innate +3
+Scarlet Rot - High - Innate +4
+Scarlet Rot - High - Innate +5
+Scarlet Rot - High - Innate +6
+Scarlet Rot - High - Innate +7
+Scarlet Rot - High - Innate +8
+Scarlet Rot - High - Innate +9
+Scarlet Rot - High - Innate +10
+Scarlet Rot - High - Innate +11
+Scarlet Rot - High - Innate +12
+Scarlet Rot - High - Innate +13
+Scarlet Rot - High - Innate +14
+Scarlet Rot - High - Innate +15
+Scarlet Rot - High - Innate +16
+Scarlet Rot - High - Innate +17
+Scarlet Rot - High - Innate +18
+Scarlet Rot - High - Innate +19
+Scarlet Rot - High - Innate +20
+Scarlet Rot - High - Innate +21
+Scarlet Rot - High - Innate +22
+Scarlet Rot - High - Innate +23
+Scarlet Rot - High - Innate +24
+Scarlet Rot - High - Innate +25
+Frostbite - Low - Addition +0
+Frostbite - Low - Addition +1
+Frostbite - Low - Addition +2
+Frostbite - Low - Addition +3
+Frostbite - Low - Addition +4
+Frostbite - Low - Addition +5
+Frostbite - Low - Addition +6
+Frostbite - Low - Addition +7
+Frostbite - Low - Addition +8
+Frostbite - Low - Addition +9
+Frostbite - Low - Addition +10
+Frostbite - Low - Addition +11
+Frostbite - Low - Addition +12
+Frostbite - Low - Addition +13
+Frostbite - Low - Addition +14
+Frostbite - Low - Addition +15
+Frostbite - Low - Addition +16
+Frostbite - Low - Addition +17
+Frostbite - Low - Addition +18
+Frostbite - Low - Addition +19
+Frostbite - Low - Addition +20
+Frostbite - Low - Addition +21
+Frostbite - Low - Addition +22
+Frostbite - Low - Addition +23
+Frostbite - Low - Addition +24
+Frostbite - Low - Addition +25
+Frostbite - Low - Innate +0
+Frostbite - Low - Innate +1
+Frostbite - Low - Innate +2
+Frostbite - Low - Innate +3
+Frostbite - Low - Innate +4
+Frostbite - Low - Innate +5
+Frostbite - Low - Innate +6
+Frostbite - Low - Innate +7
+Frostbite - Low - Innate +8
+Frostbite - Low - Innate +9
+Frostbite - Low - Innate +10
+Frostbite - Low - Innate +11
+Frostbite - Low - Innate +12
+Frostbite - Low - Innate +13
+Frostbite - Low - Innate +14
+Frostbite - Low - Innate +15
+Frostbite - Low - Innate +16
+Frostbite - Low - Innate +17
+Frostbite - Low - Innate +18
+Frostbite - Low - Innate +19
+Frostbite - Low - Innate +20
+Frostbite - Low - Innate +21
+Frostbite - Low - Innate +22
+Frostbite - Low - Innate +23
+Frostbite - Low - Innate +24
+Frostbite - Low - Innate +25
+Frostbite - Medium - Addition +0
+Frostbite - Medium - Addition +1
+Frostbite - Medium - Addition +2
+Frostbite - Medium - Addition +3
+Frostbite - Medium - Addition +4
+Frostbite - Medium - Addition +5
+Frostbite - Medium - Addition +6
+Frostbite - Medium - Addition +7
+Frostbite - Medium - Addition +8
+Frostbite - Medium - Addition +9
+Frostbite - Medium - Addition +10
+Frostbite - Medium - Addition +11
+Frostbite - Medium - Addition +12
+Frostbite - Medium - Addition +13
+Frostbite - Medium - Addition +14
+Frostbite - Medium - Addition +15
+Frostbite - Medium - Addition +16
+Frostbite - Medium - Addition +17
+Frostbite - Medium - Addition +18
+Frostbite - Medium - Addition +19
+Frostbite - Medium - Addition +20
+Frostbite - Medium - Addition +21
+Frostbite - Medium - Addition +22
+Frostbite - Medium - Addition +23
+Frostbite - Medium - Addition +24
+Frostbite - Medium - Addition +25
+Frostbite - Medium - Innate +0
+Frostbite - Medium - Innate +1
+Frostbite - Medium - Innate +2
+Frostbite - Medium - Innate +3
+Frostbite - Medium - Innate +4
+Frostbite - Medium - Innate +5
+Frostbite - Medium - Innate +6
+Frostbite - Medium - Innate +7
+Frostbite - Medium - Innate +8
+Frostbite - Medium - Innate +9
+Frostbite - Medium - Innate +10
+Frostbite - Medium - Innate +11
+Frostbite - Medium - Innate +12
+Frostbite - Medium - Innate +13
+Frostbite - Medium - Innate +14
+Frostbite - Medium - Innate +15
+Frostbite - Medium - Innate +16
+Frostbite - Medium - Innate +17
+Frostbite - Medium - Innate +18
+Frostbite - Medium - Innate +19
+Frostbite - Medium - Innate +20
+Frostbite - Medium - Innate +21
+Frostbite - Medium - Innate +22
+Frostbite - Medium - Innate +23
+Frostbite - Medium - Innate +24
+Frostbite - Medium - Innate +25
+Frostbite - High - Addition +0
+Frostbite - High - Addition +1
+Frostbite - High - Addition +2
+Frostbite - High - Addition +3
+Frostbite - High - Addition +4
+Frostbite - High - Addition +5
+Frostbite - High - Addition +6
+Frostbite - High - Addition +7
+Frostbite - High - Addition +8
+Frostbite - High - Addition +9
+Frostbite - High - Addition +10
+Frostbite - High - Addition +11
+Frostbite - High - Addition +12
+Frostbite - High - Addition +13
+Frostbite - High - Addition +14
+Frostbite - High - Addition +15
+Frostbite - High - Addition +16
+Frostbite - High - Addition +17
+Frostbite - High - Addition +18
+Frostbite - High - Addition +19
+Frostbite - High - Addition +20
+Frostbite - High - Addition +21
+Frostbite - High - Addition +22
+Frostbite - High - Addition +23
+Frostbite - High - Addition +24
+Frostbite - High - Addition +25
+Frostbite - High - Innate +0
+Frostbite - High - Innate +1
+Frostbite - High - Innate +2
+Frostbite - High - Innate +3
+Frostbite - High - Innate +4
+Frostbite - High - Innate +5
+Frostbite - High - Innate +6
+Frostbite - High - Innate +7
+Frostbite - High - Innate +8
+Frostbite - High - Innate +9
+Frostbite - High - Innate +10
+Frostbite - High - Innate +11
+Frostbite - High - Innate +12
+Frostbite - High - Innate +13
+Frostbite - High - Innate +14
+Frostbite - High - Innate +15
+Frostbite - High - Innate +16
+Frostbite - High - Innate +17
+Frostbite - High - Innate +18
+Frostbite - High - Innate +19
+Frostbite - High - Innate +20
+Frostbite - High - Innate +21
+Frostbite - High - Innate +22
+Frostbite - High - Innate +23
+Frostbite - High - Innate +24
+Frostbite - High - Innate +25
+Frostbite - Special - Addition +0
+Frostbite - Special - Addition +1
+Frostbite - Special - Addition +2
+Frostbite - Special - Addition +3
+Frostbite - Special - Addition +4
+Frostbite - Special - Addition +5
+Frostbite - Special - Addition +6
+Frostbite - Special - Addition +7
+Frostbite - Special - Addition +8
+Frostbite - Special - Addition +9
+Frostbite - Special - Addition +10
+Frostbite - Special - Addition +11
+Frostbite - Special - Addition +12
+Frostbite - Special - Addition +13
+Frostbite - Special - Addition +14
+Frostbite - Special - Addition +15
+Frostbite - Special - Addition +17
+Frostbite - Special - Addition +17
+Frostbite - Special - Addition +18
+Frostbite - Special - Addition +19
+Frostbite - Special - Addition +20
+Frostbite - Special - Addition +21
+Frostbite - Special - Addition +22
+Frostbite - Special - Addition +23
+Frostbite - Special - Addition +24
+Frostbite - Special - Addition +25
+
+
+Blight - Low - Addition +0
+Blight - Low - Addition +1
+Blight - Low - Addition +2
+Blight - Low - Addition +3
+Blight - Low - Addition +4
+Blight - Low - Addition +5
+Blight - Low - Addition +6
+Blight - Low - Addition +7
+Blight - Low - Addition +8
+Blight - Low - Addition +9
+Blight - Low - Addition +10
+Blight - Low - Addition +11
+Blight - Low - Addition +12
+Blight - Low - Addition +13
+Blight - Low - Addition +14
+Blight - Low - Addition +15
+Blight - Low - Addition +16
+Blight - Low - Addition +17
+Blight - Low - Addition +18
+Blight - Low - Addition +19
+Blight - Low - Addition +20
+Blight - Low - Addition +21
+Blight - Low - Addition +22
+Blight - Low - Addition +23
+Blight - Low - Addition +24
+Blight - Low - Addition +25
+Blight - Low - Innate +0
+Blight - Low - Innate +1
+Blight - Low - Innate +2
+Blight - Low - Innate +3
+Blight - Low - Innate +4
+Blight - Low - Innate +5
+Blight - Low - Innate +6
+Blight - Low - Innate +7
+Blight - Low - Innate +8
+Blight - Low - Innate +9
+Blight - Low - Innate +10
+Blight - Low - Innate +11
+Blight - Low - Innate +12
+Blight - Low - Innate +13
+Blight - Low - Innate +14
+Blight - Low - Innate +15
+Blight - Low - Innate +16
+Blight - Low - Innate +17
+Blight - Low - Innate +18
+Blight - Low - Innate +19
+Blight - Low - Innate +20
+Blight - Low - Innate +21
+Blight - Low - Innate +22
+Blight - Low - Innate +23
+Blight - Low - Innate +24
+Blight - Low - Innate +25
+Blight - Medium - Addition +0
+Blight - Medium - Addition +1
+Blight - Medium - Addition +2
+Blight - Medium - Addition +3
+Blight - Medium - Addition +4
+Blight - Medium - Addition +5
+Blight - Medium - Addition +6
+Blight - Medium - Addition +7
+Blight - Medium - Addition +8
+Blight - Medium - Addition +9
+Blight - Medium - Addition +10
+Blight - Medium - Addition +11
+Blight - Medium - Addition +12
+Blight - Medium - Addition +13
+Blight - Medium - Addition +14
+Blight - Medium - Addition +15
+Blight - Medium - Addition +16
+Blight - Medium - Addition +17
+Blight - Medium - Addition +18
+Blight - Medium - Addition +19
+Blight - Medium - Addition +20
+Blight - Medium - Addition +21
+Blight - Medium - Addition +22
+Blight - Medium - Addition +23
+Blight - Medium - Addition +24
+Blight - Medium - Addition +25
+Blight - Medium - Innate +0
+Blight - Medium - Innate +1
+Blight - Medium - Innate +2
+Blight - Medium - Innate +3
+Blight - Medium - Innate +4
+Blight - Medium - Innate +5
+Blight - Medium - Innate +6
+Blight - Medium - Innate +7
+Blight - Medium - Innate +8
+Blight - Medium - Innate +9
+Blight - Medium - Innate +10
+Blight - Medium - Innate +11
+Blight - Medium - Innate +12
+Blight - Medium - Innate +13
+Blight - Medium - Innate +14
+Blight - Medium - Innate +15
+Blight - Medium - Innate +16
+Blight - Medium - Innate +17
+Blight - Medium - Innate +18
+Blight - Medium - Innate +19
+Blight - Medium - Innate +20
+Blight - Medium - Innate +21
+Blight - Medium - Innate +22
+Blight - Medium - Innate +23
+Blight - Medium - Innate +24
+Blight - Medium - Innate +25
+Blight - High - Addition +0
+Blight - High - Addition +1
+Blight - High - Addition +2
+Blight - High - Addition +3
+Blight - High - Addition +4
+Blight - High - Addition +5
+Blight - High - Addition +6
+Blight - High - Addition +7
+Blight - High - Addition +8
+Blight - High - Addition +9
+Blight - High - Addition +10
+Blight - High - Addition +11
+Blight - High - Addition +12
+Blight - High - Addition +13
+Blight - High - Addition +14
+Blight - High - Addition +15
+Blight - High - Addition +16
+Blight - High - Addition +17
+Blight - High - Addition +18
+Blight - High - Addition +19
+Blight - High - Addition +20
+Blight - High - Addition +21
+Blight - High - Addition +22
+Blight - High - Addition +23
+Blight - High - Addition +24
+Blight - High - Addition +25
+Blight - High - Innate +0
+Blight - High - Innate +1
+Blight - High - Innate +2
+Blight - High - Innate +3
+Blight - High - Innate +4
+Blight - High - Innate +5
+Blight - High - Innate +6
+Blight - High - Innate +7
+Blight - High - Innate +8
+Blight - High - Innate +9
+Blight - High - Innate +10
+Blight - High - Innate +11
+Blight - High - Innate +12
+Blight - High - Innate +13
+Blight - High - Innate +14
+Blight - High - Innate +15
+Blight - High - Innate +16
+Blight - High - Innate +17
+Blight - High - Innate +18
+Blight - High - Innate +19
+Blight - High - Innate +20
+Blight - High - Innate +21
+Blight - High - Innate +22
+Blight - High - Innate +23
+Blight - High - Innate +24
+Blight - High - Innate +25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Spirit Summon] Black Knife Tiche
+[Spirit Summon] Black Knife Tiche +1
+[Spirit Summon] Black Knife Tiche +2
+[Spirit Summon] Black Knife Tiche +3
+[Spirit Summon] Black Knife Tiche +4
+[Spirit Summon] Black Knife Tiche +5
+[Spirit Summon] Black Knife Tiche +6
+[Spirit Summon] Black Knife Tiche +7
+[Spirit Summon] Black Knife Tiche +8
+[Spirit Summon] Black Knife Tiche +9
+[Spirit Summon] Black Knife Tiche +10
+[Spirit Summon] Banished Knight Oleg
+[Spirit Summon] Banished Knight Oleg +1
+[Spirit Summon] Banished Knight Oleg +2
+[Spirit Summon] Banished Knight Oleg +3
+[Spirit Summon] Banished Knight Oleg +4
+[Spirit Summon] Banished Knight Oleg +5
+[Spirit Summon] Banished Knight Oleg +6
+[Spirit Summon] Banished Knight Oleg +7
+[Spirit Summon] Banished Knight Oleg +8
+[Spirit Summon] Banished Knight Oleg +9
+[Spirit Summon] Banished Knight Oleg +10
+[Spirit Summon] Banished Knight Engvall
+[Spirit Summon] Banished Knight Engvall +1
+[Spirit Summon] Banished Knight Engvall +2
+[Spirit Summon] Banished Knight Engvall +3
+[Spirit Summon] Banished Knight Engvall +4
+[Spirit Summon] Banished Knight Engvall +5
+[Spirit Summon] Banished Knight Engvall +6
+[Spirit Summon] Banished Knight Engvall +7
+[Spirit Summon] Banished Knight Engvall +8
+[Spirit Summon] Banished Knight Engvall +9
+[Spirit Summon] Banished Knight Engvall +10
+[Spirit Summon] Fanged Imp Ashes
+[Spirit Summon] Fanged Imp Ashes +1
+[Spirit Summon] Fanged Imp Ashes +2
+[Spirit Summon] Fanged Imp Ashes +3
+[Spirit Summon] Fanged Imp Ashes +4
+[Spirit Summon] Fanged Imp Ashes +5
+[Spirit Summon] Fanged Imp Ashes +6
+[Spirit Summon] Fanged Imp Ashes +7
+[Spirit Summon] Fanged Imp Ashes +8
+[Spirit Summon] Fanged Imp Ashes +9
+[Spirit Summon] Fanged Imp Ashes +10
+[Spirit Summon] Latenna the Albinauric
+[Spirit Summon] Latenna the Albinauric +1
+[Spirit Summon] Latenna the Albinauric +2
+[Spirit Summon] Latenna the Albinauric +3
+[Spirit Summon] Latenna the Albinauric +4
+[Spirit Summon] Latenna the Albinauric +5
+[Spirit Summon] Latenna the Albinauric +6
+[Spirit Summon] Latenna the Albinauric +7
+[Spirit Summon] Latenna the Albinauric +8
+[Spirit Summon] Latenna the Albinauric +9
+[Spirit Summon] Latenna the Albinauric +10
+[Spirit Summon] Nomad Ashes
+[Spirit Summon] Nomad Ashes +1
+[Spirit Summon] Nomad Ashes +2
+[Spirit Summon] Nomad Ashes +3
+[Spirit Summon] Nomad Ashes +4
+[Spirit Summon] Nomad Ashes +5
+[Spirit Summon] Nomad Ashes +6
+[Spirit Summon] Nomad Ashes +7
+[Spirit Summon] Nomad Ashes +8
+[Spirit Summon] Nomad Ashes +9
+[Spirit Summon] Nomad Ashes +10
+[Spirit Summon] Nightmaiden & Swordstress Puppets
+[Spirit Summon] Nightmaiden & Swordstress Puppets +1
+[Spirit Summon] Nightmaiden & Swordstress Puppets +2
+[Spirit Summon] Nightmaiden & Swordstress Puppets +3
+[Spirit Summon] Nightmaiden & Swordstress Puppets +4
+[Spirit Summon] Nightmaiden & Swordstress Puppets +5
+[Spirit Summon] Nightmaiden & Swordstress Puppets +6
+[Spirit Summon] Nightmaiden & Swordstress Puppets +7
+[Spirit Summon] Nightmaiden & Swordstress Puppets +8
+[Spirit Summon] Nightmaiden & Swordstress Puppets +9
+[Spirit Summon] Nightmaiden & Swordstress Puppets +10
+[Spirit Summon] Mimic Tear Ashes
+[Spirit Summon] Mimic Tear Ashes +1
+[Spirit Summon] Mimic Tear Ashes +2
+[Spirit Summon] Mimic Tear Ashes +3
+[Spirit Summon] Mimic Tear Ashes +4
+[Spirit Summon] Mimic Tear Ashes +5
+[Spirit Summon] Mimic Tear Ashes +6
+[Spirit Summon] Mimic Tear Ashes +7
+[Spirit Summon] Mimic Tear Ashes +8
+[Spirit Summon] Mimic Tear Ashes +9
+[Spirit Summon] Mimic Tear Ashes +10
+[Spirit Summon] Crystalian Ashes
+[Spirit Summon] Crystalian Ashes +1
+[Spirit Summon] Crystalian Ashes +2
+[Spirit Summon] Crystalian Ashes +3
+[Spirit Summon] Crystalian Ashes +4
+[Spirit Summon] Crystalian Ashes +5
+[Spirit Summon] Crystalian Ashes +6
+[Spirit Summon] Crystalian Ashes +7
+[Spirit Summon] Crystalian Ashes +8
+[Spirit Summon] Crystalian Ashes +9
+[Spirit Summon] Crystalian Ashes +10
+[Spirit Summon] Ancestral Follower Ashes
+[Spirit Summon] Ancestral Follower Ashes +1
+[Spirit Summon] Ancestral Follower Ashes +2
+[Spirit Summon] Ancestral Follower Ashes +3
+[Spirit Summon] Ancestral Follower Ashes +4
+[Spirit Summon] Ancestral Follower Ashes +5
+[Spirit Summon] Ancestral Follower Ashes +6
+[Spirit Summon] Ancestral Follower Ashes +7
+[Spirit Summon] Ancestral Follower Ashes +8
+[Spirit Summon] Ancestral Follower Ashes +9
+[Spirit Summon] Ancestral Follower Ashes +10
+[Spirit Summon] Winged Misbegotten Ashes
+[Spirit Summon] Winged Misbegotten Ashes + 1
+[Spirit Summon] Winged Misbegotten Ashes + 2
+[Spirit Summon] Winged Misbegotten Ashes + 3
+[Spirit Summon] Winged Misbegotten Ashes + 4
+[Spirit Summon] Winged Misbegotten Ashes + 5
+[Spirit Summon] Winged Misbegotten Ashes + 6
+[Spirit Summon] Winged Misbegotten Ashes + 7
+[Spirit Summon] Winged Misbegotten Ashes + 8
+[Spirit Summon] Winged Misbegotten Ashes + 9
+[Spirit Summon] Winged Misbegotten Ashes + 10
+[Spirit Summon] Albinauric Ashes
+[Spirit Summon] Albinauric Ashes +1
+[Spirit Summon] Albinauric Ashes +2
+[Spirit Summon] Albinauric Ashes +3
+[Spirit Summon] Albinauric Ashes +4
+[Spirit Summon] Albinauric Ashes +5
+[Spirit Summon] Albinauric Ashes +6
+[Spirit Summon] Albinauric Ashes +7
+[Spirit Summon] Albinauric Ashes +8
+[Spirit Summon] Albinauric Ashes +9
+[Spirit Summon] Albinauric Ashes +10
+[Spirit Summon] Skeletal Militiaman Ashes
+[Spirit Summon] Skeletal Militiaman Ashes +1
+[Spirit Summon] Skeletal Militiaman Ashes +2
+[Spirit Summon] Skeletal Militiaman Ashes +3
+[Spirit Summon] Skeletal Militiaman Ashes +5
+[Spirit Summon] Skeletal Militiaman Ashes +5
+[Spirit Summon] Skeletal Militiaman Ashes +6
+[Spirit Summon] Skeletal Militiaman Ashes +7
+[Spirit Summon] Skeletal Militiaman Ashes +8
+[Spirit Summon] Skeletal Militiaman Ashes +9
+[Spirit Summon] Skeletal Militiaman Ashes +10
+[Spirit Summon] Skeletal Bandit Ashes
+[Spirit Summon] Skeletal Bandit Ashes +1
+[Spirit Summon] Skeletal Bandit Ashes +2
+[Spirit Summon] Skeletal Bandit Ashes +3
+[Spirit Summon] Skeletal Bandit Ashes +4
+[Spirit Summon] Skeletal Bandit Ashes +5
+[Spirit Summon] Skeletal Bandit Ashes +6
+[Spirit Summon] Skeletal Bandit Ashes +7
+[Spirit Summon] Skeletal Bandit Ashes +8
+[Spirit Summon] Skeletal Bandit Ashes +9
+[Spirit Summon] Skeletal Bandit Ashes +10
+[Spirit Summon] Oracle Envoy Ashes
+[Spirit Summon] Oracle Envoy Ashes +1
+[Spirit Summon] Oracle Envoy Ashes +2
+[Spirit Summon] Oracle Envoy Ashes +3
+[Spirit Summon] Oracle Envoy Ashes +4
+[Spirit Summon] Oracle Envoy Ashes +5
+[Spirit Summon] Oracle Envoy Ashes +6
+[Spirit Summon] Oracle Envoy Ashes +7
+[Spirit Summon] Oracle Envoy Ashes +8
+[Spirit Summon] Oracle Envoy Ashes +9
+[Spirit Summon] Oracle Envoy Ashes +10
+[Spirit Summon] Putrid Corpse Ashes
+[Spirit Summon] Putrid Corpse Ashes +1
+[Spirit Summon] Putrid Corpse Ashes +2
+[Spirit Summon] Putrid Corpse Ashes +3
+[Spirit Summon] Putrid Corpse Ashes +4
+[Spirit Summon] Putrid Corpse Ashes +5
+[Spirit Summon] Putrid Corpse Ashes +6
+[Spirit Summon] Putrid Corpse Ashes +7
+[Spirit Summon] Putrid Corpse Ashes +8
+[Spirit Summon] Putrid Corpse Ashes +9
+[Spirit Summon] Putrid Corpse Ashes +10
+[Spirit Summon] Depraved Perfumer Carmaan
+[Spirit Summon] Depraved Perfumer Carmaan +1
+[Spirit Summon] Depraved Perfumer Carmaan +2
+[Spirit Summon] Depraved Perfumer Carmaan +3
+[Spirit Summon] Depraved Perfumer Carmaan +4
+[Spirit Summon] Depraved Perfumer Carmaan +5
+[Spirit Summon] Depraved Perfumer Carmaan +6
+[Spirit Summon] Depraved Perfumer Carmaan +7
+[Spirit Summon] Depraved Perfumer Carmaan +8
+[Spirit Summon] Depraved Perfumer Carmaan +9
+[Spirit Summon] Depraved Perfumer Carmaan +10
+[Spirit Summon] Perfumer Tricia
+[Spirit Summon] Perfumer Tricia +1
+[Spirit Summon] Perfumer Tricia +2
+[Spirit Summon] Perfumer Tricia +3
+[Spirit Summon] Perfumer Tricia +4
+[Spirit Summon] Perfumer Tricia +5
+[Spirit Summon] Perfumer Tricia +6
+[Spirit Summon] Perfumer Tricia +8
+[Spirit Summon] Perfumer Tricia +8
+[Spirit Summon] Perfumer Tricia +9
+[Spirit Summon] Perfumer Tricia +10
+[Spirit Summon] Glintstone Sorcerer Ashes
+[Spirit Summon] Glintstone Sorcerer Ashes +1
+[Spirit Summon] Glintstone Sorcerer Ashes +2
+[Spirit Summon] Glintstone Sorcerer Ashes +3
+[Spirit Summon] Glintstone Sorcerer Ashes +4
+[Spirit Summon] Glintstone Sorcerer Ashes +5
+[Spirit Summon] Glintstone Sorcerer Ashes +6
+[Spirit Summon] Glintstone Sorcerer Ashes +7
+[Spirit Summon] Glintstone Sorcerer Ashes +8
+[Spirit Summon] Glintstone Sorcerer Ashes +9
+[Spirit Summon] Glintstone Sorcerer Ashes +10
+[Spirit Summon] Twinsage Sorcerer Ashes
+[Spirit Summon] Twinsage Sorcerer Ashes +1
+[Spirit Summon] Twinsage Sorcerer Ashes +2
+[Spirit Summon] Twinsage Sorcerer Ashes +3
+[Spirit Summon] Twinsage Sorcerer Ashes +4
+[Spirit Summon] Twinsage Sorcerer Ashes +5
+[Spirit Summon] Twinsage Sorcerer Ashes +6
+[Spirit Summon] Twinsage Sorcerer Ashes +7
+[Spirit Summon] Twinsage Sorcerer Ashes +8
+[Spirit Summon] Twinsage Sorcerer Ashes +9
+[Spirit Summon] Twinsage Sorcerer Ashes +10
+[Spirit Summon] Page Ashes
+[Spirit Summon] Page Ashes +1
+[Spirit Summon] Page Ashes +2
+[Spirit Summon] Page Ashes +3
+[Spirit Summon] Page Ashes +4
+[Spirit Summon] Page Ashes +5
+[Spirit Summon] Page Ashes +6
+[Spirit Summon] Page Ashes +7
+[Spirit Summon] Page Ashes +8
+[Spirit Summon] Page Ashes +9
+[Spirit Summon] Page Ashes +10
+[Spirit Summon] Battlemage Hugues
+[Spirit Summon] Battlemage Hugues +1
+[Spirit Summon] Battlemage Hugues +2
+[Spirit Summon] Battlemage Hugues +3
+[Spirit Summon] Battlemage Hugues +4
+[Spirit Summon] Battlemage Hugues +5
+[Spirit Summon] Battlemage Hugues +6
+[Spirit Summon] Battlemage Hugues +7
+[Spirit Summon] Battlemage Hugues +8
+[Spirit Summon] Battlemage Hugues +9
+[Spirit Summon] Battlemage Hugues +10
+[Spirit Summon] Clayman Ashes
+[Spirit Summon] Clayman Ashes +1
+[Spirit Summon] Clayman Ashes +2
+[Spirit Summon] Clayman Ashes +3
+[Spirit Summon] Clayman Ashes +4
+[Spirit Summon] Clayman Ashes +5
+[Spirit Summon] Clayman Ashes +6
+[Spirit Summon] Clayman Ashes +7
+[Spirit Summon] Clayman Ashes +8
+[Spirit Summon] Clayman Ashes +9
+[Spirit Summon] Clayman Ashes +10
+[Spirit Summon] Cleanrot Knight Finlay
+[Spirit Summon] Cleanrot Knight Finlay +1
+[Spirit Summon] Cleanrot Knight Finlay +2
+[Spirit Summon] Cleanrot Knight Finlay +3
+[Spirit Summon] Cleanrot Knight Finlay +4
+[Spirit Summon] Cleanrot Knight Finlay +5
+[Spirit Summon] Cleanrot Knight Finlay +6
+[Spirit Summon] Cleanrot Knight Finlay +7
+[Spirit Summon] Cleanrot Knight Finlay +8
+[Spirit Summon] Cleanrot Knight Finlay +9
+[Spirit Summon] Cleanrot Knight Finlay +10
+[Spirit Summon] Kindred of Rot Ashes
+[Spirit Summon] Kindred of Rot Ashes +1
+[Spirit Summon] Kindred of Rot Ashes +2
+[Spirit Summon] Kindred of Rot Ashes +3
+[Spirit Summon] Kindred of Rot Ashes +4
+[Spirit Summon] Kindred of Rot Ashes +5
+[Spirit Summon] Kindred of Rot Ashes +6
+[Spirit Summon] Kindred of Rot Ashes +7
+[Spirit Summon] Kindred of Rot Ashes +8
+[Spirit Summon] Kindred of Rot Ashes +9
+[Spirit Summon] Kindred of Rot Ashes +10
+[Spirit Summon] Marionette Soldier Ashes
+[Spirit Summon] Marionette Soldier Ashes +1
+[Spirit Summon] Marionette Soldier Ashes +2
+[Spirit Summon] Marionette Soldier Ashes +3
+[Spirit Summon] Marionette Soldier Ashes +4
+[Spirit Summon] Marionette Soldier Ashes +5
+[Spirit Summon] Marionette Soldier Ashes +6
+[Spirit Summon] Marionette Soldier Ashes +7
+[Spirit Summon] Marionette Soldier Ashes +8
+[Spirit Summon] Marionette Soldier Ashes +9
+[Spirit Summon] Marionette Soldier Ashes +10
+[Spirit Summon] Avionette Soldier Ashes
+[Spirit Summon] Avionette Soldier Ashes +1
+[Spirit Summon] Avionette Soldier Ashes +2
+[Spirit Summon] Avionette Soldier Ashes +3
+[Spirit Summon] Avionette Soldier Ashes +4
+[Spirit Summon] Avionette Soldier Ashes +5
+[Spirit Summon] Avionette Soldier Ashes +6
+[Spirit Summon] Avionette Soldier Ashes +7
+[Spirit Summon] Avionette Soldier Ashes +8
+[Spirit Summon] Avionette Soldier Ashes +9
+[Spirit Summon] Avionette Soldier Ashes +10
+[Spirit Summon] Fire Monk Ashes
+[Spirit Summon] Fire Monk Ashes +1
+[Spirit Summon] Fire Monk Ashes +2
+[Spirit Summon] Fire Monk Ashes +3
+[Spirit Summon] Fire Monk Ashes +4
+[Spirit Summon] Fire Monk Ashes +5
+[Spirit Summon] Fire Monk Ashes +6
+[Spirit Summon] Fire Monk Ashes +7
+[Spirit Summon] Fire Monk Ashes +8
+[Spirit Summon] Fire Monk Ashes +9
+[Spirit Summon] Fire Monk Ashes +10
+[Spirit Summon] Blackflame Monk Amon
+[Spirit Summon] Blackflame Monk Amon +1
+[Spirit Summon] Blackflame Monk Amon +2
+[Spirit Summon] Blackflame Monk Amon +3
+[Spirit Summon] Blackflame Monk Amon +4
+[Spirit Summon] Blackflame Monk Amon +5
+[Spirit Summon] Blackflame Monk Amon +6
+[Spirit Summon] Blackflame Monk Amon +7
+[Spirit Summon] Blackflame Monk Amon +8
+[Spirit Summon] Blackflame Monk Amon +9
+[Spirit Summon] Blackflame Monk Amon +10
+[Spirit Summon] Man-Serpent Ashes
+[Spirit Summon] Man-Serpent Ashes +1
+[Spirit Summon] Man-Serpent Ashes +2
+[Spirit Summon] Man-Serpent Ashes +3
+[Spirit Summon] Man-Serpent Ashes +4
+[Spirit Summon] Man-Serpent Ashes +5
+[Spirit Summon] Man-Serpent Ashes +6
+[Spirit Summon] Man-Serpent Ashes +7
+[Spirit Summon] Man-Serpent Ashes +8
+[Spirit Summon] Man-Serpent Ashes +9
+[Spirit Summon] Man-Serpent Ashes +10
+[Spirit Summon] Azula Beastman Ashes
+[Spirit Summon] Azula Beastman Ashes +1
+[Spirit Summon] Azula Beastman Ashes +2
+[Spirit Summon] Azula Beastman Ashes +3
+[Spirit Summon] Azula Beastman Ashes +4
+[Spirit Summon] Azula Beastman Ashes +5
+[Spirit Summon] Azula Beastman Ashes +6
+[Spirit Summon] Azula Beastman Ashes +7
+[Spirit Summon] Azula Beastman Ashes +8
+[Spirit Summon] Azula Beastman Ashes +9
+[Spirit Summon] Azula Beastman Ashes +10
+[Spirit Summon] Kaiden Sellsword Ashes
+[Spirit Summon] Kaiden Sellsword Ashes +1
+[Spirit Summon] Kaiden Sellsword Ashes +2
+[Spirit Summon] Kaiden Sellsword Ashes +3
+[Spirit Summon] Kaiden Sellsword Ashes +4
+[Spirit Summon] Kaiden Sellsword Ashes +5
+[Spirit Summon] Kaiden Sellsword Ashes +6
+[Spirit Summon] Kaiden Sellsword Ashes +7
+[Spirit Summon] Kaiden Sellsword Ashes +8
+[Spirit Summon] Kaiden Sellsword Ashes +9
+[Spirit Summon] Kaiden Sellsword Ashes +10
+[Spirit Summon] Lone Wolf Ashes
+[Spirit Summon] Lone Wolf Ashes +1
+[Spirit Summon] Lone Wolf Ashes +2
+[Spirit Summon] Lone Wolf Ashes +3
+[Spirit Summon] Lone Wolf Ashes +4
+[Spirit Summon] Lone Wolf Ashes +5
+[Spirit Summon] Lone Wolf Ashes +6
+[Spirit Summon] Lone Wolf Ashes +7
+[Spirit Summon] Lone Wolf Ashes +8
+[Spirit Summon] Lone Wolf Ashes +9
+[Spirit Summon] Lone Wolf Ashes +10
+[Spirit Summon] Giant Rat Ashes
+[Spirit Summon] Giant Rat Ashes +1
+[Spirit Summon] Giant Rat Ashes +2
+[Spirit Summon] Giant Rat Ashes +3
+[Spirit Summon] Giant Rat Ashes +4
+[Spirit Summon] Giant Rat Ashes +5
+[Spirit Summon] Giant Rat Ashes +6
+[Spirit Summon] Giant Rat Ashes +7
+[Spirit Summon] Giant Rat Ashes +8
+[Spirit Summon] Giant Rat Ashes +9
+[Spirit Summon] Giant Rat Ashes +10
+[Spirit Summon] Demi-Human Ashes
+[Spirit Summon] Demi-Human Ashes +1
+[Spirit Summon] Demi-Human Ashes +2
+[Spirit Summon] Demi-Human Ashes +3
+[Spirit Summon] Demi-Human Ashes +4
+[Spirit Summon] Demi-Human Ashes +5
+[Spirit Summon] Demi-Human Ashes +6
+[Spirit Summon] Demi-Human Ashes +7
+[Spirit Summon] Demi-Human Ashes +8
+[Spirit Summon] Demi-Human Ashes +9
+[Spirit Summon] Demi-Human Ashes +10
+[Spirit Summon] Rotten Stray Ashes
+[Spirit Summon] Rotten Stray Ashes +1
+[Spirit Summon] Rotten Stray Ashes +2
+[Spirit Summon] Rotten Stray Ashes +3
+[Spirit Summon] Rotten Stray Ashes +4
+[Spirit Summon] Rotten Stray Ashes +5
+[Spirit Summon] Rotten Stray Ashes +6
+[Spirit Summon] Rotten Stray Ashes +7
+[Spirit Summon] Rotten Stray Ashes +8
+[Spirit Summon] Rotten Stray Ashes +9
+[Spirit Summon] Rotten Stray Ashes +10
+[Spirit Summon] Spirit Jellyfish Ashes
+[Spirit Summon] Spirit Jellyfish Ashes +1
+[Spirit Summon] Spirit Jellyfish Ashes +2
+[Spirit Summon] Spirit Jellyfish Ashes +3
+[Spirit Summon] Spirit Jellyfish Ashes +4
+[Spirit Summon] Spirit Jellyfish Ashes +5
+[Spirit Summon] Spirit Jellyfish Ashes +6
+[Spirit Summon] Spirit Jellyfish Ashes +7
+[Spirit Summon] Spirit Jellyfish Ashes +8
+[Spirit Summon] Spirit Jellyfish Ashes +9
+[Spirit Summon] Spirit Jellyfish Ashes +10
+[Spirit Summon] Warhawk Ashes
+[Spirit Summon] Warhawk Ashes +1
+[Spirit Summon] Warhawk Ashes +2
+[Spirit Summon] Warhawk Ashes +3
+[Spirit Summon] Warhawk Ashes +4
+[Spirit Summon] Warhawk Ashes +5
+[Spirit Summon] Warhawk Ashes +6
+[Spirit Summon] Warhawk Ashes +7
+[Spirit Summon] Warhawk Ashes +8
+[Spirit Summon] Warhawk Ashes +9
+[Spirit Summon] Warhawk Ashes +10
+[Spirit Summon] Stormhawk Deenh
+[Spirit Summon] Stormhawk Deenh +1
+[Spirit Summon] Stormhawk Deenh +2
+[Spirit Summon] Stormhawk Deenh +3
+[Spirit Summon] Stormhawk Deenh +4
+[Spirit Summon] Stormhawk Deenh +5
+[Spirit Summon] Stormhawk Deenh +6
+[Spirit Summon] Stormhawk Deenh +7
+[Spirit Summon] Stormhawk Deenh +8
+[Spirit Summon] Stormhawk Deenh +9
+[Spirit Summon] Stormhawk Deenh +10
+[Spirit Summon] Bloodhound Knight Floh
+[Spirit Summon] Bloodhound Knight Floh +1
+[Spirit Summon] Bloodhound Knight Floh +2
+[Spirit Summon] Bloodhound Knight Floh +3
+[Spirit Summon] Bloodhound Knight Floh +4
+[Spirit Summon] Bloodhound Knight Floh +5
+[Spirit Summon] Bloodhound Knight Floh +6
+[Spirit Summon] Bloodhound Knight Floh +7
+[Spirit Summon] Bloodhound Knight Floh +8
+[Spirit Summon] Bloodhound Knight Floh +9
+[Spirit Summon] Bloodhound Knight Floh +10
+[Spirit Summon] Wandering Noble Ashes
+[Spirit Summon] Wandering Noble Ashes +1
+[Spirit Summon] Wandering Noble Ashes +2
+[Spirit Summon] Wandering Noble Ashes +3
+[Spirit Summon] Wandering Noble Ashes +4
+[Spirit Summon] Wandering Noble Ashes +5
+[Spirit Summon] Wandering Noble Ashes +6
+[Spirit Summon] Wandering Noble Ashes +7
+[Spirit Summon] Wandering Noble Ashes +8
+[Spirit Summon] Wandering Noble Ashes +9
+[Spirit Summon] Wandering Noble Ashes +10
+[Spirit Summon] Noble Sorcerer Ashes
+[Spirit Summon] Noble Sorcerer Ashes +1
+[Spirit Summon] Noble Sorcerer Ashes +2
+[Spirit Summon] Noble Sorcerer Ashes +3
+[Spirit Summon] Noble Sorcerer Ashes +4
+[Spirit Summon] Noble Sorcerer Ashes +5
+[Spirit Summon] Noble Sorcerer Ashes +6
+[Spirit Summon] Noble Sorcerer Ashes +7
+[Spirit Summon] Noble Sorcerer Ashes +8
+[Spirit Summon] Noble Sorcerer Ashes +9
+[Spirit Summon] Noble Sorcerer Ashes +10
+[Spirit Summon] Vulgar Militia Ashes
+[Spirit Summon] Vulgar Militia Ashes +1
+[Spirit Summon] Vulgar Militia Ashes +2
+[Spirit Summon] Vulgar Militia Ashes +3
+[Spirit Summon] Vulgar Militia Ashes +4
+[Spirit Summon] Vulgar Militia Ashes +5
+[Spirit Summon] Vulgar Militia Ashes +6
+[Spirit Summon] Vulgar Militia Ashes +7
+[Spirit Summon] Vulgar Militia Ashes +8
+[Spirit Summon] Vulgar Militia Ashes +9
+[Spirit Summon] Vulgar Militia Ashes +10
+[Spirit Summon] Mad Pumpkin Head Ashes
+[Spirit Summon] Mad Pumpkin Head Ashes +1
+[Spirit Summon] Mad Pumpkin Head Ashes +2
+[Spirit Summon] Mad Pumpkin Head Ashes +3
+[Spirit Summon] Mad Pumpkin Head Ashes +4
+[Spirit Summon] Mad Pumpkin Head Ashes +5
+[Spirit Summon] Mad Pumpkin Head Ashes +6
+[Spirit Summon] Mad Pumpkin Head Ashes +7
+[Spirit Summon] Mad Pumpkin Head Ashes +8
+[Spirit Summon] Mad Pumpkin Head Ashes +9
+[Spirit Summon] Mad Pumpkin Head Ashes +10
+[Spirit Summon] Land Squirt Ashes
+[Spirit Summon] Land Squirt Ashes +1
+[Spirit Summon] Land Squirt Ashes +2
+[Spirit Summon] Land Squirt Ashes +3
+[Spirit Summon] Land Squirt Ashes +4
+[Spirit Summon] Land Squirt Ashes +5
+[Spirit Summon] Land Squirt Ashes +6
+[Spirit Summon] Land Squirt Ashes +7
+[Spirit Summon] Land Squirt Ashes +8
+[Spirit Summon] Land Squirt Ashes +9
+[Spirit Summon] Land Squirt Ashes +10
+[Spirit Summon] Miranda Sprout Ashes
+[Spirit Summon] Miranda Sprout Ashes +1
+[Spirit Summon] Miranda Sprout Ashes +2
+[Spirit Summon] Miranda Sprout Ashes +3
+[Spirit Summon] Miranda Sprout Ashes +4
+[Spirit Summon] Miranda Sprout Ashes +5
+[Spirit Summon] Miranda Sprout Ashes +6
+[Spirit Summon] Miranda Sprout Ashes +7
+[Spirit Summon] Miranda Sprout Ashes +8
+[Spirit Summon] Miranda Sprout Ashes +9
+[Spirit Summon] Miranda Sprout Ashes +10
+[Spirit Summon] Soldjars of Fortune Ashes
+[Spirit Summon] Soldjars of Fortune Ashes +2
+[Spirit Summon] Soldjars of Fortune Ashes +2
+[Spirit Summon] Soldjars of Fortune Ashes +3
+[Spirit Summon] Soldjars of Fortune Ashes +4
+[Spirit Summon] Soldjars of Fortune Ashes +5
+[Spirit Summon] Soldjars of Fortune Ashes +6
+[Spirit Summon] Soldjars of Fortune Ashes +7
+[Spirit Summon] Soldjars of Fortune Ashes +8
+[Spirit Summon] Soldjars of Fortune Ashes +9
+[Spirit Summon] Soldjars of Fortune Ashes +10
+[Spirit Summon] Omenkiller Rollo
+[Spirit Summon] Omenkiller Rollo +1
+[Spirit Summon] Omenkiller Rollo +2
+[Spirit Summon] Omenkiller Rollo +3
+[Spirit Summon] Omenkiller Rollo +4
+[Spirit Summon] Omenkiller Rollo +5
+[Spirit Summon] Omenkiller Rollo +6
+[Spirit Summon] Omenkiller Rollo +7
+[Spirit Summon] Omenkiller Rollo +8
+[Spirit Summon] Omenkiller Rollo +9
+[Spirit Summon] Omenkiller Rollo +10
+[Spirit Summon] Greatshield Soldier Ashes
+[Spirit Summon] Greatshield Soldier Ashes +1
+[Spirit Summon] Greatshield Soldier Ashes +2
+[Spirit Summon] Greatshield Soldier Ashes +3
+[Spirit Summon] Greatshield Soldier Ashes +4
+[Spirit Summon] Greatshield Soldier Ashes +5
+[Spirit Summon] Greatshield Soldier Ashes +6
+[Spirit Summon] Greatshield Soldier Ashes +7
+[Spirit Summon] Greatshield Soldier Ashes +8
+[Spirit Summon] Greatshield Soldier Ashes +9
+[Spirit Summon] Greatshield Soldier Ashes +10
+[Spirit Summon] Archer Ashes
+[Spirit Summon] Archer Ashes +1
+[Spirit Summon] Archer Ashes +2
+[Spirit Summon] Archer Ashes +3
+[Spirit Summon] Archer Ashes +4
+[Spirit Summon] Archer Ashes +5
+[Spirit Summon] Archer Ashes +6
+[Spirit Summon] Archer Ashes +7
+[Spirit Summon] Archer Ashes +8
+[Spirit Summon] Archer Ashes +9
+[Spirit Summon] Archer Ashes +10
+[Spirit Summon] Godrick Soldier Ashes
+[Spirit Summon] Godrick Soldier Ashes +1
+[Spirit Summon] Godrick Soldier Ashes +2
+[Spirit Summon] Godrick Soldier Ashes +4
+[Spirit Summon] Godrick Soldier Ashes +5
+[Spirit Summon] Godrick Soldier Ashes +5
+[Spirit Summon] Godrick Soldier Ashes +6
+[Spirit Summon] Godrick Soldier Ashes +7
+[Spirit Summon] Godrick Soldier Ashes +8
+[Spirit Summon] Godrick Soldier Ashes +9
+[Spirit Summon] Godrick Soldier Ashes +10
+[Spirit Summon] Raya Lucaria Soldier Ashes
+[Spirit Summon] Raya Lucaria Soldier Ashes +1
+[Spirit Summon] Raya Lucaria Soldier Ashes +2
+[Spirit Summon] Raya Lucaria Soldier Ashes +3
+[Spirit Summon] Raya Lucaria Soldier Ashes +5
+[Spirit Summon] Raya Lucaria Soldier Ashes +5
+[Spirit Summon] Raya Lucaria Soldier Ashes +6
+[Spirit Summon] Raya Lucaria Soldier Ashes +7
+[Spirit Summon] Raya Lucaria Soldier Ashes +8
+[Spirit Summon] Raya Lucaria Soldier Ashes +9
+[Spirit Summon] Raya Lucaria Soldier Ashes +10
+[Spirit Summon] Leyndell Soldier Ashes
+[Spirit Summon] Leyndell Soldier Ashes +1
+[Spirit Summon] Leyndell Soldier Ashes +2
+[Spirit Summon] Leyndell Soldier Ashes +3
+[Spirit Summon] Leyndell Soldier Ashes +4
+[Spirit Summon] Leyndell Soldier Ashes +5
+[Spirit Summon] Leyndell Soldier Ashes +6
+[Spirit Summon] Leyndell Soldier Ashes +7
+[Spirit Summon] Leyndell Soldier Ashes +8
+[Spirit Summon] Leyndell Soldier Ashes +9
+[Spirit Summon] Leyndell Soldier Ashes +10
+[Spirit Summon] Radahn Soldier Ashes
+[Spirit Summon] Radahn Soldier Ashes +1
+[Spirit Summon] Radahn Soldier Ashes +2
+[Spirit Summon] Radahn Soldier Ashes +3
+[Spirit Summon] Radahn Soldier Ashes +4
+[Spirit Summon] Radahn Soldier Ashes +5
+[Spirit Summon] Radahn Soldier Ashes +6
+[Spirit Summon] Radahn Soldier Ashes +7
+[Spirit Summon] Radahn Soldier Ashes +8
+[Spirit Summon] Radahn Soldier Ashes +9
+[Spirit Summon] Radahn Soldier Ashes +10
+[Spirit Summon] Mausoleum Soldier Ashes
+[Spirit Summon] Mausoleum Soldier Ashes +1
+[Spirit Summon] Mausoleum Soldier Ashes +2
+[Spirit Summon] Mausoleum Soldier Ashes +3
+[Spirit Summon] Mausoleum Soldier Ashes +4
+[Spirit Summon] Mausoleum Soldier Ashes +5
+[Spirit Summon] Mausoleum Soldier Ashes +6
+[Spirit Summon] Mausoleum Soldier Ashes +7
+[Spirit Summon] Mausoleum Soldier Ashes +8
+[Spirit Summon] Mausoleum Soldier Ashes +9
+[Spirit Summon] Mausoleum Soldier Ashes +10
+[Spirit Summon] Haligtree Soldier Ashes
+[Spirit Summon] Haligtree Soldier Ashes +1
+[Spirit Summon] Haligtree Soldier Ashes +2
+[Spirit Summon] Haligtree Soldier Ashes +3
+[Spirit Summon] Haligtree Soldier Ashes +4
+[Spirit Summon] Haligtree Soldier Ashes +5
+[Spirit Summon] Haligtree Soldier Ashes +6
+[Spirit Summon] Haligtree Soldier Ashes +7
+[Spirit Summon] Haligtree Soldier Ashes +8
+[Spirit Summon] Haligtree Soldier Ashes +9
+[Spirit Summon] Haligtree Soldier Ashes +10
+[Spirit Summon] Ancient Dragon Knight Kristoff
+[Spirit Summon] Ancient Dragon Knight Kristoff +1
+[Spirit Summon] Ancient Dragon Knight Kristoff +2
+[Spirit Summon] Ancient Dragon Knight Kristoff +3
+[Spirit Summon] Ancient Dragon Knight Kristoff +4
+[Spirit Summon] Ancient Dragon Knight Kristoff +5
+[Spirit Summon] Ancient Dragon Knight Kristoff +6
+[Spirit Summon] Ancient Dragon Knight Kristoff +7
+[Spirit Summon] Ancient Dragon Knight Kristoff +8
+[Spirit Summon] Ancient Dragon Knight Kristoff +9
+[Spirit Summon] Ancient Dragon Knight Kristoff +10
+[Spirit Summon] Redmane Knight Ogha
+[Spirit Summon] Redmane Knight Ogha +1
+[Spirit Summon] Redmane Knight Ogha +2
+[Spirit Summon] Redmane Knight Ogha +3
+[Spirit Summon] Redmane Knight Ogha +4
+[Spirit Summon] Redmane Knight Ogha +5
+[Spirit Summon] Redmane Knight Ogha +6
+[Spirit Summon] Redmane Knight Ogha +7
+[Spirit Summon] Redmane Knight Ogha +8
+[Spirit Summon] Redmane Knight Ogha +9
+[Spirit Summon] Redmane Knight Ogha +10
+[Spirit Summon] Lhutel the Headless
+[Spirit Summon] Lhutel the Headless +1
+[Spirit Summon] Lhutel the Headless +2
+[Spirit Summon] Lhutel the Headless +3
+[Spirit Summon] Lhutel the Headless +4
+[Spirit Summon] Lhutel the Headless +5
+[Spirit Summon] Lhutel the Headless +6
+[Spirit Summon] Lhutel the Headless +7
+[Spirit Summon] Lhutel the Headless +8
+[Spirit Summon] Lhutel the Headless +9
+[Spirit Summon] Lhutel the Headless +10
+[Spirit Summon] Nepheli Loux Puppet
+[Spirit Summon] Nepheli Loux Puppet +1
+[Spirit Summon] Nepheli Loux Puppet +2
+[Spirit Summon] Nepheli Loux Puppet +3
+[Spirit Summon] Nepheli Loux Puppet +4
+[Spirit Summon] Nepheli Loux Puppet +5
+[Spirit Summon] Nepheli Loux Puppet +6
+[Spirit Summon] Nepheli Loux Puppet +7
+[Spirit Summon] Nepheli Loux Puppet +8
+[Spirit Summon] Nepheli Loux Puppet +9
+[Spirit Summon] Nepheli Loux Puppet +10
+[Spirit Summon] Dung Eater Puppet
+[Spirit Summon] Dung Eater Puppet +1
+[Spirit Summon] Dung Eater Puppet +2
+[Spirit Summon] Dung Eater Puppet +3
+[Spirit Summon] Dung Eater Puppet +4
+[Spirit Summon] Dung Eater Puppet +5
+[Spirit Summon] Dung Eater Puppet +6
+[Spirit Summon] Dung Eater Puppet +7
+[Spirit Summon] Dung Eater Puppet +8
+[Spirit Summon] Dung Eater Puppet +9
+[Spirit Summon] Dung Eater Puppet +10
+[Spirit Summon] Finger Maiden Therolina Puppet
+[Spirit Summon] Finger Maiden Therolina Puppet +1
+[Spirit Summon] Finger Maiden Therolina Puppet +2
+[Spirit Summon] Finger Maiden Therolina Puppet +3
+[Spirit Summon] Finger Maiden Therolina Puppet +4
+[Spirit Summon] Finger Maiden Therolina Puppet +5
+[Spirit Summon] Finger Maiden Therolina Puppet +6
+[Spirit Summon] Finger Maiden Therolina Puppet +7
+[Spirit Summon] Finger Maiden Therolina Puppet +8
+[Spirit Summon] Finger Maiden Therolina Puppet +9
+[Spirit Summon] Finger Maiden Therolina Puppet +10
+[Spirit Summon] Dolores the Sleeping Arrow Puppet
+[Spirit Summon] Dolores the Sleeping Arrow Puppet +1
+[Spirit Summon] Dolores the Sleeping Arrow Puppet +2
+[Spirit Summon] Dolores the Sleeping Arrow Puppet +3
+[Spirit Summon] Dolores the Sleeping Arrow Puppet +4
+[Spirit Summon] Dolores the Sleeping Arrow Puppet +5
+[Spirit Summon] Dolores the Sleeping Arrow Puppet +6
+[Spirit Summon] Dolores the Sleeping Arrow Puppet +7
+[Spirit Summon] Dolores the Sleeping Arrow Puppet +8
+[Spirit Summon] Dolores the Sleeping Arrow Puppet +9
+[Spirit Summon] Dolores the Sleeping Arrow Puppet +10
+[Spirit Summon] Jarwight Puppet
+[Spirit Summon] Jarwight Puppet +1
+[Spirit Summon] Jarwight Puppet +2
+[Spirit Summon] Jarwight Puppet +3
+[Spirit Summon] Jarwight Puppet +4
+[Spirit Summon] Jarwight Puppet +5
+[Spirit Summon] Jarwight Puppet +6
+[Spirit Summon] Jarwight Puppet +7
+[Spirit Summon] Jarwight Puppet +8
+[Spirit Summon] Jarwight Puppet +9
+[Spirit Summon] Jarwight Puppet +10
+[Spirit Summon] Adjustment - Default +0
+[Spirit Summon] Adjustment - Default +1
+[Spirit Summon] Adjustment - Default +2
+[Spirit Summon] Adjustment - Default +3
+[Spirit Summon] Adjustment - Default +4
+[Spirit Summon] Adjustment - Default +5
+[Spirit Summon] Adjustment - Default +6
+[Spirit Summon] Adjustment - Default +7
+[Spirit Summon] Adjustment - Default +8
+[Spirit Summon] Adjustment - Default +9
+[Spirit Summon] Adjustment - Default +10
+[Spirit Summon] Adjustment - Puppet +0
+[Spirit Summon] Adjustment - Puppet +1
+[Spirit Summon] Adjustment - Puppet +2
+[Spirit Summon] Adjustment - Puppet +3
+[Spirit Summon] Adjustment - Puppet +4
+[Spirit Summon] Adjustment - Puppet +5
+[Spirit Summon] Adjustment - Puppet +6
+[Spirit Summon] Adjustment - Puppet +7
+[Spirit Summon] Adjustment - Puppet +8
+[Spirit Summon] Adjustment - Puppet +9
+[Spirit Summon] Adjustment - Puppet +10
+[Spirit Summon] Adjustment - Finger Maiden Therolina Puppet +0
+[Spirit Summon] Adjustment - Finger Maiden Therolina Puppet +1
+[Spirit Summon] Adjustment - Finger Maiden Therolina Puppet +2
+[Spirit Summon] Adjustment - Finger Maiden Therolina Puppet +3
+[Spirit Summon] Adjustment - Finger Maiden Therolina Puppet +4
+[Spirit Summon] Adjustment - Finger Maiden Therolina Puppet +5
+[Spirit Summon] Adjustment - Finger Maiden Therolina Puppet +6
+[Spirit Summon] Adjustment - Finger Maiden Therolina Puppet +7
+[Spirit Summon] Adjustment - Finger Maiden Therolina Puppet +8
+[Spirit Summon] Adjustment - Finger Maiden Therolina Puppet +9
+[Spirit Summon] Adjustment - Finger Maiden Therolina Puppet +10
+[Spirit Summon] Adjustment - Jarwright Puppet +0
+[Spirit Summon] Adjustment - Jarwright Puppet +1
+[Spirit Summon] Adjustment - Jarwright Puppet +2
+[Spirit Summon] Adjustment - Jarwright Puppet +3
+[Spirit Summon] Adjustment - Jarwright Puppet +4
+[Spirit Summon] Adjustment - Jarwright Puppet +5
+[Spirit Summon] Adjustment - Jarwright Puppet +6
+[Spirit Summon] Adjustment - Jarwright Puppet +7
+[Spirit Summon] Adjustment - Jarwright Puppet +8
+[Spirit Summon] Adjustment - Jarwright Puppet +9
+[Spirit Summon] Adjustment - Jarwright Puppet +10
+[Spirit Summon] Adjustment - Mimic Tear +0
+[Spirit Summon] Adjustment - Mimic Tear +1
+[Spirit Summon] Adjustment - Mimic Tear +2
+[Spirit Summon] Adjustment - Mimic Tear +3
+[Spirit Summon] Adjustment - Mimic Tear +4
+[Spirit Summon] Adjustment - Mimic Tear +5
+[Spirit Summon] Adjustment - Mimic Tear +6
+[Spirit Summon] Adjustment - Mimic Tear +7
+[Spirit Summon] Adjustment - Mimic Tear +8
+[Spirit Summon] Adjustment - Mimic Tear +9
+[Spirit Summon] Adjustment - Mimic Tear +10
+[Spirit Summon] Color
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Spirit Summon] Color (Puppet)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Spirit Summon] Clayman Corpse Hider 1
+[Spirit Summon] Clayman Corpse Hider 2
+[Spirit Summon] Clayman Corpse Hider 3
+[Spirit Summon] Haligtree Foot Soldier Kamikazi VFX
+[Spirit Summon] -75% Damage, +50% Absorption, -95% Poise Damage
+[Spirit Summon] -50% Target Priority
+[Spirit Summon] -25% Target Priority
+[Spirit Summon] +10% Lightning Damage (PvP), +10% Fire Damage (PvE)
+[Spirit Summon] +25% Damage, 0 Seconds
+[Spirit Summon] -25% Damage
+[Spirit Summon] -30% Damage
+[Spirit Summon] +75% Damage, 0 Seconds
+[Spirit Summon] +25% Damage
+[Spirit Summon] Follow & Warp to Player
+[Spirit Summon] PLAN_SP_EFFECT_BUDDY_WALK_FOLLOW
+[Spirit Summon] PLAN_SP_EFFECT_BUDDY_REAR_FOLLOW
+[Spirit Summon] PLAN_SP_EFFECT_BUDDY_FLY_FOLLOW
+[Spirit Summon] PLAN_SP_EFFECT_BUDDY_NO_FOLLOW
+[Spirit Summon] PLAN_SP_EFFECT_BUDDY_INTERCEPT_LONGRANGE
+[Spirit Summon]
+[Spirit Summon]
+[Spirit Summon]
+
+
+
+[Talisman] Crimson Amber Medallion
+[Talisman] Crimson Amber Medallion +1
+[Talisman] Crimson Amber Medallion +2
+[Talisman] Cerulean Amber Medallion
+[Talisman] Cerulean Amber Medallion +1
+[Talisman] Cerulean Amber Medallion +2
+[Talisman] Viridian Amber Medallion
+[Talisman] Viridian Amber Medallion +1
+[Talisman] Viridian Amber Medallion +2
+[SACRED] Arsenal Charm
+[SACRED] Arsenal Charm +1
+[SACRED] Great-Jar's Arsenal
+[Talisman] Erdtree's Favor
+[Talisman] Erdtree's Favor (Cycled)
+[Talisman] Erdtree's Favor (Cycled)
+[Talisman] Erdtree's Favor +1
+[Talisman] Erdtree's Favor +1 (Cycled)
+[Talisman] Erdtree's Favor +1 (Cycled)
+[Talisman] Erdtree's Favor +2
+[Talisman] Erdtree's Favor +2 (Cycled)
+[Talisman] Erdtree's Favor +2 (Cycled)
+[SACRED] Radagon's Scarseal
+[SACRED] Radagon's Soreseal
+[SACRED] Radagon's Soreseal
+[Talisman] Starscourge Heirloom
+[Talisman] Prosthesis-Wearer Heirloom
+[Talisman] Stargazer Heirloom
+[Talisman] Two Fingers Heirloom
+[Talisman] Silver Scarab
+[SACRED] Gyre's Lucky Hat Item Discovery
+[Talisman] Gold Scarab
+[SACRED] Moon of Nokstella
+[SACRED] Moon of Nokstella Raptor of the Mists
+[SACRED] Moon of Nokstella Raptor of the Mists Apply
+[SACRED] Moon of Nokstella Raptor of the Mists Damage
+[SACRED] Moon of Nokstella Unseen Form
+[Talisman] Green Turtle Talisman
+[Talisman] Stalwart Horn Charm
+[Talisman] Stalwart Horn Charm +1
+[Talisman] Immunizing Horn Charm
+[Talisman] Immunizing Horn Charm +1
+[Talisman] Clarifying Horn Charm
+[Talisman] Clarifying Horn Charm +1
+[Talisman] Prince of Death's Pustule
+[Talisman] Prince of Death's Cyst
+[Talisman] Mottled Necklace
+[Talisman] Mottled Necklace +1
+[Talisman] Bull-Goat's Talisman
+[SACRED] Marika's Scarseal
+[SACRED] Marika's Soreseal
+[SACRED] Marika's Soreseal
+[Talisman] Warrior Jar Shard
+[Talisman] Shard of Alexander
+[Talisman] Millicent's Prosthesis
+[Talisman] Millicent's Prosthesis (Triggered by Accumulator)
+[Talisman] Millicent's Prosthesis (Triggered by Accumulator)
+[Talisman] Millicent's Prosthesis (Triggered by Accumulator)
+[Talisman] Millicent's Prosthesis (Triggered by Accumulator)
+[Talisman] Millicent's Prosthesis - Boost - Stage 1
+[Talisman] Millicent's Prosthesis - Boost - Stage 2
+[Talisman] Millicent's Prosthesis - Boost - Stage 3
+[Talisman] Millicent's Prosthesis - Boost - Stage 4
+[Talisman] Magic Scorpion Charm
+[Talisman] Lightning Scorpion Charm
+[Talisman] Fire Scorpion Charm
+[Talisman] Sacred Scorpion Charm
+[Talisman] Red-Feathered Branchsword
+[Talisman] Ritual Sword Talisman
+[Talisman] Spear Talisman
+[Talisman] Hammer Talisman
+[Talisman] Winged Sword Insignia
+[Talisman] Winged Sword Insignia (Triggered by Accumulator)
+[Talisman] Winged Sword Insignia (Triggered by Accumulator)
+[Talisman] Winged Sword Insignia (Triggered by Accumulator)
+[Talisman] Winged Sword Insignia - Boost - Stage 1
+[Talisman] Winged Sword Insignia - Boost - Stage 2
+[Talisman] Winged Sword Insignia - Boost - Stage 3
+[Talisman] Winged Sword Insignia - Boost - Stage 4
+[Talisman] Rotten Winged Sword Insignia
+[Talisman] Rotten Winged Sword Insignia (Triggered by Accumulator)
+[Talisman] Rotten Winged Sword Insignia (Triggered by Accumulator)
+[Talisman] Rotten Winged Sword Insignia (Triggered by Accumulator)
+[Talisman] Rotten Winged Sword Insignia - Boost - Stage 1
+[Talisman] Rotten Winged Sword Insignia - Boost - Stage 2
+[Talisman] Rotten Winged Sword Insignia - Boost - Stage 3
+[Talisman] Rotten Winged Sword Insignia - Boost - Stage 4
+[Talisman] Dagger Talisman
+[Talisman] Arrow's Reach Talisman
+[Talisman] Blue Dancer Charm
+[Talisman] Twinblade Talisman
+[Talisman] Axe Talisman
+[Talisman] Lance Talisman
+[Talisman] Arrow's Sting Talisman
+[Talisman] Lord of Blood's Exultation
+[Talisman] Lord of Blood's Exultation (Cycled)
+[Talisman] Kindred of Rot's Exultation
+[Talisman] Kindred of Rot's Exultation (Cycled)
+[Talisman] Claw Talisman
+[Talisman] Roar Medallion
+[Talisman] Roar Medallion
+[Talisman] Curved Sword Talisman
+[Talisman] Companion Jar
+[Talisman] Perfumer's Talisman
+[Talisman] Graven-School Talisman
+[Talisman] Graven-Mass Talisman
+[Talisman] Faithful's Canvas Talisman
+[Talisman] Flock's Canvas Talisman
+[Talisman] Old Lord's Talisman
+[SACRED] Radagon Icon
+[Talisman] Primal Glintstone Blade
+[Talisman] Primal Glintstone Blade (Cycled)
+[Talisman] Godfrey Icon
+
+[Talisman] Dragoncrest Shield Talisman
+[Talisman] Dragoncrest Shield Talisman +1
+[Talisman] Dragoncrest Shield Talisman +2
+[Talisman] Dragoncrest Greatshield Talisman
+[Talisman] Spelldrake Talisman
+[Talisman] Spelldrake Talisman +1
+[Talisman] Spelldrake Talisman +2
+[Talisman] Flamedrake Talisman
+[Talisman] Flamedrake Talisman +1
+[Talisman] Flamedrake Talisman +2
+[Talisman] Boltdrake Talisman
+[Talisman] Boltdrake Talisman +1
+[Talisman] Boltdrake Talisman +2
+[Talisman] Haligdrake Talisman
+[Talisman] Haligdrake Talisman +1
+[Talisman] Haligdrake Talisman +2
+[Talisman] Pearldrake Talisman
+[Talisman] Pearldrake Talisman +1
+[Talisman] Pearldrake Talisman +2
+[Talisman] Crucible Scale Talisman
+[Talisman] Crucible Feather Talisman
+[Talisman] Crucible Feather Talisman (Cycled)
+[Talisman] Blue-Feathered Branchsword
+[Talisman] Ritual Shield Talisman
+[Talisman] Greatshield Talisman
+[Talisman] Crucible Knot Talisman
+[Talisman] Crimson Seed Talisman
+[Talisman] Cerulean Seed Talisman
+[Talisman] Blessed Dew Talisman
+[Talisman] Taker's Cameo
+[Talisman] Taker's Cameo (On Enemy Kill)
+[Talisman] Godskin Swaddling Cloth
+[Talisman] Godskin Swaddling Cloth (Triggered by Accumulator)
+[Talisman] Assassin's Crimson Dagger
+[SACRED] Critical Hit Detector
+[SACRED] Assassin's Crimson Dagger (Triggered on State Info) (350501)
+[SACRED] Assassin's Crimson Dagger (Triggered on State Info) (350502)
+[Talisman] Assassin's Cerulean Dagger
+[Talisman] Assassin's Cerulean Dagger (Triggered on State Info)
+[Talisman] Assassin's Cerulean Dagger (Triggered on State Info)
+[SACRED] Blasphemous Blade Crit [Triggered]
+[SACRED] Blasphemous Blade Crit [Triggered]
+[SACRED] GG Soulflame Crit [Triggered]
+[SACRED] GG Soulflame Crit [Triggered]
+[Talisman] Crepus's Vial
+[Talisman] Concealing Veil
+[Talisman] Carian Filigreed Crest
+[SACRED] Longtail Cat Talisman
+[SACRED] Longtail Cat Talisman
+[SACRED] Fall Damage Immunity
+[SACRED] Fall Death Immunity
+[Talisman] Shabriri's Woe
+[Talisman] Daedicar's Woe
+[Talisman] Sacrificial Twig
+[Talisman] Furled Finger's Trick-Mirror
+[Talisman] Host's Trick-Mirror
+[SACRED] Entwining Umbilical Cord
+[SACRED] Entwining Umbilical Cord
+[Talisman] Ancestral Spirit's Horn
+[Talisman] Ancestral Spirit's Horn (On Enemy Kill)
+[SACRED] Rykard's Great Rune Kill Heal
+[SACRED] Dragon Flesh
+[SACRED] Dragonscale Flesh
+
+
+
+
+
+
+[Item] Phantom Great Rune
+[Item] Phantom Great Rune
+[Item] Phantom Great Rune (On Enemy Kill)
+[Item] Phantom Great Rune
+[Item] Phantom Great Rune (Cycled)
+[Item] Phantom Great Rune
+[Item] Sacred Order Pot
+[Item] Freezing Pot
+[Item] Poison Pot
+[Item] Roped Fetid Pot
+[Item] Roped Fetid Pot - Self
+[Item] Roped Poison Pot
+[Item] Roped Fly Pot
+[Item] Roped Freezing Pot
+[Item] Roped Holy Water Pot
+[Item] Albinauric Pot
+[Item] Sleep Pot
+[Item] Rot Pot
+[Item] Rowa Raisin
+[Item] Sweet Raisin
+[Item] Frozen Raisin
+[Item] Boiled Crab
+[Item] Boiled Prawn
+[Item] Flask of Crimson Tears
+[Item] Flask of Crimson Tears +1
+[Item] Flask of Crimson Tears +2
+[Item] Flask of Crimson Tears +3
+[Item] Flask of Crimson Tears +4
+[Item] Flask of Crimson Tears +5
+[Item] Flask of Crimson Tears +6
+[Item] Flask of Crimson Tears +7
+[Item] Flask of Crimson Tears +8
+[Item] Flask of Crimson Tears +9
+[Item] Flask of Crimson Tears +10
+[Item] Flask of Crimson Tears +11
+[Item] Flask of Crimson Tears +12
+[Item] Flask of Crimson Tears (Chained)
+[Item] Flask of Crimson Tears +1 (Chained)
+[Item] Flask of Crimson Tears +2 (Chained)
+[Item] Flask of Crimson Tears +3 (Chained)
+[Item] Flask of Crimson Tears +4 (Chained)
+[Item] Flask of Crimson Tears +5 (Chained)
+[Item] Flask of Crimson Tears +6 (Chained)
+[Item] Flask of Crimson Tears +7 (Chained)
+[Item] Flask of Crimson Tears +8 (Chained)
+[Item] Flask of Crimson Tears +9 (Chained)
+[Item] Flask of Crimson Tears +10 (Chained)
+[Item] Flask of Crimson Tears +11 (Chained)
+[Item] Flask of Crimson Tears +12 (Chained)
+[Item] Flask of Cerulean Tears
+[Item] Flask of Cerulean Tears +1
+[Item] Flask of Cerulean Tears +2
+[Item] Flask of Cerulean Tears +3
+[Item] Flask of Cerulean Tears +4
+[Item] Flask of Cerulean Tears +5
+[Item] Flask of Cerulean Tears +6
+[Item] Flask of Cerulean Tears +7
+[Item] Flask of Cerulean Tears +8
+[Item] Flask of Cerulean Tears +9
+[Item] Flask of Cerulean Tears +10
+[Item] Flask of Cerulean Tears +11
+[Item] Flask of Cerulean Tears +12
+[Item] Flask of Crimson Tears - Friendly Heal
+[Item] Flask of Crimson Tears +1 - Friendly Heal
+[Item] Flask of Crimson Tears +2 - Friendly Heal
+[Item] Flask of Crimson Tears +3 - Friendly Heal
+[Item] Flask of Crimson Tears +4 - Friendly Heal
+[Item] Flask of Crimson Tears +5 - Friendly Heal
+[Item] Flask of Crimson Tears +6 - Friendly Heal
+[Item] Flask of Crimson Tears +7 - Friendly Heal
+[Item] Flask of Crimson Tears +8 - Friendly Heal
+[Item] Flask of Crimson Tears +9 - Friendly Heal
+[Item] Flask of Crimson Tears +10 - Friendly Heal
+[Item] Flask of Crimson Tears +11 - Friendly Heal
+[Item] Flask of Crimson Tears +12 - Friendly Heal
+
+[Item] Deathsbane Jerky
+[Item] Raw Meat Dumpling
+[Item] Raw Meat Dumpling (Chained)
+[SACRED] Starlight Shards
+[Item] Immunizing White Cured Meat
+[Item] Invigorating White Cured Meat
+[Item] Clarifying White Cured Meat
+[Item] Dappled White Cured Meat
+[Item] Deathsbane White Jerky
+[Item] Shield Grease - Right
+[Item] Shield Grease - Left
+[Item] Shield Grease (Cycled)
+[Item] Poisonbone Dart
+[Item] Poisoned Stone
+[Item] Poisoned Stone Clump
+
+[Item] Soft Cotton
+
+[Item] Soft Cotton
+[SACRED] Soap
+[Item] Soap (Chained)
+[Item] Soap (Chained)
+[Item] Pureblood Knight's Medal (Chained)
+[Item] Pureblood Knight's Medal
+[Item] Miquella's Needle
+
+[Item] Mimic's Veil
+[Item] Mimic's Veil
+
+[Item] Frenzyflame Stone - Bullet - Heal
+[Item] Frenzyflame Stone - Heal
+[Item] Frenzyflame Stone - Madness Targeting
+[Item] Frenzyflame Stone - Madness
+[Item] Frenzyflame Stone - Heal Condition
+[Item] Frenzyflame Stone
+[Item] Frenzyflame Stone - Bullet
+[Item] Scriptstone
+[Item] Scriptstone (Cycled)
+[Item] Bewitching Branch
+[Item] Baldachin's Blessing - Used
+[Item] Baldachin's Blessing - Used (Cycled)
+[Item] Baldachin's Blessing - Remove Held Debuff
+[Item] Baldachin's Blessing - Held Debuff
+
+
+[SACRED] Uplifting Aromatic
+[Item] Uplifting Aromatic
+[SACRED] Leaden Hardtear/Ironjar Aromatic
+[SACRED] Leaden Hardtear/Ironjar Aromatic [Cycle]
+[SACRED] Leaden Hardtear/Ironjar Aromatic [Cycle]
+[SACRED] Leaden Hardtear/Ironjar Aromatic [Cycle]
+[SACRED] Leaden Hardtear/Ironjar Aromatic [Cycle] Shield Block Rate
+[Item] Ironjar Aromatic
+
+
+
+
+[Item] Poison Spraymist
+[Item] Acid Spraymist
+[Tear] Crimsonburst Crystal Tear
+[Tear] Greenburst Crystal Tear
+[Tear] Opaline Hardtear
+[Tear] Winged Crystal Tear
+[Tear] Spiked Cracked Tear
+[Tear] Windy Crystal Tear
+[Tear] Windy Crystal Tear (Cycled)
+[Tear] Twiggy Cracked Tear
+
+[SACRED] Stonebarb Cracked Tear
+[Tear] Purifying Crystal Tear
+[Tear] Flame-Shrouding Cracked Tear
+[Tear] Magic-Shrouding Cracked Tear
+[Tear] Lightning-Shrouding Cracked Tear
+[Tear] Holy-Shrouding Cracked Tear
+[Tear] Cerulean Hidden Tear
+[Tear] Cerulean Hidden Tear (Cycled)
+[Tear] Cerulean Hidden Tear (Cycled)
+[Tear] Ruptured Crystal Tear
+[Tear] Ruptured Crystal Tear (Cycled)
+[Tear] Ruptured Crystal Tear (Chained)
+[Tear] Ruptured Crystal Tear (Chained)
+[Tear] Ruptured Crystal Tear (Chained)
+[Tear] Ruptured Crystal Tear (Chained)
+[Tear] Ruptured Crystal Tear (Chained)
+[Tear] Ruptured Crystal Tear (Chained)
+[Tear] Ruptured Crystal Tear
+[Tear] Ruptured Crystal Tear (Chained)
+[Tear] Ruptured Crystal Tear (Chained)
+[Tear] Ruptured Crystal Tear (Chained)
+
+
+
+
+
+
+
+
+
+
+[HKS] Goods Stamina Cost (Throwing Knife, Wraith Calling Bell)
+
+
+
+
+[HKS] Goods Stamina Cost (Throw, Aromatics, others)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Sorcery] Terra Magicus
+[Sorcery] Starlight
+[Sorcery] Rennala's Full Moon
+[Sorcery] Ranni's Dark Moon
+
+[Sorcery] Glintstone Icecrag
+[Sorcery] Zamor Ice Storm
+[Sorcery] Freezing Mist
+
+[Sorcery] Adula's Moonblade
+[Sorcery] Scholar's Armament
+[Sorcery] Scholar's Shield
+[Sorcery] Scholar's Shield (Cycled)
+[Sorcery] Lucidity
+[Sorcery] Lucidity
+[Sorcery] Lucidity
+[Sorcery] Lucidity
+[Sorcery] Frozen Armament
+[Sorcery] Frozen Armament
+
+
+
+[Sorcery] Unseen Blade
+[Sorcery] Unseen Form
+[Sorcery] Unseen Form
+[Sorcery] Unseen Form
+[Sorcery] Unseen Form
+[Sorcery] Unseen Form
+
+
+[Sorcery] Briars of Sin
+
+
+
+
+[Sorcery] Briars of Punishment
+
+
+[Sorcery] Explosive Ghostflame
+[Sorcery] Explosive Ghostflame
+[Sorcery] Fia's Mist
+[Sorcery] Death Lightning
+[Sorcery] Death Lightning
+[Incantation] Flame Cleanse Me
+[Incantation] Flame Cleanse Me
+[Incantation] Flame Cleanse Me
+[Incantation] Flame Cleanse Me
+[Incantation] Flame Cleanse Me
+[Incantation] Flame Cleanse Me
+[SACRED] Flame Grant Me Strength
+[Incantation] Flame Grant Me Strength
+[Incantation] Flame Grant Me Strength
+[SACRED] Flame - Protect Me
+[Incantation] Black Flame (DoT Black)
+[Incantation] Scouring Black Flame (DoT Black)
+[Incantation] Noble Presence
+[Incantation] Noble Presence (DoT Black)
+[Incantation] Black Flame Ritual (DoT Black)
+[Incantation] Black Flame Blade
+[Incantation] Black Flame Blade (DoT Black)
+[SACRED] GG Soulflame Heresy
+[SACRED] GG Black Flame
+[SACRED] GG Heresy Apply Crit
+[SACRED] GG Heresy Apply Kill
+[SACRED] GG Soulflame Apply
+[SACRED] GG Soulflame [Hit Trigger]
+[SACRED] GG Soulflame [Kill Trigger]
+[SACRED] GG Soulflame Crit Damage Boost
+[SACRED] GG Soulflame
+[SACRED] Black Sun's Zenith
+[SACRED] Black Sun's Zenith
+[SACRED] Black Sun's Zenith/Thop's Barrier
+[SACRED] Black Sun's Zenith Blight
+[SACRED] Blasphemous Blade Blood VFX Apply
+[SACRED] Blasphemous Blade Blood VFX
+[SACRED] Blasphemous Blade Blood Eater
+[SACRED] Blasphemous Blade Blood Eater [Cycle]
+[SACRED] Blasphemous Blade Bleed Attack Apply
+[SACRED] Blasphemous Blade Bleed Attack
+[SACRED] Blasphemous Blade Savage Lion's Claw Bleed Apply
+[SACRED] Blasphemous Blade Savage Lion's Claw Bleed
+[SACRED] Blasphemous Blade Bloodflame Blast Apply
+[SACRED] Blasphemous Blade Bloodflame Blast Apply 0
+[SACRED] Blasphemous Blade Bloodflame Blast Apply 1
+[SACRED] Blasphemous Blade Bloodflame Blast Apply 2
+[SACRED] Blasphemous Blade Bloodflame Blast Apply 3
+[SACRED] Blasphemous Blade Bloodflame Blast Apply 4
+[SACRED] Blasphemous Blade Bloodflame Blast Apply 5
+[SACRED] Blasphemous Blade Bloodflame Blast Apply 6
+[SACRED] Blasphemous Blade Bloodflame Blast Apply 7
+[SACRED] Blasphemous Blade Bloodflame Blast Apply 8
+[SACRED] Blasphemous Blade Bloodflame Blast Apply 9
+[SACRED] Sovereign Fury Rejection Apply
+[SACRED] Sovereign Fury Rejection
+[SACRED] Sovereign Fury Cost
+[SACRED] Sovereign Fury Apply 1
+[SACRED] Sovereign Fury Apply 2
+[SACRED] Sovereign Fury Apply 3
+[SACRED] Sovereign Fury Ancient Lightning Damage Boost
+[SACRED] Sovereign Fury Attack Lightning
+[SACRED] Sovereign Fury
+[SACRED] Sovereign Ascension Apply 1
+[SACRED] Sovereign Ascension Apply 2
+[SACRED] Sovereign Ascension Apply 3
+[SACRED] Sovereign Ascension Rejection Apply
+[SACRED] Sovereign Ascension Divinity Apply
+[SACRED] Sovereign Ascension Casted 1
+[SACRED] Sovereign Ascension Casted 2
+[SACRED] Sovereign Ascension Casted 3
+[SACRED] Sovereign Ascension Casted 4
+[SACRED] Sovereign Ascension Casted 5
+[SACRED] Sovereign Ascension Casted 6
+[SACRED] Sovereign Ascension Self Damage 1 Apply
+[SACRED] Sovereign Ascension Self Damage 1
+[SACRED] Sovereign Ascension Self Damage 2 Apply
+[SACRED] Sovereign Ascension Self Damage 2
+[SACRED] Sovereign Ascension Damage State Info
+[SACRED] Sovereign Ascension Heal + Bullet
+[SACRED] Sovereign Ascension Death
+[SACRED] Divinity
+[SACRED] Divinity [Cycle]
+[SACRED] Divinity [Chain]
+[SACRED] Divinity Effect Duration
+[SACRED] Divinity Soulflame
+[SACRED] Divinity Soulflame Attack
+[SACRED] Divinity Soulflame State Info
+[SACRED] Divinity Ravenous Bloodflame
+[SACRED] Divinity Ravenous Bloodflame Attack
+[SACRED] Divinity Ravenous Bloodflame State Info
+[SACRED] Divinity Bloodflame Blasphemy VFX
+[SACRED] Margit's Shackle Darkness
+[SACRED] Margit's Shackle Darkness
+[SACRED] Margit's Shackle Darkness [Chain]
+[SACRED] Margit's Shackle Apply 1
+[SACRED] Margit's Shackle Apply 2
+[SACRED] Margit's Shackle Unseen Form
+[SACRED] Margit's Shackle Cure Blight
+[SACRED] Margit's Shackle Cure Blight Buildup
+[SACRED] Margit's Shackle Cure Madness
+[SACRED] Margit's Shackle Cure Madness Buildup
+[SACRED] Margit's Shackle Frenzied Flame Curse Pause Apply
+[SACRED] Margit's Shackle Frenzied Flame Curse Pause
+[SACRED] Mohg's Shackle State Info 0
+[SACRED] Mohg's Shackle Apply 1
+[SACRED] Mohg's Shackle Apply 2
+[SACRED] Mohg's Shackle Remove Bleed
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed Apply 1
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed 1
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed Apply 2
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed 2
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed Apply 3
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed 3
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed Apply 4
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed 4
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed Apply 5
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed 5
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed Apply 6
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed 6
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed Apply 7
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed 7
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed Apply 8
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed 8
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed Apply 9
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed 9
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed Apply 10
+[SACRED] Mohg's Shackle/BB Lion's Claw Bloodflame Blast Bleed 10
+[SACRED] Mohg's Shackle/BB Lion's Claw Self Damage
+[SACRED] Zweihander Sunlight Blade
+[SACRED] Zweihander Sunlight Blade Accumulator
+[SACRED] Zweihander Sunlight Blade HP Regen
+[SACRED] Ravenous Bloodflame Apply 0 Special Attack 01
+[SACRED] Ravenous Bloodflame Apply 0 Special Attack 02
+[SACRED] Ravenous Bloodflame Apply 01
+[SACRED] Ravenous Bloodflame Apply 02
+[SACRED] Ravenous Bloodflame Apply 1
+[SACRED] Ravenous Bloodflame 1
+[SACRED] Ravenous Bloodflame Delay 1
+[SACRED] Ravenous Bloodflame Hit Trigger 1
+[SACRED] Ravenous Bloodflame State Info 1
+[SACRED] Ravenous Bloodflame Apply 2
+[SACRED] Ravenous Bloodflame 2
+[SACRED] Ravenous Bloodflame Delay 2
+[SACRED] Ravenous Bloodflame Hit Trigger 2
+[SACRED] Ravenous Bloodflame State Info 2
+[SACRED] Ravenous Bloodflame Apply 3
+[SACRED] Ravenous Bloodflame 3
+[SACRED] Ravenous Bloodflame Delay 3
+[SACRED] Ravenous Bloodflame Hit Trigger 3
+[SACRED] Ravenous Bloodflame State Info 3
+[SACRED] Ravenous Bloodflame Apply 4
+[SACRED] Ravenous Bloodflame 4
+[SACRED] Ravenous Bloodflame Delay 4
+[SACRED] Ravenous Bloodflame Hit Trigger 4
+[SACRED] Ravenous Bloodflame State Info 4
+[SACRED] Ravenous Bloodflame Apply 5
+[SACRED] Ravenous Bloodflame 5
+[SACRED] Ravenous Bloodflame Delay 5
+[SACRED] Ravenous Bloodflame Hit Trigger 5
+[SACRED] Ravenous Bloodflame State Info 5
+[SACRED] Ravenous Bloodflame Apply 6
+[SACRED] Ravenous Bloodflame 6
+[SACRED] Ravenous Bloodflame Delay 6
+[SACRED] Ravenous Bloodflame Hit Trigger 6
+[SACRED] Ravenous Bloodflame State Info 6 Apply
+[SACRED] Ravenous Bloodflame Apply 7
+[SACRED] Ravenous Bloodflame 7
+[SACRED] Ravenous Bloodflame Delay 7
+[SACRED] Ravenous Bloodflame Hit Trigger 7
+[SACRED] Ravenous Bloodflame State Info 7
+[SACRED] Ravenous Bloodflame State Info 7 Cast VFX Fix
+[SACRED] Ravenous Bloodflame BB Special Attack State Info Apply
+[SACRED] Ravenous Bloodflame BB Special Attack State Info
+[SACRED] Ravenous Bloodflame Mohg's Great Rune State Info
+[SACRED] Ravenous Bloodflame Remove 1 Apply
+[SACRED] Ravenous Bloodflame Remove 1
+[SACRED] Ravenous Bloodflame Remove 2 Apply
+[SACRED] Ravenous Bloodflame Remove 2
+[SACRED] Ravenous Bloodflame Remove 3 Apply
+[SACRED] Ravenous Bloodflame Remove 3
+[SACRED] Ravenous Bloodflame Remove 4 Apply
+[SACRED] Ravenous Bloodflame Remove 4
+[SACRED] Ravenous Bloodflame Remove 5 Apply
+[SACRED] Ravenous Bloodflame Remove 5
+[SACRED] Ravenous Bloodflame Remove 6 Apply
+[SACRED] Ravenous Bloodflame Remove 6
+[SACRED] Ravenous Bloodflame Remove 7 Apply
+[SACRED] Ravenous Bloodflame Remove 7
+[SACRED] Ravenous Bloodflame Remove 8 Apply
+[SACRED] Ravenous Bloodflame Remove 8
+[SACRED] Ravenous Bloodflame Heal on Hit
+[SACRED] Heresy Apply 1
+[SACRED] Heresy 1
+[SACRED] Heresy Delay 1
+[SACRED] Heresy State Info 1
+[SACRED] Heresy Apply 2
+[SACRED] Heresy 2
+[SACRED] Heresy Delay 2
+[SACRED] Heresy State Info 2
+[SACRED] Heresy Apply 3
+[SACRED] Heresy 3
+[SACRED] Heresy Delay 3
+[SACRED] Heresy State Info 3
+[SACRED] Heresy Apply 4
+[SACRED] Heresy 4
+[SACRED] Heresy Delay 4
+[SACRED] Heresy State Info 4
+[SACRED] Heresy Apply 5
+[SACRED] Heresy 5
+[SACRED] Heresy Delay 5
+[SACRED] Heresy State Info 5
+[SACRED] Heresy Apply 6
+[SACRED] Heresy 6
+[SACRED] Heresy Delay 6
+[SACRED] Heresy State Info 6
+[SACRED] Heresy Apply 7
+[SACRED] Heresy 7
+[SACRED] Heresy Delay 7
+[SACRED] Heresy State Info 7
+[SACRED] Heresy Apply 8
+[SACRED] Heresy 8
+[SACRED] Heresy Delay 8
+[SACRED] Heresy State Info 8
+[SACRED] Heresy Apply 9
+[SACRED] Heresy 9
+[SACRED] Heresy Delay 9
+[SACRED] Heresy State Info 9
+[SACRED] Heresy Apply 10
+[SACRED] Heresy 10
+[SACRED] Heresy Delay 10
+[SACRED] Heresy State Info 10
+[SACRED] Bloodflame Blasphemy HP Recovery Apply
+[SACRED] Bloodflame Blasphemy HP Recovery
+[SACRED] Bloodflame Blasphemy State Info Apply
+[SACRED] Bloodflame Blasphemy State Info
+[SACRED] Bloodflame Blasphemy Rapture HP Burn Apply
+[SACRED] Bloodflame Blasphemy Rapture HP Burn
+[SACRED] Bloodflame Blasphemy Rapture Apply
+[SACRED] Bloodflame Blasphemy Rapture
+[SACRED] Bloodflame Blasphemy Apply
+[SACRED] Bloodflame Blasphemy
+[SACRED] Bloodflame Blasphemy Remove Blessings 1
+[SACRED] Bloodflame Blasphemy Remove Sacred Ward 1
+[SACRED] Bloodflame Blasphemy Remove Blessings 2
+[SACRED] Bloodflame Blasphemy Remove Sacred Ward 2
+[SACRED] Bloodflame Blasphemy Flame Grant Me Strength 1 Apply
+[SACRED] Bloodflame Blasphemy Flame Grant Me Strength 1
+[SACRED] Bloodflame Blasphemy Flame Grant Me Strength 2
+[SACRED] Bloodflame Blasphemy Flame Grant Me Strength VFX 1 Apply
+[SACRED] Bloodflame Blasphemy Flame Grant Me Strength VFX 1
+[SACRED] Bloodflame Blasphemy Flame Grant Me Strength VFX 2 Apply
+[SACRED] Bloodflame Blasphemy Flame Grant Me Strength VFX 2
+[SACRED] Bloodflame Blasphemy [Chain]
+[SACRED] Bloodflame Blasphemy Death Protection Detector
+[SACRED] Bloodflame Blasphemy Death Protection
+[SACRED] Bloodflame Blasphemy Death Protection Remove
+[SACRED] Dragon Communion Arcane 1
+[SACRED] Dragon Communion Arcane 2
+[SACRED] Dragon Communion Arcane 3
+[SACRED] Dragon Communion Arcane 10
+[SACRED] Dragon Communion Curse
+[SACRED] Dragon Communion Bayle Curse
+[SACRED] Dragon Communion Curse 2 State Info
+[SACRED] Frenzied Flame Curse State Info 0
+[SACRED] Frenzied Flame Curse Remove 0
+[SACRED] Frenzied Flame Curse Apply 1A
+[SACRED] Frenzied Flame Curse Apply 1B
+[SACRED] Frenzied Flame Curse Apply 1C
+[SACRED] Frenzied Flame Curse 1
+[SACRED] Frenzied Flame Curse Delay 1
+[SACRED] Frenzied Flame Curse State Info 1
+[SACRED] Frenzied Flame Curse Apply 2A
+[SACRED] Frenzied Flame Curse Apply 2B
+[SACRED] Frenzied Flame Curse Apply 2C
+[SACRED] Frenzied Flame Curse 2
+[SACRED] Frenzied Flame Curse Delay 2
+[SACRED] Frenzied Flame Curse State Info 2
+[SACRED] Frenzied Flame Curse Apply 3A
+[SACRED] Frenzied Flame Curse Apply 3B
+[SACRED] Frenzied Flame Curse 3
+[SACRED] Frenzied Flame Curse State Info 3
+[SACRED] Frenzied Flame Curse Remove Apply
+[SACRED] Frenzied Flame Curse Remove 1
+[SACRED] Frenzied Flame Curse Remove 2
+[SACRED] Frenzied Flame Curse Remove 3
+[SACRED] Frenzied Flame Curse Pause Apply
+[SACRED] Frenzied Flame Curse Pause
+[SACRED] Frenzied Flame Curse Howl Apply
+[SACRED] Frenzied Flame Curse Howl
+[SACRED] Frenzied Flame Curse Howl Madness
+[SACRED] Frenzied Flame Curse Howl DoT
+[SACRED] Elderblood Greatbow Self Damage Apply
+[SACRED] Elderblood Greatbow Self Damage 1
+[SACRED] Elderblood Greatbow Self Damage 2
+[SACRED] Totality State Info Apply
+[SACRED] Totality State Info
+[SACRED] Totality Wrath 1 Apply
+[SACRED] Totality Wrath 1 Apply
+[SACRED] Totality Wrath 1 Apply
+[SACRED] Totality Wrath 1 Apply
+[SACRED] Totality Wrath 1 Apply
+[SACRED] Totality Wrath 1 Apply
+[SACRED] Totality Wrath 1
+[SACRED] Totality Wrath 2
+[SACRED] Totality Blessing of the Erdtree Apply Scarseal
+[SACRED] Totality Blessing of the Erdtree Apply
+[SACRED] Totality Sacred Ward Apply
+[SACRED] Totality Sacred Ward
+[SACRED] Totality Sacred Ward Ally
+[SACRED] Totality Invincibility
+[SACRED] Totality State Info Remove 0
+[SACRED] Totality State Info Remove 1
+[SACRED] Totality State Info Remove 2
+[SACRED] Totality State Info Apply Radagon's Soreseal
+[SACRED] Totality State Info Apply Marika's Soreseal
+[SACRED] Totality Law of Regression 1 Scarseal
+[SACRED] Totality Law of Regression 1
+[SACRED] Totality Law of Regression 2
+[SACRED] Totality Law of Regression 3
+[SACRED] Totality Law of Regression 4
+[SACRED] Totality Law of Regression 5
+[SACRED] Totality Law of Regression 6
+[SACRED] Totality Law of Regression 7
+[SACRED] Totality Law of Regression Contract SpEffect Duration
+[SACRED] Endure State Info 2 FP Apply
+[SACRED] Endure State Info 2 FP
+[SACRED] Endure State Info 2 No FP Apply
+[SACRED] Endure State Info 3 No FP
+[SACRED] Endure Apply
+[SACRED] Endure No FP Apply
+[SACRED] Endure FP Consumption
+[SACRED] Endure Apply 0
+[SACRED] Endure Apply 1
+[SACRED] Endure Apply 2
+[SACRED] Endure Apply 3
+[SACRED] Endure Apply 4
+[SACRED] Endure Apply 5
+[SACRED] Endure Apply 6
+[SACRED] Endure Apply 7
+[SACRED] Endure Apply 8
+[SACRED] Endure Apply 9
+[SACRED] Scaled Armor
+[SACRED] Scaled Armor (Altered)
+[SACRED] Scaled Gauntlets
+[SACRED] Scaled Greaves
+[SACRED] Scaled Set Red
+[SACRED] Scaled Set Red (Altered)
+[SACRED] Scaled Set White
+[SACRED] Scaled Set White (Altered)
+[SACRED] Scaled Set Gold
+[SACRED] Scaled Set Gold (Altered)
+[SACRED] Scaled Set Red Remove
+[SACRED] Scaled Set Gold Remove
+[SACRED] Fatesever Needle
+[SACRED] Black Flame's Protection
+[Incantation] Black Flame's Protection
+[Incantation] Bloodflame Talons (Self)
+[Incantation] Bloodflame Talons (Cycled)
+[Incantation] Bloodboon (Self)
+[Incantation] Bloodboon (Cycled)
+[Incantation] Bloodflame Blade (Self)
+[Incantation] Bloodflame Blade (Cycled)
+[Incantation] Bloodflame Blade (Cycled)
+[SACRED] Barrier of Gold
+[SACRED] Protection of the Erdtree
+[Incantation] Rejection
+[Incantation] Wrath of Gold
+[Incantation] Urgent Heal
+[Incantation] Urgent Heal - Allies
+[Incantation] Heal
+[Incantation] Heal - Allies
+[Incantation] Great Heal
+[Incantation] Great Heal - Allies
+[Incantation] Lord's Heal
+[Incantation] Lord's Heal - Allies
+[Incantation] Erdtree Heal
+[Incantation] Erdtree Heal - Allies
+[SACRED] Blessing's Boon
+[SACRED] Blessing's Boon
+[SACRED] Blessing of the Erdtree
+[SACRED] Blessing of the Erdtree
+[Incantation] Cure Poison
+[Incantation] Cure Poison
+[Incantation] Lord's Aid
+[Incantation] Lord's Aid
+[Incantation] Lord's Aid
+[Incantation] Lord's Aid
+[Incantation] Lord's Aid
+[Incantation] Lord's Aid
+[Incantation] Lord's Aid
+[Incantation] Lord's Aid
+[Incantation] Lord's Aid
+[Incantation] Lord's Aid
+[Incantation] Lord's Aid
+[Incantation] Lord's Aid
+[SACRED] Flame Fortification
+[SACRED] Magic Fortification
+[SACRED] Lightning Fortification
+[SACRED] Divine Fortification
+[SACRED] Lord's Divine Fortification
+[Sorcery] Night Maiden's Mist
+[Incantation] Assassin's Approach
+[Incantation] Assassin's Approach (Cycled)
+[Incantation] Assassin's Approach
+[Incantation] Darkness
+[Incantation] Darkness (Chained)
+[Incantation] Golden Vow
+[Incantation] Golden Vow (Cycled)
+[Incantation] Golden Vow
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Law of Regression
+[Incantation] Immutable Shield
+[Incantation] Immutable Shield (Cycled)
+[Incantation] Immutable Shield
+[Incantation] Litany of Proper Death
+[Incantation] Law of Causality
+[Incantation] Law of Causality (Chained)
+[Incantation] Law of Causality (Chained)
+[Incantation] Law of Causality (Chained)
+[Incantation] Law of Causality (Chained)
+[Incantation] Law of Causality (Chained)
+[Incantation] Law of Causality
+[Incantation] Law of Causality (Chained)
+[Incantation] Order's Blade
+[Incantation] Order Healing
+[Incantation] Order Healing
+[Incantation] Bestial Vitality
+[Incantation] Bestial Constitution
+[Incantation] Bestial Constitution
+[Incantation] Bestial Constitution
+[Incantation] Bestial Constitution
+[Incantation] Frozen Lightning Spear (Self)
+[Incantation] Electrify Armament
+[Incantation] Vyke's Dragonbolt
+[SACRED] Vyke's Dragonbolt
+[SACRED] Vyke's Dragonbolt [Cycle]
+
+[SACRED] Dragonbolt Blessing
+[SACRED] Dragonbolt Blessing [Cycle]
+[Incantation] Dragonice (Self)
+[Incantation] Borealis's Mist (Self)
+[Incantation] Rotten Breath (Self)
+[Incantation] Ekzyke's Decay (Self)
+[Incantation] Greyoll's Roar
+
+
+
+
+[Incantation] Poison Mist (Self)
+[Incantation] Poison Armament (Self)
+[Incantation] Poison Armament
+[Incantation] Scarlet Aeonia (Self)
+[Incantation] Scarlet Aeonia
+
+
+
+[Incantation] The Flame of Frenzy
+[Incantation] The Flame of Frenzy
+
+
+[Incantation] Unendurable Frenzy
+[Incantation] Unendurable Frenzy (Self)
+[Incantation] Frenzied Burst
+[Incantation] Frenzied Burst
+
+
+[Incantation] Howl of Shabriri
+[Incantation] Howl of Shabriri
+[Incantation] Howl of Shabriri (Self)
+[Incantation] Howl of Shabriri
+[Incantation] Howl of Shabriri
+[Incantation] Howl of Shabriri
+[Incantation] Fire's Deadly Sin
+[Incantation] Fire's Deadly Sin
+[Incantation] Fire's Deadly Sin
+[Incantation] Fire's Deadly Sin
+[Incantation] Fire's Deadly Sin
+[Incantation] Fire's Deadly Sin
+[Incantation] Fire's Deadly Sin
+[SACRED] Golden Lightning Fortification
+[SACRED] NPC Sovereign Fury
+[SACRED] NPC Vyke's Dragonbolt
+[SACRED] NPC Vyke's Dragonbolt [Cycle]
+
+
+
+[Weapon] Celebrant's Sickle - Rune Gain on Hit
+[Weapon] Celebrant's Sickle - Icon
+
+[Weapon] Cinquedea - Boost Incantation Power
+[Weapon] Carian Sorcery Sword
+[Weapon] Blasphemous Blade - Restore HP on Kill
+[Weapon] Blasphemous Blade (On Enemy Kill)
+[Weapon] Sword of Milos - Restore FP on Kill
+[Weapon] Sword of Milos (On Enemy Kill)
+[Weapon] Serpent-God's Curved Sword - Restore HP on Kill
+[Weapon] Serpent-God's Curved Sword (On Enemy Kill)
+[Weapon] Freyja's Greatsword
+[Weapon] Greathorn Hammer - Restore HP on Kill
+[Weapon] Greathorn Hammer (On Enemy Kill)
+[Weapon] Celebrant's Skull - Rune Gain on Hit
+[Weapon] Great Stars - Restore HP on Hit
+[Weapon] Great Stars - Restore HP on Hit
+[Weapon] Celebrant's Cleaver - Rune Gain on Hit
+[Weapon] Highland Axe - Enhance Roar/Breath Attack
+[Weapon] Sacrificial Axe - Restore FP on Kill
+[Weapon] Sacrificial Axe (On Enemy Kill)
+[Weapon] Butchering Knife - Restore HP on Hit
+[Weapon] Butchering Knife - Icon
+[Weapon] Cleanrot Spear - Raise Immunity
+[Weapon] Celebrant's Rib-Rake - Rune Gain on Hit
+[Weapon] Pest's Glaive - Boost Absorption
+[Weapon] Grave Scythe - Raise Vitality
+[Weapon] Poisoned Hand
+[Weapon] Poisoned Hand (Cycled)
+[Weapon] Madding Hand
+[Weapon] Madding Hand (Cycled)
+[Weapon] Shield of Night
+[Weapon] Perfumer's Shield - Raise Immunity
+[Weapon] Pillory Shield - Raise Vitality
+[Weapon] Rift Shield - Raise Focus
+[Weapon] Ice Crest Shield - Raise Robustness
+[Weapon] Smoldering Shield - Raise Robustness
+[Weapon] Spiralhorn Shield - Raise Immunity Robustness and Focus
+[Weapon] Coil Shield - Raise Immunity
+[Weapon] Twinbird Kite Shield - Boost Absorption and Damage at Low HP
+[Weapon] Twinbird Kite Shield (Cycled)
+[Weapon] Great Turtle Shell - Boost Stamina Recovery
+[Weapon] Shield of the Guilty - Raise Focus
+[Weapon] Icon Shield - Grant HP Restoration
+[Weapon] Ant's Skull Plate - Raise Immunity
+[Weapon] Eclipse Crest Greatshield - Raise Immunity Robustness and Focus
+[Weapon] Maternal Staff - Boosts Ymir Sorcery
+[Weapon] Dryleaf Seal - Boosts Miquella Incantations
+[Weapon] Fire Knight's Seal - Boosts Messmer Incantations
+[Weapon] Spiraltree Seal - Boost Spiral Incantations
+[Weapon] Igon's Greatbow - Boost Igon's Harpoon
+
+[Weapon] Rakshasa's Great Katana
+[Armor] Alberich's Pointed Hat
+[Armor] Alberich's Robe
+[Armor] Alberich's Bracers
+[Armor] Spellblade's Pointed Hat
+[Armor] Spellblade's Traveling Attire
+[Armor] Spellblade's Gloves
+[Armor] Spellblade's Trousers
+[Armor] Spellblade's Traveling Attire (Altered)
+[Armor] Black Knife Armor
+[Armor] Briar Helm
+[Armor] Briar Armor
+[Armor] Briar Gauntlets
+[Armor] Briar Greaves
+[Armor] Briar Armor (Altered)
+[Armor] Shining Horned Headband
+[Armor] Duelist Helm
+[Armor] Duelist Greaves
+[Armor] Gravekeeper Cloak (Altered)
+[Armor] Guardian Garb (Full Bloom)
+[Armor] Pumpkin Helm
+[Armor] Queen's Crescent Crown
+[Armor] Godskin Noble Robe
+[Armor] Crucible Axe Helm
+[Armor] Crucible Axe Armor
+[Armor] Crucible Gauntlets
+[Armor] Crucible Greaves
+[Armor] Crucible Tree Helm
+[Armor] Crucible Tree Armor
+[Armor] Crucible Axe Armor (Altered)
+[Armor] Crucible Tree Armor (Altered)
+[Armor] Lusat's Glintstone Crown
+[Armor] Lusat's Glintstone Crown
+[Armor] Azur's Glintstone Crown
+[Armor] Azur's Glintstone Crown
+[Armor] White Mask
+[Armor] White Mask - Effect
+[Armor] Royal Remains Helm
+[Armor] Royal Remains Armor
+[Armor] Royal Remains Gauntlets
+[Armor] Royal Remains Greaves
+[Armor] Crimson Hood
+[Armor] Navy Hood
+[Armor] Commoner's Garb
+[Armor] Envoy Crown
+[Armor] Twinsage Glintstone Crown
+[Armor] Twinsage Glintstone Crown
+[Armor] Olivinus Glintstone Crown
+[Armor] Olivinus Glintstone Crown
+[Armor] Lazuli Glintstone Crown
+[Armor] Lazuli Glintstone Crown
+[Armor] Lazuli Glintstone Crown
+[Armor] Karolos Glintstone Crown
+[Armor] Karolos Glintstone Crown
+[Armor] Witch's Glintstone Crown
+[Armor] Witch's Glintstone Crown
+[Armor] Okina Mask
+[Armor] Okina Mask
+[Armor] Preceptor's Big Hat
+[Armor] Preceptor's Big Hat
+[Armor] Mask of Confidence
+[Armor] Raptor's Black Feathers
+[Armor] Consort's Mask
+[Armor] Ruler's Mask
+[Armor] Marais Mask
+[Armor] Omen Helm
+[Armor] Omen Helm
+[Armor] Omen Armor
+[Armor] Omen Armor
+[Armor] Omen Gauntlets
+[Armor] Omen Gauntlets
+[Armor] Omen Greaves
+[Armor] Omen Greaves
+[Armor] Hierodas Glintstone Crown
+[Armor] Hierodas Glintstone Crown
+[Armor] Haima Glintstone Crown
+[Armor] Haima Glintstone Crown
+[Armor] Snow Witch Hat
+[Armor] Radiant Gold Mask
+[Armor] Albinauric Mask
+[Armor] Albinauric Mask
+[Armor] Imp Head (Cat)
+[Armor] Imp Head (Fanged)
+[Armor] Imp Head (Long-Tongued)
+[Armor] Imp Head (Corpse)
+[Armor] Imp Head (Wolf)
+[Armor] Imp Head (Elder)
+[Armor] Silver Tear Mask
+[Armor] Silver Tear Mask
+[Armor] Jar
+[Armor] Greathood
+[Armor] Greathood
+[Armor] Haligtree Helm
+[Armor] Haligtree Knight Helm
+[Armor] Sacred Crown Helm
+[Armor] Omensmirk Mask
+[Armor] Ash-of-War Scarab
+[Armor] Ash-of-War Scarab
+[Armor] Incantation Scarab
+[Armor] Incantation Scarab
+[Armor] Glintstone Scarab
+[Armor] Glintstone Scarab
+[Armor] Crimson Tear Scarab
+[Armor] Crimson Tear Scarab
+[Armor] Cerulean Tear Scarab
+[Armor] Cerulean Tear Scarab
+[Armor] Deathbed Dress
+[Armor] Deathbed Dress
+[Armor] Deathbed Dress - Heal
+[Armor] Rotten Duelist Helm
+[Armor] Rotten Duelist Greaves
+[Armor] Rotten Gravekeeper Cloak (Altered)
+[Armor] Mushroom Crown
+[Armor] Mushroom Crown
+[Armor] Black Dumpling
+[Armor] Black Dumpling
+[Armor] Leda's Armor
+[Armor] Leda's Armor (Cycled)
+[Armor] Pelt of Ralva
+[Armor] Thiollier's Mask
+[Armor] Thiollier's Garb
+[Armor] High Priest Hat
+[Armor] High Priest Hat (Cycled)
+[Armor] Finger Robe
+[Armor] Braided Cord Robe
+[Armor] Dancer's Armor Piece
+[Armor] Wise Man's Mask
+[Armor] Ansbach's Attire/Manchettes/Boots
+[Armor] Rakshasa Armor Piece
+[Armor] Rakshasa Armor Piece (Cycled)
+[Armor] Fire Knight Helm
+[Armor] Fire Knight Helm (Cycled)
+[Armor] Fire Knight Armor
+[Armor] Fire Knight Armor (Cycled)
+[Armor] Death Mask Helm
+[Armor] Death Mask Helm
+[Armor] Winged Serpent Helm
+[Armor] Salza's Hood
+[Armor] Death Knight Armor Piece
+[Armor] Death Knight Armor Piece (Cycled)
+[Armor] Curseblade Mask
+[Armor] Curseblade Mask (Cycled)
+[Armor] Messmer's Helm
+[Armor] Messmer's Helm
+[Armor] Gravebird Helm
+[Armor] Gravebird's Blackquill Armor
+[Armor] Horned Warrior Helm
+[Armor] Divine Beast Helm
+[Armor] Divine Beast Helm (Cycled)
+[Armor] Divine Bird Helm
+[Armor] Divine Bird Helm (Cycled)
+[Armor] Divine Bird Warrior Greaves
+[Armor] Circlet of Light
+[Armor] Divine Beast Head
+[Armor] St. Trina's Blossom
+[Armor] Crucible Hammer-Helm
+[Armor] Greatjar
+[Armor] Imp Head (Lion)
+
+
+
+
+
+
+[SACRED] Divinity Perfect Block 0 L VFX
+[SACRED] Divinity Perfect Block 0 R VFX
+[SACRED] Sovereign Fury Perfect Block 1 L VFX
+[SACRED] Sovereign Fury Perfect Block 1 R VFX
+[SACRED] Sovereign Fury Perfect Block 2 L VFX
+[SACRED] Sovereign Fury Perfect Block 2 R VFX
+[SACRED] Sovereign Fury Perfect Block 3 L VFX
+[SACRED] Sovereign Fury Perfect Block 3 R VFX
+[SACRED] Sovereign Fury Perfect Block 4 L VFX
+[SACRED] Sovereign Fury Perfect Block 4 R VFX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment: 0
+Scadutree Fragment: 1
+Scadutree Fragment: 2
+Scadutree Fragment: 3
+Scadutree Fragment: 4
+Scadutree Fragment: 5
+Scadutree Fragment: 6
+Scadutree Fragment: 7
+Scadutree Fragment: 8
+Scadutree Fragment: 9
+Scadutree Fragment: 10
+Scadutree Fragment: 11
+Scadutree Fragment: 12
+Scadutree Fragment: 13
+Scadutree Fragment: 14
+Scadutree Fragment: 15
+Scadutree Fragment: 16
+Scadutree Fragment: 17
+Scadutree Fragment: 18
+Scadutree Fragment: 19
+Scadutree Fragment: 20
+Revered Spirit Ash: 0
+Revered Spirit Ash: 1
+Revered Spirit Ash: 2
+Revered Spirit Ash: 3
+Revered Spirit Ash: 4
+Revered Spirit Ash: 5
+Revered Spirit Ash: 6
+Revered Spirit Ash: 7
+Revered Spirit Ash: 8
+Revered Spirit Ash: 9
+Revered Spirit Ash: 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Weapon] Thiollier's Hidden Needle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Weapon] Fist Weapon - VFX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOTE - Area Scaling: Gravesite Plain
+SOTE - Area Scaling: Belurat, Tower Settlement
+SOTE - Area Scaling: Ellac River
+SOTE - Area Scaling: Castle Ensis / Cerulean Coast
+SOTE - Area Scaling: Scadu Altus
+SOTE - Area Scaling: Rauh Base / Charo's Hidden Grave
+SOTE - Area Scaling: Shadow Keep / Stone Coffin Fissure
+SOTE - Area Scaling: Scadutree Base
+SOTE - Area Scaling: Specimen Storehouse / Recluses' River
+SOTE - Area Scaling: Scaduview / Ancient Ruins of Rauh
+SOTE - Area Scaling: Abyssal Woods / Hinterland
+SOTE - Area Scaling: Finger Birthing Grounds / Jagged Peak / Enir-Ilim
+SOTE - Area Scaling:
+SOTE - Area Scaling:
+SOTE - Area Scaling:
+SOTE - Area Scaling:
+[SACRED] SOTE - Human-NPC Area Scaling: Gravesite Plain
+[SACRED] SOTE - Human-NPC Area Scaling: Belurat- Tower Settlement
+[SACRED] SOTE - Human-NPC Area Scaling: Ellac River
+[SACRED] SOTE - Human-NPC Area Scaling: Castle Ensis / Cerulean Coast
+[SACRED] SOTE - Human-NPC Area Scaling: Scadu Altus
+[SACRED] SOTE - Human-NPC Area Scaling: Rauh Base / Charo's Hidden Grave
+[SACRED] SOTE - Human-NPC Area Scaling: Shadow Keep / Stone Coffin Fissure
+[SACRED] SOTE - Human-NPC Area Scaling: Scadutree Base
+[SACRED] SOTE - Human-NPC Area Scaling: Specimen Storehouse / Recluses' River
+[SACRED] SOTE - Human-NPC Area Scaling: Scaduview / Ancient Ruins of Rauh
+[SACRED] SOTE - Human-NPC Area Scaling: Abyssal Woods / Hinterland
+[SACRED] SOTE - Human-NPC Area Scaling: Finger Birthing Grounds / Jagged Peak / Enir-Ilim
+[SACRED] SOTE - Human-NPC Area Scaling:
+[SACRED] SOTE - Human-NPC Area Scaling:
+[SACRED] SOTE - Human-NPC Area Scaling:
+[SACRED] SOTE - Human-NPC Area Scaling:
+SOTE - NG+ Scaling: Gravesite Plain
+SOTE - NG+ Scaling: Belurat, Tower Settlement
+SOTE - NG+ Scaling: Ellac River
+SOTE - NG+ Scaling: Castle Ensis / Cerulean Coast
+SOTE - NG+ Scaling: Scadu Altus
+SOTE - NG+ Scaling: Rauh Base / Charo's Hidden Grave
+SOTE - NG+ Scaling: Shadow Keep / Stone Coffin Fissure
+SOTE - NG+ Scaling: Scadutree Base
+SOTE - NG+ Scaling: Specimen Storehouse / Recluses' River
+SOTE - NG+ Scaling: Scaduview / Ancient Ruins of Rauh
+SOTE - NG+ Scaling: Abyssal Woods / Hinterland
+SOTE - NG+ Scaling: Finger Birthing Grounds / Jagged Peak / Enir-Ilim
+SOTE - NG+ Scaling:
+SOTE - NG+ Scaling:
+SOTE - NG+ Scaling:
+SOTE - NG+ Scaling:
+SOTE - Human-NPC NG+ Scaling: Gravesite Plain
+SOTE - Human-NPC NG+ Scaling: Belurat, Tower Settlement
+SOTE - Human-NPC NG+ Scaling: Ellac River
+SOTE - Human-NPC NG+ Scaling: Castle Ensis / Cerulean Coast
+SOTE - Human-NPC NG+ Scaling: Scadu Altus
+SOTE - Human-NPC NG+ Scaling: Rauh Base / Charo's Hidden Grave
+SOTE - Human-NPC NG+ Scaling: Shadow Keep / Stone Coffin Fissure
+SOTE - Human-NPC NG+ Scaling: Scadutree Base
+SOTE - Human-NPC NG+ Scaling: Specimen Storehouse / Recluses' River
+SOTE - Human-NPC NG+ Scaling: Scaduview / Ancient Ruins of Rauh
+SOTE - Human-NPC NG+ Scaling: Abyssal Woods / Hinterland
+SOTE - Human-NPC NG+ Scaling: Finger Birthing Grounds / Jagged Peak / Enir-Ilim
+SOTE - Human-NPC NG+ Scaling:
+SOTE - Human-NPC NG+ Scaling:
+SOTE - Human-NPC NG+ Scaling:
+SOTE - Human-NPC NG+ Scaling:
+SOTE - DLC Completion NG+ Scaling: Gravesite Plain
+SOTE - DLC Completion NG+ Scaling: Belurat, Tower Settlement
+SOTE - DLC Completion NG+ Scaling: Ellac River
+SOTE - DLC Completion NG+ Scaling: Castle Ensis / Cerulean Coast
+SOTE - DLC Completion NG+ Scaling: Scadu Altus
+SOTE - DLC Completion NG+ Scaling: Rauh Base / Charo's Hidden Grave
+SOTE - DLC Completion NG+ Scaling: Shadow Keep / Stone Coffin Fissure
+SOTE - DLC Completion NG+ Scaling: Scadutree Base
+SOTE - DLC Completion NG+ Scaling: Specimen Storehouse / Recluses' River
+SOTE - DLC Completion NG+ Scaling: Scaduview / Ancient Ruins of Rauh
+SOTE - DLC Completion NG+ Scaling: Abyssal Woods / Hinterland
+SOTE - DLC Completion NG+ Scaling: Finger Birthing Grounds / Jagged Peak / Enir-Ilim
+SOTE - DLC Completion NG+ Scaling:
+SOTE - DLC Completion NG+ Scaling:
+SOTE - DLC Completion NG+ Scaling:
+SOTE - DLC Completion NG+ Scaling:
+SOTE - Human-NPC DLC Completion NG+ Scaling: Gravesite Plain
+SOTE - Human-NPC DLC Completion NG+ Scaling: Belurat, Tower Settlement
+SOTE - Human-NPC DLC Completion NG+ Scaling: Ellac River
+SOTE - Human-NPC DLC Completion NG+ Scaling: Castle Ensis / Cerulean Coast
+SOTE - Human-NPC DLC Completion NG+ Scaling: Scadu Altus
+SOTE - Human-NPC DLC Completion NG+ Scaling: Rauh Base / Charo's Hidden Grave
+SOTE - Human-NPC DLC Completion NG+ Scaling: Shadow Keep / Stone Coffin Fissure
+SOTE - Human-NPC DLC Completion NG+ Scaling: Scadutree Base
+SOTE - Human-NPC DLC Completion NG+ Scaling: Specimen Storehouse / Recluses' River
+SOTE - Human-NPC DLC Completion NG+ Scaling: Scaduview / Ancient Ruins of Rauh
+SOTE - Human-NPC DLC Completion NG+ Scaling: Abyssal Woods / Hinterland
+SOTE - Human-NPC DLC Completion NG+ Scaling: Finger Birthing Grounds / Jagged Peak / Enir-Ilim
+SOTE - Human-NPC DLC Completion NG+ Scaling:
+SOTE - Human-NPC DLC Completion NG+ Scaling:
+SOTE - Human-NPC DLC Completion NG+ Scaling:
+SOTE - Human-NPC DLC Completion NG+ Scaling:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[DLC] Furnace Golem (Head Critical Damage)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Weapon] Carian Sorcery Sword
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Spirit Summon] Curseblade Meera
+[Spirit Summon] Curseblade Meera +1
+[Spirit Summon] Curseblade Meera +2
+[Spirit Summon] Curseblade Meera +3
+[Spirit Summon] Curseblade Meera +4
+[Spirit Summon] Curseblade Meera +5
+[Spirit Summon] Curseblade Meera +6
+[Spirit Summon] Curseblade Meera +7
+[Spirit Summon] Curseblade Meera +8
+[Spirit Summon] Curseblade Meera +9
+[Spirit Summon] Curseblade Meera +10
+[Spirit Summon] Bloodfiend Hexer's Ashes
+[Spirit Summon] Bloodfiend Hexer's Ashes +1
+[Spirit Summon] Bloodfiend Hexer's Ashes +2
+[Spirit Summon] Bloodfiend Hexer's Ashes +3
+[Spirit Summon] Bloodfiend Hexer's Ashes +4
+[Spirit Summon] Bloodfiend Hexer's Ashes +5
+[Spirit Summon] Bloodfiend Hexer's Ashes +6
+[Spirit Summon] Bloodfiend Hexer's Ashes +7
+[Spirit Summon] Bloodfiend Hexer's Ashes +8
+[Spirit Summon] Bloodfiend Hexer's Ashes +9
+[Spirit Summon] Bloodfiend Hexer's Ashes +10
+[Spirit Summon] Gravebird Ashes
+[Spirit Summon] Gravebird Ashes +1
+[Spirit Summon] Gravebird Ashes +2
+[Spirit Summon] Gravebird Ashes +3
+[Spirit Summon] Gravebird Ashes +4
+[Spirit Summon] Gravebird Ashes +5
+[Spirit Summon] Gravebird Ashes +6
+[Spirit Summon] Gravebird Ashes +7
+[Spirit Summon] Gravebird Ashes +8
+[Spirit Summon] Gravebird Ashes +9
+[Spirit Summon] Gravebird Ashes +10
+[Spirit Summon] Fire Knight Hilde
+[Spirit Summon] Fire Knight Hilde +1
+[Spirit Summon] Fire Knight Hilde +2
+[Spirit Summon] Fire Knight Hilde +3
+[Spirit Summon] Fire Knight Hilde +4
+[Spirit Summon] Fire Knight Hilde +5
+[Spirit Summon] Fire Knight Hilde +6
+[Spirit Summon] Fire Knight Hilde +7
+[Spirit Summon] Fire Knight Hilde +8
+[Spirit Summon] Fire Knight Hilde +9
+[Spirit Summon] Fire Knight Hilde +10
+[Spirit Summon] Spider Scorpion Ashes
+[Spirit Summon] Spider Scorpion Ashes +1
+[Spirit Summon] Spider Scorpion Ashes +2
+[Spirit Summon] Spider Scorpion Ashes +3
+[Spirit Summon] Spider Scorpion Ashes +4
+[Spirit Summon] Spider Scorpion Ashes +5
+[Spirit Summon] Spider Scorpion Ashes +6
+[Spirit Summon] Spider Scorpion Ashes +7
+[Spirit Summon] Spider Scorpion Ashes +8
+[Spirit Summon] Spider Scorpion Ashes +9
+[Spirit Summon] Spider Scorpion Ashes +10
+[Spirit Summon] Inquisitor Ashes
+[Spirit Summon] Inquisitor Ashes +1
+[Spirit Summon] Inquisitor Ashes +2
+[Spirit Summon] Inquisitor Ashes +3
+[Spirit Summon] Inquisitor Ashes +4
+[Spirit Summon] Inquisitor Ashes +5
+[Spirit Summon] Inquisitor Ashes +6
+[Spirit Summon] Inquisitor Ashes +7
+[Spirit Summon] Inquisitor Ashes +8
+[Spirit Summon] Inquisitor Ashes +9
+[Spirit Summon] Inquisitor Ashes +10
+[Spirit Summon] Demi-Human Swordsman Yosh
+[Spirit Summon] Demi-Human Swordsman Yosh +1
+[Spirit Summon] Demi-Human Swordsman Yosh +2
+[Spirit Summon] Demi-Human Swordsman Yosh +3
+[Spirit Summon] Demi-Human Swordsman Yosh +4
+[Spirit Summon] Demi-Human Swordsman Yosh +5
+[Spirit Summon] Demi-Human Swordsman Yosh +6
+[Spirit Summon] Demi-Human Swordsman Yosh +7
+[Spirit Summon] Demi-Human Swordsman Yosh +8
+[Spirit Summon] Demi-Human Swordsman Yosh +9
+[Spirit Summon] Demi-Human Swordsman Yosh +10
+[Spirit Summon] Messmer Soldier Ashes
+[Spirit Summon] Messmer Soldier Ashes +1
+[Spirit Summon] Messmer Soldier Ashes +2
+[Spirit Summon] Messmer Soldier Ashes +3
+[Spirit Summon] Messmer Soldier Ashes +4
+[Spirit Summon] Messmer Soldier Ashes +5
+[Spirit Summon] Messmer Soldier Ashes +6
+[Spirit Summon] Messmer Soldier Ashes +7
+[Spirit Summon] Messmer Soldier Ashes +8
+[Spirit Summon] Messmer Soldier Ashes +9
+[Spirit Summon] Messmer Soldier Ashes +10
+[Spirit Summon] Black Knight Commander Andreas
+[Spirit Summon] Black Knight Commander Andreas +1
+[Spirit Summon] Black Knight Commander Andreas +2
+[Spirit Summon] Black Knight Commander Andreas +3
+[Spirit Summon] Black Knight Commander Andreas +4
+[Spirit Summon] Black Knight Commander Andreas +5
+[Spirit Summon] Black Knight Commander Andreas +6
+[Spirit Summon] Black Knight Commander Andreas +7
+[Spirit Summon] Black Knight Commander Andreas +8
+[Spirit Summon] Black Knight Commander Andreas +9
+[Spirit Summon] Black Knight Commander Andreas +10
+[Spirit Summon] Black Knight Captain Huw
+[Spirit Summon] Black Knight Captain Huw +1
+[Spirit Summon] Black Knight Captain Huw +2
+[Spirit Summon] Black Knight Captain Huw +3
+[Spirit Summon] Black Knight Captain Huw +4
+[Spirit Summon] Black Knight Captain Huw +5
+[Spirit Summon] Black Knight Captain Huw +6
+[Spirit Summon] Black Knight Captain Huw +7
+[Spirit Summon] Black Knight Captain Huw +8
+[Spirit Summon] Black Knight Captain Huw +9
+[Spirit Summon] Black Knight Captain Huw +10
+[Spirit Summon] Bigmouth Imp Ashes
+[Spirit Summon] Bigmouth Imp Ashes +1
+[Spirit Summon] Bigmouth Imp Ashes +2
+[Spirit Summon] Bigmouth Imp Ashes +3
+[Spirit Summon] Bigmouth Imp Ashes +4
+[Spirit Summon] Bigmouth Imp Ashes +5
+[Spirit Summon] Bigmouth Imp Ashes +6
+[Spirit Summon] Bigmouth Imp Ashes +7
+[Spirit Summon] Bigmouth Imp Ashes +8
+[Spirit Summon] Bigmouth Imp Ashes +9
+[Spirit Summon] Bigmouth Imp Ashes +10
+[Spirit Summon] Man-Fly Ashes
+[Spirit Summon] Man-Fly Ashes +1
+[Spirit Summon] Man-Fly Ashes +2
+[Spirit Summon] Man-Fly Ashes +3
+[Spirit Summon] Man-Fly Ashes +4
+[Spirit Summon] Man-Fly Ashes +5
+[Spirit Summon] Man-Fly Ashes +6
+[Spirit Summon] Man-Fly Ashes +7
+[Spirit Summon] Man-Fly Ashes +8
+[Spirit Summon] Man-Fly Ashes +9
+[Spirit Summon] Man-Fly Ashes +10
+[Spirit Summon] Taylew the Golem Smith
+[Spirit Summon] Taylew the Golem Smith +1
+[Spirit Summon] Taylew the Golem Smith +2
+[Spirit Summon] Taylew the Golem Smith +3
+[Spirit Summon] Taylew the Golem Smith +4
+[Spirit Summon] Taylew the Golem Smith +5
+[Spirit Summon] Taylew the Golem Smith +6
+[Spirit Summon] Taylew the Golem Smith +7
+[Spirit Summon] Taylew the Golem Smith +8
+[Spirit Summon] Taylew the Golem Smith +9
+[Spirit Summon] Taylew the Golem Smith +10
+[Spirit Summon] Divine Bird Warrior Ornis
+[Spirit Summon] Divine Bird Warrior Ornis +1
+[Spirit Summon] Divine Bird Warrior Ornis +2
+[Spirit Summon] Divine Bird Warrior Ornis +3
+[Spirit Summon] Divine Bird Warrior Ornis +4
+[Spirit Summon] Divine Bird Warrior Ornis +5
+[Spirit Summon] Divine Bird Warrior Ornis +6
+[Spirit Summon] Divine Bird Warrior Ornis +7
+[Spirit Summon] Divine Bird Warrior Ornis +8
+[Spirit Summon] Divine Bird Warrior Ornis +9
+[Spirit Summon] Divine Bird Warrior Ornis +10
+[Spirit Summon] Horned Warrior Ashes
+[Spirit Summon] Horned Warrior Ashes +1
+[Spirit Summon] Horned Warrior Ashes +2
+[Spirit Summon] Horned Warrior Ashes +3
+[Spirit Summon] Horned Warrior Ashes +4
+[Spirit Summon] Horned Warrior Ashes +5
+[Spirit Summon] Horned Warrior Ashes +6
+[Spirit Summon] Horned Warrior Ashes +7
+[Spirit Summon] Horned Warrior Ashes +8
+[Spirit Summon] Horned Warrior Ashes +9
+[Spirit Summon] Horned Warrior Ashes +10
+[Spirit Summon] Ancient Dragon Florissax
+[Spirit Summon] Ancient Dragon Florissax +1
+[Spirit Summon] Ancient Dragon Florissax +2
+[Spirit Summon] Ancient Dragon Florissax +3
+[Spirit Summon] Ancient Dragon Florissax +4
+[Spirit Summon] Ancient Dragon Florissax +5
+[Spirit Summon] Ancient Dragon Florissax +6
+[Spirit Summon] Ancient Dragon Florissax +7
+[Spirit Summon] Ancient Dragon Florissax +8
+[Spirit Summon] Ancient Dragon Florissax +9
+[Spirit Summon] Ancient Dragon Florissax +10
+
+
+
+
+
+
+
+
+
+
+
+[Spirit Summon] Fingercreeper Ashes
+[Spirit Summon] Fingercreeper Ashes +1
+[Spirit Summon] Fingercreeper Ashes +2
+[Spirit Summon] Fingercreeper Ashes +3
+[Spirit Summon] Fingercreeper Ashes +4
+[Spirit Summon] Fingercreeper Ashes +5
+[Spirit Summon] Fingercreeper Ashes +6
+[Spirit Summon] Fingercreeper Ashes +7
+[Spirit Summon] Fingercreeper Ashes +8
+[Spirit Summon] Fingercreeper Ashes +9
+[Spirit Summon] Fingercreeper Ashes +10
+[Spirit Summon] Fire Knight Queelign
+[Spirit Summon] Fire Knight Queelign +1
+[Spirit Summon] Fire Knight Queelign +2
+[Spirit Summon] Fire Knight Queelign +3
+[Spirit Summon] Fire Knight Queelign +4
+[Spirit Summon] Fire Knight Queelign +5
+[Spirit Summon] Fire Knight Queelign +6
+[Spirit Summon] Fire Knight Queelign +7
+[Spirit Summon] Fire Knight Queelign +8
+[Spirit Summon] Fire Knight Queelign +9
+[Spirit Summon] Fire Knight Queelign +10
+[Spirit Summon] Swordhand of Night Jolan
+[Spirit Summon] Swordhand of Night Jolan +1
+[Spirit Summon] Swordhand of Night Jolan +2
+[Spirit Summon] Swordhand of Night Jolan +3
+[Spirit Summon] Swordhand of Night Jolan +4
+[Spirit Summon] Swordhand of Night Jolan +5
+[Spirit Summon] Swordhand of Night Jolan +6
+[Spirit Summon] Swordhand of Night Jolan +7
+[Spirit Summon] Swordhand of Night Jolan +8
+[Spirit Summon] Swordhand of Night Jolan +9
+[Spirit Summon] Swordhand of Night Jolan +10
+[Spirit Summon] Jolan and Anna
+[Spirit Summon] Jolan and Anna +1
+[Spirit Summon] Jolan and Anna +2
+[Spirit Summon] Jolan and Anna +3
+[Spirit Summon] Jolan and Anna +4
+[Spirit Summon] Jolan and Anna +5
+[Spirit Summon] Jolan and Anna +6
+[Spirit Summon] Jolan and Anna +7
+[Spirit Summon] Jolan and Anna +8
+[Spirit Summon] Jolan and Anna +9
+[Spirit Summon] Jolan and Anna +10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Talisman] Crimson Amber Medallion +3
+[Talisman] Cerulean Amber Medallion +3
+[Talisman] Viridian Amber Medallion +3
+[Talisman] Two-Headed Turtle Talisman
+[Talisman] Stalwart Horn Charm +2
+[Talisman] Immunizing Horn Charm +2
+[Talisman] Clarifying Horn Charm +2
+[Talisman]
+[Talisman] Mottled Necklace +2
+[Talisman] Spelldrake Talisman +3
+[Talisman] Flamedrake Talisman +3
+[Talisman] Boltdrake Talisman +3
+[Talisman] Golden Braid
+[Talisman] Pearldrake Talisman +3
+[Talisman] Crimson Seed Talisman +1
+[Talisman] Cerulean Seed Talisman +1
+[Talisman] Blessed Blue Dew Talisman
+[Talisman] Fine Crucible Feather Talisman
+[Talisman] Outer God Heirloom
+[Talisman] Shattered Stone Talisman
+[Talisman] Two-Handed Sword Talisman
+[Talisman] Crusade Insignia (On Enemy Kill)
+[Talisman] Aged One's Exultation
+[Talisman] Aged One's Exultation (On Enemy Kill)
+[Talisman] Arrow's Soaring Sting Talisman
+[Talisman] Arrow's Soaring Sting Talisman (On Enemy Kill)
+[Talisman] Pearl Shield Talisman
+[Talisman] Pearl Shield Talisman (Cycled)
+[Talisman] Pearl Shield Talisman (Cycled)
+[Talisman] Dried Bouquet
+[Talisman] Dried Bouquet
+[Talisman] Smithing Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+[Talisman] Ailment Talisman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Talisman] Retaliatory Crossed-Tree
+[Talisman] Lacerating Crossed-Tree
+[Talisman] St. Trina's Smile
+[Talisman] St. Trina's Smile
+[Talisman] Talisman of the Dread
+[Talisman] Enraged Divine Beast
+[Talisman] Beloved Stardust
+[Talisman] Beloved Stardust
+[Talisman] Talisman of Lord's Bestowal
+[Talisman] Talisman of Lord's Bestowal
+[Talisman] Talisman of Lord's Bestowal
+[Talisman] Talisman of Lord's Bestowal
+[Talisman] Talisman of Lord's Bestowal
+[Talisman] Talisman of Lord's Bestowal
+[Talisman] Talisman of Lord's Bestowal
+[Talisman]
+[Talisman] Rellana's Cameo
+[Talisman] Rellana's Cameo
+[Talisman] Rellana's Cameo
+[Talisman] Rellana's Cameo
+[Talisman] Rellana's Cameo
+[Talisman] Rellana's Cameo
+[Talisman] Rellana's Cameo
+[Talisman] Blade of Mercy
+[Talisman] Blade of Mercy
+[Talisman] Blade of Mercy
+[Talisman] Talisman of All Crucibles
+[Talisman] Talisman of All Crucibles
+[Talisman] Talisman of All Crucibles
+[Talisman] Talisman of All Crucibles
+[Talisman] Talisman of All Crucibles
+[Talisman] Fine Crucible Feather Talisman (Cycled)
+[Talisman] Companion Jar
+[Item] Hefty Fetid Pot - Poison
+[Item] Hefty Fetid Pot - Shooter - Poison
+[Item] Hefty Freezing Pot - Frost
+[Item] Hefty Poison Pot - Poison
+[Item] Hefty Oil Pot
+[Item] Hefty Frenzied Flame Pot - Madness
+[Item] Hefty Rot Pot - Scarlet Rot
+[Item] Hefty Furnace Pot
+[Item] Hefty Fire Pot
+[Item] Hefty Red Lightning Pot
+[Item] Hefty Red Lightning Pot (Chained)
+[Item] Red Lightning Pot
+[Item] Red Lightning Pot (Chained)
+[Item] Frenzied Flame Pot
+[Item] Eternal Sleep Pot
+[Item] Spirit Raisin
+[Item] Spirit Raisin
+[Item] Blessing of Marika
+[Item] Blessing of Marika
+[Item] Blessing of Marika
+[Item] Blessing of Marika
+[Item] Blessing of Marika
+[Item] Blessing of Marika
+[Item] Blessing of Marika
+[Item] Blessing of Marika
+[Item] Blessing of Marika
+[Item] Lulling Branch
+[Item] Lulling Branch
+[Item] Lulling Branch
+[Item] Lulling Branch
+[Item] Lulling Branch
+[Item] Lulling Branch
+[Item] Lulling Branch
+[Item] Lulling Branch
+[Item] Lulling Branch
+[SACRED] Dragon Communion Flesh
+[SACRED] Dragon Communion Flesh
+[Item] Dragon Communion Flesh
+[Item] Dragon Communion Flesh
+[SACRED] Dragonscale Flesh
+[SACRED] Dragonscale Flesh
+[Item] Fingerprint Nostrum
+[Item] Fingerprint Nostrum
+[Item] Fingerprint Nostrum
+[Item] Spellproof Pickled Liver
+[Item] Fireproof Pickled Liver
+[Item] Lightningproof Pickled Liver
+[Item] Holyproof Pickled Liver
+[Item] Opaline Pickled Liver
+[Item] Well-Pickled Turtle Neck
+[Item] Scorpion Stew
+[Item] Scorpion Stew
+[Item] Scorpion Stew
+[Item] Gourmet Scorpion Stew
+[Item] Gourmet Scorpion Stew
+[Item] Gourmet Scorpion Stew
+[Item] Sacred Bloody Flesh
+[Item] Sacred Bloody Flesh
+[Item] Sacred Bloody Flesh
+[Item] Sacred Bloody Flesh
+[Item] Silver Horn Tender
+[Item] Golden Horn Tender
+[Item] Messmerfire Grease - Right
+[Item] Drawstring Messmerfire Grease - Right
+[Item] Messmerfire Grease - Left
+[Item] Drawstring Messmerfire Grease - Left
+[Item] Dragonbolt Grease - Right
+[Item] Drawstring Dragonbolt Grease - Right
+[Item] Dragonbolt Grease - Left
+[Item] Drawstring Dragonbolt Grease - Left
+[Item] Royal Magic Grease - Right
+[Item] Drawstring Royal Magic Grease - Right
+[Item] Royal Magic Grease - Left
+[Item] Drawstring Royal Magic Grease - Left
+[Item] Golden Grease - Right
+[Item] Drawstring Golden Grease - Right
+[Item] Golden Grease - Left
+[Item] Drawstring Golden Grease - Left
+[Item] Dragon Communion Grease - Right
+[Item] Dragon Communion Grease - Left
+
+
+
+
+
+
+[Item] Festive Grease - Right
+[Item] Festive Grease - Left
+
+[Item] Rock Heart (Cycled)
+[Item] Rock Heart (Cycled)
+[Item] Rock Heart
+[Item] Rock Heart (Dragon Communion Buff)
+[Item] Priestess Heart (Cycled)
+[Item] Priestess Heart (Cycled)
+[Item] Priestess Heart
+[Item] Priestess Heart (Dragon Cult Buff)
+[Item] Lamenter's Mask (Cycled)
+[Item] Lamenter's Mask
+[Item] Lamenter's Mask (Bullet Activator)
+[Item] Ancient Dragon's Blessing
+[Item] Ancient Dragon's Blessing
+[Item] Ancient Dragon's Blessing
+[Item] Iris of Occultation
+[Item] Remembrance of the Wild Boar Rider
+[Item] Remembrance of the Impaler
+[Item] Remembrance of the Shadow Sunflower
+[Item] Remembrance of the Twin Moon Knight
+[Item] Remembrance of the Saint of the Bud
+[Item] Remembrance of the Dancing Lion
+
+[Item] Remembrance of a God and a Lord
+[Item] Remembrance of the Lord of Frenzied Flame
+[Item] Remembrance of the Mother of Fingers
+[Item] Remembrance of Putrescence
+[Item] Leda's Rune
+[Item] Broken Rune
+[Item] Shadow Realm Rune [1]
+[Item] Shadow Realm Rune [2]
+[Item] Shadow Realm Rune [3]
+[Item] Shadow Realm Rune [4]
+[Item] Shadow Realm Rune [5]
+[Item] Shadow Realm Rune [6]
+[Item] Shadow Realm Rune [7]
+[Item] Rune of an Unsung Hero
+[Item] Marika's Rune
+[Item] Golden Vow
+[Item] Golden Vow
+[Item] Sunwarmth Stone
+[Item] Charming Branch
+[Tear] Crimsonburst Dried Tear
+[Tear] Crimsonburst Dried Tear
+[Tear] Crimsonburst Dried Tear
+[Tear] Crimson-Sapping Cracked Tear
+[Tear] Crimson-Sapping Cracked Tear
+[Tear] Crimson-Sapping Cracked Tear
+[Tear] Crimson-Sapping Cracked Tear
+[Tear] Cerulean-Sapping Cracked Tear
+[Tear] Cerulean-Sapping Cracked Tear
+[Tear] Cerulean-Sapping Cracked Tear
+[Tear] Cerulean-Sapping Cracked Tear
+[Tear] Oil-Soaked Tear
+[Tear] Oil-Soaked Tear
+[Tear] Oil-Soaked Tear
+[Tear] Bloodsucking Cracked Tear
+[Tear] Bloodsucking Cracked Tear
+[Tear] Glovewort Crystal Tear
+[Tear] Glovewort Crystal Tear
+
+[Sorcery] Miriam's Vanishing
+[Sorcery] Mantle of Thorns
+[Sorcery] Mantle of Thorns
+[Sorcery] Mantle of Thorns
+[Sorcery] Mantle of Thorns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

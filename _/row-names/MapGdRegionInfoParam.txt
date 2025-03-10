@@ -1,0 +1,293 @@
+Stormveil Castle
+Chapel of Anticipation
+Leyndell, Royal Capital
+Leyndell, Ashen Capital
+
+
+Ainsel River
+Siofra River
+Deeproot Depths
+Ainsel River - Boss
+Mohgwyn Palace
+
+
+
+Crumbling Farum Azula
+Academy of Raya Lucaria
+Miquella's Haligtree
+Volcano Manor
+Stranded Graveyard
+Stone Platform
+
+
+
+
+
+
+
+
+Tombsward Catacombs
+Impaler's Catacombs
+Stormfoot Catacombs
+Road's End Catacombs
+Murkwater Catacombs
+Black Knife Catacombs
+Cliffbottom Catacombs
+Wyndham Catacombs
+Sainted Hero's Grave
+Gelmir Hero's Grave
+Auriza Hero's Grave
+Deathtouched Catacombs
+Unsightly Catacombs
+Auriza Side Tomb
+Minor Erdtree Catacombs
+Caelid Catacombs
+War-Dead Catacombs
+Giant-Conquering Hero's Grave
+Giants' Mountaintop Catacombs
+Consecrated Snowfield Catacombs
+
+
+Earthbore Cave
+Tombsward Cave
+Groveside Cave
+Stillwater Cave
+Lakeside Crystal Cave
+Academy Crystal Cave
+Seethewater Cave
+
+Volcano Cave
+Dragonbarrow Cave
+Sellia Hideaway
+Cave of the Forlorn
+
+
+Coastal Cave
+Highroad Cave
+
+
+
+
+
+Morne Tunnel
+Limgrave Tunnels
+Raya Lucaria Crystal Tunnel
+
+Old Altus Tunnel
+Altus Tunnel
+
+Gael Tunnel
+Sellia Crystal Tunnel
+
+
+Yelough Anix Tunnel
+
+Divine Tower of Limgrave
+Divine Tower of Liurnia
+Divine Tower of West Altus
+Divine Tower of Caelid
+Divine Tower of East Altus
+Isolated Divine Tower
+
+Subterranean Shunning-Grounds
+Ruin-Strewn Precipice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mt. Gelmir - Before Hermit Shack
+Mt. Gelmir - Seethewater Terminus
+Mt. Gelmir - Fort Laiedd
+
+Liurnia of the Lakes - Behind Caria Manor, Royal Grave Evergaol, Part of Ravine
+Altus Plateau - Perfumer's Ruins, Unsightly Catacombs Entrance
+Mt. Gelmir - Craftsman's Shack, Hermit's Shack
+Mt. Gelmir - Outside Volcano Manor
+Mt. Gelmir - Ninth Mt. Gelmir Campsite, Road of Iniquity, Volcano Manor Entrance
+
+Liurnia of the Lake - Northeast Ravine; Bellum Highway - West of Grand Lift of Dectus
+Altus Plateau - Abandoned Coffin, Ruin-Strewn Precipice Exit
+Mt. Gelmir - Seethewater River, Hermit Village, Wyndham Catacombs Entrance, Sage's Cave Entrance
+Mt. Gelmir - Azur, Gelmir Hero's Grave Entrance
+Mt. Gelmir - Minor Erdtree, Seethewater Cave Entrance
+Mt. Gelmir - Volcano Cave Entrance
+Liurnia of the Lakes - Ravine-Veiled Village; Bellum Highway - Grand Lift of Dectus; Altus Plateau - Altus Plateau; Ruin-Strewn Precipice Entrance
+Altus Plateau - Erdtree-Gazing Hill, Lux Ruins
+Altus Plateau - Wyndham Ruins, Wyndham Catacombs Entrance
+Altus Plateau - Old Altus Tunnel Entrance
+Mt. Gelmir - First Mt. Gelmir Campsite, Corpse-Stench Shack; Altus Plateau - West of Shaded Castle
+
+Altus Plateau - Golden Lineage Evergaol
+Altus Plateau - Altus Highway Junction
+Altus Plateau - Second Church of Marika
+Altus Plateau - Mirage Rise; Mt. Gelmir - Bridge of Iniquity
+Altus Plateau - Shaded Castle
+
+Altus Plateau - Southwest of Tree Sentinel Duo
+Altus Plateau - West of Tree Sentinel Duo, Stormcaller Church
+Altus Plateau - Forest-Spanning Greatbridge, St. Trina's Hideaway, Sainted Hero's Grave Entrance
+Altus Plateau - Bower of Bounty, Writheblood Ruins
+Altus Plateau - Road of Iniquity Side Path
+Altus Plateau - West Windmill Pasture
+
+Altus Plateau - South of Tree Sentinel Duo
+Altus Plateau - Tree Sentinel Duo, Perfumer's Grotto Entrance
+Altus Plateau - Rampartside Path, Altus Tunnel Entrance
+Altus Plateau - Woodfolk Ruins, Minor Erdtree
+Altus Plateau - West Windmill Village
+Altus Plateau - Village Windmill Pasture, East Windmill Pasture
+
+Leyndell - South of Outer Wall Phantom Tree
+Leyndell - Outer Wall Phantom Tree
+Leyndell - Southwest Outer Wall Battleground
+Leyndell - Northwest Outer Wall Battleground
+Altus Plateau - East Windmill Village, Highway Lookout Tower
+Altus Plateau - Windmill Heights
+
+Leyndell - Minor Erdtree Church, Sealed Tunnel Entrance
+Leyndell - East of Outer Wall Phantom Tree
+Leyndell - Southeast Outer Wall Battleground
+Leyndell - Northeast Outer Wall Battleground, Hermit Merchant's Shack
+Altus Plateau - Cliffside Northeast of Outer Wall Battlefield
+
+
+
+
+Leyndell - South of Minor Erdtree
+Leyndell - Minor Erdtree
+
+
+
+
+Leyndell - Auriza Hero's Grave Entrance
+Leyndell - Capital Rampart, Auriza Side Tomb Entrance
+Leyndell - Capital Rampart North Cliffside
+
+
+
+
+
+
+
+
+
+Consecrated Snowfield - Far West Cliffside
+
+
+Caelid - West of Caelid Highway South
+Caelid - Fort Gael, Caelid Waypoint Ruins, Gaol Cave Entrance
+Caelid - Fort Gael North
+Caelid - North Great-Jar Area
+
+
+Leyndell - Divine Tower of East Altus Entrance; Mountaintops of the Giants - Forbidden Lands Start
+
+Consecrated Snowfield - Yelough Anix Ruins, Yelough Anix Tunnel Entrance
+Consecrated Snowfield - North of Yelough Anix Ruins
+Consecrated Snowfield - West of Ordina
+Consecrated Snowfield - Apostate Derelict
+
+Mountaintops of the Giants - Forbidden Lands Midway
+
+
+Consecrated Snowfield - Southwest Foggy Area
+Consecrated Snowfield - Northwest Foggy Area, East of Yelough Anix Ruins
+Consecrated Snowfield - South of Ordina
+Consecrated Snowfield - Ordina, Liturgical Town
+Consecrated Snowfield - East of Apostate Derelict
+
+
+Mountaintops of the Giants - Before Grand Lift of Rold
+Mountaintops of the Giants - West Zamor Ruins, Grand Lift of Rold
+Consecrated Snowfield - Hidden Path to the Haligtree, Southeast Foggy Area
+Consecrated Snowfield - Northeast Foggy Area, Inner Consecrated Snowfield
+Consecrated Snowfield - Southeast of Ordina
+Consecrated Snowfield - East of Ordina
+
+
+
+Mountaintops of the Giants - East Zamor Ruins
+Mountaintops of the Giants - North of Zamor Ruins
+Consecrated Snowfield - Consecrated Snowfield Catacombs Entrance
+Mountaintops of the Giants - Shack of the Lofty; Consecrated Snowfield - Minor Erdtree, Albinauric Rise, Cave of the Forlorn Entrance
+Mountaintops of the Giants - West of Castle Sol; Consecrated Snowfield - North of Minor Erdtree
+
+Mountaintops of the Giants - Giants' Gravepost South Cliffside
+Mountaintops of the Giants - Southwest Giants' Gravepost
+Mountaintops of the Giants - Northwest Giants' Gravepost
+Mountaintops of the Giants - Before Ancient Snow Valley Ruins
+Mountaintops of the Giants - Ancient Snow Valley Ruins, Stargazers' Ruins
+Mountaintops of the Giants - South Castle Sol, Snow Valley Ruins Overlook
+Mountaintops of the Giants - North Castle Sol
+Caelid - Central Radahn Arena
+Caelid - North Radahn Arena
+Caelid - Far North Radahn Arena
+Mountaintops of the Giants - Southwest Fire Giant Arena
+Mountaintops of the Giants - Northwest Fire Giant Arena, Foot of the Forge
+Mountaintops of the Giants - Northeast Giants' Gravepost
+Mountaintops of the Giants - Guardians' Garrison
+Mountaintops of the Giants - Whiteridge Road, Minor Erdtree
+Mountaintops of the Giants - Before Freezing Lake, Heretical Rise
+Mountaintops of the Giants - Northwest of Freezing Lake, East of Castle Sol
+
+Caelid - East Radahn Arena
+Caelid - Northeast Radahn Arena
+Mountaintops of the Giants - Southeast Fire Giant Arena
+Mountaintops of the Giants - Northeast Fire Giant Arena
+Mountaintops of the Giants - Giants' Gravepost Northeast Cliffside
+Mountaintops of the Giants - West of First Church of Marika
+Mountaintops of the Giants - Southwest Freezing Lake, Lord Contender's Evergaol, Spiritcaller's Cave Entrance
+Mountaintops of the Giants - Northwest Freezing Lake
+Mountaintops of the Giants - Freezing Lake North Cliffside
+
+Mountaintops of the Giants - Forge of the Giants
+
+Mountaintops of the Giants - First Church of Marika
+Mountaintops of the Giants - Southeast Freezing Lake
+Mountaintops of the Giants - Northeast Freezing Lake
+
+
+
+
+
+
+

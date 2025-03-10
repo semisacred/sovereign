@@ -1,0 +1,94 @@
+
+Player <> Torrent
+Exile Soldier <> Ballista
+Exile Soldier <> Trebuchet
+Exile Soldier <> Dragon-faced Flamethrower
+Exile Soldier <>
+Exile Soldier <>
+Exile Soldier <>
+Exile Soldier <>
+Night's Cavalry <> Funeral Steed
+Night's Cavalry <> Funeral Steed
+Night's Cavalry <> Funeral Steed
+Night's Cavalry <> Funeral Steed
+Albinauric Archer <> Dog
+Albinauric Archer <> Dog
+Nomadic Merchant <> Mule
+Nomadic Merchant <> Mule
+Nox Swordstress <> Giant Ant
+Nox Swordstress <> Giant Ant
+Nox Swordstress <> Giant Ant
+Nox Swordstress <> Giant Ant
+Skeleton (Curved Sword) <> Ballista
+Skeleton (Curved Sword) <> Trebuchet
+Skeleton (Curved Sword) <> Dragon-faced Flamethrower
+Kaiden Sellsword <> Kaiden Sellsword's Horse
+Kaiden Sellsword <> Kaiden Sellsword's Horse
+Kaiden Sellsword <> Kaiden Sellsword's Horse
+Castle Knight <> Knight's Horse
+Castle Knight <> Knight's Horse
+Castle Knight <> Knight's Horse
+Godrick Knight <> Godrick Knight's Horse
+Godrick Knight <> Godrick Knight's Horse
+Godrick Knight <> Godrick Knight's Horse
+Cuckoo Knight <> Godrick Knight's Horse
+Cuckoo Knight <> Godrick Knight's Horse
+Cuckoo Knight <> Godrick Knight's Horse
+Leyndell Knight <> Leyndell Knight's Horse
+Leyndell Knight <> Leyndell Knight's Horse
+Leyndell Knight <> Leyndell Knight's Horse
+Redmane Knight <> Redmane Knight's Horse
+Redmane Knight <> Redmane Knight's Horse
+Redmane Knight <> Redmane Knight's Horse
+Mausoleum Knight <> Mausoleum Knight's Horse
+Mausoleum Knight <> Mausoleum Knight's Horse
+Mausoleum Knight <> Mausoleum Knight's Horse
+Haligtree Knight <> Haligtree Knight's Horse
+Haligtree Knight <> Haligtree Knight's Horse
+Haligtree Knight <> Haligtree Knight's Horse
+
+
+
+Foot Soldier <> Ballista
+Foot Soldier <> Trebuchet
+Foot Soldier <> Dragon-faced Flamethrower
+Godrick Foot Soldier <> Ballista
+Godrick Foot Soldier <> Trebuchet
+Godrick Foot Soldier <> Dragon-faced Flamethrower
+Raya Lucaria Foot Soldier <> Ballista
+Raya Lucaria Foot Soldier <> Trebuchet
+Raya Lucaria Foot Soldier <> Dragon-faced Flamethrower
+Leyndell Foot Soldier <> Ballista
+Leyndell Foot Soldier <> Trebuchet
+Leyndell Foot Soldier <> Dragon-faced Flamethrower
+Radahn Foot Soldier <> Ballista
+Radahn Foot Soldier <> Trebuchet
+Radahn Foot Soldier <> Dragon-faced Flamethrower
+Mausoleum Foot Soldier <> Ballista
+Mausoleum Foot Soldier <> Trebuchet
+Mausoleum Foot Soldier <> Dragon-faced Flamethrower
+Haligtree Foot Soldier <> Ballista
+Haligtree Foot Soldier <> Trebuchet
+Haligtree Foot Soldier <> Dragon-faced Flamethrower
+Highwayman <> Ballista
+Highwayman <> Trebuchet
+Highwayman <> Dragon-faced Flamethrower
+Starscourge Radahn <> Leonard
+Starscourge Radahn <> Leonard
+Starscourge Radahn <> Leonard
+Starscourge Radahn <> Leonard
+Godrick Torso <> Godrick the Grafted
+Godrick Torso <> Godrick the Grafted
+Godrick Torso <> Godrick the Grafted
+Godrick Torso <> Godrick the Grafted
+
+
+
+
+
+
+
+
+
+
+

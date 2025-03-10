@@ -1,0 +1,875 @@
+
+Stormveil Castle
+Chapel of Anticipation
+Leyndell, Royal Capital
+Leyndell, Ashen Capital
+
+
+
+
+Ainsel River
+Siofra River
+Deeproot Depths
+Ainsel River - Boss
+Mohgwyn Palace
+
+
+
+
+Crumbling Farum Azula
+Academy of Raya Lucaria
+Miquella's Haligtree
+
+Volcano Manor
+Stranded Graveyard
+Stone Platform
+
+
+
+
+
+
+
+
+Tombsward Catacombs
+Impaler's Catacombs
+Stormfoot Catacombs
+Road's End Catacombs
+Murkwater Catacombs
+Black Knife Catacombs
+Cliffbottom Catacombs
+Wyndham Catacombs
+Sainted Hero's Grave
+Gelmir Hero's Grave
+Auriza Hero's Grave
+Deathtouched Catacombs
+Unsightly Catacombs
+Auriza Side Tomb
+Minor Erdtree Catacombs
+Caelid Catacombs
+War-Dead Catacombs
+Giant-Conquering Hero's Grave
+Giants' Mountaintop Catacombs
+Consecrated Snowfield Catacombs
+
+
+Earthbore Cave
+Tombsward Cave
+Groveside Cave
+Stillwater Cave
+Lakeside Crystal Cave
+Academy Crystal Cave
+Seethewater Cave
+
+Volcano Cave
+Dragonbarrow Cave
+Sellia Hideaway
+Cave of the Forlorn
+
+
+Coastal Cave
+Highroad Cave
+
+
+
+
+
+Morne Tunnel
+Limgrave Tunnels
+Raya Lucaria Crystal Tunnel
+
+Old Altus Tunnel
+Altus Tunnel
+
+Gael Tunnel
+Sellia Crystal Tunnel
+
+
+Yelough Anix Tunnel
+
+Divine Tower of Limgrave
+Divine Tower of Liurnia
+Divine Tower of West Altus
+Divine Tower of Caelid
+Divine Tower of East Altus
+Isolated Divine Tower
+
+Subterranean Shunning-Grounds
+Ruin-Strewn Precipice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moonlight Altar - Altar South, Chelona's Rise
+Moonlight Altar - West of Deep Ainsel Well
+Moonlight Altar - Ringleader's Evergaol
+Liurnia of the Lakes - Minor Erdtree, Road's End Catacombs Entrance
+Liurnia of the Lakes - Revenger's Shack
+Liurnia of the Lakes - Cuckoo's Evergaol, West of Meeting Place
+Liurnia of the Lakes - Foot of the Four Belfries
+Liurnia of the Lakes - The Four Belfries, Giant's Caravan Below
+
+
+Moonlight Altar - Deep Ainsel Well
+Liurnia of the Lakes - Village of the Albinaurics; Moonlight Altar - Moonfolk Ruins
+Liurnia of the Lakes - Converted Tower
+Liurnia of the Lakes - Temple Quarter
+Liurnia of the Lakes - Meeting Place, Academy Crystal Cave Entrance
+Liurnia of the Lakes - Crystalline Woods, Path to the Four Belfries
+Liurnia of the Lakes - Sorcerer's Isle West, East Belfry
+Liurnia of the Lakes - Northern Liurnia Lake Shore, Kingsrealm Ruins
+Liurnia of the Lakes - Road to the Manor
+Liurnia of the Lakes - Ranni's Rise, Seluvis's Rise
+Liurnia of the Lakes - Renna's Rise
+
+
+
+
+
+Moonlight Altar - Lunar Estate Ruins
+Moonlight Altar - Cathedral of Manus Celes
+Liurnia of the Lakes - Folly on the Lake, South Rose Church
+Liurnia of the Lakes - Far West Gate Town, North Rose Church
+Liurnia of the Lakes - South Raya Lucaria Gate
+Liurnia of the Lakes - Main Academy Gate, Academy of Raya Lucaria Entrance
+Liurnia of the Lakes - Testu's Rise, East Gate Bridge Trestle
+Liurnia of the Lakes - North of Sorcerer's Isle
+Liurnia of the Lakes - South of Caria Manor, West of Ravine Entrance
+Liurnia of the Lakes - Caria Manor
+Liurnia of the Lakes - North of Caria Manor
+Mt. Gelmir - Before Hermit Shack
+Mt. Gelmir - Seethewater Terminus
+Mt. Gelmir - Fort Laiedd
+
+
+Liurnia of the Lakes - Slumbering Wolf's Shack, Lakeside Crystal Cave Entrance
+Liurnia of the Lakes - West of Scenic Isle
+Liurnia of the Lakes - Boilprawn Shack, Fallen Ruins of the Lake
+Liurnia of the Lakes - Gate Town Southwest
+Liurnia of the Lakes - Gate Town Northwest
+Liurnia of the Lakes - West of Church of Vows
+Liurnia of the Lakes - West of Raya Lucaria Crystal Tunnel; Bellum Highway - South of East Raya Lucaria Gate
+Bellum Highway - East Raya Lucaria Gate
+Liurnia of the Lakes - Southeast Ravine, Lake at Caria Manor Entrance; Bellum Highway - Bellum Church
+Liurnia of the Lakes - Behind Caria Manor, Royal Grave Evergaol, Part of Ravine
+Altus Plateau - Perfumer's Ruins, Unsightly Catacombs Entrance
+Mt. Gelmir - Craftsman's Shack, Hermit's Shack
+Mt. Gelmir - Outside Volcano Manor
+Mt. Gelmir - Ninth Mt. Gelmir Campsite, Road of Iniquity, Volcano Manor Entrance
+
+
+Liurnia of the Lakes - South of Scenic Isle, East of Slumbering Wolf's Shack
+Liurnia of the Lakes - Scenic Isle, Laskyar Ruins
+Liurnia of the Lakes - North of Scenic Isle
+Liurnia of the Lakes - Gate Town Southeast
+Liurnia of the Lakes - Gate Town Northeast
+Liurnia of the Lakes - Church of Vows
+Liurnia of the Lakes - South of Mausoleum Compound, Raya Lucaria Crystal Tunnel Entrance
+Liurnia of the Lakes - Mausoleum Compound
+Bellum Highway - Church of Inhibition, Southwest of Grand Lift of Dectus
+Liurnia of the Lake - Northeast Ravine; Bellum Highway - West of Grand Lift of Dectus
+Altus Plateau - Abandoned Coffin, Ruin-Strewn Precipice Exit
+Mt. Gelmir - Seethewater River, Hermit Village, Wyndham Catacombs Entrance, Sage's Cave Entrance
+Mt. Gelmir - Azur, Gelmir Hero's Grave Entrance
+Mt. Gelmir - Minor Erdtree, Seethewater Cave Entrance
+Mt. Gelmir - Volcano Cave Entrance
+Liurnia of the Lakes - West of Church of Irith
+Liurnia of the Lakes - Liurnia Lake Shore
+Liurnia of the Lakes - Laskyar Ruins, Malefactor's Evergaol
+Liurnia of the Lakes - Highway Lookout Tower
+Liurnia of the Lakes - Gate Town Bridge
+Liurnia of the Lakes - North of Gate Town Bridge
+Liurnia of the Lakes - Artist's Shack, Eastern Liurnia Lake Shore
+Liurnia of the Lakes - Eastern Tableland, Ainsel River Well
+Liurnia of the Lakes - Ruined Labyrinth, Uld Palace Ruins
+Bellum Highway - Frenzied Flame Village, Minor Erdtree
+Bellum Highway - Frenzy-Flaming Tower
+Liurnia of the Lakes - Ravine-Veiled Village; Bellum Highway - Grand Lift of Dectus; Altus Plateau - Altus Plateau; Ruin-Strewn Precipice Entrance
+Altus Plateau - Erdtree-Gazing Hill, Lux Ruins
+Altus Plateau - Wyndham Ruins, Wyndham Catacombs Entrance
+Altus Plateau - Old Altus Tunnel Entrance
+Mt. Gelmir - First Mt. Gelmir Campsite, Corpse-Stench Shack; Altus Plateau - West of Shaded Castle
+
+
+
+
+Liurnia of the Lakes - Church of Irith
+Liurnia of the Lakes - Lake-Facing Cliffs, Stormveil Castle Exit, Stillwater Cave Entrance
+Liurnia of the Lakes - Liurnia Highway South, Purified Ruins, Cliffbottom Catacombs Entrance
+Liurnia of the Lakes - Liurnia Highway North
+Liurnia of the Lakes - Liurnia Highway Far North
+Liurnia of the Lakes - Jarburg, Divine Tower of Liurnia Entrance
+Liurnia of the Lakes - Eastern Tableland Southeast Cliffside
+Liurnia of the Lakes - Eastern Tableland Northeast Cliffside
+
+Bellum Highway - Converted Fringe Tower; Liurnia of the Lakes - Black Knife Catacombs Entrance
+Bellum Highway - Converted Fringe Tower North Cliffside
+Altus Plateau - Golden Lineage Evergaol
+Altus Plateau - Altus Highway Junction
+Altus Plateau - Second Church of Marika
+Altus Plateau - Mirage Rise; Mt. Gelmir - Bridge of Iniquity
+Altus Plateau - Shaded Castle
+
+
+
+Weeping Peninsula - Far West Shore
+
+
+
+
+Stormhill - Forested West Cliffside
+Stormhill - Path to Liurnia
+Liurnia - Liurnia Highway South Endpoint, Path to Stormhill
+
+
+
+
+
+
+
+
+
+Altus Plateau - Southwest of Tree Sentinel Duo
+Altus Plateau - West of Tree Sentinel Duo, Stormcaller Church
+Altus Plateau - Forest-Spanning Greatbridge, St. Trina's Hideaway, Sainted Hero's Grave Entrance
+Altus Plateau - Bower of Bounty, Writheblood Ruins
+Altus Plateau - Road of Iniquity Side Path
+Altus Plateau - West Windmill Pasture
+
+Weeping Peninsula - Isolated Merchant's Shack
+Weeping Peninsula - Fourth Church of Marika, Witchbane Ruins
+Weeping Peninsula - North of Fourth Church of Marika
+Limgrave - Church of Dragon Communion, Coastal Cave Exit
+Limgrave - Coastal Cave Entrance
+Limgrave - Stormfoot Catacombs Entrance
+Stormhill - Stormhill Shack, Stormveil Castle Entrance
+Stormhill - North of Stormhill Shack
+
+
+
+
+
+
+
+
+
+
+Altus Plateau - South of Tree Sentinel Duo
+Altus Plateau - Tree Sentinel Duo, Perfumer's Grotto Entrance
+Altus Plateau - Rampartside Path, Altus Tunnel Entrance
+Altus Plateau - Woodfolk Ruins, Minor Erdtree
+Altus Plateau - West Windmill Village
+Altus Plateau - Village Windmill Pasture, East Windmill Pasture
+
+
+
+
+
+
+
+
+Weeping Peninsula - Tower of Return
+Weeping Peninsula - Tombsward; Weeping Evergaol; Tombsward Cave Entrance
+Weeping Peninsula - Tombsward Ruins
+Limgrave - South of Stranded Graveyard Exit
+Limgrave - Church of Elleh, Stranded Graveyard Exit
+Limgrave - Gatefront, Stormhill Evergaol, Groveside Cave Entrance, Limgrave Tunnels Entrance
+Stormhill - Warmaster's Shack, Stormgate
+Stormhill - North of Warmaster's Shack
+Stormhill - Northwest Cliffside
+
+
+
+
+
+
+
+
+
+Leyndell - South of Outer Wall Phantom Tree
+Leyndell - Outer Wall Phantom Tree
+Leyndell - Southwest Outer Wall Battleground
+Leyndell - Northwest Outer Wall Battleground
+Altus Plateau - East Windmill Village, Highway Lookout Tower
+Altus Plateau - Windmill Heights
+
+
+
+
+
+
+
+Weeping Peninsula - Morne Moangrave
+Weeping Peninsula - Castle Morne
+Weeping Peninsula - Castle Morne Approach Northwest Cliffside
+Weeping Peninsula - Minor Erdtree, Tombsward Catacombs Entrance, Morne Tunnel Entrance
+Weeping Peninsula - Church of Pilgrimage, Demi-Human Forest Ruins
+Limgrave - Seaside Ruins
+Limgrave - Dragon-Burnt Ruins
+Limgrave - Agheel Lake North, Murkwater Cave Entrance
+Limgrave - Murkwater Coast, Murkwater Catacombs Entrance
+Stormhill - Saintsbridge, Deathtouched Catacombs Entrance, Highroad Cave Entrance
+Stormhill - Northeast Cliffside
+
+
+
+
+
+
+
+
+
+Leyndell - Minor Erdtree Church, Sealed Tunnel Entrance
+Leyndell - East of Outer Wall Phantom Tree
+Leyndell - Southeast Outer Wall Battleground
+Leyndell - Northeast Outer Wall Battleground, Hermit Merchant's Shack
+Altus Plateau - Cliffside Northeast of Outer Wall Battlefield
+
+
+
+
+
+
+
+
+
+Weeping Peninsula - Castle Morne Approach South
+Weeping Peninsula - Castle Morne Approach North
+Weeping Peninsula - Castle Morne Rampart, Ailing Village Outskirts
+Weeping Peninsula - Bridge of Sacrifice, Forest Lookout Tower, Earthbore Cave Entrance
+Limgrave - Agheel Lake South, Forlorn Hound Evergaol
+Limgrave - Waypoint Ruins
+Limgrave - Mistwood Outskirts
+Limgrave - Artist's Shack
+Limgrave - Summonwater Village Outskirts
+
+
+
+
+
+
+
+
+
+
+
+
+Leyndell - South of Minor Erdtree
+Leyndell - Minor Erdtree
+
+
+
+
+
+
+
+
+
+
+Weeping Peninsula - Castle Morne Approach Northeast Cliffside
+Weeping Peninsula - Beside the Crater-Pocked Glade, Oridys's Rise
+Weeping Peninsula - Impaler's Catacombs Entrance
+Limgrave - Southwest of Fort Haight
+Limgrave - Fort Haight West
+Limgrave - Siofra River Well, Mistwood Ruins, Minor Erdtree, Nokron Entrance
+Limgrave - South of Summonwater Village
+Limgrave - Summonwater Village
+Limgrave - North of Summonwater Village
+
+
+
+
+
+
+
+
+
+
+Leyndell - Auriza Hero's Grave Entrance
+Leyndell - Capital Rampart, Auriza Side Tomb Entrance
+Leyndell - Capital Rampart North Cliffside
+
+
+
+
+
+
+
+
+
+
+
+
+Limgrave - Fort Haight
+Limgrave - East of Siofra River Well
+Limgrave - Third Church of Marika, Gaol Cave Exit
+Limgrave - Rear Gael Tunnel Entrance; Caelid - Gael Tunnel Entrance
+Caelid - Smoldering Church, Rotview Balcony
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consecrated Snowfield - Far West Cliffside
+
+
+
+
+
+
+
+Caelid - West of Caelid Highway South
+Caelid - Fort Gael, Caelid Waypoint Ruins, Gaol Cave Entrance
+Caelid - Fort Gael North
+Caelid - Caelem Ruins, Forsaken Ruins, Minor Erdtree, Minor Erdtree Catacombs Entrance
+Caelid - South Great-Jar Area
+Caelid - North Great-Jar Area
+
+
+
+
+
+
+
+
+Leyndell - Divine Tower of East Altus Entrance; Mountaintops of the Giants - Forbidden Lands Start
+
+
+
+Consecrated Snowfield - Yelough Anix Ruins, Yelough Anix Tunnel Entrance
+Consecrated Snowfield - North of Yelough Anix Ruins
+Consecrated Snowfield - West of Ordina
+Consecrated Snowfield - Apostate Derelict
+
+
+
+
+
+Caelid - Cathedral of Dragon Communion, Caelid Catacombs Entrance
+Caelid - Caelid Highway South
+Caelid - West Aeonia Swamp
+Caelid - Smoldering Wall, Abandoned Cave Entrance
+Caelid - Deep Siofra Well; Greyoll's Dragonbarrow - Dragonbarrow West
+Greyoll's Dragonbarrow - Isolated Merchant's Shack
+
+
+
+
+
+
+
+
+
+Mountaintops of the Giants - Forbidden Lands Midway
+
+
+Consecrated Snowfield - Southwest Foggy Area
+Consecrated Snowfield - Northwest Foggy Area, East of Yelough Anix Ruins
+Consecrated Snowfield - South of Ordina
+Consecrated Snowfield - Ordina, Liturgical Town
+Consecrated Snowfield - East of Apostate Derelict
+
+
+
+
+
+
+Caelid - Southwest of Caelid Highway South
+Caelid - Southern Aeonia Swamp Bank
+Caelid - East Aeonia Swamp
+Caelid - West Sellia, Sellia Crystal Tunnel Entrance
+Greyoll's Dragonbarrow - South of Divine Tower of Caelid, Deep Siofra Well
+Greyoll's Dragonbarrow - Divine Tower of Caelid Entrance
+
+
+
+
+
+
+
+
+
+
+Mountaintops of the Giants - Before Grand Lift of Rold
+Mountaintops of the Giants - West Zamor Ruins, Grand Lift of Rold
+Consecrated Snowfield - Hidden Path to the Haligtree, Southeast Foggy Area
+Consecrated Snowfield - Northeast Foggy Area, Inner Consecrated Snowfield
+Consecrated Snowfield - Southeast of Ordina
+Consecrated Snowfield - East of Ordina
+
+
+
+
+
+
+Caelid - Impassable Greatbridge
+Caelid - Far Southwest Radahn Arena
+Caelid - Gowry's Shack
+Caelid - East Sellia, Church of the Plague
+Greyoll's Dragonbarrow - Dragonbarrow Fork
+Greyoll's Dragonbarrow - North of Dragonbarrow Fork
+
+
+
+
+
+
+
+
+
+
+
+Mountaintops of the Giants - East Zamor Ruins
+Mountaintops of the Giants - North of Zamor Ruins
+Consecrated Snowfield - Consecrated Snowfield Catacombs Entrance
+Mountaintops of the Giants - Shack of the Lofty; Consecrated Snowfield - Minor Erdtree, Albinauric Rise, Cave of the Forlorn Entrance
+Mountaintops of the Giants - West of Castle Sol; Consecrated Snowfield - North of Minor Erdtree
+
+
+
+
+
+Caelid - Redmane Castle South Cliffside
+Caelid - Redmane Castle
+Caelid - Southwest Radahn Arena
+Caelid - West Radahn Arena
+Greyoll's Dragonbarrow - Fort Faroth
+Greyoll's Dragonbarrow - Minor Erdtree, Dragonbarrow Cave Entrance
+Greyoll's Dragonbarrow - Southwest Farum Greatbridge
+Greyoll's Dragonbarrow - Northwest Farum Greatbridge
+Greyoll's Dragonbarrow - Bestial Sanctum
+
+
+
+
+
+
+
+
+Mountaintops of the Giants - Giants' Gravepost South Cliffside
+Mountaintops of the Giants - Southwest Giants' Gravepost
+Mountaintops of the Giants - Northwest Giants' Gravepost
+Mountaintops of the Giants - Before Ancient Snow Valley Ruins
+Mountaintops of the Giants - Ancient Snow Valley Ruins, Stargazers' Ruins
+Mountaintops of the Giants - South Castle Sol, Snow Valley Ruins Overlook
+Mountaintops of the Giants - North Castle Sol
+
+
+
+
+Caelid - South Radahn Arena
+Caelid - Central Radahn Arena
+Caelid - North Radahn Arena
+Caelid - Far North Radahn Arena
+Greyoll's Dragonbarrow - Southeast Farum Greatbridge, Lenne's Rise
+Greyoll's Dragonbarrow - Northeast Farum Greatbridge
+Greyoll's Dragonbarrow - Northeast Cliffside
+
+
+
+
+
+
+
+
+Mountaintops of the Giants - Southwest Fire Giant Arena
+Mountaintops of the Giants - Northwest Fire Giant Arena, Foot of the Forge
+Mountaintops of the Giants - Northeast Giants' Gravepost
+Mountaintops of the Giants - Guardians' Garrison
+Mountaintops of the Giants - Whiteridge Road, Minor Erdtree
+Mountaintops of the Giants - Before Freezing Lake, Heretical Rise
+Mountaintops of the Giants - Northwest of Freezing Lake, East of Castle Sol
+
+
+
+
+
+Caelid - East Radahn Arena
+Caelid - Northeast Radahn Arena
+
+
+
+
+
+
+
+
+
+
+
+
+Mountaintops of the Giants - Southeast Fire Giant Arena
+Mountaintops of the Giants - Northeast Fire Giant Arena
+Mountaintops of the Giants - Giants' Gravepost Northeast Cliffside
+Mountaintops of the Giants - West of First Church of Marika
+Mountaintops of the Giants - Southwest Freezing Lake, Lord Contender's Evergaol, Spiritcaller's Cave Entrance
+Mountaintops of the Giants - Northwest Freezing Lake
+Mountaintops of the Giants - Freezing Lake North Cliffside
+
+
+
+
+
+
+
+
+Mountaintops of the Giants - Forge of the Giants
+
+Mountaintops of the Giants - First Church of Marika
+Mountaintops of the Giants - Southeast Freezing Lake
+Mountaintops of the Giants - Northeast Freezing Lake
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

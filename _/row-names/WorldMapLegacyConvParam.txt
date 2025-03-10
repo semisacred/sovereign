@@ -1,0 +1,196 @@
+Roundtable Hold -> Unnamed Tile
+Crumbling Farum Azula -> Greyoll's Dragonbarrow - Bestial Sanctum
+Crumbling Farum Azula -> Greyoll's Dragonbarrow - Bestial Sanctum
+Subterranean Shunning-Grounds -> Leyndell, Royal Capital
+Leyndell, Ashen Capital -> Stone Platform
+Stormveil Castle -> Divine Tower of Limgrave
+Isolated Divine Tower -> Unnamed Tile
+Crumbling Farum Azula -> Isolated Divine Tower: Overworld
+Miquella's Haligtree -> Consecrated Snowfield - Ordina, Liturgical Town
+Stormveil Castle -> Liurnia of the Lakes - Church of Irith
+Stormveil Castle -> Liurnia of the Lakes - Lake-Facing Cliffs, Stormveil Castle Exit, Stillwater Cave Entrance
+Stormveil Castle -> Caelid - West Sellia, Sellia Crystal Tunnel Entrance, Sellia Evergaol
+Stormveil Castle -> Greyoll's Dragonbarrow - South of Divine Tower of Caelid, Deep Siofra Well
+Stormveil Castle -> Stormhill - Stormhill Shack, Stormveil Castle Entrance
+Stormveil Castle -> Stormhill - North of Stormhill Shack
+Stormveil Castle -> Chapel of Anticipation
+Stormveil Castle -> Divine Tower of Limgrave
+Leyndell, Royal Capital -> Capital Outskirts - Capital Rampart, Auriza Side Tomb Entrance
+Leyndell, Royal Capital -> Divine Tower of East Altus
+Leyndell, Royal Capital -> Subterranean Shunning-Grounds
+Leyndell, Ashen Capital -> Capital Outskirts - Capital Rampart, Auriza Side Tomb Entrance
+Leyndell, Ashen Capital -> Stone Platform
+Leyndell, Ashen Capital -> Divine Tower of East Altus
+Leyndell, Ashen Capital -> Subterranean Shunning-Grounds
+Ainsel River / Lake of Rot -> Liurnia of the Lakes - Eastern Tableland, Ainsel River Well
+Ainsel River / Lake of Rot -> Liurnia of the Lakes - Ruined Labyrinth, Uld Palace Ruins
+Ainsel River / Lake of Rot -> Liurnia of the Lakes - Eastern Tableland Northeast Cliffside
+Ainsel River / Lake of Rot -> Deeproot Depths
+Ainsel River / Lake of Rot -> Lake of Rot - Astel's Chamber
+Siofra River / Nokron ->
+Siofra River / Nokron ->
+Siofra River / Nokron -> Caelid - West Sellia, Sellia Crystal Tunnel Entrance, Sellia Evergaol
+Siofra River / Nokron -> Greyoll's Dragonbarrow - South of Divine Tower of Caelid, Deep Siofra Well
+Siofra River / Nokron -> Nokron - Start
+Siofra River / Nokron -> Siofra River - Ancestor Spirit Chamber
+Siofra River / Nokron -> Nokron - Regal Ancestor Spirit Chamber
+Deeproot Depths -> Subterranean Shunning-Grounds
+Lake of Rot - Astel's Chamber -> Moonlight Altar - Deep Ainsel Well
+Mohgwyn Palace -> Caelid - West Radahn Arena
+Nokron - Start -> Limgrave - Fort Haight West
+Nokron - Start -> Limgrave - Siofra River Well, Mistwood Ruins, Minor Erdtree, Nokron Entrance
+Crumbling Farum Azula -> Flame Peak - Forge of the Giants
+Academy of Raya Lucaria -> Liurnia of the Lakes - South Raya Lucaria Gate
+Academy of Raya Lucaria -> Liurnia of the Lakes - Main Academy Gate, Academy of Raya Lucaria Entrance
+Academy of Raya Lucaria -> Academy Crystal Cave
+Miquella's Haligtree ->
+Volcano Manor ->
+Volcano Manor ->
+Volcano Manor ->
+Stranded Graveyard ->
+Stranded Graveyard ->
+Tombsward Catacombs ->
+Tombsward Catacombs ->
+Impaler's Catacombs ->
+Stormfoot Catacombs ->
+Road's End Catacombs ->
+Murkwater Catacombs ->
+Murkwater Catacombs ->
+Black Knife Catacombs ->
+Cliffbottom Catacombs ->
+Wyndham Catacombs ->
+Wyndham Catacombs ->
+Sainted Hero's Grave ->
+Gelmir Hero's Grave ->
+Auriza Hero's Grave
+Auriza Hero's Grave
+Deathtouched Catacombs
+Unsightly Catacombs
+Auriza Side Tomb
+Minor Erdtree Catacombs
+Minor Erdtree Catacombs
+Caelid Catacombs
+Caelid Catacombs
+War-Dead Catacombs
+Giant-Conquering Hero's Grave
+Giant-Conquering Hero's Grave
+Giants' Mountaintop Catacombs
+Giants' Mountaintop Catacombs
+Consecrated Snowfield Catacombs
+Consecrated Snowfield Catacombs
+Hidden Path to the Haligtree
+Hidden Path to the Haligtree
+Hidden Path to the Haligtree
+Hidden Path to the Haligtree
+Murkwater Cave
+Earthbore Cave
+Tombsward Cave
+Groveside Cave
+Stillwater Cave
+Lakeside Crystal Cave
+Lakeside Crystal Cave
+Academy Crystal Cave
+Academy Crystal Cave
+Seethewater Cave
+Seethewater Cave
+Volcano Cave
+Dragonbarrow Cave
+Sellia Hideaway
+Cave of the Forlorn
+Coastal Cave
+Coastal Cave
+Highroad Cave
+Perfumer's Grotto
+Perfumer's Grotto
+Sage's Cave
+Abandoned Cave
+Abandoned Cave
+Gaol Cave
+Gaol Cave
+Spiritcaller Cave
+Spiritcaller Cave
+Morne Tunnel
+Limgrave Tunnels
+Limgrave Tunnels
+Raya Lucaria Crystal Tunnel
+Raya Lucaria Crystal Tunnel
+Old Altus Tunnel
+Old Altus Tunnel
+Old Altus Tunnel
+Old Altus Tunnel
+Altus Tunnel
+Gael Tunnel
+Gael Tunnel
+Gael Tunnel
+Sellia Crystal Tunnel
+Yelough Anix Tunnel
+Divine Tower of Limgrave
+Divine Tower of Liurnia
+Divine Tower of West Altus
+Divine Tower of Caelid
+Divine Tower of Caelid
+Divine Tower of East Altus
+Isolated Divine Tower
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Finger Birthing Grounds
+Belurat, Tower Settlement
+Enir-Ilim
+Shadow Keep
+Shadow Keep
+Shadow Keep
+Shadow Keep
+Shadow Keep
+Shadow Keep
+Specimen Storehouse
+Specimen Storehouse
+Specimen Storehouse (West Rampart)
+Stone Coffin Fissure
+Stone Coffin Fissure
+Finger Birthing Grounds
+Finger Birthing Grounds
+Finger Birthing Grounds
+Finger Birthing Grounds
+Midra's Manse
+Midra's Manse
+Midra's Manse
+Midra's Manse
+Fog Rift Catacombs
+Fog Rift Catacombs
+Fog Rift Catacombs
+Fog Rift Catacombs
+Scorpion River Catacombs
+Scorpion River Catacombs
+Darklight Catacombs
+Darklight Catacombs
+Belurat Gaol
+Belurat Gaol
+Bonny Gaol
+Lamenter's Gaol
+Lamenter's Gaol
+Ruined Forge Lava Intake
+Ruined Forge Lava Intake
+Ruined Forge Lava Intake
+Ruined Forge Lava Intake
+Ruined Forge of Starfall Past
+Ruined Forge of Starfall Past
+Ruined Forge of Starfall Past
+Ruined Forge of Starfall Past
+Taylew's Ruined Forge
+Taylew's Ruined Forge
+Rivermouth Cave
+Dragon's Pit -> Unnamed Tile

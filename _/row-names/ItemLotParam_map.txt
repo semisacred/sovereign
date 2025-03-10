@@ -1,0 +1,5572 @@
+
+
+
+
+
+
+
+Flask of Crimson Tears
+Flask of Cerulean Tears
+Roped Fire Pot
+
+Small Golden Effigy
+
+Flask of Wondrous Physick
+
+
+
+
+
+
+
+Baldachin's Blessing
+Mending Rune of Perfect Order
+Mending Rune of the Death-Prince
+Mending Rune of the Fell Curse
+Flask of Crimson Tears, Flask of Crimson Tears +5, Flask of Crimson Tears +10, Flask of Cerulean Tears, Oil Pot
+Small Golden Effigy
+
+
+Immunizing Cured Meat
+
+
+
+
+
+
+
+
+Tarnished's Furled Finger
+Rune Arc
+Furlcalling Finger Remedy
+Rune Arc
+Furlcalling Finger Remedy
+Furlcalling Finger Remedy
+Rune Arc
+Furlcalling Finger Remedy
+Rune Arc
+Furlcalling Finger Remedy
+Rune Arc
+Furlcalling Finger Remedy
+Furlcalling Finger Remedy
+Furlcalling Finger Remedy
+
+Furlcalling Finger Remedy
+Furlcalling Finger Remedy
+Furlcalling Finger Remedy
+Furlcalling Finger Remedy
+Furlcalling Finger Remedy
+Furlcalling Finger Remedy
+Furlcalling Finger Remedy
+Furlcalling Finger Remedy
+Furlcalling Finger Remedy
+
+[SACRED] Fatesever Needle
+[SACRED] Elderblood Sigil
+[SACRED] Ascension Sigil
+[SACRED] Elderblood Greatbow
+[SACRED] Scaled Armor Black
+[SACRED] Scaled Armor Black (Altered)
+[SACRED] Scaled Gauntlets Black
+[SACRED] Scaled Greaves Black
+
+
+
+Fetid Pot
+[Stormveil - Margit] Talisman Pouch
+[Stormveil - Godrick] Godrick's Great Rune
+[Stormveil - Godrick] Remembrance of the Grafted
+
+[Chapel of Anticipation - Grafed Scion] Ornamental Straight Sword
+[Chapel of Anticipation - Grafed Scion] Golden Beast Crest Shield
+[Leyndell - Morgott] Remembrance of the Omen King
+[Leyndell - Morgott] Morgott's Great Rune
+[Enia - 2 Great Runes] Talisman Pouch
+[Ashen Leyndell - Gideon] Scepter of the All-Knowing
+[Ashen Leyndell - Gideon] All-Knowing Helm
+[Ashen Leyndell - Gideon] All-Knowing Armor
+[Ashen Leyndell - Gideon] All-Knowing Gauntlets
+[Ashen Leyndell - Gideon] All-Knowing Greaves
+[Ashen Leyndell - Hoarah Loux] Remembrance of Hoarah Loux
+[Lake or Rot - Astel] Remembrance of the Naturalborn
+[Ainsel - Dragonkin Soldier] Frozen Lightning Spear
+[Siofra - Valiant Gargoyle] Gargoyle's Greatsword
+[Siofra - Valiant Gargoyle] Gargoyle's Twinblade
+[Deeproot Depths - Fortissax] Remembrance of the Lichdragon
+[Mohgwyn Palace - Mohg] Remembrance of the Blood Lord
+[Mohgwyn Palace - Mohg] Mohg's Great Rune
+
+[Farum Azula - Godskin Duo] Smithing-Stone Miner's Bell Bearing [4]
+[Farum Azula - Godskin Duo] Ash of War: Black Flame Tornado
+[Farum Azula - Dragonlord Placidusax] Remembrance of the Dragonlord
+[Farum Azula - Maliketh] Remembrance of the Black Blade
+[Raya Lucaria - Red Wolf of Radagon] Memory Stone
+[Raya Lucaria - Rennala] Remembrance of the Full Moon Queen
+[Raya Lucaria - Rennala] Great Rune of the Unborn
+[Raya Lucaria - Rennala] None
+[Haligtree - Loretta] Loretta's Mastery
+[Haligtree - Loretta] Loretta's War Sickle
+[Haligtree - Malenia] Remembrance of the Rot Goddess
+[Haligtree - Malenia] Malenia's Great Rune
+[Volcano Manor - Godskin Noble] Godskin Stitcher
+[Volcano Manor - Godskin Noble] Noble Presence
+[Mt. Gelmir - Rykard] Remembrance of the Blasphemous
+[Mt. Gelmir - Rykard] Rykard's Great Rune
+[Erdtree - Elden Beast] Elden Remembrance
+
+[Mohgwyn Palace - Mohg] Bloodflame Talons
+[Ruin-Strewn Precipice - Magma Wyrm Makar] Magma Wyrm's Scalesword
+[Ruin-Strewn Precipice - Magma Wyrm Makar] Dragon Heart
+
+[Fringefolk Hero's Grave - Ulcerated Tree Spirit] Golden Seed
+[Fringefolk Hero's Grave - Ulcerated Tree Spirit] Banished Knight Oleg
+[Volcano Manor - Abducator Virgins] Inquisitor's Girandole
+[Caelid - Radahn] Remembrance of the Starscourge
+[Caelid - Radahn] Radahn's Great Rune
+[Mountaintops - Fire Giant] Remembrance of the Fire Giant
+[Siofra - Ancestor Spirit] Ancestral Follower Ashes
+[Nokron - Regal Ancestor Spirit] Remembrance of the Regal Ancestor
+[Nokron - Mimic Tear] Larval Tear
+[Nokron - Mimic Tear] Silver Tear Mask
+[Deeproot Depths - Fia's Champions] Fia's Mist
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+[Mountaintops - Sanguine Noble] Sanguine Noble Hood
+[Mountaintops - Sanguine Noble] Sanguine Noble Robe
+[Mountaintops - Sanguine Noble] Sanguine Noble Bracelets
+[Mountaintops - Sanguine Noble] Sanguine Noble Trousers
+[Capital Outskirts - Fell Twins] Omenkiller Rollo
+[Weeping Penisula - Leonine Misbegotten] Blade Greatsword
+[Caria Manor - Loretta] Loretta's Greatbow
+[Caria Manor - Loretta] Ash of War: Loretta's Slash
+[Shaded Castle - Elemer of the Briar] Marais Executioner's Sword
+[Shaded Castle - Elemer of the Briar] Briar Greatshield
+[Redmane Castle - Misbegotten Warrior/Crucible Knight] Ruins Greatsword
+[Castle Sol - Commander Niall] Veteran's Prosthesis
+
+[Tombsward Catacombs - Cemetery Shade] Lhutel the Headless
+[Impaler's Catacombs - Erdtree Burial Watchdog] Demi-Human Ashes
+[Stormfoot Catacombs - Erdtree Burial Watchdog] Noble Sorcerer Ashes
+[Deathtouched Catacombs - Black Knife Assassin] Assassin's Crimson Dagger
+[Murkwater Catacombs - Grave Warden Duelist] Battle Hammer
+[Black Knife Catacombs - Cemetery Shade] Twinsage Sorcerer Ashes
+[Road's End Catacombs - Spirit-caller Snail] Glintstone Sorcerer Ashes
+[Cliffbottom Catacombs - Erdtree Burial Watchdog] Kaiden Sellsword Ashes
+[Sainted Hero's Grave - Leyndell] Ancient Dragon Knight Kristoff
+[Gelmir's Heo's Grave - Mt. Gelmir] Bloodhound Knight Floh
+[Auriza Hero's Grave - Crucible Knigh Ordovis] Ordovis's Greatsword
+[Auriza Hero's Grave - Crucible Knigh Ordovis] Crucible Axe Helm
+[Auriza Hero's Grave - Crucible Knigh Ordovis] Crucible Axe Armor
+[Auriza Hero's Grave - Crucible Knigh Ordovis] Crucible Gauntlets
+[Auriza Hero's Grave - Crucible Knigh Ordovis] Crucible Greaves
+[Unslightly Catacombs - Perfumer Tricia] Perfumer Tricia
+[Wyndham Catacombs - Erdtree Burial Watchdog] Glovewort Picker's Bell Bearing [1]
+[Auriza Side Tomb - Grave Warden Duelist] Soldjars of Fortune Ashes
+[Minor Erdtree Catacombs - Erdtree Burial Watchdog] Mad Pumpkin Head Ashes
+[Caelid Catacombs - Cemetery Shade] Kindred of Rot Ashes
+[War-Dead Catacombs - Putrid Tree Spirit] Redmane Knight Ogha
+[War-Dead Catacombs - Putrid Tree Spirit] Golden Seed
+[Giant-Conquering Hero's Grave - Ancient Hero of Zamor] Zamor Curved Sword
+[Giant-Conquering Hero's Grave - Ancient Hero of Zamor] Zamor Mask
+[Giant-Conquering Hero's Grave - Ancient Hero of Zamor] Zamor Armor
+[Giant-Conquering Hero's Grave - Ancient Hero of Zamor] Zamor Bracelets
+[Giant-Conquering Hero's Grave - Ancient Hero of Zamor] Zamor Legwraps
+[Giants' Mountaintop Catacombs - Ulcerated Tree Spirit] Golden Seed
+[Giants' Mountaintop Catacombs - Ulcerated Tree Spirit] Glovewort Picker's Bell Bearing [2]
+[Consecrated Snowfiled Catacombs - Putrid Grave Warden Duelist] Great Grave Glovewort
+[Consecrated Snowfiled Catacombs - Putrid Grave Warden Duelist] Rotten Gravekeeper Cloak
+[Hidden Path ot the Haligtree - Stray Mimic Tear] Blackflame Monk Amon
+[Black Knife Catacombs - Black Knife Assassin] Assassin's Cerulean Dagger
+[Black Knife Catacombs - Black Knife Assassin] Black Knifeprint
+[Leyndell Catacombs - Esgar, Priest of Blood] Lord of Blood's Exultation
+[Tombsward Cave - Miranda the Blighted Bloom] Viridian Amber Medallion
+[Earthbore Cave - Runebear] Spelldrake Talisman
+
+[Groveside Cave - Beastman of Farum Azula] Flamedrake Talisman
+[Coastal Cave - Demi-Human Chief] Sewing Needle
+[Coastal Cave - Demi-Human Chief] Tailoring Tools
+[Highroad Cave - Guardian Golem] Blue Dancer Charm
+[Stillwater Cave - Cleanrot Knight] Winged Sword Insignia
+[Lakeside Crystal Cave - Bloodhound Knight] Cerulean Amber Medallion
+[Academy Crystal Cave - Crystalians] Crystal Release
+[Seethewater Cave - Kindred of Rot] Kindred of Rot's Exultation
+[Volcano Cave - Demi-human Queen Margot] Jar Cannon
+[Omenkiller - Perfumer's Grotto] Great Omenkiller Cleaver
+[Sage's Cave - Black Knife Assassin] Concealing Veil
+[Goal Cave - Frenzied Duelist] Putrid Corpse Ashes
+[Dragonbarrow Cave - Beastman of Farum Azula] Flamedrake Talisman +2
+[Abandoned Cave - Cleanrot Knight Duo] Gold Scarab
+[Sellia Hideaway - Putrid Crystalians] Crystal Torrent
+[Cave of the Forlorn - Misbegotten Crusader] Golden Order Greatsword
+[Spiritcaller's Cave - Godskin Apostle/Noble] Godskin Swaddling Cloth
+[Spiritcaller's Cave - Godskin Apostle/Noble] Black Flame Ritual
+[Sage's Cave - Necromancer Garris] Family Heads
+[Morne Tunnel - Scaly Misbegotten] Rusted Anchor
+[Limgrave Tunnels - Stonedigger Troll] Roar Medallion
+[Raya Lucaria Crystal Tunnel - Crystalian] Smithing-Stone Miner's Bell Bearing [1]
+[Old Altus Tunnel - Stonedigger Troll] Great Club
+[Sealed Tunnel - Onyx Lord] Onyx Lord's Greatsword
+[Altus Tunnel - Crystalians] Somberstone Miner's Bell Bearing [2]
+[Gael Tunnel - Magma Wyrm] Dragon Heart
+[Gael Tunnel - Magma Wyrm] Moonveil
+[Sellia Crystal Tunnel - Fallingstar Beast] Somber Smithing Stone [6]
+[Sellia Crystal Tunnel - Fallingstar Beast] Smithing Stone [7]
+[Sellia Crystal Tunnel - Fallingstar Beast] Gravity Stone Chunk
+[Sellia Crystal Tunnel - Fallingstar Beast] Somberstone Miner's Bell Bearing [1]
+[Yelough Anix Tunnel - Astel] Meteorite of Astel
+
+
+
+
+
+
+
+
+
+[Limgrave - Field - Tree Sentinel] Golden Halberd
+[Limgrave - Field - Flying Dragon Agheel] Dragon Heart
+[Limgrave - Evergaol - Crucible Knight] Aspects of the Crucible: Tail
+[Limgrave - Evergaol - Bloodhound Knight Darriwil] Bloodhound's Fang
+[Limgrave - Field - Tibia Mariner] Deathroot
+[Limgrave - Field - Tibia Mariner] Skeletal Militiaman Ashes
+[Weeping Penisula - Field - Erdtree Avatar] Crimsonburst Crystal Tear
+[Weeping Penisula - Field - Erdtree Avatar] Opaline Bubbletear
+[Liurnia - Field - Erdtree Avatar] Magic-Shrouding Cracked Tear
+[Liurnia - Field - Erdtree Avatar] Lightning-Shrouding Cracked Tear
+[Liurnia - Field - Erdtree Avatar] Holy-Shrouding Cracked Tear
+[Liurnia - Field - Erdtree Avatar] Cerulean Crystal Tear
+[Liurnia - Field - Erdtree Avatar] Ruptured Crystal Tear
+[Liurnia - Field - Glintstone Dragon Smarag] Dragon Heart
+[Liurnia - Field - Omenkiller] Crucible Knot Talisman
+[Liurnia - Field - Tibia Mariner] Deathroot
+[Liurnia - Field - Tibia Mariner] Skeletal Bandit Ashes
+[Liurnia - Evergaol - Adan, Thief of Fire] Flame of the Fell God
+[Liurnia - Evergaol - Bols, Carian Knight] Greatblade Phalanx
+[Liurnia - Evergaol - Onyx Lord] Meteorite
+[Liurnia - Field - Glintstone Dragon Adula] Dragon Heart
+[Liurnia - Field - Glintstone Dragon Adula] Adula's Moonblade
+[Liurnia - Evergaol - Alecto, Black Knife Ringleader] Black Knife Tiche
+[Altus Plateau - Field - Ancient Dragon Lansseax] Lansseax's Glaive
+[Altus Plateau - Field - Fallingstar Beast] Somber Smithing Stone [5]
+[Altus Plateau - Field - Fallingstar Beast] Smithing Stone [6]
+[Altus Plateau - Field - Fallingstar Beast] Gravity Stone Fan
+[Altus Plateau - Field - Fallingstar Beast] Gravity Stone Chunk
+[Capital Outskirts - Field - Draconic Tree Sentinel] Dragon Greatclaw
+[Capital Outskirts - Field - Draconic Tree Sentinel] Dragonclaw Shield
+[Altus Plateau - Field - Wormface] Speckled Hardtear
+[Altus Plateau - Field - Wormface] Crimsonspill Crystal Tear
+[Altus Plateau - Field - Godskin Apostle] Godskin Peeler
+[Altus Plateau - Field - Godskin Apostle] Scouring Black Flame
+[Capital Outskirts - Field - Tree Sentinel Duo] Erdtree Greatshield
+[Capital Outskirts - Field - Tree Sentinel Duo] Hero's Rune [1]
+[Altus Plateau - Field - Black Knife Assassin] Black Knife
+[Mt. Gelmir - Field - Full-grown Fallingstar Beast] Somber Smithing Stone [6]
+[Mt. Gelmir - Field - Full-grown Fallingstar Beast] Smithing Stone [6]
+[Mt. Gelmir - Field - Full-grown Fallingstar Beast] Fallingstar Beast Jaw
+[Mt. Gelmir - Field - Ulcerated Tree Spirit] Leaden Hardtear
+[Mt. Gelmir - Field - Ulcerated Tree Spirit] Cerulean Hidden Tear
+[Altus Plateau - Field - Tibia Mariner] Deathroot
+[Altus Plateau - Field - Tibia Mariner] Tibia's Summons
+[Mt. Gelmir - Field - Magma Wyrm] Dragon Heart
+[Mt. Gelmir - Field - Demi-Human Queen Maggie] Memory Stone
+[Mt. Gelmir - Field - Magma Wyrm] Dragon Heart
+[Caelid - Field - Commander O'Neil] Commander's Standard
+[Caelid - Field - Commander O'Neil] Unalloyed Gold Needle
+[Caelid - Field - Erdtree Avatar] Greenburst Crystal Tear
+[Caelid - Field - Erdtree Avatar] Flame-Shrouding Cracked Tear
+[Caelid - Field - Putrid Avatar] Opaline Hardtear
+[Caelid - Field - Putrid Avatar] Stonebarb Cracked Tear
+[Caelid - Field - Flying Dragon Greyll] Dragon Heart
+[Caelid - Field - Blade Blade Kindred] Gargoyle's Blackblade
+[Caelid - Field - Blade Blade Kindred] Gargoyle's Black Halberd
+[Forbidden Lands - Field - Black Blade Kindred] Gargoyle's Black Blades
+[Forbidden Lands - Field - Black Blade Kindred] Gargoyle's Black Axe
+[Mountaintops of the Giants - Field - Borealis, the Freezing Fog] Dragon Heart
+[Mountaintops of the Giants - Evergaol - Roundtable Knight Vyke] Vyke's Dragonbolt
+[Mountaintops of the Giants - Evergaol - Roundtable Knight Vyke] Fingerprint Helm
+[Mountaintops of the Giants - Evergaol - Roundtable Knight Vyke] Fingerprint Armor
+[Mountaintops of the Giants - Evergaol - Roundtable Knight Vyke] Fingerprint Gauntlets
+[Mountaintops of the Giants - Evergaol - Roundtable Knight Vyke] Fingerprint Greaves
+[Mountaintops of the Giants - Field - Erdtree Avatar] Cerulean Crystal Tear
+[Mountaintops of the Giants - Field - Erdtree Avatar] Crimson Bubbletear
+[Mountaintops of the Giants - Field - Death Rite Bird] Death Ritual Spear
+[Mountaintops of the Giants - Field - Great Wyrm Theodorix] Dragon Heart
+[Consecrated Snowfield - Field - Putrid Avatar] Thorny Cracked Tear
+[Consecrated Snowfield - Field - Putrid Avatar] Ruptured Crystal Tear
+[Lake of Rot - Dragonkin Soldier] Dragonscale Blade
+[Siofra River - Dragonkin Soldier] Dragon Halberd
+
+[SACRED] Dragonscale Flesh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[SACRED] Dragonscale Flesh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Teardrop Scarab - Stormhill] Ash of War: Storm Wall
+[Teardrop Scarab - Stormhill] Ash of War: Wild Strikes
+[Teardrop Scarab - Agheel Lake] Ash of War: Determination
+[Teardrop Scarab - Agheel Lake] Ash of War: Unsheathe
+[Teardrop Scarab - Mistwood] Ash of War: Ground Slam
+[Teardrop Scarab - Third Chuch of Marika] Ash of War: Sacred Blade
+[Teardrop Scarab - Limgrave Coast] Ash of War: Stamp (Sweep)
+[Teardrop Scarab - Weeping Peninsula] Divine Fortification
+[Teardrop Scarab - Weeping Peninsula] Lightning Strike
+[Teardrop Scarab - Weeping Peninsula] Poison Mist
+[Teardrop Scarab - Weeping Peninsula] Ash of War: Mighty Shot
+[Teardrop Scarab - Limgrave] Somber Smithing Stone [1]
+[Teardrop Scarab - Limgrave] Somber Smithing Stone [1]
+[Teardrop Scarab - Limgrave] Somber Smithing Stone [1]
+[Teardrop Scarab - Stormveil Castle] Ash of War: Storm Assault
+[Teardrop Scarab - Stormveil Castle] Ash of War: Stormcaller
+[Teardrop Scarab - Stormveil Castle] Rancorcall
+[Teardrop Scarab - Three Sisters] Ash of War: Chilling Mist
+[Teardrop Scarab - Liurnia] Ash of War: Charge Forth
+[Teardrop Scarab - Liurnia] Ash of War: Hoarfrost Stomp
+[Teardrop Scarab - Liurnia] Ash of War: Thops's Barrier
+[Teardrop Scarab - Liurnia] Ash of War: Vow of the Indomitable
+[Teardrop Scarab - Liurnia] Ash of War: Shield Bash
+[Teardrop Scarab - Liurnia] Bloodflame Blade
+[Teardrop Scarab - Caria Manor] Carian Piercer
+[Teardrop Scarab - Liurnia] Ash of War: Barbaric Roar
+[Teardrop Scarab - Liurnia] Frenzied Burst
+[Teardrop Scarab - Liurnia] Ash of War: Sword Dance
+[Teardrop Scarab - Caria Manor] Frozen Armament
+[Teardrop Scarab - Liurnia] Somber Smithing Stone [2]
+[Teardrop Scarab - Liurnia] Somber Smithing Stone [2]
+[Teardrop Scarab - Liurnia] Somber Smithing Stone [3]
+[Teardrop Scarab - Liurnia] Somber Smithing Stone [3]
+[Teardrop Scarab - Liurnia] Somber Smithing Stone [2]
+[Teardrop Scarab - Liurnia] Somber Smithing Stone [2]
+[Teardrop Scarab - Liurnia] Somber Smithing Stone [2]
+[Teardrop Scarab - Raya Lucaria Academy] Ash of War: Spectral Lance
+[Teardrop Scarab - Raya Lucaria Academy] Somber Smithing Stone [4]
+[Teardrop Scarab - Altus Plateau] Ash of War: Sacred Order
+[Teardrop Scarab - Altus Plateau] Ash of War: Shield Crash
+[Teardrop Scarab - Altus Plateau] Ash of War: Earthshaker
+[Teardrop Scarab - Altus Plateau] Ash of War: Blood Blade
+[Teardrop Scarab - Altus Plateau] Ash of War: Golden Slam
+[Teardrop Scarab - Altus Plateau] Ash of War: Lightning Ram
+[Teardrop Scarab - Altus Plateau] Protection of the Erdtree
+[Teardrop Scarab - Capital Outskirts] Ash of War: Prayerful Strike
+[Teardrop Scarab - Capital Outskirts] Ash of War: Golden Parry
+[Teardrop Scarab - Capital Outskirts] Ash of War: Lightning Slash
+[Teardrop Scarab - Capital Outskirts] Somber Smithing Stone [5]
+[Teardrop Scarab - Mt. Gelmir] Ash of War: Barrage
+[Teardrop Scarab - Mt. Gelmir] Ash of War: Through and Through
+[Teardrop Scarab - Leyndell] Barrier of Gold
+[Teardrop Scarab - Leyndell] Ash of War: Thunderbolt
+[Teardrop Scarab - Caelid] Whirl, O Flame!
+[Teardrop Scarab - Caelid] Ash of War: Lifesteal Fist
+[Teardrop Scarab - Caelid] Ash of War: Sacred Ring of Light
+[Teardrop Scarab - Caelid] Ash of War: Poisonous Mist
+[Teardrop Scarab - Redmane Castle] Ash of War: Flaming Strike
+[Teardrop Scarab - Caelid] Ash of War: Flame of the Redmanes
+[Teardrop Scarab - Dragonbarrow] Ash of War: Sky Shot
+[Teardrop Scarab - Dragonbarrow] Ash of War: Cragblade
+[Teardrop Scarab - Caelid] Poison Armament
+[Teardrop Scarab - Caelid] Ash of War: Double Slash
+[Teardrop Scarab - Caelid] Bestial Constitution
+[Teardrop Scarab - Caelid] Somber Smithing Stone [4]
+[Teardrop Scarab - Caelid] Somber Smithing Stone [4]
+[Teardrop Scarab - Caelid] Somber Smithing Stone [8]
+[Teardrop Scarab - Caelid] Somber Smithing Stone [9]
+Smithing Stone [1]
+Smithing Stone [1]
+Smithing Stone [1]
+Smithing Stone [1]
+Smithing Stone [1]
+[Teardrop Scarab - Mountaintops of the Giants] Ash of War: Seppuku
+[Teardrop Scarab - Mountaintops of the Giants] Ash of War: Troll's Roar
+[Teardrop Scarab - Giant-Conquering Hero's Grave] Flame, Protect Me
+[Teardrop Scarab - Forbidden Lands] Ash of War: Prelate's Charge
+Smithing Stone [1]
+Smithing Stone [1]
+[Teardrop Scarab - Consecrated Snowfield] Ash of War: White Shadow's Lure
+Smithing Stone [1]
+Smithing Stone [1]
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [1]
+[Teardrop Scarab - Siofra River] Somber Smithing Stone [5]
+[Teardrop Scarab - Siofra River] Somber Smithing Stone [5]
+[Teardrop Scarab - Siofra River] Somber Smithing Stone [6]
+[Teardrop Scarab - Siofra River] Somber Smithing Stone [6]
+[Teardrop Scarab - Siofra River] Great Oracular Bubble
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [1]
+[Teardrop Scarab - Siofra River] Ash of War: Square Off
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [1]
+[Teardrop Scarab - Nokron] Somber Smithing Stone [5]
+Golden Rune [1]
+[Teardrop Scarab - Nokron] Ash of War: Enchanted Shot
+[Teardrop Scarab - Nokron] Order Healing
+Golden Rune [1]
+[Teardrop Scarab - Siofra River] Oracle Bubbles
+[Teardrop Scarab - Deeproot Depths] Ash of War: Golden Land
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [1]
+Somber Smithing Stone [6]
+Somber Smithing Stone [6]
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [1]
+[Teardrop Scarab - Mohgwyn Dynasty] Ash of War: Blood Tax
+[Teardrop Scarab - Crumbling Farum Azula] Golden Lightning Fortification
+
+
+
+
+
+
+
+
+
+
+
+[Info Item] About Sites of Grace
+[Info Item] About Sorceries and Incantations
+[Info Item] About Bows
+[Info Item] About Crouching
+[Info Item] About Stance-Breaking
+[Info Item] About Stakes of Marika
+[Info Item] About Guard Counters
+[Info Item] About the Map
+[Info Item] About Guidance of Grace
+[Info Item] About Horseback Riding
+[Info Item] About Death
+[Info Item] About Summoning Spirits
+[Info Item] About Guarding
+[Info Item] About Item Crafting
+
+[Info Item] About Flask of Wondrous Physick
+[Info Item] About Adding Skills
+[Info Item] About Birdseye Telescopes
+[Info Item] About Spiritspring Jumping
+[Info Item] About Vanquishing Enemy Groups
+[Info Item] About Teardrop Scarabs
+[Info Item] About Summoning Other Players
+[Info Item] About Cooperative Multiplayer
+[Info Item] About Competitive Multiplayer
+[Info Item] About Invasion Multiplayer
+[Info Item] About Hunter Multiplayer
+[Info Item] About Summoning Pools
+[Info Item] About Monument Icon
+[Info Item] About Requesting Help from Hunters
+[Info Item] About Skills
+[Limgrave - Artist's Shack] "Homing Instinct" Painting
+[Liurnia - Artist's Shack] "Resurrection" Painting
+[Altus Plateau - Shaded Castle] "Champion's Song" Painting
+[Consecrated Snowfield - Castle Sol] "Sorcerer" Painting
+[Stormveil Castle] "Prophecy" Painting
+[Leyndell - Fortifed Manor] "Flightless Bird" Painting
+[Caelid - Sellia] "Redmane" Painting
+
+
+
+[Reward - "Homing Instinct" Painting] Incantation Scarab
+[Reward - "Resurrection" Painting] Juvenile Scholar Cap
+[Reward - "Resurrection" Painting] Juvenile Scholar Robe
+[Reward - "Resurrection" Painting] Larval Tear
+[Reward - "Champion's Song" Painting] Harp Bow
+[Reward - "Sorcerer" Painting] Greathood
+[Reward - "Prophecy" Painting] Warhawk Ashes
+[Reward - "Flightless Bird" Painting] Fire's Deadly Sin
+[Reward - "Redmane" Painting] Ash of War: Rain of Arrows
+
+
+
+
+
+
+
+
+[Melina - Third Grace Found] Spectral Steed Whistle
+[Melina - Morgott Killed] Rold Medallion
+[Unknown]
+[Unknown] Neutralizing Boluses
+[Unknown]
+[White-Faced Varre - ?] Festering Bloody Finger
+[White-Faced Varre - Maiden Kill] Lord of Blood's Favor
+[White-Faced Varre - 3 Invasions] Pureblood Knight's Medal
+[White-Faced Varre - Maiden Kill] Lord of Blood's Favor
+[White-Faced Varre - Returned Oath-Cloth] Bloody Finger
+[White-Faced Varre]
+[White-Faced Varre - Invasion] Varre's Bouquet
+[White-Faced Varre - Invasion] Festering Bloody Finger
+[Unknown]
+[Unknown] Perfume Bottle
+[Unknown] Glowstone
+[Gatekeeper Gostoc - First Meeting] Grace Mimic
+[Gatekeeper Gostoc - Gostoc Killed] Gostoc's Bell Bearing
+[Gatekeeper Gostoc] Glass Shard
+[Gatekeeper Gostoc] Silver-Pickled Fowl Foot
+[Edgar] Sacrificial Twig
+[Edgar] Shabriri Grape
+[Edgar] Banished Knight's Halberd +8 - Spinning Strikes
+[Edgar] Raw Meat Dumpling
+[Tanith] Tonic of Forgetfulness
+[Tanith] Consort's Mask
+[Tanith] Consort's Robe
+[Tanith] Consort's Trousers
+[Tanith] Drawing-Room Key
+
+
+[Tanith] Letter from Volcano Manor
+[Tanith] Letter from Volcano Manor
+[Tanith] Red Letter
+[Tanith] Magma Shot
+[Tanith] Serpentbone Blade
+[Tanith] Taker's Cameo
+[Tanith] Aspects of the Crucible: Breath
+[Irina] Irina's Letter
+[Rya] Rya's Necklace
+[Hyetta] Frenzied Flame Seal
+[Hyetta] Frenzyflame Stone
+[Rya] Volcano Manor Invitation
+[Rya] Zorayas's Letter
+[Rya] Daedicar's Woe
+[Sorceress Sellen] Sellen's Primal Glintstone
+[Sorceress Sellen] Glintstone Kris
+[Sorceress Sellen] Sellian Sealbreaker
+[SACRED][Sorceress Sellen] Starlight Shards
+[Sorceress Sellen] Comet Azur
+[Sorceress Sellen] Stars of Ruin
+[Sorceress Sellen] Sellen's Bell Bearing
+[Sorceress Sellen] Witch's Glintstone Crown
+[Sorceress Sellen] Witch's Glintstone Crown
+[Finger Reader Enia - Godfrey] Talisman Pouch
+[Unknown] Glowstone
+[Unknown] Glowstone
+[Unknown] Glowstone
+[Albus] Haligtree Secret Medallion (Right)
+[Seluvis] Seluvis's Potion
+[Seluvis] Magic Scorpion Charm
+[Seluvis]
+[Seluvis] Seluvis's Introduction
+[Seluvis] Glowstone
+[Seluvis] Amber Draught
+[Seluvis]
+[Seluvis] Seluvis's Bell Bearing
+[Seluvis] Preceptor's Big Hat
+[Seluvis] Preceptor's Long Gown
+[Seluvis] Preceptor's Gloves
+[Seluvis] Preceptor's Trousers
+[Pidia, Carian Servant] Pidia's Bell Bearing
+[Pidia, Carian Servant] Dolores the Sleeping Arrow Puppet
+[Pidia, Carian Servant] Pidia's Bell Bearing
+[Pidia, Carian Servant] Nepheli Loux Puppet
+[Blaidd is the Half-Wolf] Somber Smithing Stone [2]
+[Blaidd is the Half-Wolf] Royal Greatsword
+[Blaidd is the Half-Wolf] Blaidd's Armor
+[Blaidd is the Half-Wolf] Blaidd's Gauntlets
+[Blaidd is the Half-Wolf] Blaidd's Greaves
+[Blaidd is the Half-Wolf] Discarded Palace Key
+[Unknown] White Cipher Ring
+[Unknown] Smithing Stone [5]
+[Eleonora, Violet Bloody Finger] Purifying Crystal Tear
+[Eleonora, Violet Bloody Finger] Eleonora's Poleblade
+[Bloody Finger Hunter Yura] Nagakiba +0 - Piercing Fang
+[Bloody Finger Hunter Yura] Iron Kasa
+[Bloody Finger Hunter Yura] Ronin's Armor
+[Bloody Finger Hunter Yura] Ronin's Gauntlets
+[Bloody Finger Hunter Yura] Ronin's Greaves
+[Iron Fist Alexander] Exalted Flesh
+[Iron Fist Alexander] Exalted Flesh
+[Iron Fist Alexander] Jar
+[Iron Fist Alexander] Warrior Jar Shard
+[Iron Fist Alexander] Shard of Alexander
+[Iron Fist Alexander] Alexander's Innards
+[Unknown]
+[Patches] Letter to Patches
+[Patches] Dancer's Castanets
+[Patches] Magma Whip Candlestick
+[Patches] Golden Rune [1]
+[Patches] Spear+7
+[Patches] Leather Armor
+[Patches] Leather Gloves
+[Patches] Leather Boots
+[Roderika] Spirit Jellyfish Ashes
+[Roderika] Golden Seed
+[Chest - Gatefront Ruins] Whetstone Knife
+[Kenneth Haight] Erdsteel Dagger
+[Gurranq - 4th Deathroot] Ash of War: Beast's Roar
+[Gurranq - 3rd Deathroot] Bestial Vitality
+[Gurranq - 2nd Deathroot] Bestial Sling
+[Gurranq - 1st Deathroot] Clawmark Seal
+[Gurranq - 1st Deathroot] Beast Eye
+[Gurranq - 9th Deathroot] Dragon Smithing Stone
+[Gurranq - 8th Deathroot] Gurranq's Beast Claw
+[Gurranq - 7th Deathroot] Beastclaw Greathammer
+[Gurranq - 6th Deathroot] Stone of Gurranq
+[Gurranq - 5th Deathroot] Beast Claw
+[War Counselor Iji] Iji's Bell Bearing
+[War Counselor Iji] Iji's Mirrorhelm
+[Unknown] Glowstone
+[Unknown] Tailoring Tools
+[Unknown] Mushroom
+[Castle Sol] Haligtree Secret Medallion (Left)
+[Unknown]
+[Gideon Ofnir - Secret Medallion] Black Flame's Protection
+[Gideon Ofnir - Haligtree] Lord's Divine Fortification
+[Gideon Ofnir - Mohgwyn Dynasty Mausoleum] Fevor's Cookbook [3]
+[Gideon Ofnir - Mohg Killed] Law of Causality
+[Gideon Ofnir - Boss Drop] Scepter of the All-Knowing
+[Gideon Ofnir - Boss Drop] All-Knowing Helm
+[Gideon Ofnir - Boss Drop] All-Knowing Armor
+[Gideon Ofnir - Boss Drop] All-Knowing Gauntlets
+[Gideon Ofnir - Boss Drop] All-Knowing Greaves
+[Knight Bernahl] Letter to Bernahl
+[Knight Bernahl] Gelmir's Fury
+[Knight Bernahl] Blasphemous Claw
+[Knight Bernahl] Devourer's Scepter
+[Knight Bernahl] Beast Champion Helm
+[Knight Bernahl] Beast Champion Armor (Altered)
+[Knight Bernahl] Beast Champion Gauntlets
+[Knight Bernahl] Beast Champion Greaves
+[Knight Bernahl] Gelmir's Fury
+[Knight Bernahl] Beast Champion Helm
+[Knight Bernahl] Beast Champion Armor (Altered)
+[Knight Bernahl] Beast Champion Gauntlets
+[Knight Bernahl] Beast Champion Greaves
+[Big Boggart] Rya's Necklace
+[Big Boggart] Iron Ball +0 - Braggart's Roar
+[Big Boggart] Blackguard's Iron Mask
+[Big Boggart] Seedbed Curse
+[Big Boggart] Blackguard's Bell Bearing
+[Big Boggart] Iron Ball +0 - Braggart's Roar
+[Big Boggart] Blackguard's Iron Mask
+[Gowry] Unalloyed Gold Needle
+[Gowry] Sellia's Secret
+[Gowry] Flock's Canvas Talisman
+[Gowry] Gowry's Bell Bearing
+[Millicent] Prosthesis-Wearer Heirloom
+[Millicent] Unalloyed Gold Needle
+[Millicent] Millicent's Prosthesis
+[Millicent] Miquella's Needle
+[Millicent] Somber Ancient Dragon Smithing Stone
+[Fia] Baldachin's Blessing
+[Fia] Weathered Dagger
+[Fia] Sacrificial Twig
+[Fia] Radiant Baldachin's Blessing
+[Fia] Knifeprint Clue
+[Fia] Mending Rune of the Death-Prince
+[D, Hunter of the Dead] D's Bell Bearing
+[D, Hunter of the Dead] Twinned Helm
+[D, Hunter of the Dead] Twinned Armor
+[D, Hunter of the Dead] Twinned Gauntlets
+[D, Hunter of the Dead] Twinned Greaves
+[Prince of Death's Throne] Inseparable Sword
+[Prince of Death's Throne] Twinned Helm
+[Prince of Death's Throne] Twinned Armor
+[Prince of Death's Throne] Twinned Gauntlets
+[Prince of Death's Throne] Twinned Greaves
+[Sorcerer Rogier] Rogier's Rapier +8 - Glintblade Phalanx
+[Sorcerer Rogier] Black Knifeprint
+[Sorcerer Rogier] Rogier's Rapier +8 - Glintblade Phalanx
+[Sorcerer Rogier] Black Knifeprint
+[Sorcerer Rogier] Rogier's Letter
+[Sorcerer Rogier] Rogier's Bell Bearing
+[Sorcerer Rogier] Spellblade's Pointed Hat
+[Sorcerer Rogier] Spellblade's Traveling Attire
+[Sorcerer Rogier] Spellblade's Gloves
+[Sorcerer Rogier] Spellblade's Trousers
+[Thops] Thops's Bell Bearing
+[Thops] Academy Glintstone Staff
+[Thops] Thops's Barrier
+[Brother Corhyn] Corhyn's Bell Bearing
+[Brother Corhyn] Flail
+[Brother Corhyn] Corhyn's Robe
+[Dung Eater] Sewer-Gaol Key
+[Dung Eater] Omen Helm
+[Dung Eater] Omen Armor
+[Dung Eater] Omen Gauntlets
+[Dung Eater] Omen Greaves
+
+[Ranni the Witch] Spirit Calling Bell
+[Ranni the Witch] Lone Wolf Ashes
+[Ranni the Witch] Carian Inverted Statue
+[Ranni the Witch] Cursemark of Death
+[Ranni the Witch] Dark Moon Greatsword
+[Ranni the Witch] Miniature Ranni
+[Ranni the Witch] Fingerslayer Blade
+[Witch-Hunter Jerren] Ancient Dragon Smithing Stone
+[Witch-Hunter Jerren] Eccentric's Hood
+[Witch-Hunter Jerren] Eccentric's Armor
+[Witch-Hunter Jerren] Eccentric's Manchettes
+[Witch-Hunter Jerren] Eccentric's Breeches
+[Latenna] Latenna the Albinauric
+[Latenna] Somber Ancient Dragon Smithing Stone
+[Latenna] Blue Silver Mail Hood
+[Latenna] Blue Silver Mail Armor
+[Latenna] Blue Silver Bracelets
+[Latenna] Blue Silver Mail Skirt
+[Nepheli Loux] Arsenal Charm
+[Nepheli Loux] Ancient Dragon Smithing Stone
+[Master Lusat] Stars of Ruin
+[Master Azur] Comet Azur
+[Juno Hoslow] Hoslow's Petal Whip
+[Juno Hoslow] Diallos's Mask
+[Juno Hoslow] Companion Jar
+[Juno Hoslow] Hoslow's Petal Whip
+[Juno Hoslow] Diallos's Mask
+[Juno Hoslow] Numen's Rune
+[Jar Bairn] Companion Jar
+[The Great-Jar] Great-Jar's Arsenal
+[Millicent - Killed Sisters] Rotten Winged Sword Insignia
+[Ensha of the Royal Remains] Royal Remains Helm
+[Ensha of the Royal Remains] Royal Remains Armor
+[Ensha of the Royal Remains] Royal Remains Gauntlets
+[Ensha of the Royal Remains] Royal Remains Greaves
+[Goldmask] Goldmask's Rags
+[Goldmask] Gold Bracelets
+[Goldmask] Gold Waistwrap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Corpse - White-Faced Varre - Invasion] Varre's Bouquet
+[Corpse - White-Faced Varre - Invasion] Festering Bloody Finger
+[Corpse - Unknown]
+[Corpse - Unknown] Perfume Bottle
+[Merchant Kale] Kale's Bell Bearing
+[Corpse - Gatekeeper Gostoc] Gostoc's Bell Bearing
+[Corpse - Gatekeeper Gostoc] Glass Shard
+[Corpse - Gatekeeper Gostoc] Silver-Pickled Fowl Foot
+[Corpse - Edgar] Banished Knight's Halberd +8 - Spinning Strikes
+[Corpse - Edgar] Banished Knight's Halberd +8 - Spinning Strikes
+[Corpse - Edgar] Shabriri Grape
+[Corpse - Edgar] Banished Knight's Halberd +8 - Spinning Strikes
+[Corpse - Unknown]
+[Corpse - Hyetta] Irina's Letter
+[Corpse - Hyetta] Frenzyflame Stone
+[Corpse - Hyetta] Irina's Letter
+[Corpse - Rya] Daedicar's Woe
+[Corpse - Sorceress Sellen] Sellen's Bell Bearing
+[Corpse - Sorceress Sellen] Witch's Glintstone Crown
+[Corpse - Unknown] Glowstone
+[Corpse - Unknown] Glowstone
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Albus] Haligtree Secret Medallion (Right)
+[Corpse - Unknown]
+[Corpse - Blaidd is the Half-Wolf] Royal Greatsword
+[Corpse - Blaidd is the Half-Wolf] Blaidd's Armor
+[Corpse - Blaidd is the Half-Wolf] Blaidd's Gauntlets
+[Corpse - Blaidd is the Half-Wolf] Blaidd's Greaves
+[Corpse - Bloody Finger Hunter Yura] Nagakiba +0 - Piercing Fang
+[Corpse - Bloody Finger Hunter Yura] Iron Kasa
+[Corpse - Bloody Finger Hunter Yura] Ronin's Armor
+[Corpse - Bloody Finger Hunter Yura] Ronin's Gauntlets
+[Corpse - [Bloody Finger Hunter Yura] Ronin's Greaves
+[Corpse - Unknown]
+[Corpse - Iron Fist Alexander] Warrior Jar Shard
+[Corpse - Iron Fist Alexander] Shard of Alexander
+[Corpse - Patches] Patches' Bell Bearing
+[Corpse - Patches] Spear +7
+[Corpse - Patches] Leather Armor
+[Corpse - Patches] Leather Gloves
+[Corpse - Patches] Leather Boots
+[Corpse - Patches] Patches' Bell Bearing
+[Corpse - Patches] Spear +7
+[Corpse - Patches] Leather Armor
+[Corpse - Patches] Leather Gloves
+[Corpse - Patches] Leather Boots
+[Corpse - Patches] Dancer's Castanets
+[Corpse - Unknown]
+[Corpse - Unknown] Glowstone
+[Corpse - Unknown]
+[Corpse - Miriel, Pastor of Vows] Miriel's Bell Bearing
+[Corpse - Miriel, Pastor of Vows] Turtle Neck Meat
+[Corpse - Unknown]
+[Corpse - Unknown] Golden Seed
+[Corpse - Unknown]
+[Corpse - Gurranq] Beast Eye
+[Corpse - Gurranq] Ancient Dragon Smithing Stone
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Knight Bernahl] Bernahl's Bell Bearing
+[Corpse - Knight Bernahl] Devourer's Scepter
+[Corpse - Knight Bernahl] Beast Champion Helm
+[Corpse - Knight Bernahl] Beast Champion Armor (Altered)
+[Corpse - Knight Bernahl] Beast Champion Gauntlets
+[Corpse - Knight Bernahl] Beast Champion Greaves
+[Corpse - Big Boggart] Rya's Necklace
+[Corpse - Big Boggart] Blackguard's Bell Bearing
+[Corpse - Big Boggart] Iron Ball +0 - Braggart's Roar
+[Corpse - Big Boggart] Blackguard's Iron Mask
+[Corpse - Big Boggart] Seedbed Curse
+[Corpse - Big Boggart] Blackguard's Bell Bearing
+[Corpse - Big Boggart] Iron Ball +0 - Braggart's Roar
+[Corpse - Big Boggart] Blackguard's Iron Mask
+[Corpse - Gowry] Flock's Canvas Talisman
+[Corpse - Gowry] Gowry's Bell Bearing
+[Corpse - Millicent] Millicent's Prosthesis
+[Corpse - Millicent] Unalloyed Gold Needle
+[Corpse - Fia] Fia's Hood
+[Corpse - Fia] Fia's Robe
+[Corpse - D, Hunter of the Dead] D's Bell Bearing
+[Corpse - D, Hunter of the Dead] Twinned Helm
+[Corpse - D, Hunter of the Dead] Twinned Armor
+[Corpse - D, Hunter of the Dead] Twinned Gauntlets
+[Corpse - D, Hunter of the Dead] Twinned Greaves
+[Corpse - Prince of Death's Throne] Inseparable Sword
+[Corpse - Prince of Death's Throne] Twinned Helm
+[Corpse - Prince of Death's Throne] Twinned Armor
+[Corpse - Prince of Death's Throne] Twinned Gauntlets
+[Corpse - Prince of Death's Throne] Twinned Greaves
+[Corpse - Prince of Death's Throne] Inseparable Sword
+[Corpse - Prince of Death's Throne] Twinned Helm
+[Corpse - Prince of Death's Throne] Twinned Armor
+[Corpse - Prince of Death's Throne] Twinned Gauntlets
+[Corpse - Prince of Death's Throne] Twinned Greaves
+[Corpse - Unknown]
+[Corpse - Thops] Thops's Bell Bearing
+[Corpse - Thops] Academy Glintstone Staff
+[Corpse - Unknown]
+[Corpse - Brother Corhyn] Corhyn's Bell Bearing
+[Corpse - Brother Corhyn] Flail
+[Corpse - Brother Corhyn] Corhyn's Robe
+[Corpse - Unknown]
+[Corpse - Dung Eater] Sword of Milos
+[Corpse - Dung Eater] Sword of Milos
+[Corpse - Dung Eater] Omen Helm
+[Corpse - Dung Eater] Omen Armor
+[Corpse - Dung Eater] Omen Gauntlets
+[Corpse - Dung Eater] Omen Greaves
+[Corpse - Unknown]
+[Corpse - Unknown]
+[Corpse - Witch-Hunter Jerren] Eccentric's Hood
+[Corpse - Witch-Hunter Jerren] Eccentric's Armor
+[Corpse - Witch-Hunter Jerren] Eccentric's Manchettes
+[Corpse - Witch-Hunter Jerren] Eccentric's Breeches
+[Corpse - Unknown]
+[Corpse - Unknown] Blue Silver Mail Hood
+[Corpse - Unknown] Blue Silver Mail Armor
+[Corpse - Unknown] Blue Silver Bracelets
+[Corpse - Unknown] Blue Silver Mail Skirt
+[Corpse - Nepheli Loux] Stormhawk Axe
+[Corpse - Nepheli Loux] Stormhawk Axe
+[Corpse - Master Lusat] Lusat's Glintstone Crown
+[Corpse - Master Lusat] Lusat's Robe
+[Corpse - Master Lusat] Lusat's Manchettes
+[Corpse - Master Lusat] Old Sorcerer's Legwraps
+[Corpse - Master Azur] Azur's Glintstone Crown
+[Corpse - Master Azur] Azur's Glintstone Robe
+[Corpse - Master Azur] Azur's Manchettes
+[Corpse - Juno Hoslow] Hoslow's Petal Whip
+[Corpse - Juno Hoslow] Diallos's Mask
+[Corpse - Jar Bairn] Living Jar Shard
+[Corpse - Unknown]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [1]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [2]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [3]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [4]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [5]
+[Corpse - Merchant] Isolated Merchant's Bell Bearing [1]
+[Corpse - Merchant] Isolated Merchant's Bell Bearing [2]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [6]
+[Corpse - Merchant] Hermit Merchant's Bell Bearing [1]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [7]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [8]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [9]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [10]
+[Corpse - Merchant] Nomadic Merchant's Bell Bearing [11]
+[Corpse - Merchant] Isolated Merchant's Bell Bearing [3]
+[Corpse - Merchant] Hermit Merchant's Bell Bearing [2]
+[Corpse - Merchant] Abandoned Merchant's Bell Bearing
+[Corpse - Merchant] Hermit Merchant's Bell Bearing [3]
+[Corpse - Merchant] Imprisoned Merchant's Bell Bearing
+[Material] Poisonbloom
+[Material] Trina's Lily
+
+[Material] Miquella's Lily
+[Material] Grave Violet
+
+[Material] Trina's Lily
+[Material] Miquella's Lily
+
+
+[Material] Faded Erdleaf Flower
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Material] Erdleaf Flower
+[Material] Altus Bloom
+[Material] Fire Blossom
+[Material] Golden Sunflower
+[Material] Fulgurbloom, Fulgurbloom, Fulgurbloom
+[Material] Tarnished Golden Sunflower
+
+[Material] Fulgurbloom, Fulgurbloom, Fulgurbloom
+
+
+[Material] Herba, Herba, Herba
+[Material] Arteria Leaf
+
+
+
+
+[Material] Arteria Leaf
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Material] Dewkissed Herba, Dewkissed Herba, Dewkissed Herba
+
+
+
+
+
+
+
+
+
+[Material] Rowa Fruit, Rowa Fruit, Rowa Fruit, Rowa Fruit
+[Material] Golden Rowa, Golden Rowa, Golden Rowa, Golden Rowa
+[Material] Rimed Rowa, Rimed Rowa, Rimed Rowa, Rimed Rowa
+[Material] Bloodrose, Bloodrose
+
+
+
+
+
+
+[Material] Rowa Fruit, Rowa Fruit, Rowa Fruit, Rowa Fruit
+
+
+
+
+
+
+
+
+
+[Material] Eye of Yelough
+
+
+
+
+
+
+
+
+
+[Material] Crystal Bud, Crystal Bud, Crystal Bud
+[Material] Rimed Crystal Bud, Rimed Crystal Bud, Rimed Crystal Bud
+
+[Material] Sacramental Bud
+
+
+
+
+
+
+[Material] Mushroom, Mushroom, Mushroom
+[Material] Melted Mushroom, Melted Mushroom, Melted Mushroom
+
+
+
+
+
+
+
+
+[Material] Toxic Mushroom, Toxic Mushroom, Toxic Mushroom
+
+
+
+
+[Material] Root Resin, Root Resin, Root Resin
+
+
+
+
+[Material] Cracked Crystal, Cracked Crystal, Cracked Crystal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Material] Sanctuary Stone
+[Material] Ruin Fragment
+
+
+
+[Material] Nascent Butterfly
+[Material] Aeonian Butterfly
+[Material] Smoldering Butterfly, Smoldering Butterfly, Smoldering Butterfly
+
+
+
+
+
+
+
+[Material] Silver Firefly
+[Material] Gold Firefly
+[Material] Glintstone Firefly
+
+
+
+
+
+
+
+[Material] Golden Centipede
+
+
+
+
+[Material] Silver Tear Husk
+
+
+
+
+[Material] Gold-Tinged Excrement, Gold-Tinged Excrement, Gold-Tinged Excrement
+[Material] Blood-Tainted Excrement, Blood-Tainted Excrement, Blood-Tainted Excrement
+
+
+
+
+
+
+
+
+[Material] Cave Moss, Cave Moss, Cave Moss
+[Material] Budding Cave Moss, Budding Cave Moss, Budding Cave Moss
+[Material] Crystal Cave Moss, Crystal Cave Moss, Crystal Cave Moss
+
+
+[Material] Yellow Ember
+
+
+
+
+[Material] Volcanic Stone, Volcanic Stone, Volcanic Stone
+
+[Material] Formic Rock
+
+
+[Material] Gravel Stone
+
+
+
+
+[Material Node] Smithing Stone [1]
+[Material Node] Smithing Stone [2]
+[Material Node] Smithing Stone [3]
+[Material Node] Smithing Stone [4]
+[Material Node] Smithing Stone [5]
+[Material Node] Smithing Stone [6]
+[Material Node] Smithing Stone [7]
+[Material Node] Smithing Stone [8]
+[Material Node] Ancient Dragon Smithing Stone
+
+[Material Node] Somber Smithing Stone [1]
+[Material Node] Somber Smithing Stone [2]
+[Material Node] Somber Smithing Stone [3]
+[Material Node] Somber Smithing Stone [4]
+[Material Node] Somber Smithing Stone [5]
+[Material Node] Somber Smithing Stone [6]
+[Material Node] Somber Smithing Stone [7]
+[Material Node] Somber Smithing Stone [8]
+[Material Node] Somber Ancient Dragon Smithing Stone
+[Material Node] Somber Smithing Stone [9]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Material] Grave Glovewort [1]
+[Material] Grave Glovewort [2]
+[Material] Grave Glovewort [3]
+[Material] Grave Glovewort [4]
+[Material] Grave Glovewort [5]
+[Material] Grave Glovewort [6]
+[Material] Grave Glovewort [7]
+[Material] Grave Glovewort [8]
+[Material] Grave Glovewort [9]
+[Material] Great Grave Glovewort
+[Material] Ghost Glovewort [1]
+[Material] Ghost Glovewort [2]
+[Material] Ghost Glovewort [3]
+[Material] Ghost Glovewort [4]
+[Material] Ghost Glovewort [5]
+[Material] Ghost Glovewort [6]
+[Material] Ghost Glovewort [7]
+[Material] Ghost Glovewort [8]
+[Material] Ghost Glovewort [9]
+[Material] Great Ghost Glovewort
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Veteran's Helm
+
+
+
+
+
+Soft Cotton
+
+
+
+
+Cracked Pot
+Perfume Bottle
+Old Fang
+Old Fang
+Old Fang
+Old Fang
+
+
+
+
+Slumbering Egg
+Slumbering Egg
+Slumbering Egg
+Slumbering Egg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Crimsonspill Crystal Tear
+Crimson Crystal Tear
+Ruptured Crystal Tear
+Leaden Hardtear
+Strength-knot Crystal Tear
+Flask of Wondrous Physick
+[LD - Stormveil] Wooden Greatshield
+[LD - Stormveil] Hawk Crest Wooden Shield
+[LD - Stormveil] Misericorde
+[LD - Stormveil] Furlcalling Finger Remedy
+[LD - Stormveil] Brick Hammer
+[LD - Stormveil] Fire Grease
+[LD - Stormveil] Gold-Pickled Fowl Foot
+[LD - Stormveil] Festering Bloody Finger
+[LD - Stormveil] Arrow
+[LD - Stormveil] Manor Towershield
+[LD - Stormveil] Marred Leather Shield
+[LD - Stormveil] Golden Rune [1]
+[LD - Stormveil] Bolt
+[LD - Stormveil] Smithing Stone [3]
+[LD - Stormveil] Ruin Fragment
+[LD - Stormveil] Smithing Stone [2]
+[LD - Stormveil] Silver-Pickled Fowl Foot
+[LD - Stormveil] Golden Rune [2]
+[LD - Stormveil] Hookclaws
+[LD - Stormveil] Throwing Dagger
+[LD - Stormveil] St. Trina's Arrow
+[LD - Stormveil] Smoldering Butterfly
+[LD - Stormveil] Fire Grease
+[LD - Stormveil] Claw Talisman
+[LD - Stormveil] Golden Rune [2]
+[LD - Stormveil] Arteria Leaf
+[LD - Stormveil] Throwing Dagger
+[LD - Stormveil] Mushroom
+[LD - Stormveil] Drawstring Fire Grease
+[LD - Stormveil] Golden Rune [2]
+[LD - Stormveil] Somber Smithing Stone [2]
+[LD - Stormveil] Smithing Stone [2]
+[LD - Stormveil] Marred Wooden Shield
+[LD - Stormveil] Golden Rune [2]
+[LD - Stormveil] Highland Axe
+[LD - Stormveil] Kukri
+[LD - Stormveil] Golden Rune [2]
+[LD - Stormveil] Stonesword Key
+[LD - Stormveil] Exalted Flesh
+[LD - Stormveil] Lump of Flesh
+[LD - Stormveil] Golden Rune [1]
+[LD - Stormveil] Smithing Stone [2]
+[LD - Stormveil] Iron Whetblade
+[LD - Stormveil] Arrow
+[LD - Stormveil] Fireproof Dried Liver
+[LD - Stormveil] Chrysalids' Memento
+[LD - Stormveil] Crimson Hood
+[LD - Stormveil] Stanching Boluses
+[LD - Stormveil] Stonesword Key
+[LD - Stormveil] Nomadic Warrior's Cookbook [10]
+[LD - Stormveil] Rusty Key
+[LD - Stormveil] Smithing Stone [1]
+[LD - Stormveil] Golden Rune [1]
+[LD - Stormveil] Golden Rune [2]
+[LD - Stormveil] Ballista Bolt
+[LD - Stormveil] Arbalest
+[LD - Stormveil] Commoner's Simple Garb
+[LD - Stormveil] Golden Rune [2]
+[LD - Stormveil] Golden Rune [5]
+[LD - Stormveil] Smithing Stone [2]
+[LD - Stormveil] Golden Rune [4]
+[LD - Stormveil] Fire Arrow
+[LD - Stormveil] Pike
+[LD - Stormveil] Furlcalling Finger Remedy
+[LD - Stormveil] Smithing Stone [1]
+[LD - Stormveil] Smoldering Butterfly
+[LD - Stormveil] Golden Rune [4]
+[LD - Stormveil] Golden Rune [1]
+[LD - Stormveil] Mushroom
+[LD - Stormveil] Golden Rune [2]
+[LD - Stormveil] Magic Grease
+[LD - Stormveil] Smithing Stone [2]
+[LD - Stormveil] Golden Rune [2]
+[LD - Stormveil] Golden Seed
+[LD - Stormveil] Smithing Stone [2]
+[LD - Stormveil] Smithing Stone [1]
+[LD - Stormveil] Golden Rune [5]
+[LD - Stormveil] Cracked Pot
+[LD - Stormveil] Cracked Pot
+[LD - Stormveil] Smithing Stone [1]
+[LD - Stormveil] Smithing Stone [2]
+[LD - Stormveil] Kukri
+[LD - Stormveil] Smithing Stone [2]
+[LD - Stormveil] Lump of Flesh
+[LD - Stormveil] Smithing Stone [1]
+[LD - Stormveil] Golden Rune [2]
+[LD - Stormveil] Smithing Stone [3]
+[LD - Stormveil] Shabriri Grape
+[LD - Stormveil] Rainbow Stone
+[LD - Stormveil] Smithing Stone [2]
+[LD - Stormveil] Arteria Leaf
+[LD - Stormveil] Golden Rune [2]
+[LD - Stormveil] Poisonbloom
+[LD - Stormveil] Smoldering Butterfly
+[LD - Stormveil] Stonesword Key
+[LD - Stormveil] Throwing Dagger
+[LD - Stormveil] Prince of Death's Pustule
+[LD - Stormveil] Kukri
+[LD - Stormveil] Pickled Turtle Neck
+[LD - Stormveil] Godslayer's Seal
+[LD - Stormveil] Mimic's Veil
+[LD - Stormveil] Curved Sword Talisman
+[LD - Stormveil] Somber Smithing Stone [2]
+[LD - Stormveil] Godskin Prayerbook
+[LD - Stormveil] Somber Smithing Stone [1]
+[LD - Stormveil] Beast Blood
+[LD - Stormveil] Old Fang
+[LD - Stormveil] Golden Seed
+[LD - Stormveil] [Incantation] Aspects of the Crucible: Horns
+[LD - Chapel of Anticipation] Tarnished's Wizened Finger
+[LD - Chapel of Anticipation] The Stormhawk King
+[LD - Chapel of Anticipation] Stormhawk Deenh
+[LD - Leyndell] Magic Grease
+[LD - Leyndell] Alberich's Pointed Hat
+[LD - Leyndell] Alberich's Robe
+[LD - Leyndell] Alberich's Bracers
+[LD - Leyndell] Alberich's Trousers
+[LD - Leyndell] Furlcalling Finger Remedy
+[LD - Leyndell] Erdtree Bow
+[LD - Leyndell] Hefty Beast Bone
+[LD - Leyndell] Celestial Dew
+[LD - Leyndell] Smithing Stone [4]
+[LD - Leyndell] Deathbed Dress
+[LD - Leyndell] Golden Rune [7]
+[LD - Leyndell] Lionel's Helm
+[LD - Leyndell] Lionel's Armor
+[LD - Leyndell] Lionel's Gauntlets
+[LD - Leyndell] Lionel's Greaves
+[LD - Leyndell] Cave Moss
+[LD - Leyndell] Hammer
+[LD - Leyndell] Preserving Boluses
+[LD - Leyndell] Rune Arc
+[LD - Leyndell] String
+[LD - Leyndell] Hero's Rune [1]
+[LD - Leyndell] Upper-Class Robe
+[LD - Leyndell] Golden Rune [12]
+[LD - Leyndell] Miranda Powder
+[LD - Leyndell] Guilty Hood
+[LD - Leyndell] Smithing Stone [6]
+[LD - Leyndell] Stormhawk Axe
+[LD - Leyndell] Warming Stone
+[LD - Leyndell] Cane Sword
+[LD - Leyndell] Golden Rune [10]
+[LD - Leyndell] Black-Key Bolt
+[LD - Leyndell] Perfume Bottle
+[LD - Leyndell] Gravel Stone
+[LD - Leyndell] Fan Daggers
+[LD - Leyndell] Somber Smithing Stone [6]
+[LD - Leyndell] Marika's Golden Siigl
+[LD - Leyndell] Hero's Rune [5]
+[LD - Leyndell] Holy Grease
+[LD - Leyndell] Golden Rune [11]
+[LD - Leyndell] Golden Rune [8]
+[LD - Leyndell] Hero's Rune [2]
+[LD - Leyndell] Old Fang
+[LD - Leyndell] Somber Smithing Stone [6]
+[LD - Leyndell] Beast Blood
+[LD - Leyndell] Old Fang
+[LD - Leyndell] Smithing Stone [4]
+[LD - Leyndell] Somber Smithing Stone [6]
+[LD - Leyndell] Beast Blood
+[LD - Leyndell] Old Fang
+[LD - Leyndell] Golden Rune [8]
+[LD - Leyndell] Golden Rune [13]
+[LD - Leyndell] Somber Smithing Stone [5]
+[LD - Leyndell] Golden Rune [10]
+[LD - Leyndell] Golden Rune [8]
+[LD - Leyndell] Golden Rune [12]
+[LD - Leyndell] Lordsworn's Bolt
+[LD - Leyndell] Lightningproof Dried Liver
+[LD - Leyndell] Tarnished Golden Sunflower
+[LD - Leyndell] Golden Rune [11]
+[LD - Leyndell] Stonesword Key
+[LD - Leyndell] Golden Rune [10]
+[LD - Leyndell] Golden Rune [8]
+[LD - Leyndell] Golden Rune [9]
+[LD - Leyndell] Smithing Stone [6]
+[LD - Leyndell] Golden Rune [9]
+[LD - Leyndell] Arteria Leaf
+[LD - Leyndell] Imp Head (Corpse)
+[LD - Leyndell] Golden Rune [9]
+[LD - Leyndell] Seedbed Curse
+[LD - Leyndell] Smithing Stone [6]
+[LD - Leyndell] Golden Rune [9]
+[LD - Leyndell] Smithing Stone [5]
+[LD - Leyndell] Stonesword Key
+[LD - Leyndell] Golden Rune [12]
+[LD - Leyndell] Beast Blood
+[LD - Leyndell] Nascent Butterfly
+[LD - Leyndell] Exalted Flesh
+[LD - Leyndell] Soporific Grease
+[LD - Leyndell] Somber Smithing Stone [6]
+[LD - Leyndell] Golden Rune [9]
+[LD - Leyndell] Lightningproof Dried Liver
+[LD - Leyndell] Perfume Bottle
+[LD - Leyndell] Gravel Stone
+[LD - Leyndell] Stonesword Key
+[LD - Leyndell] Golden Rune [9]
+[LD - Leyndell] Smithing Stone [4]
+[LD - Leyndell] Golden Arrow
+[LD - Leyndell] Smithing Stone [6]
+[LD - Leyndell] Clarifying Boluses
+[LD - Leyndell] Golden Rune [8]
+[LD - Leyndell] Cracked Pot
+[LD - Leyndell] Lost Ashes of War
+[LD - Leyndell] Rune Arc
+[LD - Leyndell] Erdsteel Dagger
+[LD - Leyndell] Poisonbone Dart
+[LD - Leyndell] Somber Smithing Stone [6]
+[LD - Leyndell] Albinauric Bloodclot
+[LD - Leyndell] Smithing Stone [5]
+[LD - Leyndell] Pickled Turtle Neck
+[LD - Leyndell] Smithing Stone [6]
+[LD - Leyndell] Golden Rune [9]
+[LD - Leyndell] Black Bow
+[LD - Leyndell] Dragonwound Grease
+[LD - Leyndell] Two Fingers' Prayerbook
+[LD - Leyndell] Smithing Stone [5]
+[LD - Leyndell] Golden Rune [9]
+[LD - Leyndell] Smithing Stone [6]
+[LD - Leyndell] Holyproof Dried Liver
+[LD - Leyndell] Furlcalling Finger Remedy
+[LD - Leyndell] Gravel Stone
+[LD - Leyndell] Smithing Stone [5]
+[LD - Leyndell] Old Fang
+[LD - Leyndell] Smithing Stone [6]
+[LD - Leyndell] Nascent Butterfly
+[LD - Leyndell] Stonesword Key
+[LD - Leyndell] Fan Daggers
+[LD - Leyndell] Smithing Stone [6]
+[LD - Leyndell] Golden Rune [9]
+[LD - Leyndell] Gravel Stone
+[LD - Leyndell] Seedbed Curse
+[LD - Leyndell] Smithing Stone [5]
+[LD - Leyndell] Furlcalling Finger Remedy
+[LD - Leyndell] Star Fist
+[LD - Leyndell] Holy Grease
+[LD - Leyndell] Smithing Stone [6]
+[LD - Leyndell] Golden Order Principia
+[LD - Leyndell] Somber Smithing Stone [5]
+[LD - Leyndell] Holy Grease
+[LD - Leyndell] Holy Grease
+[LD - Leyndell] Rune Arc
+[LD - Leyndell] Erdtree Seal
+[LD - Leyndell] Coded Sword
+[LD - Leyndell] Stonesword Key
+[LD - Leyndell] Golden Seed
+[LD - Leyndell] [Incantation] Blessing of the Erdtree
+[LD - Leyndell] Sanctified Whetblade
+[LD - Leyndell] Blessed Dew Talisman
+[LD - Leyndell] Ritual Shield Talisman
+[LD - Leyndell] Bolt of Gransax
+[LD - Leyndell] Gargoyle's Halberd
+[LD - Leyndell] Golden Seed
+[LD - Leyndell] Somber Smithing Stone [7]
+[LD - Leyndell] Lord's Rune
+[LD - Leyndell] Raging Wolf Helm
+[LD - Leyndell] Raging Wolf Armor
+[LD - Leyndell] Raging Wolf Gauntlets
+[LD - Leyndell] Raging Wolf Greaves
+[LD - Ashen Leyndell] Erdtree Heal
+[LD - Ashen Leyndell] Blessing of the Erdtree
+[LD - Ashen Leyndell] Somber Ancient Dragon Smithing Stone
+[LD - Ashen Leyndell] Tarnished Golden Sunflower
+[LD - Ashen Leyndell] Rune Arc
+[LD - Ashen Leyndell] Golden Sunflower
+[LD - Ashen Leyndell] Hero's Rune [4]
+[LD - Ashen Leyndell] Erdtree's Favor +2
+[LD - Ashen Leyndell] Seedbed Curse
+[LD - Roundtable Hold] Cipher Pata
+[LD - Roundtable Hold] Assassin's Prayerbook
+[LD - Roundtable Hold] Crepus's Black-Key Crossbow
+[LD - Roundtable Hold] Black-Key Bolt
+[LD - Roundtable Hold] Taunter's Tongue
+[LD - Roundtable Hold] Clinging Bone
+[LD - Ainsel/Lake of Rot] Map: Ainsel
+[LD - Ainsel/Lake of Rot] Map: Lake of Rot
+[LD - Ainsel/Lake of Rot] Nomadic Warrior's Cookbook [22]
+[LD - Ainsel/Lake of Rot] Somber Smithing Stone [8]
+[LD - Ainsel/Lake of Rot] Golden Rune [1]
+[LD - Ainsel/Lake of Rot] Golden Rune [2]
+[LD - Ainsel/Lake of Rot] Smithing Stone [1]
+[LD - Ainsel/Lake of Rot] Magic Grease
+[LD - Ainsel/Lake of Rot] Golden Rune [3]
+[LD - Ainsel/Lake of Rot] Somber Smithing Stone [9]
+[LD - Ainsel/Lake of Rot] Golden Seed
+[LD - Ainsel/Lake of Rot] Golden Rune [10]
+[LD - Ainsel/Lake of Rot] Rune Arc
+[LD - Ainsel/Lake of Rot] Rot Grease
+[LD - Ainsel/Lake of Rot] Black-Key Bolt
+[LD - Ainsel/Lake of Rot] Warming Stone
+[LD - Ainsel/Lake of Rot] Lightningproof Dried Liver
+[LD - Ainsel/Lake of Rot] Smithing Stone [3]
+[LD - Ainsel/Lake of Rot] Shattershard Arrow (Fletched)
+[LD - Ainsel/Lake of Rot] Grace Mimic
+[LD - Ainsel/Lake of Rot] Immunizing Horn Charm
+[LD - Ainsel/Lake of Rot] Smithing Stone [3]
+[LD - Ainsel/Lake of Rot] Golden Rune [1]
+[LD - Ainsel/Lake of Rot] Smithing Stone [3]
+[LD - Ainsel/Lake of Rot] Throwing Dagger
+[LD - Ainsel/Lake of Rot] Smithing Stone [3]
+[LD - Ainsel/Lake of Rot] Golden Rune [2]
+[LD - Ainsel/Lake of Rot] Shield Grease
+[LD - Ainsel/Lake of Rot] Smithing Stone [3]
+[LD - Ainsel/Lake of Rot] Smithing Stone [4]
+[LD - Ainsel/Lake of Rot] Smithing Stone [2]
+[LD - Ainsel/Lake of Rot] Formic Rock
+[LD - Ainsel/Lake of Rot] Crystal Dart
+[LD - Ainsel/Lake of Rot] Soap
+[LD - Ainsel/Lake of Rot] Somber Smithing Stone [3]
+[LD - Ainsel/Lake of Rot] Melted Mushroom
+[LD - Ainsel/Lake of Rot] Golden Rune [3]
+[LD - Ainsel/Lake of Rot] Celestial Dew
+[LD - Ainsel/Lake of Rot] Golden Rune [3]
+[LD - Ainsel/Lake of Rot] Aeonian Butterfly
+[LD - Ainsel/Lake of Rot] Somber Smithing Stone [7]
+[LD - Ainsel/Lake of Rot] Silver Firefly
+[LD - Ainsel/Lake of Rot] Golden Rune [3]
+[LD - Ainsel/Lake of Rot] Magic Grease
+[LD - Ainsel/Lake of Rot] Golden Rune [3]
+[LD - Ainsel/Lake of Rot] Furlcalling Finger Remedy
+[LD - Ainsel/Lake of Rot] Smithing Stone [1]
+[LD - Ainsel/Lake of Rot] Golden Rune [9]
+[LD - Ainsel/Lake of Rot] Mushroom Crown
+[LD - Ainsel/Lake of Rot] Preserving Boluses
+[LD - Ainsel/Lake of Rot] Golden Rune [7]
+[LD - Ainsel/Lake of Rot] Golden Rune [10]
+[LD - Ainsel/Lake of Rot] Golden Rune [7]
+[LD - Ainsel/Lake of Rot] Human Bone Shard
+[LD - Ainsel/Lake of Rot] Somber Smithing Stone [6]
+[LD - Ainsel/Lake of Rot] Smithing Stone [4]
+[LD - Ainsel/Lake of Rot] Stimulating Boluses
+[LD - Ainsel/Lake of Rot] Shield Grease
+[LD - Ainsel/Lake of Rot] Golden Rune [10]
+[LD - Ainsel/Lake of Rot] Wing of Astel
+[LD - Ainsel/Lake of Rot] Stonesword Key
+[LD - Ainsel/Lake of Rot] Golden Rune [7]
+[LD - Ainsel/Lake of Rot] Golden Rune [10]
+[LD - Ainsel/Lake of Rot] Fan Daggers
+[LD - Ainsel/Lake of Rot] Smithing Stone [6]
+[LD - Ainsel/Lake of Rot] Archer Ashes
+[LD - Ainsel/Lake of Rot] Golden Rune [10]
+[LD - Ainsel/Lake of Rot] Golden Rune [10]
+[LD - Ainsel/Lake of Rot] Golden Rune [10]
+[LD - Ainsel/Lake of Rot] Smithing Stone [6]
+[LD - Ainsel/Lake of Rot] Golden Rune [10]
+[LD - Ainsel/Lake of Rot] Great Ghost Glovewort
+[LD - Ainsel/Lake of Rot] Somber Smithing Stone [7]
+[LD - Ainsel/Lake of Rot] Clayman Ashes
+[LD - Ainsel/Lake of Rot] Stonesword Key
+[LD - Ainsel/Lake of Rot] Magic Grease
+[LD - Ainsel/Lake of Rot] Drawstring Holy Grease
+[LD - Ainsel/Lake of Rot] Silver Tear Husk
+[LD - Ainsel/Lake of Rot] Smithing Stone [6]
+[LD - Ainsel/Lake of Rot] Celestial Dew
+[LD - Ainsel/Lake of Rot] Somber Smithing Stone [7]
+[LD - Ainsel/Lake of Rot] Celestial Dew
+[LD - Ainsel/Lake of Rot] Smithing Stone [4]
+[LD - Ainsel/Lake of Rot] Smithing Stone [5]
+[LD - Ainsel/Lake of Rot] Golden Rune [10]
+[LD - Ainsel/Lake of Rot] Smithing Stone [5]
+[LD - Ainsel/Lake of Rot] Fan Daggers
+[LD - Ainsel/Lake of Rot] Golden Rune [10]
+[LD - Ainsel/Lake of Rot] Smithing Stone [7]
+[LD - Ainsel/Lake of Rot] Smithing Stone [6]
+[LD - Ainsel/Lake of Rot] Somber Smithing Stone [8]
+[LD - Ainsel/Lake of Rot] Somber Smithing Stone [7]
+[LD - Ainsel/Lake of Rot] Wing of Astel
+[LD - Ainsel/Lake of Rot] Great Ghost Glovewort
+[LD - Ainsel/Lake of Rot] Scorpion's Stinger
+[LD - Ainsel/Lake of Rot] Fire Longsword
+[LD - Ainsel/Lake of Rot] Somber Smithing Stone [7]
+[LD - Ainsel/Lake of Rot] Ghost Glovewort [9]
+[LD - Ainsel/Lake of Rot] Moon of Nokstella
+[LD - Ainsel/Lake of Rot] Ant's Skull Plate
+[LD - Ainsel/Lake of Rot] Ghost-Glovewort Picker's Bell Bearing [2]
+[LD - Ainsel/Lake of Rot] Nightmaiden & Swordstress Puppets
+[LD - Ainsel/Lake of Rot] Somber Smithing Stone [7]
+[LD - Ainsel/Lake of Rot] Golden Seed
+[LD - Nokron / Siofra] Mottled Necklace
+[LD - Nokron / Siofra] Black Whetblade
+[LD - Nokron / Siofra] Missionary's Cookbook [5]
+[LD - Nokron / Siofra] Arteria Leaf
+[LD - Nokron / Siofra] Golden Seed
+[LD - Nokron / Siofra] Marika's Scarseal
+[LD - Nokron / Siofra] Map: Siofra River
+[LD - Nokron / Siofra] Lightning Bastard Sword
+[LD - Nokron / Siofra] Fingerslayer Blade
+[LD - Nokron / Siofra] Great Ghost Glovewort
+[LD - Nokron / Siofra] Ancestral Infant's Head
+[LD - Nokron / Siofra] Crab Eggs
+[LD - Nokron / Siofra] Beast Liver
+[LD - Nokron / Siofra] Golden Rune [3]
+[LD - Nokron / Siofra] Armorer's Cookbook [6]
+[LD - Nokron / Siofra] Inverted Hawk Heater Shield
+[LD - Nokron / Siofra] Somber Smithing Stone [2]
+[LD - Nokron / Siofra] Old Fang
+[LD - Nokron / Siofra] Golden Rune [2]
+[LD - Nokron / Siofra] Shield Grease
+[LD - Nokron / Siofra] Golden Rune [3]
+[LD - Nokron / Siofra] Dappled Cured Meat
+[LD - Nokron / Siofra] Somber Smithing Stone [2]
+[LD - Nokron / Siofra] Smithing Stone [3]
+[LD - Nokron / Siofra] Smithing Stone [2]
+[LD - Nokron / Siofra] Dwelling Arrow
+[LD - Nokron / Siofra] Gold-Pickled Fowl Foot
+[LD - Nokron / Siofra] Golden Rune [4]
+[LD - Nokron / Siofra] Golden Rune [4]
+[LD - Nokron / Siofra] Furlcalling Finger Remedy
+[LD - Nokron / Siofra] Golden Rune [4]
+[LD - Nokron / Siofra] Smithing Stone [4]
+[LD - Nokron / Siofra] Hefty Beast Bone
+[LD - Nokron / Siofra] Golden Rune [6]
+[LD - Nokron / Siofra] Golden Rune [3]
+[LD - Nokron / Siofra] Sliver of Meat
+[LD - Nokron / Siofra] Smithing Stone [3]
+[LD - Nokron / Siofra] Gold-Pickled Fowl Foot
+[LD - Nokron / Siofra] Golden Rune [4]
+[LD - Nokron / Siofra] Dwelling Arrow
+[LD - Nokron / Siofra] Stonesword Key
+[LD - Nokron / Siofra] Golden Rune [4]
+[LD - Nokron / Siofra] Smithing Stone [2]
+[LD - Nokron / Siofra] Horn Bow
+[LD - Nokron / Siofra] Golden Rune [4]
+[LD - Nokron / Siofra] Crucible Hornshield
+[LD - Nokron / Siofra] Sliver of Meat
+[LD - Nokron / Siofra] Somber Smithing Stone [6]
+[LD - Nokron / Siofra] Stonesword Key
+[LD - Nokron / Siofra] Rune Arc
+[LD - Nokron / Siofra] Clarifying Horn Charm
+[LD - Nokron / Siofra] Lump of Flesh
+[LD - Nokron / Siofra] Clarifying Horn Charm +1
+[LD - Nokron / Siofra] Golden Rune [4]
+[LD - Nokron / Siofra] Dwelling Arrow
+[LD - Nokron / Siofra] Nascent Butterfly
+[LD - Nokron / Siofra] Gold-Tinged Excrement
+[LD - Nokron / Siofra] Fireproof Dried Liver
+[LD - Nokron / Siofra] Golden Rune [4]
+[LD - Nokron / Siofra] Shining Horned Headband
+[LD - Nokron / Siofra] Old Fang
+[LD - Nokron / Siofra] Golden Rune [5]
+[LD - Nokron / Siofra] Kukri
+[LD - Nokron / Siofra] Hefty Beast Bone
+[LD - Nokron / Siofra] Smithing Stone [5]
+[LD - Nokron / Siofra] Mottled Necklace +1
+[LD - Nokron / Siofra] Old Fang
+[LD - Nokron / Siofra] Hefty Beast Bone
+[LD - Nokron / Siofra] Smithing Stone [4]
+[LD - Nokron / Siofra] Beast Blood
+[LD - Nokron / Siofra] Beast Blood
+[LD - Nokron / Siofra] Somber Smithing Stone [5]
+[LD - Nokron / Siofra] Golden Rune [12]
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Smithing Stone [5]
+[LD - Nokron / Siofra] Smithing Stone [2]
+[LD - Nokron / Siofra] Celestial Dew
+[LD - Nokron / Siofra] Smithing Stone [5]
+[LD - Nokron / Siofra] Stonesword Key
+[LD - Nokron / Siofra] Silver Tear Husk
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Golden Rune [13]
+[LD - Nokron / Siofra] Golden Rune [7]
+[LD - Nokron / Siofra] Smithing Stone [5]
+[LD - Nokron / Siofra] Golden Rune [6]
+[LD - Nokron / Siofra] Rune Arc
+[LD - Nokron / Siofra] Smithing Stone [4]
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra]
+[LD - Nokron / Siofra] Rune Arc
+[LD - Nokron / Siofra] Celestial Dew
+[LD - Nokron / Siofra] Mimic Tear Ashes
+[LD - Nokron / Siofra] Golden Rune [7]
+[LD - Nokron / Siofra] Smithing Stone [3]
+[LD - Nokron / Siofra] Nox Flowing Hammer
+[LD - Nokron / Siofra] Celestial Dew
+[LD - Nokron / Siofra] Golden Rune [7]
+[LD - Nokron / Siofra] Soft Cotton
+[LD - Nokron / Siofra] Somber Smithing Stone [5]
+[LD - Nokron / Siofra] Dragonwound Grease
+[LD - Nokron / Siofra] Slumbering Egg
+[LD - Nokron / Siofra] Golden Rune [7]
+[LD - Nokron / Siofra] Golden Rune [7]
+[LD - Deeproot Depths] Map: Deeproot Depths
+[LD - Deeproot Depths] Stonesword Key
+[LD - Deeproot Depths] Formic Rock
+[LD - Deeproot Depths] Golden Rune [5]
+[LD - Deeproot Depths] Golden Rune [8]
+[LD - Deeproot Depths] Golden Arrow
+[LD - Deeproot Depths] Smithing Stone [6]
+[LD - Deeproot Depths] Holy Grease
+[LD - Deeproot Depths] [Incantation] Elden Stars
+[LD - Deeproot Depths] Smithing Stone [4]
+[LD - Deeproot Depths] Golden Rune [5]
+[LD - Deeproot Depths] Golden Rune [6]
+[LD - Deeproot Depths] Warming Stone
+[LD - Deeproot Depths] Smithing Stone [4]
+[LD - Deeproot Depths] Ash of War: Vacuum Slice
+[LD - Deeproot Depths] Dragonwound Grease
+[LD - Deeproot Depths] Hefty Beast Bone
+[LD - Deeproot Depths] Golden Rune [1]
+[LD - Deeproot Depths] Prince of Death's Staff
+[LD - Deeproot Depths] Smithing Stone [6]
+[LD - Deeproot Depths] Golden Rune [5]
+[LD - Deeproot Depths] Golden Rune [8]
+[LD - Deeproot Depths] Nascent Butterfly
+[LD - Deeproot Depths] Somber Smithing Stone [7]
+[LD - Deeproot Depths] Somber Smithing Stone [7]
+[LD - Deeproot Depths] Somber Smithing Stone [7]
+[LD - Deeproot Depths] Fan Daggers
+[LD - Deeproot Depths] Somber Smithing Stone [6]
+[LD - Deeproot Depths] Golden Rune [8]
+[LD - Deeproot Depths] Golden Rune [8]
+[LD - Deeproot Depths] Crucible Tree Helm
+[LD - Deeproot Depths] Crucible Tree Armor
+[LD - Deeproot Depths] Crucible Gauntlets
+[LD - Deeproot Depths] Crucible Greaves
+[LD - Deeproot Depths] Smithing Stone [6]
+[LD - Deeproot Depths] Golden Rune [8]
+[LD - Deeproot Depths] Somber Smithing Stone [7]
+[LD - Deeproot Depths] Arteria Leaf
+[LD - Deeproot Depths] Smithing Stone [7]
+[LD - Deeproot Depths] Lightning Greatbolt
+[LD - Deeproot Depths] Golden Rune [8]
+[LD - Deeproot Depths] Smithing Stone [6]
+[LD - Deeproot Depths] Golden Rune [8]
+[LD - Deeproot Depths] Clarifying Boluses
+[LD - Deeproot Depths] Smithing Stone [4]
+[LD - Deeproot Depths] Human Bone Shard
+[LD - Deeproot Depths] Golden Rune [8]
+[LD - Deeproot Depths] Golden Rune [9]
+[LD - Deeproot Depths] Smithing Stone [4]
+[LD - Deeproot Depths] Nascent Butterfly
+[LD - Deeproot Depths] Golden Rune [8]
+[LD - Deeproot Depths] Smithing Stone [5]
+[LD - Deeproot Depths] Smithing Stone [5]
+[LD - Deeproot Depths] Smithing Stone [6]
+[LD - Deeproot Depths] Rune Arc
+[LD - Deeproot Depths] Mausoleum Soldier Ashes
+[LD - Deeproot Depths] Somber Smithing Stone [7]
+[LD - Deeproot Depths] Golden Rune [8]
+[LD - Deeproot Depths] Somber Smithing Stone [6]
+[LD - Deeproot Depths] Golden Rune [1]
+[LD - Deeproot Depths] Golden Rune [1]
+[LD - Deeproot Depths] Golden Rune [1]
+[LD - Deeproot Depths] Golden Rune [1]
+[LD - Deeproot Depths] Numen's Rune
+[LD - Deeproot Depths] Rune Arc
+[LD - Deeproot Depths] Numen's Rune
+[LD - Deeproot Depths] Rune Arc
+[LD - Deeproot Depths] Numen's Rune
+[LD - Deeproot Depths] Rune Arc
+[LD - Deeproot Depths] Numen's Rune
+[LD - Deeproot Depths] Rune Arc
+[LD - Deeproot Depths] Numen's Rune
+[LD - Deeproot Depths] Rune Arc
+[LD - Deeproot Depths] Numen's Rune
+[LD - Deeproot Depths] Rune Arc
+[LD - Deeproot Depths] Lightning Bastard Sword
+[LD - Deeproot Depths] Golden Rune [1]
+[LD - Deeproot Depths] Siluria's Tree
+[LD - Deeproot Depths] Staff of the Avatar
+[LD - Mohgwyn] Map: Mohgwyn Palace
+[LD - Mohgwyn] Golden Seed
+[LD - Mohgwyn] Golden Rune [11]
+[LD - Mohgwyn] Smithing Stone [6]
+[LD - Mohgwyn] Bloodrose
+[LD - Mohgwyn] Nomadic Warrior's Cookbook [24]
+[LD - Mohgwyn] Hero's Rune [4]
+[LD - Mohgwyn] Smithing Stone [8]
+[LD - Mohgwyn] Hero's Rune [3]
+[LD - Mohgwyn] Blood-Tainted Excrement
+[LD - Mohgwyn] Somber Smithing Stone [9]
+[LD - Mohgwyn] [Incantation] Swarm of Flies
+[LD - Mohgwyn] Drawstring Blood Grease
+[LD - Mohgwyn] Blood-Tainted Excrement
+[LD - Mohgwyn] Golden Rune [12]
+[LD - Mohgwyn] Smithing Stone [7]
+[LD - Mohgwyn] Golden Rune [12]
+[LD - Mohgwyn] Sacramental Bud
+[LD - Mohgwyn] Nascent Butterfly
+[LD - Mohgwyn] Rune Arc
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [13]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Bloodrose
+[LD - Mohgwyn] Holy Grease
+[LD - Mohgwyn] Stonesword Key
+[LD - Mohgwyn] Smithing Stone [6]
+[LD - Mohgwyn] Arteria Leaf
+[LD - Mohgwyn] Golden Rune [13]
+[LD - Mohgwyn] Clarifying Boluses
+[LD - Mohgwyn] Rot Grease
+[LD - Mohgwyn] Haligdrake Talisman +2
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Smithing Stone [7]
+[LD - Mohgwyn] Stanching Boluses
+[LD - Mohgwyn] Stonesword Key
+[LD - Mohgwyn] Bloodrose
+[LD - Mohgwyn] Fire Longsword
+[LD - Mohgwyn] Smithing Stone [8]
+[LD - Mohgwyn] Numen's Rune
+[LD - Mohgwyn]
+[LD - Mohgwyn] Golden Rune [13]
+[LD - Mohgwyn] Golden Rune [11]
+[LD - Mohgwyn] Lord's Rune
+[LD - Mohgwyn] Smithing Stone [6]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Golden Rune [1]
+[LD - Mohgwyn] Somber Ancient Dragon Smithing Stone
+[LD - Mohgwyn] White Mask
+[LD - Mohgwyn] War Surgeon Gown (Altered)
+[LD - Mohgwyn] War Surgeon Gloves
+[LD - Mohgwyn] War Surgeon Trousers
+[LD - Nokron / Siofra] Furlcalling Finger Remedy
+[LD - Nokron / Siofra] Silver Firefly
+[LD - Nokron / Siofra] Golden Rune [3]
+[LD - Nokron / Siofra] Golden Rune [2]
+[LD - Nokron / Siofra] Smithing Stone [4]
+[LD - Nokron / Siofra] Smithing Stone [2]
+[LD - Nokron / Siofra] Golden Rune [2]
+[LD - Nokron / Siofra] Immunizing Cured Meat
+[LD - Nokron / Siofra] Golden Rune [2]
+[LD - Nokron / Siofra] Rainbow Stone
+[LD - Nokron / Siofra] Golden Rune [4]
+[LD - Nokron / Siofra] Budding Horn
+[LD - Nokron / Siofra] Throwing Dagger
+[LD - Nokron / Siofra] Smithing Stone [3]
+[LD - Nokron / Siofra] Golden Rune [4]
+[LD - Nokron / Siofra] Smithing Stone [4]
+[LD - Nokron / Siofra] Soap
+[LD - Nokron / Siofra] Preserving Boluses
+[LD - Nokron / Siofra] Silver-Pickled Fowl Foot
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Golden Rune [5]
+[LD - Nokron / Siofra] Soporific Grease
+[LD - Nokron / Siofra] Burred Bolt
+[LD - Nokron / Siofra] Nascent Butterfly
+[LD - Nokron / Siofra] Rune Arc
+[LD - Nokron / Siofra] Golden Rune [6]
+[LD - Nokron / Siofra] Smithing Stone [5]
+[LD - Nokron / Siofra] Furlcalling Finger Remedy
+[LD - Nokron / Siofra] Clarifying White Cured Meat
+[LD - Nokron / Siofra] Golden Rune [6]
+[LD - Nokron / Siofra] Ghost-Glovewort Picker's Bell Bearing [1]
+[LD - Nokron / Siofra] Smithing Stone [3]
+[LD - Nokron / Siofra] Somber Smithing Stone [4]
+[LD - Nokron / Siofra] Smithing Stone [5]
+[LD - Nokron / Siofra] Greatshield Soldier Ashes
+[LD - Nokron / Siofra] Golden Rune [7]
+[LD - Nokron / Siofra] Golden Rune [7]
+[LD - Nokron / Siofra] Rune Arc
+[LD - Nokron / Siofra] Larval Tear
+[LD - Nokron / Siofra] Larval Tear
+[LD - Nokron / Siofra] Ghostflame Torch
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Nokron / Siofra] Golden Rune [1]
+[LD - Crumbling Farum Azula] Smithing Stone [8]
+[LD - Crumbling Farum Azula] Somber Ancient Dragon Smithing Stone
+[LD - Crumbling Farum Azula] Golden Rune [9]
+[LD - Crumbling Farum Azula] Dragonwound Grease
+[LD - Crumbling Farum Azula] Old Fang
+[LD - Crumbling Farum Azula] Great Grave Glovewort
+[LD - Crumbling Farum Azula] Lightningproof Dried Liver
+[LD - Crumbling Farum Azula] Great Grave Glovewort
+[LD - Crumbling Farum Azula] Smithing Stone [6]
+[LD - Crumbling Farum Azula] Smithing Stone [8]
+[LD - Crumbling Farum Azula] Dragonwound Grease
+[LD - Crumbling Farum Azula] Smithing Stone [8]
+[LD - Crumbling Farum Azula] Smithing Stone [8]
+[LD - Crumbling Farum Azula] Lightning Greatbolt
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Golden Rune [12]
+[LD - Crumbling Farum Azula] Ancient Dragon Prayerbook
+[LD - Crumbling Farum Azula] Hero's Rune [2]
+[LD - Crumbling Farum Azula] Smithing Stone [6]
+[LD - Crumbling Farum Azula] Somberstone Miner's Bell Bearing [4]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Somber Smithing Stone [9]
+[LD - Crumbling Farum Azula] Fulgurbloom
+[LD - Crumbling Farum Azula] Smithing Stone [8]
+[LD - Crumbling Farum Azula] Rejuvenating Boluses
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Smithing Stone [8]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Gravel Stone
+[LD - Crumbling Farum Azula] Somber Smithing Stone [7]
+[LD - Crumbling Farum Azula] Golden Rune [9]
+[LD - Crumbling Farum Azula] Golden Arrow
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Gravel Stone
+[LD - Crumbling Farum Azula] Golden Rune [10]
+[LD - Crumbling Farum Azula] Golden Rune [12]
+[LD - Crumbling Farum Azula] Smithing Stone [6]
+[LD - Crumbling Farum Azula] Golden Rune [11]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Stonesword Key
+[LD - Crumbling Farum Azula] Golden Rune [12]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Rune Arc
+[LD - Crumbling Farum Azula] Somber Smithing Stone [9]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Golden Rune [11]
+[LD - Crumbling Farum Azula] Godskin Ward
+[LD - Crumbling Farum Azula] Hero's Rune [5]
+[LD - Crumbling Farum Azula] Smithing Stone [7]
+[LD - Crumbling Farum Azula] Lightning Grease
+[LD - Crumbling Farum Azula] Somber Smithing Stone [9]
+[LD - Crumbling Farum Azula] Ancient Dragon Smithing Stone
+[LD - Crumbling Farum Azula] Golden Rune [12]
+[LD - Crumbling Farum Azula] Dragoncrest Shield Talisman +2
+[LD - Crumbling Farum Azula] Dappled Cured Meat
+[LD - Crumbling Farum Azula] Smithing Stone [8]
+[LD - Crumbling Farum Azula] Lord's Rune
+[LD - Crumbling Farum Azula] Nascent Butterfly
+[LD - Crumbling Farum Azula] Golden Rune [12]
+[LD - Crumbling Farum Azula] Smithing Stone [8]
+[LD - Crumbling Farum Azula] Rune Arc
+[LD - Crumbling Farum Azula] Smithing Stone [7]
+[LD - Crumbling Farum Azula] Dragonwound Grease
+[LD - Crumbling Farum Azula] Smithing Stone [8]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Golden Rune [12]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Smithing Stone [7]
+[LD - Crumbling Farum Azula] Ancient Dragon Apostle's Cookbook [4]
+[LD - Crumbling Farum Azula] Somber Smithing Stone [8]
+[LD - Crumbling Farum Azula] Smithing Stone [6]
+[LD - Crumbling Farum Azula] Arteria Leaf
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Lightning Greatbolt
+[LD - Crumbling Farum Azula] Fulgurbloom
+[LD - Crumbling Farum Azula] Golden Rune [12]
+[LD - Crumbling Farum Azula] Smithing Stone [7]
+[LD - Crumbling Farum Azula] Golden Rune [12]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Boltdrake Talisman +2
+[LD - Crumbling Farum Azula] Somber Smithing Stone [7]
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Somberstone Miner's Bell Bearing [5]
+[LD - Crumbling Farum Azula] Golden Rune [12]
+[LD - Crumbling Farum Azula] Somber Smithing Stone [7]
+[LD - Crumbling Farum Azula] Somber Smithing Stone [8]
+[LD - Crumbling Farum Azula] Pearldrake Talisman
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Smithing Stone [7]
+[LD - Crumbling Farum Azula] Gravel Stone
+[LD - Crumbling Farum Azula] Somber Smithing Stone [9]
+[LD - Crumbling Farum Azula] Smithing Stone [8]
+[LD - Crumbling Farum Azula] Azula Beastman Ashes
+[LD - Crumbling Farum Azula] Ancient Dragon Smithing Stone
+[LD - Crumbling Farum Azula] Glovewort Picker's Bell Bearing [3]
+[LD - Crumbling Farum Azula] Drake Knight Helm
+[LD - Crumbling Farum Azula] Drake Knight Armor
+[LD - Crumbling Farum Azula] Drake Knight Gauntlets
+[LD - Crumbling Farum Azula] Drake Knight Greaves
+[LD - Crumbling Farum Azula]
+[LD - Crumbling Farum Azula] Dragon Towershield
+[LD - Crumbling Farum Azula] Old Lord's Talisman
+[LD - Crumbling Farum Azula] Golden Seed
+[LD - Crumbling Farum Azula] Golden Seed
+[LD - Crumbling Farum Azula] Ancient Dragon Smithing Stone
+[LD - Crumbling Farum Azula] Ancient Dragon Smithing Stone
+[LD - Crumbling Farum Azula] Malformed Dragon Helm
+[LD - Crumbling Farum Azula] Malformed Dragon Armor
+[LD - Crumbling Farum Azula] Malformed Dragon Gauntlets
+[LD - Crumbling Farum Azula] Malformed Dragon Greaves
+[LD - Academy of Raya Lucaria] Magic Grease
+[LD - Academy of Raya Lucaria] Twinsage Glintstone Crown
+[LD - Academy of Raya Lucaria] Olivinus Glintstone Crown
+[LD - Academy of Raya Lucaria] Rune Arc
+[LD - Academy of Raya Lucaria] Lazuli Glintstone Crown
+[LD - Academy of Raya Lucaria] Golden Rune [2]
+[LD - Academy of Raya Lucaria] Karolos Glintstone Crown
+[LD - Academy of Raya Lucaria] Somber Smithing Stone [3]
+[LD - Academy of Raya Lucaria] Grace Mimic
+[LD - Academy of Raya Lucaria] Smithing Stone [4]
+[LD - Academy of Raya Lucaria] Spellproof Dried Liver
+[LD - Academy of Raya Lucaria] Marionette Soldier Ashes
+[LD - Academy of Raya Lucaria] Silver-Pickled Fowl Foot
+[LD - Academy of Raya Lucaria] Magic Grease
+[LD - Academy of Raya Lucaria] Golden Rune [4]
+[LD - Academy of Raya Lucaria] Mushroom
+[LD - Academy of Raya Lucaria] Golden Rune [4]
+[LD - Academy of Raya Lucaria] Golden Rune [3]
+[LD - Academy of Raya Lucaria] Avionette Soldier Ashes
+[LD - Academy of Raya Lucaria] Smithing Stone [5]
+[LD - Academy of Raya Lucaria] Longtail Cat Talisman
+[LD - Academy of Raya Lucaria] Crystal Dart
+[LD - Academy of Raya Lucaria] Golden Rune [4]
+[LD - Academy of Raya Lucaria] Conspectus Scroll
+[LD - Academy of Raya Lucaria] Smithing Stone [4]
+[LD - Academy of Raya Lucaria] Stonesword Key
+[LD - Academy of Raya Lucaria] Furlcalling Finger Remedy
+[LD - Academy of Raya Lucaria] Living Jar Shard
+[LD - Academy of Raya Lucaria] Stonesword Key
+[LD - Academy of Raya Lucaria] Glintstone Firefly
+[LD - Academy of Raya Lucaria] Golden Rune [2]
+[LD - Academy of Raya Lucaria] Golden Rune [4]
+[LD - Academy of Raya Lucaria] Crystal Bud
+[LD - Academy of Raya Lucaria] Golden Rune [4]
+[LD - Academy of Raya Lucaria] Smithing Stone [5]
+[LD - Academy of Raya Lucaria] Golden Rune [2]
+[LD - Academy of Raya Lucaria] Glintstone Whetblade
+[LD - Academy of Raya Lucaria] Golden Rune [3]
+[LD - Academy of Raya Lucaria] Crystal Dart
+[LD - Academy of Raya Lucaria] Golden Rune [4]
+[LD - Academy of Raya Lucaria] Furlcalling Finger Remedy
+[LD - Academy of Raya Lucaria] Golden Rune [7]
+[LD - Academy of Raya Lucaria] Golden Rune [4]
+[LD - Academy of Raya Lucaria] Crystal Dart
+[LD - Academy of Raya Lucaria] Imbued Sword Key
+[LD - Academy of Raya Lucaria] Meteor Bolt
+[LD - Academy of Raya Lucaria] Smithing Stone [4]
+[LD - Academy of Raya Lucaria] Golden Rune [4]
+[LD - Academy of Raya Lucaria] Smithing Stone [3]
+[LD - Academy of Raya Lucaria] Magic Grease
+[LD - Academy of Raya Lucaria] Golden Rune [3]
+[LD - Academy of Raya Lucaria] Somber Smithing Stone [4]
+[LD - Academy of Raya Lucaria] [Sorcery] Shattering Crystal
+[LD - Academy of Raya Lucaria] Cracked Pot
+[LD - Academy of Raya Lucaria] Azur's Glintstone Staff
+[LD - Academy of Raya Lucaria] Carian Knight Helm
+[LD - Academy of Raya Lucaria] Carian Knight Armor
+[LD - Academy of Raya Lucaria] Carian Knight Gauntlets
+[LD - Academy of Raya Lucaria] Carian Knight Greaves
+[LD - Academy of Raya Lucaria] Somber Smithing Stone [3]
+[LD - Academy of Raya Lucaria] Lost Ashes of War
+[LD - Academy of Raya Lucaria] [Sorcery] Comet
+[LD - Academy of Raya Lucaria] Graven-School Talisman
+[LD - Academy of Raya Lucaria] Ritual Pot
+[LD - Academy of Raya Lucaria] Glintstone Scarab
+[LD - Academy of Raya Lucaria] Terra Magicus
+[LD - Academy of Raya Lucaria] Academy Glintstone Key
+[LD - Academy of Raya Lucaria] Radagon Icon
+[LD - Academy of Raya Lucaria] Glintstone Craftsman's Cookbook [5]
+[LD - Academy of Raya Lucaria] Dark Moon Ring
+[LD - Academy of Raya Lucaria] Full Moon Crossbow
+[LD - Academy of Raya Lucaria] Carian Knight's Shield
+[LD - Academy of Raya Lucaria] Golden Seed
+[LD - Elphael / Miquella's Haligtree] Stonesword Key
+[LD - Elphael / Miquella's Haligtree] Sacramental Bud
+[LD - Elphael / Miquella's Haligtree] Golden Rune [10]
+[LD - Elphael / Miquella's Haligtree] Stonesword Key
+[LD - Elphael / Miquella's Haligtree] Fire Grease
+[LD - Elphael / Miquella's Haligtree] Aeonian Butterfly
+[LD - Elphael / Miquella's Haligtree] Preserving Boluses
+[LD - Elphael / Miquella's Haligtree] Golden Rune [10]
+[LD - Elphael / Miquella's Haligtree] Envoy Crown
+[LD - Elphael / Miquella's Haligtree] Dappled Cured Meat
+[LD - Elphael / Miquella's Haligtree] Smithing Stone [8]
+[LD - Elphael / Miquella's Haligtree] Prattling Pate "My beloved"
+[LD - Elphael / Miquella's Haligtree] Warming Stone
+[LD - Elphael / Miquella's Haligtree] Flaming Bolt
+[LD - Elphael / Miquella's Haligtree] Numen's Rune
+[LD - Elphael / Miquella's Haligtree] Golden Rune [13]
+[LD - Elphael / Miquella's Haligtree] Lost Ashes of War
+[LD - Elphael / Miquella's Haligtree] Oracle Envoy Ashes
+[LD - Elphael / Miquella's Haligtree] Golden Rune [1]
+[LD - Elphael / Miquella's Haligtree] Golden Rune [1]
+[LD - Elphael / Miquella's Haligtree] Golden Rune [10]
+[LD - Elphael / Miquella's Haligtree] Rot Grease
+[LD - Elphael / Miquella's Haligtree] Pearldrake Talisman +2
+[LD - Elphael / Miquella's Haligtree] Smithing Stone [8]
+[LD - Elphael / Miquella's Haligtree] Golden Rune [13]
+[LD - Elphael / Miquella's Haligtree] Hefty Beast Bone
+[LD - Elphael / Miquella's Haligtree] Fire Grease
+[LD - Elphael / Miquella's Haligtree] Ancient Dragon Smithing Stone
+[LD - Elphael / Miquella's Haligtree] Somber Smithing Stone [8]
+[LD - Elphael / Miquella's Haligtree] Golden Rune [12]
+[LD - Elphael / Miquella's Haligtree] Aeonian Butterfly
+[LD - Elphael / Miquella's Haligtree] Smithing Stone [6]
+[LD - Elphael / Miquella's Haligtree] Somber Smithing Stone [9]
+[LD - Elphael / Miquella's Haligtree] Golden Rune [10]
+[LD - Elphael / Miquella's Haligtree] Golden Rune [12]
+[LD - Elphael / Miquella's Haligtree] Viridian Amber Medallion +2
+[LD - Elphael / Miquella's Haligtree] Smithing Stone [6]
+[LD - Elphael / Miquella's Haligtree] Sacramental Bud
+[LD - Elphael / Miquella's Haligtree] Smithing Stone [7]
+[LD - Elphael / Miquella's Haligtree] Hero's Rune [4]
+[LD - Elphael / Miquella's Haligtree] Smithing Stone [8]
+[LD - Elphael / Miquella's Haligtree] Golden Rune [1]
+[LD - Elphael / Miquella's Haligtree] Golden Rune [1]
+[LD - Elphael / Miquella's Haligtree] Golden Rune [1]
+[LD - Elphael / Miquella's Haligtree] Golden Rune [1]
+[LD - Elphael / Miquella's Haligtree] Somber Smithing Stone [9]
+[LD - Elphael / Miquella's Haligtree] Ancient Dragon Smithing Stone
+[LD - Elphael / Miquella's Haligtree] Golden Rune [1]
+[LD - Elphael / Miquella's Haligtree] Golden Rune [1]
+[LD - Elphael / Miquella's Haligtree] Golden Rune [1]
+[LD - Elphael / Miquella's Haligtree] Holy Grease
+[LD - Elphael / Miquella's Haligtree] Golden Rune [12]
+[LD - Elphael / Miquella's Haligtree] Smithing Stone [8]
+[LD - Elphael / Miquella's Haligtree] Miquellan Knight's Sword
+[LD - Elphael / Miquella's Haligtree] Lightning Greatbolt
+[LD - Elphael / Miquella's Haligtree] Smithing Stone [7]
+[LD - Elphael / Miquella's Haligtree] [Incantation] Triple Rings of Light
+[LD - Elphael / Miquella's Haligtree] Immunizing White Cured Meat
+[LD - Elphael / Miquella's Haligtree] Cleanrot Knight Finlay
+[LD - Elphael / Miquella's Haligtree] Somber Ancient Dragon Smithing Stone
+[LD - Elphael / Miquella's Haligtree] Numen's Rune
+[LD - Elphael / Miquella's Haligtree] Somber Ancient Dragon Smithing Stone
+[LD - Elphael / Miquella's Haligtree] Somber Smithing Stone [9]
+[LD - Elphael / Miquella's Haligtree] Golden Rune [10]
+[LD - Elphael / Miquella's Haligtree] Smithing Stone [7]
+[LD - Elphael / Miquella's Haligtree] Old Fang
+[LD - Elphael / Miquella's Haligtree] Warming Stone
+[LD - Elphael / Miquella's Haligtree] Spiritflame Arrow
+[LD - Elphael / Miquella's Haligtree] Smithing Stone [8]
+[LD - Elphael / Miquella's Haligtree] Haligtree Soldier Ashes
+[LD - Elphael / Miquella's Haligtree] Golden Rune [11]
+[LD - Elphael / Miquella's Haligtree] Arteria Leaf
+[LD - Elphael / Miquella's Haligtree] Sacramental Bud
+[LD - Elphael / Miquella's Haligtree] Smithing Stone [8]
+[LD - Elphael / Miquella's Haligtree] Lord's Rune
+[LD - Elphael / Miquella's Haligtree] Seedbed Curse
+[LD - Elphael / Miquella's Haligtree] Somber Smithing Stone [9]
+[LD - Elphael / Miquella's Haligtree] Pickled Turtle Neck
+[LD - Elphael / Miquella's Haligtree] Beast Blood
+[LD - Elphael / Miquella's Haligtree] Aeonian Butterfly
+[LD - Elphael / Miquella's Haligtree] Marika's Soreseal
+[LD - Elphael / Miquella's Haligtree] Golden Rune [12]
+[LD - Elphael / Miquella's Haligtree] Haligtree Knight Helm
+[LD - Elphael / Miquella's Haligtree] Smithing Stone [6]
+[LD - Elphael / Miquella's Haligtree] Seedbed Curse
+[LD - Elphael / Miquella's Haligtree] Golden Rune [1]
+[LD - Elphael / Miquella's Haligtree] Rotten Crystal Sword
+[LD - Elphael / Miquella's Haligtree] Hero's Rune [5]
+[LD - Elphael / Miquella's Haligtree] Rot Grease
+[LD - Elphael / Miquella's Haligtree] Great Grave Glovewort
+[LD - Elphael / Miquella's Haligtree] Golden Rune [10]
+[LD - Elphael / Miquella's Haligtree] Ghost-Glovewort Picker's Bell Bearing [3]
+[LD - Elphael / Miquella's Haligtree] Nascent Butterfly
+[LD - Elphael / Miquella's Haligtree] Dragoncrest Greatshield Talisman
+[LD - Elphael / Miquella's Haligtree] Aeonian Butterfly
+[LD - Elphael / Miquella's Haligtree] Arteria Leaf
+[LD - Elphael / Miquella's Haligtree] Hero's Rune [5]
+[LD - Elphael / Miquella's Haligtree] Numen's Rune
+[LD - Elphael / Miquella's Haligtree] Traveler's Clothes
+[LD - Elphael / Miquella's Haligtree] Traveler's Manchettes
+[LD - Elphael / Miquella's Haligtree] Traveler's Boots
+[LD - Elphael / Miquella's Haligtree] Miquella's Needle
+[LD - Elphael / Miquella's Haligtree] Golden Seed
+[LD - Elphael / Miquella's Haligtree]
+[LD - Elphael / Miquella's Haligtree]
+[LD - Elphael / Miquella's Haligtree]
+[LD - Elphael / Miquella's Haligtree] Lord's Rune
+[LD - Elphael / Miquella's Haligtree] Rotten Staff
+[LD - Elphael / Miquella's Haligtree]
+[LD - Volcano Manor] Smithing Stone [6]
+[LD - Volcano Manor] Depraved Perfumer Carmaan
+[LD - Volcano Manor] Ash of War: Royal Knight's Resolve
+[LD - Volcano Manor] Budding Horn
+[LD - Volcano Manor] Fireproof Dried Liver
+[LD - Volcano Manor] Golden Rune [9]
+[LD - Volcano Manor] Golden Rune [5]
+[LD - Volcano Manor] Stonesword Key
+[LD - Volcano Manor] Furlcalling Finger Remedy
+[LD - Volcano Manor] Nomadic Warrior's Cookbook [21]
+[LD - Volcano Manor] Somber Smithing Stone [7]
+[LD - Volcano Manor] Perfume Bottle
+[LD - Volcano Manor] Smithing Stone [6]
+[LD - Volcano Manor] Erdtree Seal
+[LD - Volcano Manor] Drawstring Fire Grease
+[LD - Volcano Manor] Golden Rune [6]
+[LD - Volcano Manor] Fire Arrow
+[LD - Volcano Manor] Golden Rune [9]
+[LD - Volcano Manor] Explosive Greatbolt
+[LD - Volcano Manor] Golden Rune [9]
+[LD - Volcano Manor] Somber Smithing Stone [6]
+[LD - Volcano Manor] Fireproof Dried Liver
+[LD - Volcano Manor] Albinauric Bloodclot
+[LD - Volcano Manor] Smithing Stone [4]
+[LD - Volcano Manor] Smithing Stone [6]
+[LD - Volcano Manor] Smoldering Butterfly
+[LD - Volcano Manor] Smithing Stone [7]
+[LD - Volcano Manor] Somber Smithing Stone [5]
+[LD - Volcano Manor] Smoldering Butterfly
+[LD - Volcano Manor] Golden Rune [9]
+[LD - Volcano Manor] Golden Rune [10]
+[LD - Volcano Manor] Smithing Stone [6]
+[LD - Volcano Manor] Golden Rune [9]
+[LD - Volcano Manor] Smithing Stone [5]
+[LD - Volcano Manor] Smoldering Butterfly
+[LD - Volcano Manor] Golden Rune [12]
+[LD - Volcano Manor] Furlcalling Finger Remedy
+[LD - Volcano Manor] Beast Blood
+[LD - Volcano Manor] Albinauric Staff
+[LD - Volcano Manor] Albinauric Mask
+[LD - Volcano Manor] Drawstring Fire Grease
+[LD - Volcano Manor] Missionary's Cookbook [6]
+[LD - Volcano Manor] Crimson Tear Scarab
+[LD - Volcano Manor] Stonesword Key
+[LD - Volcano Manor] Rune Arc
+[LD - Volcano Manor] Commoner's Headband
+[LD - Volcano Manor] Man-Serpent Ashes
+[LD - Volcano Manor] Somber Smithing Stone [6]
+[LD - Volcano Manor] Crimson Amber Medallion +1
+[LD - Volcano Manor] Smithing Stone [6]
+[LD - Volcano Manor] Smithing Stone [4]
+[LD - Volcano Manor] Smoldering Shield
+[LD - Volcano Manor] Dagger Talisman
+[LD - Volcano Manor] Serpent-Hunter
+[LD - Volcano Manor] Seedbed Curse
+[LD - Volcano Manor] Serpent's Amnion
+[LD - Volcano Manor] Recusant Finger
+[LD - Volcano Manor] Eye Surcoat
+[LD - Volcano Manor] Ghiza's Wheel
+[LD - Volcano Manor] [Incantation] Aspects of the Crucible: Breath
+[LD - Volcano Manor] Golden Rune [1]
+[LD - Volcano Manor] Golden Rune [1]
+[LD - Volcano Manor] Dragon Heart
+[LD - Stranded Graveyard] Poisonbone Dart
+[LD - Stranded Graveyard] Stonesword Key
+[LD - Stranded Graveyard] Golden Rune [5]
+[LD - Stranded Graveyard] Dragonwound Grease
+[LD - Stranded Graveyard] Lightning Grease
+[LD - Stranded Graveyard] Erdtree's Favor
+[LD - Stranded Graveyard] Grave Glovewort [1]
+[LD - Stranded Graveyard] Haligdrake Talisman
+[LD - Stranded Graveyard] Tarnished's Furled Finger
+[LD - Stranded Graveyard] Finger Severer
+[LD - Stranded Graveyard] Erdtree Greatbow
+[LD - Stranded Graveyard] Great Arrow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revered Spirit Ash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+Revered Spirit Ash
+
+
+
+
+
+
+
+
+
+Revered Spirit Ash
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revered Spirit Ash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+Revered Spirit Ash
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revered Spirit Ash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revered Spirit Ash
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revered Spirit Ash
+[Weeping Peninsula - Tombsward Catacombs] Human Bone Shard
+[Weeping Peninsula - Tombsward Catacombs] Golden Rune [2]
+[Weeping Peninsula - Tombsward Catacombs] Nomadic Warrior's Cookbook [9]
+[Weeping Peninsula - Tombsward Catacombs] Prattling Pate "Thank you"
+[Weeping Peninsula - Impaler's Catacombs] Root Resin
+[Weeping Peninsula - Impaler's Catacombs] Prattling Pate "Please help"
+[Limgrave - Stormfoot Catacombs] Root Resin
+[Limgrave - Stormfoot Catacombs] Smoldering Butterfly
+[Limgrave - Stormfoot Catacombs] Wandering Noble Ashes
+[Limgrave - Stormfoot Catacombs] Prattling Pate "Hello"
+[Liurnia - Road's End Catacombs] Root Resin
+[Liurnia - Road's End Catacombs] Raya Lucaria Soldier Ashes
+[Liurnia - Road's End Catacombs] Human Bone Shard
+[Liurnia - Road's End Catacombs] Rune Arc
+[Liurnia - Road's End Catacombs] Watchdog's Staff
+[Limgrave - Murkwater Catacombs] Root Resin
+[Liurnia - Black Knife Catacombs] Rosus' Axe
+[Liurnia - Black Knife Catacombs] Rune Arc
+[Liurnia - Black Knife Catacombs] Deathroot
+[Liurnia - Black Knife Catacombs] Spellproof Dried Liver
+[Liurnia - Cliffbottom Catacombs] Root Resin
+[Liurnia - Cliffbottom Catacombs] Nox Mirrorhelm
+[Liurnia - Cliffbottom Catacombs] Golden Rune [3]
+[Liurnia - Cliffbottom Catacombs] Page Ashes
+[Liurnia - Cliffbottom Catacombs] Rune Arc
+[Liurnia - Cliffbottom Catacombs] Old Fang
+[Liurnia - Cliffbottom Catacombs] Hefty Beast Bone
+[Liurnia - Cliffbottom Catacombs] Scythe
+[Liurnia - Cliffbottom Catacombs] Prattling Pate "Wonderful"
+[Mt. Gelmir - Wyndham Catacombs] Ancient Dragon Apostle's Cookbook [1]
+[Mt. Gelmir - Wyndham Catacombs] Golden Rune [5]
+[Mt. Gelmir - Wyndham Catacombs] Magic Grease
+[Mt. Gelmir - Wyndham Catacombs] Lightning Scorpion Charm
+[Mt. Gelmir - Wyndham Catacombs] Golden Rune [1]
+[Altus Plateau - Sainted Hero's Grave] Crimson Seed Talisman
+[Altus Plateau - Sainted Hero's Grave] Leyndell Soldier Ashes
+[Altus Plateau - Sainted Hero's Grave] Dragoncrest Shield Talisman +1
+[Altus Plateau - Sainted Hero's Grave] Root Resin
+[Altus Plateau - Sainted Hero's Grave] Prattling Pate "Let's get to it"
+[Altus Plateau - Sainted Hero's Grave] Human Bone Shard
+[Mt. Gelmir - Gelmir Hero's Grave] Deathroot
+[Mt. Gelmir - Gelmir Hero's Grave] Ringed Finger
+[Mt. Gelmir - Gelmir Hero's Grave] Golden Rune [6]
+[Mt. Gelmir - Gelmir Hero's Grave] Smoldering Butterfly
+[Mt. Gelmir - Gelmir Hero's Grave] Stonesword Key
+[Mt. Gelmir - Gelmir Hero's Grave] Gelmir Knight Helm
+[Mt. Gelmir - Gelmir Hero's Grave] Gelmir Knight Armor
+[Mt. Gelmir - Gelmir Hero's Grave] Gelmir Knight Gauntlets
+[Mt. Gelmir - Gelmir Hero's Grave] Gelmir Knight Greaves
+[Mt. Gelmir - Gelmir Hero's Grave] Root Resin
+[Mt. Gelmir - Gelmir Hero's Grave] Beast Blood
+[Capital Outskirts - Auriza Hero's Grave] Holy Grease
+[Capital Outskirts - Auriza Hero's Grave] Fan Daggers
+[Capital Outskirts - Auriza Hero's Grave] Golden Rune [7]
+[Capital Outskirts - Auriza Hero's Grave] Crucible Feather Talisman
+[Capital Outskirts - Auriza Hero's Grave] Golden Epitaph
+[Capital Outskirts - Auriza Hero's Grave] Great Dragonfly Head
+[Capital Outskirts - Auriza Hero's Grave] Stonesword Key
+[Capital Outskirts - Auriza Hero's Grave] Vulgar Militia Ashes
+[Capital Outskirts - Auriza Hero's Grave] Ash of War: Holy Ground
+[Capital Outskirts - Auriza Hero's Grave] Tree Sentinel Helm
+[Capital Outskirts - Auriza Hero's Grave] Tree Sentinel Armor
+[Capital Outskirts - Auriza Hero's Grave] Tree Sentinel Gauntlets
+[Capital Outskirts - Auriza Hero's Grave] Tree Sentinel Greaves
+[Stormhill - Deathtouched Catacombs] Deathroot
+[Stormhill - Deathtouched Catacombs] Bloodrose
+[Stormhill - Deathtouched Catacombs] Uchigatana
+[Altus Plateau - Unsightly Catacombs] Holy Grease
+[Altus Plateau - Unsightly Catacombs] Winged Misbegotten Ashes
+[Altus Plateau - Unsightly Catacombs] Rune Arc
+[Altus Plateau - Unsightly Catacombs] Prattling Pate "Apologies"
+[Altus Plateau - Unsightly Catacombs] Golden Rune [1]
+[Capital Outskirts - Auriza Side Tomb] Perfumer's Cookbook [3]
+[Capital Outskirts - Auriza Side Tomb] Golden Rune [7]
+[Capital Outskirts - Auriza Side Tomb] Smithing Stone [5]
+[Capital Outskirts - Auriza Side Tomb] Root Resin
+[Capital Outskirts - Auriza Side Tomb] Cracked Pot
+[Capital Outskirts - Auriza Side Tomb] Cracked Pot
+[Capital Outskirts - Auriza Side Tomb] Cracked Pot
+[Capital Outskirts - Auriza Side Tomb] Cracked Pot
+[Capital Outskirts - Auriza Side Tomb] Ritual Pot
+[Capital Outskirts - Auriza Side Tomb] Ritual Pot
+[Caelid - Minor Erdtree Catacombs] Imp Head (Wolf)
+[Caelid - Minor Erdtree Catacombs] Grave Violet
+[Caelid - Minor Erdtree Catacombs] Sacramental Bud
+[Caelid - Minor Erdtree Catacombs] Aeonian Butterfly
+[Caelid - Minor Erdtree Catacombs] Golden Rune [4]
+[Caelid - Minor Erdtree Catacombs] Golden Rune [1]
+[Caelid - Caelid Catacombs] Miranda Sprout Ashes
+[Caelid - War-Dead Catacombs] Golden Rune [6]
+[Caelid - War-Dead Catacombs] Magic Grease
+[Caelid - War-Dead Catacombs] Radahn Soldier Ashes
+[Caelid - War-Dead Catacombs] Silver-Pickled Fowl Foot
+[Caelid - War-Dead Catacombs] [Sorcery] Collapsing Stars
+[Flame Peak - Giant-Conquering Hero's Grave] Cranial Vessel Candlestand
+[Flame Peak - Giant-Conquering Hero's Grave] [Incantation] Flame
+[Flame Peak - Giant-Conquering Hero's Grave] Lightning Bastard Sword
+[Flame Peak - Giant-Conquering Hero's Grave] Giant's Seal
+[Flame Peak - Giant-Conquering Hero's Grave] Freezing Grease
+[Flame Peak - Giant-Conquering Hero's Grave] Golden Rune [11]
+[Flame Peak - Giant-Conquering Hero's Grave] Golden Rune [1]
+[Flame Peak - Giants' Mountaintop Catacombs] Golden Rune [10]
+[Flame Peak - Giants' Mountaintop Catacombs] Stimulating Boluses
+[Flame Peak - Giants' Mountaintop Catacombs] Nascent Butterfly
+[Flame Peak - Giants' Mountaintop Catacombs] Root Resin
+[Flame Peak - Giants' Mountaintop Catacombs] Ritual Pot
+[Flame Peak - Giants' Mountaintop Catacombs] Fire Monk Ashes
+[Flame Peak - Giants' Mountaintop Catacombs] Deathroot
+[Flame Peak - Consecrated Snowfield Catacombs] Golden Rune [12]
+[Flame Peak - Consecrated Snowfield Catacombs] Rejuvenating Boluses
+[Flame Peak - Consecrated Snowfield Catacombs] Root Resin
+[Flame Peak - Consecrated Snowfield Catacombs] Human Bone Shard
+[Flame Peak - Consecrated Snowfield Catacombs] Imp Head (Elder)
+[Flame Peak - Consecrated Snowfield Catacombs] Golden Rune [1]
+[Forbidden Lands - Hidden Path to the Haligtree] Warming Stone
+[Forbidden Lands - Hidden Path to the Haligtree] Sacramental Bud
+[Forbidden Lands - Hidden Path to the Haligtree] Hero's Rune [1]
+[Forbidden Lands - Hidden Path to the Haligtree] Old Fang
+[Forbidden Lands - Hidden Path to the Haligtree] Root Resin
+[Forbidden Lands - Hidden Path to the Haligtree] Freezing Grease
+[Forbidden Lands - Hidden Path to the Haligtree] Spelldrake Talisman +2
+[Forbidden Lands - Hidden Path to the Haligtree] Silver Scarab
+[Forbidden Lands - Hidden Path to the Haligtree] Deathroot
+[Limgrave - Murkwater Cave] Mushroom
+[Limgrave - Murkwater Cave] Cloth Garb
+[Limgrave - Murkwater Cave] Cloth Trousers
+
+[Weeping Peninsula - Earthbore Cave] Golden Rune [1]
+[Weeping Peninsula - Earthbore Cave] Glowstone
+[Weeping Peninsula - Earthbore Cave] Kukri
+[Weeping Peninsula - Earthbore Cave] Smoldering Butterfly
+[Weeping Peninsula - Earthbore Cave] Trina's Lily
+[Weeping Peninsula - Earthbore Cave] Pickled Turtle Neck
+[Weeping Peninsula - Tombsward Cave] Golden Rune [2]
+[Weeping Peninsula - Tombsward Cave] Furlcalling Finger Remedy
+[Weeping Peninsula - Tombsward Cave] Poisonbone Dart
+[Weeping Peninsula - Tombsward Cave] Arteria Leaf
+[Weeping Peninsula - Tombsward Cave] Nomadic Warrior's Cookbook [8]
+[Weeping Peninsula - Tombsward Cave] Immunizing White Cured Meat
+[Limgrave - Groveside Cave] Golden Rune [1]
+[Limgrave - Groveside Cave] Glowstone
+[Limgrave - Groveside Cave] Cracked Pot
+[Liurnia - Stillwater Cave] Golden Rune [3]
+[Liurnia - Stillwater Cave] Golden Rune [4]
+[Liurnia - Stillwater Cave] Serpent Arrow
+[Liurnia - Stillwater Cave] Golden Rune [5]
+[Liurnia - Stillwater Cave] Glowstone
+[Liurnia - Stillwater Cave] Poison Grease
+[Liurnia - Stillwater Cave] Sage Hood
+[Liurnia - Stillwater Cave] Sage Robe
+[Liurnia - Stillwater Cave] Sage Trousers
+[Liurnia - Lakeside Crystal Cave] Hefty Beast Bone
+[Liurnia - Lakeside Crystal Cave] Throwing Dagger
+[Liurnia - Lakeside Crystal Cave] Golden Rune [5]
+[Liurnia - Lakeside Crystal Cave] Soft Cotton
+[Liurnia - Lakeside Crystal Cave] Smithing Stone [4]
+[Liurnia - Lakeside Crystal Cave] Smithing Stone [2]
+[Liurnia - Lakeside Crystal Cave] Lump of Flesh
+[Liurnia - Lakeside Crystal Cave] Arteria Leaf
+[Liurnia - Lakeside Crystal Cave] Spear Talisman
+[Liurnia - Academy Crystal Cave] Cuckoo Glintstone
+[Liurnia - Academy Crystal Cave] Stonesword Key
+[Liurnia - Academy Crystal Cave] Rune Arc
+[Liurnia - Academy Crystal Cave] Crystal Staff
+[Mt. Gelmir - Seethewater Cave] Poison Grease
+[Mt. Gelmir - Seethewater Cave] Lump of Flesh
+[Mt. Gelmir - Seethewater Cave] Preserving Boluses
+[Mt. Gelmir - Seethewater Cave] Mushroom Head
+[Mt. Gelmir - Seethewater Cave] Mushroom Body
+[Mt. Gelmir - Seethewater Cave] Mushroom Arms
+[Mt. Gelmir - Seethewater Cave] Mushroom Legs
+[Mt. Gelmir - Seethewater Cave] Poisonbone Dart
+[Mt. Gelmir - Seethewater Cave] Golden Rune [6]
+[Mt. Gelmir - Seethewater Cave] Golden Rune [7]
+[Mt. Gelmir - Seethewater Cave] Immunizing Cured Meat
+[Mt. Gelmir - Volcano Cave] Golden Rune [6]
+[Mt. Gelmir - Volcano Cave] Sliver of Meat
+[Mt. Gelmir - Volcano Cave] Arteria Leaf
+[Mt. Gelmir - Volcano Cave] Lump of Flesh
+[Mt. Gelmir - Volcano Cave] Coil Shield
+[Greyoll's Dragonbarrow - Dragonbarrow Cave] Warming Stone
+[Greyoll's Dragonbarrow - Dragonbarrow Cave] Golden Rune [12]
+[Greyoll's Dragonbarrow - Dragonbarrow Cave] Bull-Goat's Talisman
+[Greyoll's Dragonbarrow - Dragonbarrow Cave] Golden Rune [8]
+[Greyoll's Dragonbarrow - Dragonbarrow Cave] Beast Blood
+[Greyoll's Dragonbarrow - Sellia Hideaway] Golden Rune [3]
+[Greyoll's Dragonbarrow - Sellia Hideaway] Lost Ashes of War
+[Greyoll's Dragonbarrow - Sellia Hideaway] Golden Rune [5]
+[Greyoll's Dragonbarrow - Sellia Hideaway] Stimulating Boluses
+[Greyoll's Dragonbarrow - Sellia Hideaway] Somber Smithing Stone [4]
+[Greyoll's Dragonbarrow - Sellia Hideaway] Preserving Boluses
+[Greyoll's Dragonbarrow - Sellia Hideaway] Crystal Dart
+[Greyoll's Dragonbarrow - Sellia Hideaway] Golden Rune [5]
+[Greyoll's Dragonbarrow - Sellia Hideaway] Glowstone
+[Greyoll's Dragonbarrow - Sellia Hideaway] Crystal Spear
+[Greyoll's Dragonbarrow - Sellia Hideaway] Crystalian Ashes
+[Greyoll's Dragonbarrow - Sellia Hideaway] Smithing Stone [1]
+[Consecrated Snowfield - Cave of the Forlorn] Golden Rune [7]
+[Consecrated Snowfield - Cave of the Forlorn] Freezing Grease
+[Consecrated Snowfield - Cave of the Forlorn] Hero's Rune [2]
+[Consecrated Snowfield - Cave of the Forlorn] Rune Arc
+[Consecrated Snowfield - Cave of the Forlorn] Miquella's Lily
+[Consecrated Snowfield - Cave of the Forlorn] Nascent Butterfly
+[Consecrated Snowfield - Cave of the Forlorn] Thawfrost Boluses
+[Consecrated Snowfield - Cave of the Forlorn] Crystal Dart
+[Consecrated Snowfield - Cave of the Forlorn] Thawfrost Boluses
+[Consecrated Snowfield - Cave of the Forlorn] Freezing Grease
+[Consecrated Snowfield - Cave of the Forlorn] Freezing Grease
+[Consecrated Snowfield - Cave of the Forlorn] Golden Rune [10]
+[Consecrated Snowfield - Cave of the Forlorn] Spiritflame Arrow
+[Limgrave - Coastal Cave] Land Octopus Ovary
+[Limgrave - Coastal Cave] Smoldering Butterfly
+[Limgrave - Highroad Cave] Golden Rune [1]
+[Limgrave - Highroad Cave] Arteria Leaf
+[Limgrave - Highroad Cave] Smithing Stone [1]
+[Limgrave - Highroad Cave] Smithing Stone [2]
+[Limgrave - Highroad Cave] Golden Rune [4]
+[Limgrave - Highroad Cave] Fire Grease
+[Limgrave - Highroad Cave] Furlcalling Finger Remedy
+[Limgrave - Highroad Cave] Shamshir
+[Altus Plateau - Perfumer's Grotto] Perfume Bottle
+[Altus Plateau - Perfumer's Grotto] Living Jar Shard
+[Altus Plateau - Perfumer's Grotto] Living Jar Shard
+[Altus Plateau - Perfumer's Grotto] Arteria Leaf
+[Altus Plateau - Perfumer's Grotto] Golden Rune [5]
+[Altus Plateau - Perfumer's Grotto] Miranda Powder
+[Altus Plateau - Perfumer's Grotto] Warming Stone
+[Altus Plateau - Perfumer's Grotto] Golden Rune [5]
+[Altus Plateau - Sage's Cave] Rejuvenating Boluses
+[Altus Plateau - Sage's Cave] Lost Ashes of War
+[Altus Plateau - Sage's Cave] Candletree Wooden Shield
+[Altus Plateau - Sage's Cave] Silver-Pickled Fowl Foot
+[Altus Plateau - Sage's Cave] Black Hood
+[Altus Plateau - Sage's Cave] Nascent Butterfly
+[Altus Plateau - Sage's Cave] Stonesword Key
+[Altus Plateau - Sage's Cave] Dragonwound Grease
+[Altus Plateau - Sage's Cave] Raptor Talons
+[Altus Plateau - Sage's Cave] Golden Great Arrow
+[Altus Plateau - Sage's Cave] Raptor's Black Feathers
+[Altus Plateau - Sage's Cave] Skeletal Mask
+[Altus Plateau - Sage's Cave] Golden Rune [5]
+[Altus Plateau - Sage's Cave] Golden Rune [5]
+[Caelid - Abandoned Cave] Dragonwound Grease
+[Caelid - Abandoned Cave] Venomous Fang
+[Caelid - Abandoned Cave] Serpent Bow
+[Caelid - Abandoned Cave] Fire Grease
+[Caelid - Gaol Cave] Golden Rune [2]
+[Caelid - Gaol Cave] Golden Rune [2]
+[Caelid - Gaol Cave] Old Fang
+[Caelid - Gaol Cave] Golden Rune [2]
+[Caelid - Gaol Cave] Golden Rune [4]
+[Caelid - Gaol Cave] Stonesword Key
+[Caelid - Gaol Cave] Wakizashi
+[Caelid - Gaol Cave] Golden Rune [4]
+[Caelid - Gaol Cave] Turtle Neck Meat
+[Caelid - Gaol Cave] Golden Rune [5]
+[Caelid - Gaol Cave] Rainbow Stone
+[Caelid - Gaol Cave] Golden Rune [4]
+[Caelid - Gaol Cave] Glowstone
+[Caelid - Gaol Cave] Somber Smithing Stone [5]
+[Caelid - Gaol Cave] Pillory Shield
+[Caelid - Gaol Cave] Regalia of Eochaid
+[Caelid - Gaol Cave] Rune Arc
+[Mountaintops of the Giants - Spiritcaller's Cave] White Reed Armor
+[Mountaintops of the Giants - Spiritcaller's Cave] White Reed Gauntlets
+[Mountaintops of the Giants - Spiritcaller's Cave] White Reed Greaves
+[Mountaintops of the Giants - Spiritcaller's Cave] Golden Rune [6]
+[Mountaintops of the Giants - Spiritcaller's Cave] Golden Rune [12]
+[Mountaintops of the Giants - Spiritcaller's Cave] Freezing Grease
+[Mountaintops of the Giants - Spiritcaller's Cave] Golden Rune [10]
+[Mountaintops of the Giants - Spiritcaller's Cave] Hero's Rune [1]
+[Mountaintops of the Giants - Spiritcaller's Cave] Rune Arc
+[Mountaintops of the Giants - Spiritcaller's Cave] Invigorating White Cured Meat
+[Mountaintops of the Giants - Spiritcaller's Cave] Arteria Leaf
+[Weeping Peninsula - Morne Tunnel] Golden Rune [2]
+[Weeping Peninsula - Morne Tunnel] Golden Rune [4]
+[Weeping Peninsula - Morne Tunnel] Large Glintstone Scrap
+[Weeping Peninsula - Morne Tunnel] Stanching Boluses
+[Weeping Peninsula - Morne Tunnel] Soft Cotton
+[Weeping Peninsula - Morne Tunnel] Arteria Leaf
+[Weeping Peninsula - Morne Tunnel] Exalted Flesh
+[Limgrave - Limgrave Tunnels] Smithing Stone [1]
+[Limgrave - Limgrave Tunnels] Golden Rune [4]
+[Limgrave - Limgrave Tunnels] Large Glintstone Scrap
+[Limgrave - Limgrave Tunnels] Golden Rune [1]
+[Limgrave - Limgrave Tunnels] Glintstone Scrap
+[Liurnia - Raya Lucaria Crystal Tunnel Somber Smithing Stone [2]
+[Liurnia - Raya Lucaria Crystal Tunnel Somber Smithing Stone [3]
+[Liurnia - Raya Lucaria Crystal Tunnel Golden Rune [3]
+[Liurnia - Raya Lucaria Crystal Tunnel Smithing Stone [3]
+[Liurnia - Raya Lucaria Crystal Tunnel Somber Smithing Stone [3]
+[Liurnia - Raya Lucaria Crystal Tunnel Smithing Stone [1]
+[Liurnia - Raya Lucaria Crystal Tunnel [Sorcery] Shatter Earth
+[Liurnia - Raya Lucaria Crystal Tunnel Crystal Knife
+[Altus Plateau - Old Altus Tunnel] Golden Rune [6]
+[Altus Plateau - Old Altus Tunnel] Stanching Boluses
+[Altus Plateau - Old Altus Tunnel] Somber Smithing Stone [4]
+[Altus Plateau - Old Altus Tunnel] Explosive Stone Clump
+[Altus Plateau - Old Altus Tunnel] Boltdrake Talisman +1
+[Altus Plateau - Old Altus Tunnel] Troll's Hammer
+[Altus Plateau - Altus Tunnel] Crystal Dart
+[Altus Plateau - Altus Tunnel] Arteria Leaf
+[Altus Plateau - Altus Tunnel] Golden Rune [7]
+[Altus Plateau - Altus Tunnel] Arsenal Charm +1
+[Altus Plateau - Altus Tunnel] Glintstone Scrap
+[Altus Plateau - Altus Tunnel]
+[Altus Plateau - Altus Tunnel] Rune Arc
+[Caelid - Gael Tunnel] Somber Smithing Stone [2]
+[Caelid - Gael Tunnel] Golden Rune [5]
+[Caelid - Gael Tunnel] Cross-Naginata
+[Caelid - Gael Tunnel]
+[Caelid - Gael Tunnel] Large Glintstone Scrap
+[Caelid - Gael Tunnel] Grace Mimic
+[Caelid - Sellia Crystal Tunnel] Rot Grease
+[Caelid - Sellia Crystal Tunnel] Golden Rune [5]
+[Caelid - Sellia Crystal Tunnel] Glintstone Scrap
+[Caelid - Sellia Crystal Tunnel] Rune Arc
+[Caelid - Sellia Crystal Tunnel] Cuckoo Glintstone
+[Caelid - Sellia Crystal Tunnel] Somber Smithing Stone [4]
+[Caelid - Sellia Crystal Tunnel] Golden Rune [4]
+[Caelid - Sellia Crystal Tunnel] Dragonwound Grease
+[Caelid - Sellia Crystal Tunnel] Faithful's Canvas Talisman
+[Caelid - Sellia Crystal Tunnel] Gravity Stone Fan
+[Caelid - Sellia Crystal Tunnel] Gravity Stone Chunk
+[Caelid - Sellia Crystal Tunnel] [Sorcery] Rock Blaster
+[Consecrated Snowfield - Yelough Anix Tunnel] Freezing Grease
+[Consecrated Snowfield - Yelough Anix Tunnel] Golden Rune [10]
+[Consecrated Snowfield - Yelough Anix Tunnel] Ancient Dragon Smithing Stone
+[Consecrated Snowfield - Yelough Anix Tunnel] Rune Arc
+[Consecrated Snowfield - Yelough Anix Tunnel] Explosive Stone Clump
+[Consecrated Snowfield - Yelough Anix Tunnel] Hero's Rune [5]
+[Stormhill - Divine Tower of Limgrave] Warming Stone
+[Stormhill - Divine Tower of Limgrave] Soft Cotton
+[Stormhill - Divine Tower of Limgrave] Stormhawk Feather
+[Stormhill - Divine Tower of Limgrave] Silver-Pickled Fowl Foot
+[Stormhill - Divine Tower of Limgrave] Golden Rune [2]
+[Stormhill - Divine Tower of Limgrave] Boltdrake Talisman
+[Stormhill - Divine Tower of Limgrave] Ash-of-War Scarab
+[Stormhill - Divine Tower of Limgrave] Godrick's Great Rune
+[Liurnia - Divine Tower of Liurnia] Golden Rune [3]
+[Liurnia - Divine Tower of Liurnia] Golden Rune [4]
+[Liurnia - Divine Tower of Liurnia] Cerulean Seed Talisman
+[Liurnia - Divine Tower of Liurnia] Mask of Confidence
+[Liurnia - Divine Tower of Liurnia] Holyproof Dried Liver
+[Liurnia - Divine Tower of Liurnia] Glintstone Firefly
+[Liurnia - Divine Tower of Liurnia] Carian Glintstone Staff
+[Liurnia - Divine Tower of Liurnia] Godskin Apostle Hood
+[Liurnia - Divine Tower of Liurnia] Godskin Apostle Robe
+[Liurnia - Divine Tower of Liurnia] Godskin Apostle Bracelets
+[Liurnia - Divine Tower of Liurnia] Godskin Apostle Trousers
+[Liurnia - Divine Tower of Liurnia] Cursemark of Death
+[Liurnia - Divine Tower of Liurnia] Stargazer Heirloom
+[Liurnia - Divine Tower of Liurnia] [Sorcery] Magic Downpour
+[Liurnia - Divine Tower of Liurnia] [Sorcery] Lucidity
+[Capital Outskirts - Divine Tower of West Altus] Golden Rune [5]
+[Capital Outskirts - Divine Tower of West Altus] Golden Rune [5]
+[Capital Outskirts - Divine Tower of West Altus]
+[Capital Outskirts - Divine Tower of West Altus] Hefty Beast Bone
+[Capital Outskirts - Divine Tower of West Altus] Gold-Pickled Fowl Foot
+[Capital Outskirts - Divine Tower of West Altus] Stonesword Key
+[Capital Outskirts - Divine Tower of West Altus] Rune Arc
+[Capital Outskirts - Divine Tower of West Altus] Golden Rune [1]
+[Capital Outskirts - Divine Tower of West Altus] Furlcalling Finger Remedy
+[Capital Outskirts - Divine Tower of West Altus] Old Fang
+[Capital Outskirts - Divine Tower of West Altus] Grace Mimic
+[Capital Outskirts - Divine Tower of West Altus] Large Glintstone Scrap
+[Capital Outskirts - Divine Tower of West Altus] Smithing Stone [6]
+[Capital Outskirts - Divine Tower of West Altus]
+[Capital Outskirts - Divine Tower of West Altus] Lightning Grease
+[Capital Outskirts - Divine Tower of West Altus] Golden Rune [9]
+[Capital Outskirts - Divine Tower of West Altus] Rykard's Great Rune
+[Capital Outskirts - Divine Tower of West Altus] Smithing-Stone Miner's Bell Bearing [2]
+[Greyoll's Dragonbarrow - Divine Tower of Caelid] Stonesword Key
+[Greyoll's Dragonbarrow - Divine Tower of Caelid] Rune Arc
+[Greyoll's Dragonbarrow - Divine Tower of Caelid] Golden Rune [12]
+[Greyoll's Dragonbarrow - Divine Tower of Caelid] Radahn's Great Rune
+[Greyoll's Dragonbarrow - Divine Tower of Caelid] Godslayer's Greatsword
+[Forbidden Lands - Divine Tower of East Altus] Invigorating White Cured Meat
+[Forbidden Lands - Divine Tower of East Altus] Official's Attire
+[Forbidden Lands - Divine Tower of East Altus] Flamedrake Talisman +1
+[Forbidden Lands - Divine Tower of East Altus] Morgott's Great Rune
+[Forbidden Lands - Divine Tower of East Altus] Mohg's Great Rune
+[Forbidden Lands - Divine Tower of East Altus] Somber Smithing Stone [6]
+[Forbidden Lands - Divine Tower of East Altus] Golden Rune [9]
+[Forbidden Lands - Divine Tower of East Altus] Blade of Calling
+[Greyoll's Dragonbarrow - Isolated Divine Tower] Malenia's Great Rune
+[Subterranean Shunning-Grounds] Poisonbone Dart
+[Subterranean Shunning-Grounds] Glass Shard
+[Subterranean Shunning-Grounds] Golden Rune [1]
+[Subterranean Shunning-Grounds] Crimson Amber Medallion +2
+[Subterranean Shunning-Grounds] Golden Rune [11]
+[Subterranean Shunning-Grounds] Bloodsoaked Manchettes
+[Subterranean Shunning-Grounds] Bloodsoaked Mask
+[Subterranean Shunning-Grounds] Eye of Yelough
+[Subterranean Shunning-Grounds] Note: Miquella's Needle
+[Subterranean Shunning-Grounds] Preserving Boluses
+[Subterranean Shunning-Grounds] Furlcalling Finger Remedy
+[Subterranean Shunning-Grounds] Golden Rune [1]
+[Subterranean Shunning-Grounds] Golden Rune [11]
+[Subterranean Shunning-Grounds] Rune Arc
+[Subterranean Shunning-Grounds] Lost Ashes of War
+[Subterranean Shunning-Grounds] Glass Shard
+[Subterranean Shunning-Grounds] Stonesword Key
+[Subterranean Shunning-Grounds] Rainbow Stone Arrow (Fletched)
+[Subterranean Shunning-Grounds] Grave Violet
+[Subterranean Shunning-Grounds] Smithing Stone [7]
+[Subterranean Shunning-Grounds] Fireproof Dried Liver
+[Subterranean Shunning-Grounds] Somber Smithing Stone [8]
+[Subterranean Shunning-Grounds] Smithing Stone [7]
+[Subterranean Shunning-Grounds] Grace Mimic
+[Subterranean Shunning-Grounds] String
+[Subterranean Shunning-Grounds] Fire Grease
+[Subterranean Shunning-Grounds] Nomad Ashes
+[Subterranean Shunning-Grounds] Preserving Boluses
+[Subterranean Shunning-Grounds] Glass Shard
+[Subterranean Shunning-Grounds] Mohg's Shackle
+[Subterranean Shunning-Grounds] Dappled White Cured Meat
+[Subterranean Shunning-Grounds] Glass Shard
+[Subterranean Shunning-Grounds] Golden Centipede
+[Subterranean Shunning-Grounds] Poisoned Stone
+[Subterranean Shunning-Grounds] Freezing Grease
+[Subterranean Shunning-Grounds] Serpent Arrow
+[Subterranean Shunning-Grounds] Fire Grease
+[Subterranean Shunning-Grounds] Somber Smithing Stone [6]
+[Subterranean Shunning-Grounds] Smithing Stone [7]
+[Subterranean Shunning-Grounds] [Incantation] Shadow Bait
+[Subterranean Shunning-Grounds] Golden Rune [10]
+[Subterranean Shunning-Grounds] Somber Smithing Stone [7]
+[Subterranean Shunning-Grounds] Smithing Stone [7]
+[Subterranean Shunning-Grounds] Glass Shard
+[Subterranean Shunning-Grounds] Smithing Stone [7]
+[Subterranean Shunning-Grounds] Golden Rune [9]
+[Subterranean Shunning-Grounds] Golden Rune [11]
+[Subterranean Shunning-Grounds] Warming Stone
+[Subterranean Shunning-Grounds] Smithing Stone [8]
+[Subterranean Shunning-Grounds] Eye of Yelough
+[Subterranean Shunning-Grounds] Golden Rune [8]
+[Subterranean Shunning-Grounds] Smithing Stone [7]
+[Subterranean Shunning-Grounds] Golden Rune [1]
+[Subterranean Shunning-Grounds] Golden Rune [11]
+[Subterranean Shunning-Grounds] Smithing Stone [5]
+[Subterranean Shunning-Grounds] Ritual Pot
+[Subterranean Shunning-Grounds] Smithing Stone [6]
+[Subterranean Shunning-Grounds] Grace Mimic
+[Subterranean Shunning-Grounds] Golden Rune [11]
+[Subterranean Shunning-Grounds] Hefty Beast Bone
+[Subterranean Shunning-Grounds] [Incantation] Inescapable Frenzy
+[Subterranean Shunning-Grounds] Erdtree's Favor +1
+[Subterranean Shunning-Grounds] Nomadic Merchant's Chapeau
+[Subterranean Shunning-Grounds] Nomadic Merchant's Finery
+[Subterranean Shunning-Grounds] Nomadic Merchant's Trousers
+[Subterranean Shunning-Grounds] Fingerprint Stone Shield
+[Subterranean Shunning-Grounds] Warming Stone
+[Subterranean Shunning-Grounds] Poisoned Stone
+[Subterranean Shunning-Grounds] Smithing Stone [1]
+[Subterranean Shunning-Grounds] Fire Longsword
+[Subterranean Shunning-Grounds] Rune Arc
+[Subterranean Shunning-Grounds] Frenzied's Cookbook [2]
+[Subterranean Shunning-Grounds] Ghost Glovewort [6]
+[Subterranean Shunning-Grounds] Root Resin
+[Subterranean Shunning-Grounds] Mushroom
+[Subterranean Shunning-Grounds] Sacramental Bud
+[Subterranean Shunning-Grounds] Crucible Scale Talisman
+[Subterranean Shunning-Grounds] Haligdrake Talisman +1
+[Subterranean Shunning-Grounds] Rune Arc
+[Subterranean Shunning-Grounds] Somber Smithing Stone [6]
+[Subterranean Shunning-Grounds] Somber Smithing Stone [7]
+[Ruin-Strewn Precipice] Golden Rune [1]
+[Ruin-Strewn Precipice] Smithing Stone [5]
+[Ruin-Strewn Precipice] Rune Arc
+[Ruin-Strewn Precipice] Somber Smithing Stone [3]
+[Ruin-Strewn Precipice] Serpent-God's Curved Sword
+[Ruin-Strewn Precipice] Smithing Stone [4]
+[Ruin-Strewn Precipice] Golden Rune [4]
+[Ruin-Strewn Precipice] Golden Rune [5]
+[Ruin-Strewn Precipice] Rune Arc
+[Ruin-Strewn Precipice] Soft Cotton
+[Ruin-Strewn Precipice] Golden Rune [5]
+[Ruin-Strewn Precipice] Golden Rune [5]
+[Ruin-Strewn Precipice] Lost Ashes of War
+[Ruin-Strewn Precipice] Smithing Stone [3]
+[Ruin-Strewn Precipice] Smithing Stone [3]
+[Ruin-Strewn Precipice] Smithing Stone [3]
+[Ruin-Strewn Precipice] Lightning Grease
+[Ruin-Strewn Precipice] Sacred Tear
+[Ruin-Strewn Precipice] Smithing Stone [1]
+[Ruin-Strewn Precipice] Bull-Goat Helm
+[Ruin-Strewn Precipice] Bull-Goat Armor
+[Ruin-Strewn Precipice] Bull-Goat Gauntlets
+[Ruin-Strewn Precipice] Bull-Goat Greaves
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Golden Rune [1]
+Golden Rune [1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Golden Rune [1]
+
+
+
+[Troll Carriage - Gatefront Ruins] Flail
+[Troll Carriage - Gatefront Ruins] Lordsworn's Greatsword
+Flame Sling
+[Troll Carriage - Waypoint Ruins] Greataxe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Moonlight Altar] Ranni's Dark Moon
+[Moonlight Altar] Smithing Stone [7]
+[Moonlight Altar] Smithing Stone [8]
+Smithing Stone [7]
+Dragon Heart
+Dragon Heart
+Raw Meat Dumpling
+Raw Meat Dumpling
+Raw Meat Dumpling
+Raw Meat Dumpling
+Raw Meat Dumpling
+Dragonscale Blade
+Strip of White Flesh
+Blood Grease
+Jellyfish Shield
+Somber Smithing Stone [3]
+Smithing Stone [4]
+Imbued Sword Key
+Rune Arc
+Carian Knight's Sword
+Albinauric Bloodclot
+Cuckoo Glintstone
+Gravel Stone
+Golden Rune [9]
+Magic Grease
+Albinauric Bloodclot
+Smithing Stone [2]
+Rune Arc
+Crystal Sword
+Larval Tear
+Somber Smithing Stone [8]
+Dragon Heart
+Magic Grease
+Memory Stone
+Golden Rune [6]
+Cuckoo Glintstone
+Rimed Crystal Bud
+Smithing Stone [2]
+Icerind Hatchet
+Dragonwound Grease
+Kukri
+Academy Glintstone Key
+Smithing Stone [3]
+Throwing Dagger
+Golden Rune [1]
+Golden Rune [3]
+Golden Rune [3]
+Golden Rune [1]
+Golden Rune [5]
+Golden Rune [3]
+Golden Rune [2]
+Golden Rune [3]
+Golden Rune [3]
+Golden Rune [4]
+Golden Rune [2]
+Golden Rune [4]
+Golden Rune [6]
+Golden Rune [6]
+Golden Rune [2]
+Rimed Crystal Bud
+Glintstone Firefly
+Frozen Needle
+Map: Liurnia, West
+Golden Rune [6]
+Golden Rune [6]
+Golden Rune [3]
+Golden Rune [4]
+Golden Rune [5]
+Golden Rune [1]
+Golden Rune [3]
+Golden Rune [3]
+Golden Rune [2]
+Golden Rune [3]
+Black Wolf Mask
+Memory Stone
+
+Snow Witch Hat
+Snow Witch Robe
+Snow Witch Skirt
+Golden Rune [10]
+Glintstone Firefly
+Cerulean Amber Medallion +2
+Smithing Stone [8]
+Smithing Stone [2]
+Rune Arc
+Ivory Sickle
+[SACRED] Starlight Shards
+[SACRED] Starlight Shards
+[SACRED] Starlight Shards
+[SACRED] Starlight Shards
+[SACRED] Starlight Shards
+[SACRED] Starlight Shards
+[SACRED] Starlight Shards
+[SACRED] Starlight Shards
+[SACRED] Starlight Shards
+[SACRED] Starlight Shards
+[SACRED] Starlight Shards
+Somber Smithing Stone [1]
+Larval Tear
+Smithing Stone [3]
+Golden Rune [1]
+Golden Rune [4]
+Golden Rune [3]
+Golden Rune [2]
+Golden Rune [4]
+Golden Rune [2]
+Golden Rune [1]
+Golden Rune [5]
+Golden Rune [2]
+Golden Rune [3]
+Smithing Stone [2]
+Blue-White Wooden Shield
+Nomadic Warrior's Cookbook [12]
+Celestial Dew
+Strip of White Flesh
+Meeting Place Map
+Stonesword Key
+Golden Seed
+Ash of War: Raptor of the Mists
+Golden Rune [1]
+Smithing Stone [2]
+Memory Stone
+Old Fang
+Soporific Grease
+Lump of Flesh
+Golden Rune [6]
+Intelligence-knot Crystal Tear
+Somber Smithing Stone [4]
+Rune Arc
+Golden Rune [4]
+Stonesword Key
+Slumbering Egg
+Glintstone Craftsman's Cookbook [6]
+Somber Smithing Stone [3]
+Golden Rune [3]
+Crystal Dart
+Smithing Stone [4]
+Ash of War: Carian Grandeur
+Somber Smithing Stone [3]
+Spellproof Dried Liver
+Rimed Crystal Bud
+Smithing Stone [2]
+Smithing Stone [4]
+Urumi
+Smithing Stone [3]
+Golden Rune [4]
+Old Fang
+Glintstone Firefly
+Ice Crest Shield
+Magic Grease
+Rimed Crystal Bud
+Rimed Crystal Bud
+Rimed Crystal Bud
+Rimed Crystal Bud
+Rimed Crystal Bud
+Rimed Crystal Bud
+Golden Seed
+Cracked Pot
+Sword of Night and Flame
+Golden Rune [2]
+Golden Rune [4]
+Golden Rune [2]
+Golden Rune [6]
+Smoldering Butterfly
+Golden Rune [3]
+Mushroom
+Smoldering Butterfly
+Smoldering Butterfly
+Golden Rune [5]
+Dragonwound Grease
+Golden Rune [3]
+Stonesword Key
+Armorer's Cookbook [7]
+Fire Scorpion Charm
+Golden Rune [8]
+Slumbering Egg
+Fire Monks' Prayerbook
+Dappled Cured Meat
+Rune Arc
+Dexterity-knot Crystal Tear
+Smithing Stone [2]
+Confessor Hood
+Confessor Armor
+Confessor Gloves
+Confessor Boots
+Tarnished Golden Sunflower
+Rainbow Stone
+Crystal Bud
+Arteria Leaf
+Smithing Stone [2]
+Shattershard Arrow (Fletched)
+Glintstone Firefly
+Glintstone Craftsman's Cookbook [4]
+Golden Seed
+Crystal Cave Moss
+Stonesword Key
+[Sorcery] Ancient Death Rancor
+Somber Smithing Stone [3]
+Golden Rune [1]
+Sanctuary Stone
+Golden Rune [1]
+Ash of War: Giant Hunt
+Nightrider Glaive
+Sacred Tear
+Golden Rune [3]
+Thawfrost Boluses
+Albinauric Ashes
+Golden Rune [5]
+Perfumer's Cookbook [1]
+Perfume Bottle
+Smithing Stone [6]
+Perfumer's Talisman
+Budding Cave Moss
+Nascent Butterfly
+Gravel Stone
+[Sorcery] Roiling Magma
+Pulley Crossbow
+Perfume Bottle
+Golden Rune [6]
+Golden Rune [3]
+Smoldering Butterfly
+Golden Rune [7]
+Smoldering Butterfly
+[SACRED] Starlight Shards
+Fireproof Dried Liver
+Larval Tear
+Golden Seed
+Map: Mt. Gelmir
+Ballista Bolt
+Golden Rune [3]
+Smithing Stone [3]
+Glass Shard
+Nomadic Warrior's Cookbook [11]
+Ritual Pot
+Red-Feathered Branchsword
+Wraith Calling Bell
+Golden Rune [3]
+Smithing Stone [3]
+Golden Rune [4]
+Magic Grease
+Map: Liurnia, North
+Smithing Stone [3]
+Gold Sewing Needle
+Golden Tailoring Tools
+Stormhawk Feather
+Meat Peddler's Bell Bearing
+Grave Violet
+Arteria Leaf
+Stalwart Horn Charm
+Spiralhorn Shield
+Slumbering Egg
+Golden Rune [3]
+Golden Rune [3]
+Golden Rune [1]
+Golden Rune [7]
+Golden Rune [3]
+Golden Rune [2]
+Golden Rune [4]
+Golden Rune [3]
+Golden Rune [1]
+Cuckoo Glintstone
+Rune Arc
+Rune Arc
+Finger Maiden Fillet
+Finger Maiden Robe
+Finger Maiden Shoes
+Sacred Tear
+Great Mace
+Fingerprint Grape
+Vyke's War Spear
+Neutralizing Boluses
+Stanching Boluses
+Noble Sorcerer Ashes
+Golden Seed
+Smithing Stone [5]
+Fulgurbloom
+Ruler's Mask
+Ruler's Robe
+Arrow
+Sacramental Bud
+String
+Gold-Tinged Excrement
+Gold Firefly
+Prattling Pate "You're beautiful"
+[SACRED] Starlight Shards
+Hierodas Glintstone Crown
+Errant Sorcerer Manchettes
+Errant Sorcerer Boots
+Errant Sorcerer Robe (Altered)
+Mushroom
+Golden Rune [6]
+Smithing Stone [5]
+Golden Seed
+Beast Blood
+Stonesword Key
+Soporific Grease
+Herba
+Eye of Yelough
+Golden Arrow
+Glass Shard
+Nascent Butterfly
+Rejuvenating Boluses
+Hefty Beast Bone
+Golden Rune [6]
+Great Arrow
+Fan Daggers
+Drawstring Fire Grease
+Golden Rune [4]
+Scavenger's Curved Sword
+Poison Grease
+Warming Stone
+Smoldering Butterfly
+Glintstone Craftsman's Cookbook [1]
+Glintstone Craftsman's Cookbook [2]
+Sacrificial Twig
+
+Map: Liurnia, East
+Smithing Stone [2]
+Golden Rune [4]
+Carian Glintblade Staff
+Glintstone Craftsman's Cookbook [3]
+Strip of White Flesh
+Sliver of Meat
+Silver-Pickled Fowl Foot
+Golden Rune [6]
+Smithing Stone [3]
+Land Squirt Ashes
+Dragon Cult Prayerbook
+Smoldering Butterfly
+[Incantation] Flame
+Smithing Stone [4]
+Immunizing White Cured Meat
+Golden Rune [1]
+Frenzyflame Stone
+Stonesword Key
+Golden Rune [1]
+Frenzied's Cookbook [1]
+Eye of Yelough
+Stonesword Key
+Note: The Lord of Frenzied Flame
+Shabriri's Woe
+Eye of Yelough
+Frenzyflame Stone
+Yellow Ember
+Smithing Stone [2]
+Burred Bolt
+Golden Rune [3]
+[Incantation] Howl of Shabriri
+Smithing Stone [5]
+Dragonwound Grease
+Nascent Butterfly
+String
+Lightningproof Dried Liver
+Greatshield Talisman
+Lightningproof Dried Liver
+Ritual Sword Talisman
+Lightning Grease
+String
+Golden Rune [3]
+Troll's Golden Sword
+Golden Seed
+[SACRED] Pearldrake Talisman (Pearldrake Talisman +1)
+Smithing Stone [5]
+Golden Rune [3]
+Golden Rune [7]
+Dappled White Cured Meat
+Stormhawk Feather
+Golden Rune [4]
+Human Bone Shard
+Golden Rune [2]
+Golden Rune [3]
+Golden Rune [4]
+Golden Rune [7]
+Golden Rune [3]
+Somber Smithing Stone [6]
+Bloodrose
+Explosive Greatbolt
+Golden Rune [8]
+Fire Arrow
+[Incantation] Golden Vow
+Arteria Leaf
+Throwing Dagger
+Beast Blood
+Smithing Stone [5]
+Antspur Rapier
+Marais Mask
+Marais Robe
+Pulley Bow
+Sacred Butchering Knife
+Sacred Tear
+Academy Scroll
+Golden Rune [3]
+Cuckoo Glintstone
+Somber Smithing Stone [2]
+Stormhawk Feather
+Two Fingers Heirloom
+Shabriri Grape
+Golden Rune [6]
+Golden Rune [6]
+Mushroom
+Crystal Dart
+Golden Rune [6]
+Golden Rune [3]
+Beast Blood
+Lucerne
+Golden Rune [2]
+Golden Rune [6]
+Golden Rune [1]
+Golden Rune [3]
+Golden Rune [2]
+Golden Rune [3]
+[SACRED] Starlight Shards
+Ash of War: Ice Spear
+Smithing Stone [3]
+Great Dragonfly Head
+Trina's Lily
+Smithing Stone [3]
+Living Jar Shard
+Cracked Pot
+Cracked Pot
+Cracked Pot
+Ritual Pot
+Ritual Pot
+Crystal Dart
+[Sorcery] Cannon of Haima
+[Sorcery] Gavel of Haima
+Hefty Beast Bone
+Stonesword Key
+Golden Rune [4]
+Godfrey Icon
+Perfume Bottle
+Fan Daggers
+Sacrificial Twig
+Warming Stone
+Turtle Neck Meat
+Ash of War: Shared Order
+Golden Seed
+Human Bone Shard
+Magic Grease
+Sacred Tear
+Eleonora's Poleblade
+Golden Rune [4]
+Blood Grease
+Golden Rune [3]
+Miquella's Lily
+Nascent Butterfly
+[Sorcery] Unseen Blade
+[Sorcery] Unseen Form
+Slumbering Egg
+Golden Rune [3]
+Mirage Riddle
+Crepus's Vial
+Black-Key Bolt
+Rot Grease
+Golden Rune [3]
+Smithing Stone [5]
+Poisonbloom
+Perfume Bottle
+Poisonbone Dart
+Golden Rune [6]
+Smithing Stone [4]
+Somber Smithing Stone [5]
+Smithing Stone [5]
+Drawstring Fire Grease
+Golden Rune [6]
+Beast Blood
+Neutralizing Boluses
+Glass Shard
+Stonesword Key
+Golden Rune [6]
+Poison Grease
+Hefty Beast Bone
+Perfumer's Cookbook [2]
+Smithing Stone [5]
+Gold Firefly
+Glass Shard
+Smithing Stone [5]
+Smithing Stone [5]
+Golden Rune [4]
+Smithing Stone [4]
+Valkyrie's Prosthesis
+[SACRED] Starlight Shards
+Smithing Stone [1]
+Nomadic Warrior's Cookbook [7]
+Treespear
+Gravity Stone Fan
+Celestial Dew
+Old Fang
+[Incantation] Dragonbolt Blessing
+Beast Blood
+Lightning Greatbolt
+Sacred Tear
+Amber Starlight
+Golden Rune [6]
+Golden Rune [6]
+Golden Rune [4]
+Golden Rune [3]
+Golden Rune [4]
+Map: Altus Plateau
+Golden Rune [5]
+Bloody Helice
+Nascent Butterfly
+Fulgurbloom
+Golden Arrow
+Lump of Flesh
+Hefty Beast Bone
+Great Stars
+Gravel Stone
+Stimulating Boluses
+Dragonwound Grease
+Radiant Gold Mask
+Giant Rat Ashes
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [2]
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [3]
+Golden Rune [1]
+Golden Rune [5]
+Great Dragonfly Head
+[Sorcery] Ambush Shard
+Sacred Tear
+Great Dragonfly Head
+Smithing Stone [2]
+Exalted Flesh
+Land Octopus Ovary
+Strip of White Flesh
+[SACRED] Starlight Shards
+Magic Grease
+Smithing Stone [1]
+Stonesword Key
+Godrick Soldier Ashes
+Golden Seed
+Bloodrose
+Lump of Flesh
+Golden Rune [3]
+Golden Rune [6]
+Silver-Pickled Fowl Foot
+Gravity Stone Chunk
+Golden Rune [8]
+Golden Rune [6]
+Golden Rune [4]
+Golden Rune [3]
+Golden Rune [1]
+Lump of Flesh
+Land Octopus Ovary
+Stonesword Key
+Poisonbone Dart
+[Incantation] Wrath of Gold
+Invigorating White Cured Meat
+Beast Blood
+Nomadic Warrior's Cookbook [19]
+Gravel Stone
+Soft Cotton
+Icon Shield
+Poison Grease
+Golden Seed
+Twinned Knight Swords
+Raw Meat Dumpling
+Navy Hood
+Noble's Traveling Garb
+Noble's Gloves
+Noble's Trousers
+Great Dragonfly Head
+Mushroom
+Composite Bow
+Eclipse Crest Heater Shield
+Radagon's Scarseal
+Golden Rune [1]
+
+
+Briar Helm
+Blood Grease
+Beast Liver
+Golden Rune [2]
+Gilded Iron Shield
+Winged Scythe
+Lump of Flesh
+Gold-Pickled Fowl Foot
+Sliver of Meat
+Bewitching Branch
+Silver-Pickled Fowl Foot
+Golden Rune [2]
+Golden Rune [1]
+Smithing Stone [1]
+Smithing Stone [1]
+Ruin Fragment
+Kukri
+Assassin's Crimson Dagger
+Map: Limgrave, West
+Reduvia
+Whetstone Knife
+Ash of War: Storm Stomp
+Arrow's Reach Talisman
+
+
+Briar Armor
+Briar Armor
+Beast Liver
+Golden Rune [1]
+Fire Arrow
+Golden Rune [5]
+Golden Rune [1]
+Golden Rune [3]
+Golden Rune [2]
+Golden Rune [1]
+Golden Rune [2]
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [2]
+Lump of Flesh
+Blue-Feathered Branchsword
+Bone Peddler's Bell Bearing
+Smithing Stone [1]
+Smithing Stone [2]
+Smoldering Butterfly
+Strength-knot Crystal Tear
+Lance
+Scaled Helm
+Scaled Armor
+Scaled Gauntlets
+Scaled Greaves
+Hammer Talisman
+Beast Crest Heater Shield
+Duelist's Furled Finger
+Small Red Effigy
+Giant-Crusher
+Golden Seed
+Holy Grease
+Golden Seed
+Golden Seed
+Map: Leyndell, Royal Capital
+Gargoyle's Great Axe
+Old Fang
+Golden Rune [4]
+Rainbow Stone
+Golden Rune [10]
+Arteria Leaf
+Lightning Greatbolt
+Somber Smithing Stone [5]
+Four-Toed Fowl Foot
+Golden Rune [5]
+Holyproof Dried Liver
+Stormhawk Feather
+Hefty Beast Bone
+Golden Arrow
+Greatbow
+Great Arrow
+Gold Firefly
+Lightning Grease
+Exalted Flesh
+Rune Arc
+Golden Seed
+Celebrant's Skull
+Somber Smithing Stone [1]
+Fire Arrow
+Fire Grease
+
+Smithing Stone [2]
+
+
+
+
+
+Golden Rune [2]
+Smithing Stone [2]
+
+Golden Rune [2]
+
+
+Pickled Turtle Neck
+
+
+Stonesword Key
+
+
+
+
+Tarnished Golden Sunflower
+
+Smithing Stone [2]
+
+
+
+Throwing Dagger
+
+
+
+Furlcalling Finger Remedy
+Steel-Wire Torch
+
+Smithing Stone [1]
+Ballista Bolt
+Whip
+Golden Rune [1]
+Smithing Stone [1]
+Twinblade Talisman
+Claymore
+Yellow Ember
+Sliver of Meat
+Golden Rune [2]
+Golden Rune [2]
+Arteria Leaf
+Faith-knot Crystal Tear
+Gold-Tinged Excrement
+String
+Shield of the Guilty
+Demi-Human Queen's Staff
+[Sorcery] Crystal Burst
+Crab Eggs
+Golden Rune [1]
+Slumbering Egg
+Sacred Tear
+Stonesword Key
+Golden Rune [2]
+Crab Eggs
+Arteria Leaf
+Twinblade
+Smithing Stone [1]
+Fire Grease
+
+Ash of War: Repeating Thrust
+Armorer's Cookbook [1]
+Smithing Stone [1]
+Golden Rune [2]
+Exalted Flesh
+Smithing Stone [1]
+Turtle Neck Meat
+Golden Rune [3]
+Soporific Grease
+Lance Talisman
+Golden Order Seal
+Smoldering Butterfly
+Missionary's Cookbook [4]
+Lost Ashes of War
+Golden Rune [5]
+Golden Seed
+Golden Seed
+Viridian Amber Medallion +1
+Golden Rune [9]
+Golden Rune [10]
+Grace Mimic
+Drawstring Holy Grease
+Smithing Stone [5]
+Golden Rune [5]
+Golden Rune [7]
+Mushroom
+Larval Tear
+Medicine Peddler's Bell Bearing
+Golden Rune [4]
+Arteria Leaf
+Somber Smithing Stone [2]
+Map: Weeping Peninsula
+Smithing Stone [1]
+Golden Seed
+Warming Stone
+Great Turtle Shell
+Sacrificial Axe
+Ash of War: Barricade Shield
+Nightrider Flail
+Flame Crest Wooden Shield
+Rainbow Stone
+Strip of White Flesh
+
+Golden Rune [2]
+
+Golden Rune [2]
+[Incantation] The Flame of Frenzy
+Sacred Tear
+Smithing Stone [2]
+Morning Star
+Stonesword Key
+Smithing Stone [1]
+Rainbow Stone
+Ruin Fragment
+Golden Rune [1]
+Golden Rune [1]
+Large Club
+Hand Ballista
+Ballista Bolt
+Golden Rune [2]
+Royal House Scroll
+Golden Rune [1]
+Sliver of Meat
+Crab Eggs
+Golden Rune [1]
+[SACRED] Starlight Shards
+Larval Tear
+Great epee
+
+
+Briar Greaves
+Glowstone
+Golden Rune [1]
+Immunizing Cured Meat
+Smoldering Butterfly
+Somber Smithing Stone [1]
+Trina's Lily
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [2]
+Golden Rune [1]
+Golden Rune [3]
+Golden Rune [1]
+Sacrificial Twig
+Gold-Pickled Fowl Foot
+Smithing Stone [1]
+Poisonbloom
+Golden Rune [1]
+Great Arrow
+Golden Rune [6]
+Golden Rune [2]
+Golden Rune [4]
+Crimson Crystal Tear
+Twiggy Cracked Tear
+Winged Crystal Tear
+Twinbird Kite Shield
+[SACRED] Starlight Shards
+Memory Stone
+
+Stonesword Key
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [4]
+Golden Rune [3]
+Golden Rune [2]
+Golden Rune [1]
+Golden Rune [2]
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [2]
+Smithing Stone [2]
+Map: Limgrave, East
+Nomadic Warrior's Cookbook [4]
+Golden Rune [1]
+Thin Beast Bones
+Gold-Tinged Excrement
+Throwing Dagger
+Golden Rune [5]
+Spiked Cracked Tear
+Greenspill Crystal Tear
+Axe Talisman
+Magic Grease
+Fevor's Cookbook [1]
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [2]
+Golden Rune [4]
+Golden Rune [4]
+Golden Rune [6]
+Golden Rune [4]
+Mushroom
+Smithing Stone [2]
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [1]
+Golden Rune [5]
+Golden Rune [2]
+Golden Rune [1]
+Green Turtle Talisman
+Smithing Stone [1]
+Gravity Stone Fan
+Gravel Stone
+Smithing Stone [6]
+Smithing Stone [5]
+Smithing Stone [1]
+Bloodrose
+Nomadic Warrior's Cookbook [6]
+Bloodrose
+Golden Seed
+Dectus Medallion (Left)
+Ash of War: Bloody Slash
+Strip of White Flesh
+Neutralizing Boluses
+Sacred Tear
+Flask of Wondrous Physick
+Crimson Crystal Tear
+Golden Rune [1]
+Golden Rune [2]
+Golden Rune [3]
+Nascent Butterfly
+Rune Arc
+Golden Rune [3]
+Missionary's Cookbook [3]
+Preserving Boluses
+Nomadic Warrior's Cookbook [14]
+Drawstring Lightning Grease
+Sacred Scorpion Charm
+Golden Rune [1]
+Smithing Stone [7]
+Smithing Stone [8]
+Golden Rune [1]
+Golden Rune [5]
+Golden Rune [1]
+Golden Rune [2]
+Poisonbloom
+[SACRED] Starlight Shards
+Larval Tear
+Somber Smithing Stone [4]
+Great Dragonfly Head
+Rot Grease
+Rune Arc
+Warming Stone
+Smoldering Butterfly
+Mushroom
+[Incantation] Flame
+Explosive Greatbolt
+Ash of War: Lion's Claw
+Starscourge Heirloom
+Meteoric Ore Blade
+Katar
+Smithing Stone [5]
+Golden Rune [9]
+Slumbering Egg
+Golden Rune [5]
+Cracked Pot
+Smithing Stone [4]
+Somber Smithing Stone [4]
+Explosive Bolt
+Drawstring Fire Grease
+Smoldering Butterfly
+Rune Arc
+Sword of St. Trina
+Greatsword
+Drawstring Fire Grease
+Golden Rune [7]
+Dragonwound Grease
+Smithing Stone [7]
+Rimed Rowa
+Golden Rune [13]
+Stonesword Key
+Golden Rune [7]
+[Incantation] Unendurable Frenzy
+Hero's Rune [2]
+Smithing Stone [8]
+Thawfrost Boluses
+Crystal Dart
+Sanguine Noble Hood
+Sanguine Noble Robe
+Sanguine Noble Waistcloth
+Golden Rune [7]
+Golden Rune [12]
+Somber Smithing Stone [9]
+Silver Mirrorshield
+Ancient Dragon Apostle's Cookbook [3]
+Crab Eggs
+Golden Rune [3]
+Golden Rune [4]
+Golden Rune [4]
+Perfume Bottle
+Traveler's Hat
+Perfumer's Traveling Garb
+Traveler's Gloves
+Traveler's Slops
+Meteorite Staff
+
+
+
+
+Sacramental Bud
+Somber Smithing Stone [5]
+Great Dragonfly Head
+Stonesword Key
+[Sorcery] Rock Sling
+Golden Rune [1]
+Golden Rune [6]
+Golden Rune [2]
+Sacramental Bud
+Hefty Beast Bone
+Spiked Palisade Shield
+Visage Shield
+Gravity Stone Peddler's Bell Bearing
+Somber Smithing Stone [7]
+Ash of War: Phantom Slash
+Golden Rune [1]
+Golden Rune [3]
+Golden Rune [6]
+Golden Rune [9]
+Golden Rune [11]
+Golden Rune [13]
+Stalwart Horn Charm +1
+Ancient Dragon Smithing Stone
+Night's Cavalry Helm
+Night's Cavalry Armor
+Night's Cavalry Gauntlets
+Night's Cavalry Greaves
+Flowing Curved Sword
+Stonesword Key
+Map: Consecrated Snowfield
+
+Rune Arc
+Golden Rune [13]
+Hefty Beast Bone
+Golden Rune [13]
+Freezing Grease
+Cuckoo Glintstone
+Crystal Dart
+Old Fang
+Slumbering Egg
+Golden Rune [12]
+Invigorating Cured Meat
+Golden Rune [10]
+[Sorcery] Explosive Ghostflame
+Golden Seed
+Black Knife Hood
+Black Knife Armor
+Black Knife Gauntlets
+Black Knife Greaves
+Ghost Glovewort [9]
+Ghost Glovewort [9]
+Ghost Glovewort [9]
+Ghost Glovewort [9]
+Golden Rune [13]
+Smoldering Butterfly
+Fan Daggers
+Windy Crystal Tear
+Beast Blood
+Golden Seed
+Beast Blood
+Golden Rune [2]
+Ash of War: Poison Moth Flight
+Death's Poker
+Map: Caelid
+Somber Smithing Stone [4]
+Beast Blood
+Old Fang
+[Sorcery] Eternal Darkness
+Somber Smithing Stone [4]
+Aeonian Butterfly
+Smithing Stone [4]
+Black-Key Bolt
+Sacramental Bud
+Rune Arc
+Golden Rune [4]
+Golden Rune [5]
+Glass Shard
+Stonesword Key
+Poisonbloom
+Rune Arc
+Staff of Loss
+Rotten Stray Ashes
+Nox Flowing Sword
+Battlemage Hugues
+Lusat's Glintstone Staff
+Spelldrake Talisman +1
+Golden Rune [5]
+Gravel Stone
+Sliver of Meat
+Smithing Stone [5]
+Map: Dragonbarrow
+Arteria Leaf
+Dragonwound Grease
+Rune Arc
+Somber Smithing Stone [9]
+Numen's Rune
+Freezing Grease
+Golden Seed
+Sliver of Meat
+Invigorating Cured Meat
+Golden Rune [10]
+[SACRED] Zamor Ice Storm
+Beast Blood
+Map: Mountaintops of the Giants, West
+[SACRED] Entwining Umbilical Cord (Smithing-Stone Miner's Bell Bearing [3])
+Golden Rune [13]
+Golden Rune [11]
+Somber Smithing Stone [8]
+Nomadic Warrior's Cookbook [23]
+St. Trina's Torch
+Somber Smithing Stone [9]
+Old Fang
+Fire Blossom
+Miquella's Lily
+Larval Tear
+Golden Seed
+Golden Rune [11]
+Albinauric Bloodclot
+Old Fang
+Strip of White Flesh
+Dragonwound Grease
+Nascent Butterfly
+Smithing Stone [8]
+Glintstone Craftsman's Cookbook [8]
+Somber Smithing Stone [7]
+Somber Smithing Stone [8]
+Somber Smithing Stone [9]
+Mushroom
+Arrow's Sting Talisman
+Golden Rune [5]
+Drawstring Poison Grease
+Sacred Tear
+Poison Grease
+Toxic Mushroom
+Smithing Stone [7]
+Smithing Stone [7]
+Stonesword Key
+Smithing Stone [8]
+[SACRED] Starlight Shards
+Cerulean Tear Scarab
+Beast Blood
+Golden Seed
+[Sorcery] Night Comet
+Imbued Sword Key
+Dragon Heart
+Somber Smithing Stone [7]
+Smoldering Butterfly
+Somber Smithing Stone [7]
+Lost Ashes of War
+Arteria Leaf
+[Sorcery] Briars of Punishment
+Hefty Beast Bone
+Golden Rune [9]
+Lump of Flesh
+Somber Smithing Stone [8]
+Rune Arc
+Tarnished Golden Sunflower
+Warming Stone
+Invigorating White Cured Meat
+Smithing Stone [7]
+Ancient Dragon Smithing Stone
+Traveling Maiden Hood
+Traveling Maiden Robe
+Traveling Maiden Gloves
+Traveling Maiden Boots
+Hoslow's Petal Whip
+Hoslow's Helm
+Hoslow's Armor
+Hoslow's Gauntlets
+Hoslow's Greaves
+Smithing Stone [8]
+Graven-Mass Talisman
+Warming Stone
+[SACRED] Starlight Shards
+Smoldering Butterfly
+Golden Rune [6]
+Armorer's Cookbook [4]
+Smithing Stone [6]
+Smithing Stone [3]
+Smithing Stone [4]
+Smithing Stone [3]
+Smithing Stone [5]
+Red-Hot Whetblade
+Smithing Stone [5]
+Smithing Stone [4]
+Smithing Stone [6]
+Somber Smithing Stone [5]
+Armorer's Cookbook [5]
+Flamberge
+Somber Smithing Stone [4]
+Beast Blood
+Old Fang
+Somber Smithing Stone [4]
+Beast Blood
+Old Fang
+Smithing Stone [6]
+Radahn's Spear
+Radahn's Spear
+Radahn's Spear
+Golden Rune [12]
+Neutralizing Boluses
+Radagon's Soreseal
+Dectus Medallion (Right)
+Rune Arc
+Soft Cotton
+Cinquedea
+Golden Seed
+Dragoncrest Shield Talisman
+Ancient Dragon Smithing Stone
+Smithing Stone [7]
+Drawstring Holy Grease
+Rivers of Blood
+Okina Mask
+Ash of War: Troll's Roar
+Somber Smithing Stone [8]
+Sacred Tear
+Warming Stone
+Invigorating White Cured Meat
+Fan Daggers
+Golden Rune [7]
+Drawstring Holy Grease
+Rainbow Stone
+Golden Rune [13]
+Somber Smithing Stone [9]
+Freezing Grease
+Formic Rock
+Soft Cotton
+Golden Rune [10]
+Somber Smithing Stone [8]
+Miquella's Lily
+Miquella's Lily
+Primal Glintstone Blade
+Freezing Grease
+Golden Rune [10]
+Smithing Stone [5]
+Fan Daggers
+Golden Rune [10]
+Golden Rune [10]
+Nascent Butterfly
+Cerulean Amber Medallion +1
+Smithing Stone [7]
+Smithing Stone [5]
+Smithing Stone [6]
+Somber Smithing Stone [8]
+Golden Rune [10]
+Human Bone Shard
+Golden Rune [11]
+Thawfrost Boluses
+Furlcalling Finger Remedy
+Smithing Stone [6]
+Thawfrost Boluses
+Somber Smithing Stone [8]
+Golden Rune [9]
+Rune Arc
+Stormhawk Axe
+Golden Rune [10]
+Stonesword Key
+Eclipse Shotel
+Helphen's Steeple
+Deathroot
+Somber Smithing Stone [7]
+Beast Blood
+Old Fang
+Somber Smithing Stone [7]
+Beast Blood
+Old Fang
+Haligtree Secret Medallion (Left)
+Golden Rune [8]
+Golden Rune [6]
+Golden Rune [3]
+Golden Rune [1]
+Ash of War: Bloodhound's Step
+Memory Stone
+[SACRED] Starlight Shards
+Golden Rune [10]
+Golden Seed
+Grace Mimic
+Golden Rune [10]
+Golden Rune [10]
+Map: Mountaintops of the Giants, East
+Crimsonwhorl Bubbletear
+[SACRED] Starlight Shards
+Smoldering Butterfly
+Smithing Stone [7]
+Golden Rune [10]
+Smoldering Butterfly
+Smithing Stone [7]
+Golden Rune [8]
+Stonesword Key
+One-Eyed Shield
+Gravel Stone
+Giant's Prayerbook
+Explosive Greatbolt
+Rune Arc
+Stimulating Boluses
+Thawfrost Boluses
+Old Fang
+Golden Seed
+Smithing Stone [7]
+[Sorcery] Founding Rain of Stars
+Golden Rune [4]
+Golden Rune [5]
+Golden Rune [10]
+Somber Smithing Stone [8]
+Golden Rune [10]
+Golden Rune [12]
+Golden Rune [12]
+Golden Rune [12]
+Golden Rune [7]
+Golden Rune [7]
+Golden Rune [11]
+Somber Smithing Stone [7]
+Somberstone Miner's Bell Bearing [3]
+Sacred Tear
+
+Scadutree Fragment
+
+
+
+Revered Spirit Ash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revered Spirit Ash
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Crimson-Sapping Cracked Tear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Glovewort Crystal Tear
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revered Spirit Ash
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+Revered Spirit Ash
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+Revered Spirit Ash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revered Spirit Ash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[SACRED] Starlight Shards
+
+
+
+Scadutree Fragment
+[SACRED] Starlight Shards
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Viridian Hidden Tear
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+Scadutree Fragment
+Crimsonburst Dried Tear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revered Spirit Ash
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+Scadutree Fragment
+
+Scadutree Fragment
+Scadutree Fragment
+Scadutree Fragment
+Scadutree Fragment
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+Scadutree Fragment
+Revered Spirit Ash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revered Spirit Ash
+
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+
+
+Bloodsucking Cracked Tear
+
+Oil-Soaked Tear
+Revered Spirit Ash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+Scadutree Fragment
+
+
+[SACRED] Starlight Shards
+
+Cerulean-Sapping Cracked Tear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scadutree Fragment
+
+
+
+Scadutree Fragment
+
+
+
+
+

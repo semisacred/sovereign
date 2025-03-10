@@ -1,0 +1,1282 @@
+
+
+
+
+
+[Gatekeeper Gostoc] Festering Bloody Finger
+[Gatekeeper Gostoc] Ruin Fragment
+[Gatekeeper Gostoc] Buckler
+[Gatekeeper Gostoc] Furlcalling Finger Remedy
+[Gatekeeper Gostoc] Silver-Pickled Fowl Foot
+[Gatekeeper Gostoc] Stormhawk Feather
+[Gatekeeper Gostoc] Caestus
+[Gatekeeper Gostoc] Great Arrow
+[Gatekeeper Gostoc] Ballista Bolt
+[Gatekeeper Gostoc] Bandit Manchettes
+[Gatekeeper Gostoc] Bandit Boots
+[Gatekeeper Gostoc] Bandit Garb
+[Gatekeeper Gostoc] Ancient Dragon Smithing Stone
+Memory Stone
+Stonesword Key
+[Sorceress Sellen] Glintstone Pebble
+[Sorceress Sellen] Scholar's Armament
+[Sorceress Sellen] Scholar's Shield
+[Sorceress Sellen] Crystal Barrage
+[Sorceress Sellen] Glintstone Arc
+[Sorceress Sellen] Glintstone Stars
+[Sorceress Sellen - Quest] Shard Spiral
+[Sorceress Sellen - Conspectus Scroll] Glintstone Cometshard
+[Sorceress Sellen - Conspectus Scroll] Star Shower
+[Sorceress Sellen - Academy Scroll] Great Glintstone Shard
+[Sorceress Sellen - Academy Scroll] Swift Glintstone Shard
+[Sorceress Sellen] Glintblade Phalanx
+[Sorceress Sellen] Carian Slicer
+[SACRED][Sorceress Sellen - Quest] Starlight Shards
+[Knight Bernahl] Ash of War: Impaling Thrust
+[Knight Bernahl] Ash of War: Spinning Slash
+[Knight Bernahl] Ash of War: Quickstep
+[Knight Bernahl] Ash of War: Stamp (Upward Cut)
+[Knight Bernahl] Ash of War: Kick
+[Knight Bernahl] Ash of War: War Cry
+[SACRED][Knight Bernahl] Ash of War: Endure
+[Knight Bernahl] Ash of War: Parry
+[Knight Bernahl] Ash of War: Storm Blade
+[Knight Bernahl] Ash of War: Eruption
+[Knight Bernahl] Ash of War: Assassin's Gambit
+[Knight Bernahl] Ash of War: No Skill
+[Patches] Margit's Shackle
+[Patches] Missionary's Cookbook [2]
+[Patches] Stonesword Key
+[Patches] Furlcalling Finger Remedy
+[Patches] Glass Shard
+[Patches] Gold-Pickled Fowl Foot
+[Patches] Parrying Dagger
+[Patches] Sacrificial Twig
+[Patches] Festering Bloody Finger
+[Patches] Grace Mimic
+[Patches] Fan Daggers
+[Patches] Great Arrow
+[Patches] Ballista Bolt
+[Patches] Festering Bloody Finger
+[Patches] Fan Daggers
+[Patches] Estoc
+[Patches] Great Arrow
+[Patches] Ballista Bolt
+[Patches] Horse Crest Wooden Shield
+[D Hunter of The Dead] Litany of Proper Death
+[D Hunter of The Dead] Order's Blade
+[Blackguard Big Boggart] Rya's Necklace
+[Blackguard Big Boggart] Boiled Crab
+[Blackguard Big Boggart] Boiled Prawn
+[Gowry] Night Shard
+[Gowry] Night Maiden's Mist
+[Gowry] Glintstone Stars
+[Gowry] Pest Threads
+[Sorcerer Rogier] Ash of War: Spinning Weapon
+[Sorcerer Rogier] Ash of War: Glintstone Pebble
+[Sorcerer Rogier] Ash of War: Carian Greatsword
+[Iji] Somber Smithing Stone [1]
+[Iji] Somber Smithing Stone [2]
+[Iji] Somber Smithing Stone [3]
+[Iji] Somber Smithing Stone [4]
+[Iji] Carian Filigreed Crest
+[Preceptor Seluvis] Glintstone Pebble
+[Preceptor Seluvis] Glintstone Arc
+[Preceptor Seluvis] Starlight
+[Preceptor Seluvis] Carian Phalanx
+[Preceptor Seluvis] Glintstone Icecrag
+[Preceptor Seluvis] Freezing Mist
+[Preceptor Seluvis] Carian Retaliation
+[Preceptor Seluvis] Glintstone Cometshard
+[Preceptor Seluvis] Star Shower
+[Preceptor Seluvis] Great Glintstone Shard
+[Preceptor Seluvis] Swift Glintstone Shard
+[Preceptor Seluvis] Glintblade Phalanx
+[Preceptor Seluvis] Carian Slicer
+[Preceptor Seluvis - Ranni Quest] Finger Maiden Therolina Puppet
+[Preceptor Seluvis - Ranni Quest] Dolores the Sleeping Arrow Puppet
+[Preceptor Seluvis - Ranni Quest] Jarwight Puppet
+[Preceptor Seluvis - Dung Eater Quest] Dung Eater Puppet
+[Pidia Carian Servant] Glintstone Craftsman's Cookbook [7]
+[Pidia Carian Servant] Ritual Pot
+[Pidia Carian Servant] Old Fang
+[Pidia Carian Servant] Slumbering Egg
+[Pidia Carian Servant] Ash of War: Carian Retaliation
+[Pidia Carian Servant] Celestial Dew
+[Pidia Carian Servant] Larval Tear
+[Pidia Carian Servant] Budding Horn
+[Pidia Carian Servant] Ripple Blade
+[Pidia Carian Servant] Black Leather Shield
+
+[Brother Corhyn] Rejection
+[Brother Corhyn] Urgent Heal
+[Brother Corhyn] Heal
+[Brother Corhyn] Cure Poison
+[Brother Corhyn] Flame Fortification
+[Brother Corhyn] Magic Fortification
+[Brother Corhyn] Catch Flame
+[Brother Corhyn] Flame Sling
+[Brother Corhyn - Altus Plateau] Great Heal
+[Brother Corhyn - Altus Plateau] Lightning Fortification
+[Brother Corhyn - Goldmask] Discus of Light
+[Brother Corhyn - Erdtree Sanctuary] Immutable Shield
+[Brother Corhyn - Fire Monks' Prayerbook] O Flame!
+[Brother Corhyn - Fire Monks' Prayerbook] Surge
+[Brother Corhyn - Giant's Prayerbook] Giantsflame Take Thee
+[Brother Corhyn - Giant's Prayerbook] Flame
+[Brother Corhyn - Godskin Prayerbook] Black Flame
+[Brother Corhyn - Godskin Prayerbook] Black Flame Blade
+[Brother Corhyn - Two Fingers' Prayerbook] Lord's Heal
+[Brother Corhyn - Two Fingers' Prayerbook] Lord's Aid
+[Brother Corhyn - Assassin's Prayerbook] Assassin's Approach
+[Brother Corhyn - Assassin's Prayerbook] Darkness
+[Brother Corhyn - Golden Order Principia] Radagon's Rings of Light
+[Brother Corhyn - Golden Order Principia] Law of Regression
+[Brother Corhyn - Dragon Cult Prayerbook] Lightning Spear
+[Brother Corhyn - Dragon Cult Prayerbook] Honed Bolt
+[Brother Corhyn - Dragon Cult Prayerbook] Electrify Armament
+[Brother Corhyn - Ancient Dragon Prayerbook] Ancient Dragons' Lightning Spear
+[Brother Corhyn - Ancient Dragon Prayerbook] Ancient Dragons' Lightning Strike
+[Miriel] Magic Glintblade
+[Miriel] Carian Greatsword
+[Miriel - Conspectus Scroll] Glintstone Cometshard
+[Miriel - Conspectus Scroll] Star Shower
+[Miriel - Academy Scroll] Great Glintstone Shard
+[Miriel - Academy Scroll] Swift Glintstone Shard
+[Miriel] Glintblade Phalanx
+[Miriel] Carian Slicer
+[Miriel] Blessing's Boon
+[Miriel - Fire Monks' Prayerbook] O Flame!
+[Miriel - Fire Monks' Prayerbook] Surge
+[Miriel - Giant's Prayerbook] Giantsflame Take Thee
+[Miriel - Giant's Prayerbook] Flame
+[Miriel - Godskin Prayerbook] Black Flame
+[Miriel - Godskin Prayerbook] Black Flame Blade
+[Miriel - Two Fingers' Prayerbook] Lord's Heal
+[Miriel - Two Fingers' Prayerbook] Lord's Aid
+[Miriel - Assassin's Prayerbook] Assassin's Approach
+[Miriel - Assassin's Prayerbook] Darkness
+[Miriel - Golden Order Principia] Radagon's Rings of Light
+[Miriel - Golden Order Principia] Law of Regression
+[Miriel - Dragon Cult Prayerbook] Lightning Spear
+[Miriel - Dragon Cult Prayerbook] Honed Bolt
+[Miriel - Dragon Cult Prayerbook] Electrify Armament
+[Miriel - Ancient Dragon Prayerbook] Ancient Dragons' Lightning Spear
+[Miriel - Ancient Dragon Prayerbook] Ancient Dragons' Lightning Strike
+[Merchant Kale] Note: Flask of Wondrous Physick
+[Merchant Kale] Crafting Kit
+[Merchant Kale] Nomadic Warrior's Cookbook [1]
+[Merchant Kale] Nomadic Warrior's Cookbook [2]
+[Merchant Kale] Missionary's Cookbook [1]
+[Merchant Kale] Furlcalling Finger Remedy
+[Merchant Kale] Cracked Pot
+[Merchant Kale] Throwing Dagger
+[Merchant Kale] Torch
+[Merchant Kale] Large Leather Shield
+[Merchant Kale] Telescope
+[Merchant Kale] Note: Waypoint Ruins
+[Merchant Kale] Chain Coif
+[Merchant Kale] Chain Armor
+[Merchant Kale] Chain Gauntlets
+[Merchant Kale] Chain Leggings
+[Merchant Kale] Arrow
+[Merchant Kale] Bolt
+[Merchant - North Limgrave] Nomadic Warrior's Cookbook [3]
+[Merchant - North Limgrave] Note: Flame Chariots
+[Merchant - North Limgrave] Cracked Pot
+[Merchant - North Limgrave] Pickled Turtle Neck
+[Merchant - North Limgrave] Short Sword
+[Merchant - North Limgrave] Halberd
+[Merchant - North Limgrave] Arrow
+[Merchant - North Limgrave] Bolt
+[Merchant - North Limgrave] Bandit Mask
+[Merchant - North Limgrave] Smithing Stone [1]
+[Merchant - East Limgrave] Nomadic Warrior's Cookbook [5]
+[Merchant - East Limgrave] Armorer's Cookbook [3]
+[Merchant - East Limgrave] Sliver of Meat
+[Merchant - East Limgrave] Beast Liver
+[Merchant - East Limgrave] Lump of Flesh
+[Merchant - East Limgrave] Arrow
+[Merchant - East Limgrave] Bolt
+[Merchant - East Limgrave] Festering Bloody Finger
+[Merchant - East Limgrave] Trina's Lily
+[Merchant - East Limgrave] Hand Axe
+[Merchant - East Limgrave] Riveted Wooden Shield
+[Merchant - East Limgrave] Blue-Gold Kite Shield
+[Merchant - East Limgrave] St. Trina's Arrow
+[Merchant - East Limgrave] Smithing Stone [1]
+[Merchant - Coastal Cave] Armorer's Cookbook [2]
+[Merchant - Coastal Cave] Note: Stonedigger Trolls
+[Merchant - Coastal Cave] Note: Land Squirts
+[Merchant - Coastal Cave] Club
+[Merchant - Coastal Cave] Broadsword
+[Merchant - Coastal Cave] Iron Roundshield
+[Merchant - Coastal Cave] Shortbow
+[Merchant - Coastal Cave] Arrow
+[Merchant - Coastal Cave] Bolt
+[Merchant - Coastal Cave] Neutralizing Boluses
+[Merchant - Coastal Cave] Stanching Boluses
+[Merchant - Coastal Cave] Stimulating Boluses
+[Merchant - Coastal Cave] Smithing Stone [1]
+[Merchant - East Weeping Peninsula] Stonesword Key
+[Merchant - East Weeping Peninsula] Kukri
+[Merchant - East Weeping Peninsula] Red Thorn Roundshield
+[Merchant - East Weeping Peninsula] Round Shield
+[Merchant - East Weeping Peninsula] Crimson Amber Medallion
+[Merchant - East Weeping Peninsula] Note: Demi-human Mobs
+[Merchant - East Weeping Peninsula] Cracked Pot
+[Merchant - East Weeping Peninsula] Bastard Sword
+[Merchant - East Weeping Peninsula] Light Crossbow
+[Merchant - East Weeping Peninsula] Arrow
+[Merchant - East Weeping Peninsula] Bolt
+[Merchant - East Weeping Peninsula] Great Arrow
+[Merchant - East Weeping Peninsula] Ballista Bolt
+[Merchant - East Weeping Peninsula] Iron Helmet
+[Merchant - East Weeping Peninsula] Scale Armor
+[Merchant - East Weeping Peninsula] Iron Gauntlets
+[Merchant - East Weeping Peninsula] Leather Trousers
+[Merchant - East Weeping Peninsula] Smithing Stone [1]
+[Merchant - East Weeping Peninsula] Smithing Stone [2]
+[Merchant - Liurnia of the Lakes] Nomadic Warrior's Cookbook [11]
+[Merchant - Liurnia of the Lakes] Estoc
+[Merchant - Liurnia of the Lakes] Kite Shield
+[Merchant - Liurnia of the Lakes] Astrologer Hood
+[Merchant - Liurnia of the Lakes] Astrologer Robe
+[Merchant - Liurnia of the Lakes] Astrologer Gloves
+[Merchant - Liurnia of the Lakes] Astrologer Trousers
+[Merchant - Liurnia of the Lakes] Lantern
+[Merchant - Liurnia of the Lakes] Astrologer's Staff
+[Merchant - Liurnia of the Lakes] Arrow
+[Merchant - Liurnia of the Lakes] Bolt
+[Merchant - Liurnia of the Lakes] Smithing Stone [2]
+[Merchant - Liurnia of the Lakes] Smithing Stone [3]
+[Isolated Merchant - Weeping Peninsula] Note: Walking Mausoleum
+[Isolated Merchant - Weeping Peninsula] Stonesword Key
+[Isolated Merchant - Weeping Peninsula] Arteria Leaf
+[Isolated Merchant - Weeping Peninsula] Ballista Bolt
+[Isolated Merchant - Weeping Peninsula] Sacrificial Twig
+[Isolated Merchant - Weeping Peninsula] Lantern
+[Isolated Merchant - Weeping Peninsula] Lost Ashes of War
+[Isolated Merchant - Weeping Peninsula] Zweihander
+[Isolated Merchant - Weeping Peninsula] Arrow
+[Isolated Merchant - Weeping Peninsula] Bolt
+[Isolated Merchant - Weeping Peninsula] Great Arrow
+[Isolated Merchant - Weeping Peninsula] Festering Bloody Finger
+[Isolated Merchant - Weeping Peninsula] Smithing Stone [2]
+[Merchant - Academy of Raya Lucaria] Fevor's Cookbook [2]
+[Merchant - Academy of Raya Lucaria] Trina's Lily
+[Merchant - Academy of Raya Lucaria] Eye of Yelough
+[Merchant - Academy of Raya Lucaria] Stonesword Key
+[Merchant - Academy of Raya Lucaria] Lost Ashes of War
+[Merchant - Academy of Raya Lucaria] Sacrificial Twig
+[Merchant - Academy of Raya Lucaria] Note: Revenants
+[Merchant - Academy of Raya Lucaria] Note: Frenzied Flame Village
+[Merchant - Academy of Raya Lucaria] Fanged Imp Ashes
+[Merchant - Academy of Raya Lucaria] St. Trina's Arrow
+[Merchant - Academy of Raya Lucaria] Meteor Bolt
+[Merchant - Academy of Raya Lucaria] Blue Cloth Cowl
+[Merchant - Academy of Raya Lucaria] Blue Cloth Vest
+[Merchant - Academy of Raya Lucaria] Warrior Gauntlets
+[Merchant - Academy of Raya Lucaria] Warrior Greaves
+[Merchant - Academy of Raya Lucaria] Festering Bloody Finger
+[Merchant - Academy of Raya Lucaria] Note: The Preceptor's Secret
+[Merchant - North Liurnia] Nomadic Warrior's Cookbook [13]
+[Merchant - North Liurnia] Composite Bow
+[Merchant - North Liurnia] Rift Shield
+[Merchant - North Liurnia] Blue Crest Heater Shield
+[Merchant - North Liurnia] Rune Arc
+[Merchant - North Liurnia] Bewitching Branch
+[Merchant - North Liurnia] Arrow
+[Merchant - North Liurnia] Bolt
+[Merchant - North Liurnia] Immunizing White Cured Meat
+[Merchant - North Liurnia] Invigorating White Cured Meat
+[Merchant - North Liurnia] Clarifying White Cured Meat
+[Hermit Merchant - Leyndell] Perfume Bottle
+[Hermit Merchant - Leyndell] Golden Great Arrow
+[Hermit Merchant - Leyndell] Sentry's Torch
+[Hermit Merchant - Leyndell] Rune Arc
+[Hermit Merchant - Leyndell] Golden Sunflower
+[Hermit Merchant - Leyndell] Distinguished Greatshield
+[Hermit Merchant - Leyndell] Arrow
+[Hermit Merchant - Leyndell] Golden Arrow
+[Hermit Merchant - Leyndell] Bolt
+[Hermit Merchant - Leyndell] Golden Bolt
+[Hermit Merchant - Leyndell] Great Arrow
+[Hermit Merchant - Leyndell] Ballista Bolt
+[Hermit Merchant - Leyndell] Upper-Class Robe
+[Hermit Merchant - Leyndell] Consort's Trousers
+[Hermit Merchant - Leyndell] Prophet Blindfold
+[Hermit Merchant - Leyndell] Prophet Trousers
+[Hermit Merchant - Leyndell] Prophet Robe
+[Hermit Merchant - Leyndell] Festering Bloody Finger
+[Hermit Merchant - Leyndell] Note: Below the Capital
+[Merchant - Altus Plateau] Ancient Dragon Apostle's Cookbook [2]
+[Merchant - Altus Plateau] Note: Imp Shades
+[Merchant - Altus Plateau] Note: Unseen Assassins
+[Merchant - Altus Plateau] Stonesword Key
+[Merchant - Altus Plateau] Lightning Bolt
+[Merchant - Altus Plateau] Scorpion Kite Shield
+[Merchant - Altus Plateau] Gravel Stone
+[Merchant - Altus Plateau] Red Crest Heater Shield
+[Merchant - Altus Plateau] Crossed-Tree Towershield
+[Merchant - Altus Plateau] Arrow
+[Merchant - Altus Plateau] Bolt
+[Merchant - Altus Plateau] Tree Surcoat
+[Merchant - Altus Plateau] Festering Bloody Finger
+[Merchant - Mt. Gelmir] Nomadic Warrior's Cookbook [20]
+[Merchant - Mt. Gelmir] Stonesword Key
+[Merchant - Mt. Gelmir] Explosive Greatbolt
+[Merchant - Mt. Gelmir] Arrow
+[Merchant - Mt. Gelmir] Great Arrow
+[Merchant - Mt. Gelmir] Bolt
+[Merchant - Mt. Gelmir] Explosive Bolt
+[Merchant - Mt. Gelmir] Ballista Bolt
+[Merchant - Mt. Gelmir] Confessor Hood
+[Merchant - Mt. Gelmir] Confessor Armor
+[Merchant - Mt. Gelmir] Confessor Gloves
+[Merchant - Mt. Gelmir] Confessor Boots
+[Merchant - Mt. Gelmir] Guilty Hood
+Poisonbone Dart
+Poisoned Stone
+Poisoned Stone Clump
+Preserving Boluses
+Aeonian Butterfly
+Arrow
+Fire Arrow
+Bolt
+[Merchant - South Caelid] Nomadic Warrior's Cookbook [15]
+[Merchant - South Caelid] Stonesword Key
+[Merchant - South Caelid] Cracked Pot
+[Merchant - South Caelid] Note: Gravity's Advantage
+[Merchant - South Caelid] Arrow
+[Merchant - South Caelid] Bolt
+[Merchant - South Caelid] Flaming Bolt
+[Merchant - South Caelid] Champion Headband
+[Merchant - South Caelid] Champion Pauldron
+[Merchant - South Caelid] Champion Bracers
+[Merchant - South Caelid] Champion Gaiters
+[Merchant - South Caelid] Greathelm
+[Isolated Merchant - Dragonbarrow] Note: Hidden Cave
+[Isolated Merchant - Dragonbarrow] Ritual Pot
+[Isolated Merchant - Dragonbarrow] Lost Ashes of War
+[Isolated Merchant - Dragonbarrow] Gravel Stone
+[Isolated Merchant - Dragonbarrow] Sacrificial Twig
+[Isolated Merchant - Dragonbarrow] Land of Reeds Helm
+[Isolated Merchant - Dragonbarrow] Land of Reeds Armor
+[Isolated Merchant - Dragonbarrow] Land of Reeds Gauntlets
+[Isolated Merchant - Dragonbarrow] Land of Reeds Greaves
+[Isolated Merchant - Dragonbarrow] Note: Gateway
+[Isolated Merchant - Dragonbarrow] Dragonwound Grease
+[Isolated Merchant - Dragonbarrow] Spiked Caestus
+[Isolated Merchant - Dragonbarrow] Beast-Repellent Torch
+[Isolated Merchant - Dragonbarrow] Arrow
+[Isolated Merchant - Dragonbarrow] Serpent Arrow
+[Isolated Merchant - Dragonbarrow] Bolt
+[Isolated Merchant - Dragonbarrow] Festering Bloody Finger
+[Merchant - Mountaintops of the Giants] Missionary's Cookbook [7]
+[Merchant - Mountaintops of the Giants] Stonesword Key
+[Merchant - Mountaintops of the Giants] Thawfrost Boluses
+[Merchant - Mountaintops of the Giants] Rune Arc
+[Merchant - Mountaintops of the Giants] Arrow
+[Merchant - Mountaintops of the Giants] Bolt
+[Merchant - Mountaintops of the Giants] Great Arrow
+[Merchant - Mountaintops of the Giants] Ballista Bolt
+[Merchant - Mountaintops of the Giants] Lightning Greatbolt
+[Merchant - Mountaintops of the Giants] Vagabond Knight Helm
+[Merchant - Mountaintops of the Giants] Vagabond Knight Armor
+[Merchant - Mountaintops of the Giants] Vagabond Knight Gauntlets
+[Merchant - Mountaintops of the Giants] Vagabond Knight Greaves
+[Merchant - Siofra River] Nomadic Warrior's Cookbook [17]
+[Merchant - Siofra River] Nomadic Warrior's Cookbook [18]
+[Merchant - Siofra River] Stonesword Key
+[Merchant - Siofra River] Dwelling Arrow
+[Merchant - Siofra River] Larval Tear
+[Merchant - Siofra River] Shotel
+[Merchant - Siofra River] Arrow
+[Merchant - Siofra River] Bolt
+[SACRED] [Merchant - Siofra River] Soap
+[Merchant - Siofra River] Nascent Butterfly
+[Merchant - Ainsel River] Nomadic Warrior's Cookbook [16]
+[Merchant - Ainsel River] Perfumer's Cookbook [4]
+[Merchant - Ainsel River] Lost Ashes of War
+[Merchant - Ainsel River] Celestial Dew
+[Merchant - Ainsel River] Gravity Stone Fan
+[Merchant - Ainsel River] Gravity Stone Chunk
+[Merchant - Ainsel River] Prisoner Iron Mask
+[Merchant - Ainsel River] Prisoner Clothing
+[Merchant - Ainsel River] Prisoner Trousers
+[Imprisoned Merchant - Mohgwyn] Stonesword Key
+[Imprisoned Merchant - Mohgwyn] Lost Ashes of War
+[Imprisoned Merchant - Mohgwyn] Rune Arc
+[Imprisoned Merchant - Mohgwyn] Festering Bloody Finger
+[Imprisoned Merchant - Mohgwyn] Stanching Boluses
+[Imprisoned Merchant - Mohgwyn] Bloodrose
+[Imprisoned Merchant - Mohgwyn] Dwelling Arrow
+[Imprisoned Merchant - Mohgwyn] Burred Bolt
+[Enia - Godfrey] Elden Lord Crown
+[Enia - Godfrey] Elden Lord Armor
+[Enia - Godfrey] Elden Lord Bracers
+[Enia - Godfrey] Elden Lord Greaves
+[Enia - Radahn] Radahn's Redmane Helm
+[Enia - Radahn] Radahn's Lion Armor
+[Enia - Radahn] Radahn's Gauntlets
+[Enia - Radahn] Radahn's Greaves
+[Enia - Mohg] Lord of Blood's Robe
+[Enia - Rennala] Queen's Crescent Crown
+[Enia - Rennala] Queen's Robe
+[Enia - Rennala] Queen's Bracelets
+[Enia - Rennala] Queen's Leggings
+[Enia - Maliketh] Maliketh's Helm
+[Enia - Maliketh] Maliketh's Armor
+[Enia - Maliketh] Maliketh's Gauntlets
+[Enia - Maliketh] Maliketh's Greaves
+[Enia - Malenia] Malenia's Winged Helm
+[Enia - Malenia] Malenia's Armor
+[Enia - Malenia] Malenia's Gauntlet
+[Enia - Malenia] Malenia's Greaves
+[Enia - Margit] Fell Omen Cloak
+[Enia - Royal Knight Loretta] Royal Knight Helm
+[Enia - Royal Knight Loretta] Royal Knight Armor
+[Enia - Royal Knight Loretta] Royal Knight Gauntlets
+[Enia - Royal Knight Loretta] Royal Knight Greaves
+[Enia - Commander Niall] Veteran's Helm
+[Enia - Commander Niall] Veteran's Armor
+[Enia - Commander Niall] Veteran's Gauntlets
+[Enia - Commander Niall] Veteran's Greaves
+[Enia - Radahn] Radahn's Spear
+[Enia - Elemer of the Briar] Briar Helm
+[Enia - Elemer of the Briar] Briar Armor
+[Enia - Elemer of the Briar] Briar Gauntlets
+[Enia - Elemer of the Briar] Briar Greaves
+[Enia - Commander Gaius] Gaius's Helm
+[Enia - Commander Gaius] Gaius's Armor
+[Enia - Commander Gaius] Gaius's Gauntlets
+[Enia - Messmer the Impaler] Messmer's Helm
+[Enia - Messmer the Impaler] Messmer's Armor
+[Enia - Messmer the Impaler] Messmer's Gauntlets
+[Enia - Messmer the Impaler] Messmer's Greaves
+[Enia - Rellana, Twin Moon Knight] Rellana's Helm
+[Enia - Rellana, Twin Moon Knight] Rellana's Armor
+[Enia - Rellana, Twin Moon Knight] Rellana's Gloves
+[Enia - Rellana, Twin Moon Knight] Rellana's Greaves
+[Enia - Radahn, Consort of Miquella] Young Lion's Helm
+[Enia - Radahn, Consort of Miquella] Young Lion's Armor
+[Enia - Radahn, Consort of Miquella] Young Lion's Gauntlets
+[Enia - Radahn, Consort of Miquella] Young Lion's Greaves
+[Enia - Forging] Remembrance of the Grafted
+[Enia - Forging] Remembrance of the Starscourge
+[Enia - Forging] Remembrance of the Omen King
+[Enia - Forging] Remembrance of the Blasphemous
+[Enia - Forging] Remembrance of the Rot Goddess
+[Enia - Forging] Remembrance of the Full Moon Queen
+[Enia - Forging] Remembrance of the Blood Lord
+[Enia - Forging] Remembrance of the Black Blade
+[Enia - Forging] Remembrance of Hoarah Loux
+[Enia - Forging] Remembrance of the Dragonlord
+[Enia - Forging] Remembrance of the Lichdragon
+[Enia - Forging] Remembrance of the Fire Giant
+[Enia - Forging] Remembrance of the Regal Ancestor
+[Enia - Forging] Elden Remembrance
+[Enia - Forging] Remembrance of the Naturalborn
+[Twin Maiden Husks] White Cipher Ring
+[Twin Maiden Husks] Blue Cipher Ring
+[Twin Maiden Husks] Spirit Calling Bell
+[Twin Maiden Husks] Lone Wolf Ashes
+[Twin Maiden Husks - Haligtree] Black Flame's Protection
+[Twin Maiden Husks - Haligtree] Lord's Divine Fortification
+[Twin Maiden Husks - Mohgwyn] Fevor's Cookbook [3]
+[Twin Maiden Husks - Mohg] Law of Causality
+[Twin Maiden Husks] Smithing Stone [1]
+[Twin Maiden Husks] Smithing Stone [2]
+[Twin Maiden Husks] Glintstone Scrap
+[Twin Maiden Husks] Smithing Stone [3]
+[Twin Maiden Husks] Smithing Stone [4]
+[Twin Maiden Husks] Explosive Stone
+[Twin Maiden Husks] Smithing Stone [5]
+[Twin Maiden Husks] Smithing Stone [6]
+[Twin Maiden Husks] Smithing Stone [7]
+[Twin Maiden Husks] Smithing Stone [8]
+[Twin Maiden Husks] Somber Smithing Stone [1]
+[Twin Maiden Husks] Somber Smithing Stone [2]
+[Twin Maiden Husks] Somber Smithing Stone [3]
+[Twin Maiden Husks] Somber Smithing Stone [4]
+[Twin Maiden Husks] Cracked Crystal
+[Twin Maiden Husks] Somber Smithing Stone [5]
+[Twin Maiden Husks] Somber Smithing Stone [6]
+[Twin Maiden Husks] Somber Smithing Stone [7]
+[Twin Maiden Husks] Somber Smithing Stone [8]
+[Twin Maiden Husks] Sanctuary Stone
+[Twin Maiden Husks] Somber Smithing Stone [9]
+[Twin Maiden Husks] Grave Glovewort [1]
+[Twin Maiden Husks] Grave Glovewort [2]
+[Twin Maiden Husks] Grave Glovewort [3]
+[Twin Maiden Husks] Grave Glovewort [4]
+[Twin Maiden Husks] Grave Glovewort [5]
+[Twin Maiden Husks] Grave Glovewort [6]
+[Twin Maiden Husks] Grave Glovewort [7]
+[Twin Maiden Husks] Grave Glovewort [8]
+[Twin Maiden Husks] Grave Glovewort [9]
+[Twin Maiden Husks] Ghost Glovewort [1]
+[Twin Maiden Husks] Ghost Glovewort [2]
+[Twin Maiden Husks] Ghost Glovewort [3]
+[Twin Maiden Husks] Ghost Glovewort [4]
+[Twin Maiden Husks] Ghost Glovewort [5]
+[Twin Maiden Husks] Ghost Glovewort [6]
+[Twin Maiden Husks] Ghost Glovewort [7]
+[Twin Maiden Husks] Ghost Glovewort [8]
+[Twin Maiden Husks] Ghost Glovewort [9]
+[Twin Maiden Husks] Thin Beast Bones
+[Twin Maiden Husks] Hefty Beast Bone
+[Twin Maiden Husks] Sliver of Meat
+[Twin Maiden Husks] Lump of Flesh
+[Twin Maiden Husks] Turtle Neck Meat
+[Twin Maiden Husks] Neutralizing Boluses
+[Twin Maiden Husks] Stanching Boluses
+[Twin Maiden Husks] Thawfrost Boluses
+[Twin Maiden Husks] Stimulating Boluses
+[Twin Maiden Husks] Gravity Stone Fan
+[Twin Maiden Husks] Gravity Stone Chunk
+[Twin Maiden Husks] Ruin Fragment
+[Twin Maiden Husks] Memory Stone
+[Twin Maiden Husks] Stonesword Key
+[Twin Maiden Husks] Rune Arc
+[Twin Maiden Husks] Furled Finger's Trick-Mirror
+[Twin Maiden Husks] Host's Trick-Mirror
+[Twin Maiden Husks] Dagger
+[Twin Maiden Husks] Longsword
+[Twin Maiden Husks] Scimitar
+[Twin Maiden Husks] Battle Axe
+[Twin Maiden Husks] Mace
+[Twin Maiden Husks] Short Spear
+[Twin Maiden Husks] Rapier
+[Twin Maiden Husks] Finger Seal
+[Twin Maiden Husks] Longbow
+[Twin Maiden Husks] Heater Shield
+[Twin Maiden Husks] Knight Helm
+[Twin Maiden Husks] Knight Armor
+[Twin Maiden Husks] Knight Gauntlets
+[Twin Maiden Husks] Knight Greaves
+[Twin Maiden Husks] Flask of Wondrous Physick
+[Twin Maiden Husks] Crafting Kit
+[Twin Maiden Husks] Whetstone Knife
+[Twin Maiden Husks] Talisman Pouch
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Remembrance of the Grafted] Axe of Godrick
+[Remembrance of the Grafted] Grafted Dragon
+[Remembrance of the Starscourge] Starscourge Greatsword
+[Remembrance of the Starscourge] Lion Greatbow
+[Remembrance of the Omen King] Morgott's Cursed Sword
+[Remembrance of the Omen King] Regal Omen Bairn
+[Remembrance of the Blasphemous] Blasphemous Blade
+[Remembrance of the Blasphemous] Rykard's Rancor
+[Remembrance of the Rot Goddess] Hand of Malenia
+[Remembrance of the Rot Goddess] Scarlet Aeonia
+[Remembrance of the Blood Lord] Mohgwyn's Sacred Spear
+[Remembrance of the Blood Lord] Bloodboon
+[Remembrance of the Black Blade] Maliketh's Black Blade
+[Remembrance of the Black Blade] Black Blade
+[Remembrance of Hoarah Loux] Axe of Godfrey
+[Remembrance of Hoarah Loux] Ash of War: Hoarah Loux's Earthshaker
+[Remembrance of the Dragonlord] Dragon King's Cragblade
+[Remembrance of the Dragonlord] Placidusax's Ruin
+[Remembrance of The Full Moon Queen] Carian Regal Scepter
+[Remembrance of The Full Moon Queen] Rennala's Full Moon
+[Remembrance of the Lichdragon] Fortissax's Lightning Spear
+[Remembrance of the Lichdragon] Death Lightning
+[Remembrance of the Fire Giant] Giant's Red Braid
+[Remembrance of the Fire Giant] Burn
+[Remembrance of the Regal Ancestor] Winged Greathorn
+[Remembrance of the Regal Ancestor] Ancestral Spirit's Horn
+[Elden Remembrance] Marika's Hammer
+[Elden Remembrance] Sacred Relic Sword
+[Remembrance of the Naturalborn] Bastard's Stars
+[Remembrance of the Naturalborn] Ash of War: Waves of Darkness
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Dragon Communion] Dragonfire
+[Dragon Communion] Dragonice
+[Dragon Communion] Glintstone Breath
+[Dragon Communion] Rotten Breath
+[Dragon Communion] Agheel's Flame
+[Dragon Communion] Borealis's Mist
+[Dragon Communion] Smarag's Glintstone Breath
+[Dragon Communion] Ekzykes's Decay
+[Dragon Communion] Dragonclaw
+[Dragon Communion] Dragonmaw
+[Dragon Communion] Magma Breath
+[Dragon Communion] Theodorix's Magma
+[Dragon Communion] Greyoll's Roar
+[Dragon Communion] Dragonclaw
+[Dragon Communion] Dragonmaw
+[Dragon Communion] Dragonfire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Alteration] Drake Knight Helm (Altered)
+[Alteration] Drake Knight Armor (Altered)
+[Alteration] Scaled Armor (Altered)
+[Alteration] Perfumer Robe (Altered)
+[Alteration] Perfumer's Traveling Garb (Altered)
+[Alteration] Spellblade's Traveling Attire (Altered)
+[Alteration] Ronin's Armor (Altered)
+[Alteration] Blaidd's Armor (Altered)
+[Alteration] Black Knife Armor (Altered)
+[Alteration] Briar Armor (Altered)
+[Alteration] Page Garb (Altered)
+[Alteration] Night's Cavalry Helm (Altered)
+[Alteration] Night's Cavalry Armor (Altered)
+[Alteration] Blue Silver Mail Armor (Altered)
+[Alteration] Nomadic Merchant's Finery (Altered)
+[Alteration] Tree Sentinel Armor (Altered)
+[Alteration] Royal Knight Armor (Altered)
+[Alteration] Nox Monk Hood (Altered)
+[Alteration] Nox Monk Armor (Altered)
+[Alteration] Nox Swordstress Crown (Altered)
+[Alteration] Nox Swordstress Armor (Altered)
+[Alteration] Gravekeeper Cloak (Altered)
+[Alteration] Cleanrot Helm (Altered)
+[Alteration] Cleanrot Armor (Altered)
+[Alteration] Depraved Perfumer Robe (Altered)
+[Alteration] All-Knowing Armor (Altered)
+[Alteration] Twinned Armor (Altered)
+[Alteration] Scaled Armor Black (Altered)
+[Alteration] Prophet Robe (Altered)
+[Alteration] Astrologer Robe (Altered)
+[Alteration] Lionel's Armor (Altered)
+[Alteration] Hoslow's Armor (Altered)
+[Alteration] Vagabond Knight Armor (Altered)
+[Alteration] War Surgeon Gown (Altered)
+[Alteration] Veteran's Armor (Altered)
+[Alteration] Bloodhound Knight Armor (Altered)
+[Alteration] Festive Hood (Altered)
+[Alteration] Commoner's Garb (Altered)
+[Alteration] Commoner's Simple Garb (Altered)
+[Alteration] Raging Wolf Armor (Altered)
+[Alteration] Land of Reeds Armor (Altered)
+[Alteration] Confessor Hood (Altered)
+[Alteration] Confessor Armor (Altered)
+[Alteration] Finger Maiden Robe (Altered)
+[Alteration] Preceptor's Long Gown (Altered)
+[Alteration] Eccentric's Hood (Altered)
+[Alteration] Fingerprint Armor (Altered)
+[Alteration] Carian Knight Armor (Altered)
+[Alteration] Errant Sorcerer Robe (Altered)
+[Alteration] Gelmir Knight Armor (Altered)
+[Alteration] Godrick Knight Armor (Altered)
+[Alteration] Cuckoo Knight Armor (Altered)
+[Alteration] Leyndell Knight Armor (Altered)
+[Alteration] Redmane Knight Armor (Altered)
+[Alteration] Mausoleum Knight Armor (Altered)
+[Alteration] Haligtree Knight Armor (Altered)
+[Alteration] High Page Clothes (Altered)
+[Alteration] Rotten Gravekeeper Cloak (Altered)
+[Alteration] Beast Champion Armor (Altered)
+[Alteration] Snow Witch Robe (Altered)
+[Alteration] Crucible Axe Armor (Altered)
+[Alteration] Crucible Tree Armor (Altered)
+[Alteration] Fia's Robe (Altered)
+[Alteration] Alberich's Pointed Hat (Altered)
+[Alteration] Alberich's Robe (Altered)
+[Alteration] Traveling Maiden Robe (Altered)
+[Alteration] Dryleaf Robe (Altered)
+[Alteration] Thioller's Garb (Altered)
+[Alteration] High Priest Robe
+[Alteration] Dancer's Dress (Altered)
+[Alteration] Igon's Helm (Altered)
+[Alteration] Igon's Armor (Altered)
+[Alteration] Ansbach's Attire (Altered)
+[Alteration] Freyja's Armor (Altered)
+[Alteration] Armor of Solitude (Altered)
+[Alteration] Messmer Soldier Armor (Altered)
+[Alteration] Fire Knight Armor (Altered)
+[Alteration] Elden Lord Armor (Altered)
+[Alteration] Radahn's Lion Armor (Altered)
+[Alteration] Lord of Blood's Robe (Altered)
+[Alteration] Maliketh's Armor (Altered)
+[Alteration] Malenia's Armor (Altered)
+[Alteration] Messmer's Helm (Altered)
+[Alteration] Young Lion's Armor (Altered)
+[Reversion] Drake Knight Helm
+[Reversion] Drake Knight Armor
+[Reversion] Scaled Armor
+[Reversion] Perfumer Robe
+[Reversion] Perfumer's Traveling Garb
+[Reversion] Spellblade's Traveling Attire
+[Reversion] Ronin's Armor
+[Reversion] Blaidd's Armor
+[Reversion] Black Knife Armor
+[Reversion] Briar Armor
+[Reversion] Page Garb
+[Reversion] Night's Cavalry Helm
+[Reversion] Night's Cavalry Armor
+[Reversion] Blue Silver Mail Armor
+[Reversion] Nomadic Merchant's Finery
+[Reversion] Tree Sentinel Armor
+[Reversion] Royal Knight Armor
+[Reversion] Nox Monk Hood
+[Reversion] Nox Monk Armor
+[Reversion] Nox Swordstress Crown
+[Reversion] Nox Swordstress Armor
+[Reversion] Gravekeeper Cloak
+[Reversion] Cleanrot Helm
+[Reversion] Cleanrot Armor
+[Reversion] Depraved Perfumer Robe
+[Reversion] All-Knowing Armor
+[Reversion] Twinned Armor
+[Reversion] Scaled Armor Black
+[Reversion] Prophet Robe
+[Reversion] Astrologer Robe
+[Reversion] Lionel's Armor
+[Reversion] Hoslow's Armor
+[Reversion] Vagabond Knight Armor
+[Reversion] War Surgeon Gown
+[Reversion] Veteran's Armor
+[Reversion] Bloodhound Knight Armor
+[Reversion] Festive Hood
+[Reversion] Commoner's Garb
+[Reversion] Commoner's Simple Garb
+[Reversion] Raging Wolf Armor
+[Reversion] Land of Reeds Armor
+[Reversion] Confessor Hood
+[Reversion] Confessor Armor
+[Reversion] Finger Maiden Robe
+[Reversion] Preceptor's Long Gown
+[Reversion] Eccentric's Hood
+[Reversion] Fingerprint Armor
+[Reversion] Carian Knight Armor
+[Reversion] Errant Sorcerer Robe
+[Reversion] Gelmir Knight Armor
+[Reversion] Godrick Knight Armor
+[Reversion] Cuckoo Knight Armor
+[Reversion] Leyndell Knight Armor
+[Reversion] Redmane Knight Armor
+[Reversion] Mausoleum Knight Armor
+[Reversion] Haligtree Knight Armor
+[Reversion] High Page Clothes
+[Reversion] Rotten Gravekeeper Cloak
+[Reversion] Beast Champion Armor
+[Reversion] Snow Witch Robe
+[Reversion] Crucible Axe Armor
+[Reversion] Crucible Tree Armor
+[Reversion] Fia's Robe
+[Reversion] Alberich's Pointed Hat
+[Reversion] Alberich's Robe
+[Reversion] Traveling Maiden Robe
+[Reversion] Dryleaf Robe
+[Reversion] Thioller's Garb
+[Reversion] High Priest Robe
+[Reversion] Dancer's Dress
+[Reversion] Igon's Helm
+[Reversion] Igon's Armor
+[Reversion] Ansbach's Attire
+[Reversion] Freyja's Armor
+[Reversion] Armor of Solitude
+[Reversion] Messmer Soldier Armor
+[Reversion] Fire Knight Armor
+[Reversion] Elden Lord Armor
+[Reversion] Radahn's Lion Armor
+[Reversion] Lord of Blood's Robe
+[Reversion] Maliketh's Armor
+[Reversion] Malenia's Armor
+[Reversion] Messmer's Helm
+[Reversion] Young Lion's Armor
+[Alteration] Drake Knight Helm (Altered)
+[Alteration] Drake Knight Armor (Altered)
+[Alteration] Scaled Armor (Altered)
+[Alteration] Perfumer Robe (Altered)
+[Alteration] Perfumer's Traveling Garb (Altered)
+[Alteration] Spellblade's Traveling Attire (Altered)
+[Alteration] Ronin's Armor (Altered)
+[Alteration] Blaidd's Armor (Altered)
+[Alteration] Black Knife Armor (Altered)
+[Alteration] Briar Armor (Altered)
+[Alteration] Page Garb (Altered)
+[Alteration] Night's Cavalry Helm (Altered)
+[Alteration] Night's Cavalry Armor (Altered)
+[Alteration] Blue Silver Mail Armor (Altered)
+[Alteration] Nomadic Merchant's Finery (Altered)
+[Alteration] Tree Sentinel Armor (Altered)
+[Alteration] Royal Knight Armor (Altered)
+[Alteration] Nox Monk Hood (Altered)
+[Alteration] Nox Monk Armor (Altered)
+[Alteration] Nox Swordstress Crown (Altered)
+[Alteration] Nox Swordstress Armor (Altered)
+[Alteration] Gravekeeper Cloak (Altered)
+[Alteration] Cleanrot Helm (Altered)
+[Alteration] Cleanrot Armor (Altered)
+[Alteration] Depraved Perfumer Robe (Altered)
+[Alteration] All-Knowing Armor (Altered)
+[Alteration] Twinned Armor (Altered)
+[Alteration] Scaled Armor Black (Altered)
+[Alteration] Prophet Robe (Altered)
+[Alteration] Astrologer Robe (Altered)
+[Alteration] Lionel's Armor (Altered)
+[Alteration] Hoslow's Armor (Altered)
+[Alteration] Vagabond Knight Armor (Altered)
+[Alteration] War Surgeon Gown (Altered)
+[Alteration] Veteran's Armor (Altered)
+[Alteration] Bloodhound Knight Armor (Altered)
+[Alteration] Festive Hood (Altered)
+[Alteration] Commoner's Garb (Altered)
+[Alteration] Commoner's Simple Garb (Altered)
+[Alteration] Raging Wolf Armor (Altered)
+[Alteration] Land of Reeds Armor (Altered)
+[Alteration] Confessor Hood (Altered)
+[Alteration] Confessor Armor (Altered)
+[Alteration] Finger Maiden Robe (Altered)
+[Alteration] Preceptor's Long Gown (Altered)
+[Alteration] Eccentric's Hood (Altered)
+[Alteration] Fingerprint Armor (Altered)
+[Alteration] Carian Knight Armor (Altered)
+[Alteration] Errant Sorcerer Robe (Altered)
+[Alteration] Gelmir Knight Armor (Altered)
+[Alteration] Godrick Knight Armor (Altered)
+[Alteration] Cuckoo Knight Armor (Altered)
+[Alteration] Leyndell Knight Armor (Altered)
+[Alteration] Redmane Knight Armor (Altered)
+[Alteration] Mausoleum Knight Armor (Altered)
+[Alteration] Haligtree Knight Armor (Altered)
+[Alteration] High Page Clothes (Altered)
+[Alteration] Rotten Gravekeeper Cloak (Altered)
+[Alteration] Beast Champion Armor (Altered)
+[Alteration] Snow Witch Robe (Altered)
+[Alteration] Crucible Axe Armor (Altered)
+[Alteration] Crucible Tree Armor (Altered)
+[Alteration] Fia's Robe (Altered)
+[Alteration] Alberich's Pointed Hat (Altered)
+[Alteration] Alberich's Robe (Altered)
+[Alteration] Traveling Maiden Robe (Altered)
+[Alteration] Dryleaf Robe (Altered)
+[Alteration] Thioller's Garb (Altered)
+[Alteration] High Priest Robe
+[Alteration] Dancer's Dress (Altered)
+[Alteration] Igon's Helm (Altered)
+[Alteration] Igon's Armor (Altered)
+[Alteration] Ansbach's Attire (Altered)
+[Alteration] Freyja's Armor (Altered)
+[Alteration] Armor of Solitude (Altered)
+[Alteration] Messmer Soldier Armor (Altered)
+[Alteration] Fire Knight Armor (Altered)
+[Alteration] Elden Lord Armor (Altered)
+[Alteration] Radahn's Lion Armor (Altered)
+[Alteration] Lord of Blood's Robe (Altered)
+[Alteration] Maliketh's Armor (Altered)
+[Alteration] Malenia's Armor (Altered)
+[Alteration] Messmer's Helm (Altered)
+[Alteration] Young Lion's Armor (Altered)
+[Reversion] Drake Knight Helm
+[Reversion] Drake Knight Armor
+[Reversion] Scaled Armor
+[Reversion] Perfumer Robe
+[Reversion] Perfumer's Traveling Garb
+[Reversion] Spellblade's Traveling Attire
+[Reversion] Ronin's Armor
+[Reversion] Blaidd's Armor
+[Reversion] Black Knife Armor
+[Reversion] Briar Armor
+[Reversion] Page Garb
+[Reversion] Night's Cavalry Helm
+[Reversion] Night's Cavalry Armor
+[Reversion] Blue Silver Mail Armor
+[Reversion] Nomadic Merchant's Finery
+[Reversion] Tree Sentinel Armor
+[Reversion] Royal Knight Armor
+[Reversion] Nox Monk Hood
+[Reversion] Nox Monk Armor
+[Reversion] Nox Swordstress Crown
+[Reversion] Nox Swordstress Armor
+[Reversion] Gravekeeper Cloak
+[Reversion] Cleanrot Helm
+[Reversion] Cleanrot Armor
+[Reversion] Depraved Perfumer Robe
+[Reversion] All-Knowing Armor
+[Reversion] Twinned Armor
+[Reversion] Scaled Armor Black
+[Reversion] Prophet Robe
+[Reversion] Astrologer Robe
+[Reversion] Lionel's Armor
+[Reversion] Hoslow's Armor
+[Reversion] Vagabond Knight Armor
+[Reversion] War Surgeon Gown
+[Reversion] Veteran's Armor
+[Reversion] Bloodhound Knight Armor
+[Reversion] Festive Hood
+[Reversion] Commoner's Garb
+[Reversion] Commoner's Simple Garb
+[Reversion] Raging Wolf Armor
+[Reversion] Land of Reeds Armor
+[Reversion] Confessor Hood
+[Reversion] Confessor Armor
+[Reversion] Finger Maiden Robe
+[Reversion] Preceptor's Long Gown
+[Reversion] Eccentric's Hood
+[Reversion] Fingerprint Armor
+[Reversion] Carian Knight Armor
+[Reversion] Errant Sorcerer Robe
+[Reversion] Gelmir Knight Armor
+[Reversion] Godrick Knight Armor
+[Reversion] Cuckoo Knight Armor
+[Reversion] Leyndell Knight Armor
+[Reversion] Redmane Knight Armor
+[Reversion] Mausoleum Knight Armor
+[Reversion] Haligtree Knight Armor
+[Reversion] High Page Clothes
+[Reversion] Rotten Gravekeeper Cloak
+[Reversion] Beast Champion Armor
+[Reversion] Snow Witch Robe
+[Reversion] Crucible Axe Armor
+[Reversion] Crucible Tree Armor
+[Reversion] Fia's Robe
+[Reversion] Alberich's Pointed Hat
+[Reversion] Alberich's Robe
+[Reversion] Traveling Maiden Robe
+[Reversion] Dryleaf Robe
+[Reversion] Thioller's Garb
+[Reversion] High Priest Robe
+[Reversion] Dancer's Dress
+[Reversion] Igon's Helm
+[Reversion] Igon's Armor
+[Reversion] Ansbach's Attire
+[Reversion] Freyja's Armor
+[Reversion] Armor of Solitude
+[Reversion] Messmer Soldier Armor
+[Reversion] Fire Knight Armor
+[Reversion] Elden Lord Armor
+[Reversion] Radahn's Lion Armor
+[Reversion] Lord of Blood's Robe
+[Reversion] Maliketh's Armor
+[Reversion] Malenia's Armor
+[Reversion] Messmer's Helm
+[Reversion] Young Lion's Armor
+Ash of War: Impaling Thrust
+Ash of War: Piercing Fang
+Ash of War: Spinning Slash
+Ash of War: Repeating Thrust
+Ash of War: Double Slash
+Ash of War: Unsheathe
+Ash of War: Sword Dance
+Ash of War: Quickstep
+Ash of War: Bloodhound's Step
+Ash of War: Lion's Claw
+Ash of War: Stamp (Upward Cut)
+Ash of War: Stamp (Sweep)
+Ash of War: Wild Strikes
+Ash of War: Earthshaker
+Ash of War: Kick
+Ash of War: Ground Slam
+Ash of War: Hoarah Loux's Earthshaker
+Ash of War: Barbaric Roar
+Ash of War: War Cry
+Ash of War: Troll's Roar
+Ash of War: Braggart's Roar
+Ash of War: Endure
+Ash of War: Charge Forth
+Ash of War: Square Off
+Ash of War: Giant Hunt
+Ash of War: Spinning Strikes
+Ash of War: Storm Assault
+Ash of War: Stormcaller
+Ash of War: Storm Blade
+Ash of War: Vacuum Slice
+Ash of War: Storm Stomp
+Ash of War: Determination
+Ash of War: Royal Knight's Resolve
+Ash of War: Prelate's Charge
+Ash of War: Eruption
+Ash of War: Flaming Strike
+Ash of War: Black Flame Tornado
+Ash of War: Flame of the Redmanes
+Ash of War: Thunderbolt
+Ash of War: Lightning Slash
+Ash of War: Lightning Ram
+Ash of War: Loretta's Slash
+Ash of War: Spinning Weapon
+Ash of War: Glintblade Phalanx
+Ash of War: Glintstone Pebble
+Ash of War: Gravitas
+Ash of War: Carian Grandeur
+Ash of War: Carian Greatsword
+Ash of War: Waves of Darkness
+Ash of War: Cragblade
+Ash of War: Sacred Blade
+Ash of War: Prayerful Strike
+Ash of War: Golden Land
+Ash of War: Sacred Ring of Light
+Ash of War: Golden Slam
+Ash of War: Golden Vow
+Ash of War: Sacred Order
+Ash of War: Shared Order
+Ash of War: Beast's Roar
+Ash of War: Phantom Slash
+Ash of War: Spectral Lance
+Ash of War: Raptor of the Mists
+Ash of War: White Shadow's Lure
+Ash of War: Poison Moth Flight
+Ash of War: Poisonous Mist
+Ash of War: Blood Tax
+Ash of War: Bloody Slash
+Ash of War: Lifesteal Fist
+Ash of War: Blood Blade
+Ash of War: Assassin's Gambit
+Ash of War: Seppuku
+Ash of War: Ice Spear
+Ash of War: Chilling Mist
+Ash of War: Hoarfrost Stomp
+Ash of War: No Skill
+Ash of War: Shield Bash
+Ash of War: Shield Crash
+Ash of War: Barricade Shield
+Ash of War: Parry
+Ash of War: Carian Retaliation
+Ash of War: Storm Wall
+Ash of War: Golden Parry
+Ash of War: Thops's Barrier
+Ash of War: Holy Ground
+Ash of War: Vow of the Indomitable
+Ash of War: Barrage
+Ash of War: Mighty Shot
+Ash of War: Sky Shot
+Ash of War: Through and Through
+Ash of War: Enchanted Shot
+Ash of War: Rain of Arrows
+Ash of War: Dryleaf Whirlwind
+Ash of War: Aspects of the Crucible: Wings
+Ash of War: Spinning Gravity Thrust
+Ash of War: Palm Blast
+Ash of War: Piercing Throw
+Ash of War: Scattershot Throw
+Ash of War: Wall of Sparks
+Ash of War: Rolling Sparks
+Ash of War: Raging Beast
+Ash of War: Savage Claws
+Ash of War: Blind Spot
+Ash of War: Swift Slash
+Ash of War: Overhead Stance
+Ash of War: Wing Stance
+Ash of War: Blinkbolt
+Ash of War: Flame Skewer
+Ash of War: Savage Lion's Claw
+Ash of War: Divine Beast Frost Stomp
+Ash of War: Flame Spear
+Ash of War: Carian Sovereignty
+Ash of War: Shriek of Sorrow
+Ash of War: Ghostflame Call
+Ash of War: The Poison Flower Blooms Twice
+Ash of War: Igon's Drake Hunt
+Ash of War: Shield Strike
+Dagger
+Longsword
+Short Spear
+Mace
+Longbow
+Falchion
+Hand Axe
+Buckler
+Round Shield
+Blue Cloth Cowl
+Blue Cloth Vest
+Warrior Gauntlets
+Warrior Greaves
+Lone Wolf Ashes
+Cracked Pot
+
+Arrow
+String
+Note: Imp Shades
+Note: Flask of Wondrous Physick
+
+Miranda Powder
+
+[Incantation] Dragonfire
+[Incantation] Agheel's Flame
+[Incantation] Magma Breath
+[Incantation] Dragonice
+[Incantation] Rotten Breath
+[Incantation] Dragonfire
+[Incantation] Agheel's Flame
+[Incantation] Magma Breath
+[Incantation] Dragonice
+[Incantation] Rotten Breath
+[Incantation] Dragonfire
+[Incantation] Agheel's Flame
+[Incantation] Magma Breath
+[Incantation] Dragonice
+[Incantation] Rotten Breath
+[Incantation] Dragonfire
+[Incantation] Agheel's Flame
+[Incantation] Magma Breath
+[Incantation] Dragonice
+[Incantation] Rotten Breath
+Dagger
+Longsword
+Short Spear
+Mace
+Longbow
+Falchion
+Hand Axe
+Buckler
+Round Shield
+Blue Cloth Cowl
+Blue Cloth Vest
+Warrior Gauntlets
+Warrior Greaves
+
+Cracked Pot
+
+Arrow
+String
+Note: Imp Shades
+Note: Flask of Wondrous Physick
+
+Miranda Powder
+
+Glintstone Staff
+Finger Seal
+Clawmark Seal
+[Sorcery] Glintstone Pebble
+[Sorcery] Stars of Ruin
+
+[Incantation] Flame
+[Incantation] Frenzied Burst
+Carian Knight Helm
+Carian Knight Armor (Altered)
+Carian Knight Gauntlets
+Carian Knight Greaves
+Champion Headband
+Champion Pauldron
+Champion Bracers
+Champion Gaiters
+Crimson Amber Medallion
+Axe Talisman
+Fire Arrow
+Note: Stonedigger Trolls
+Forked Greatsword
+Iron Greatsword
+Lordsworn's Greatsword
+Knight's Greatsword
+Ordovis's Greatsword
+Omen Helm
+Omen Armor
+Omen Gauntlets
+Omen Greaves
+
+
+

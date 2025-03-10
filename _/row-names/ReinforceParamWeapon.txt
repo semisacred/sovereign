@@ -1,0 +1,915 @@
+Standard +0
+Standard +1
+Standard +2
+Standard +3
+Standard +4
+Standard +5
+Standard +6
+Standard +7
+Standard +8
+Standard +9
+Standard +10
+Standard +11
+Standard +12
+Standard +13
+Standard +14
+Standard +15
+Standard +16
+Standard +17
+Standard +18
+Standard +19
+Standard +20
+Standard +21
+Standard +22
+Standard +23
+Standard +24
+Standard +25
+Heavy +0
+Heavy +1
+Heavy +2
+Heavy +3
+Heavy +4
+Heavy +5
+Heavy +6
+Heavy +7
+Heavy +8
+Heavy +9
+Heavy +10
+Heavy +11
+Heavy +12
+Heavy +13
+Heavy +14
+Heavy +15
+Heavy +16
+Heavy +17
+Heavy +18
+Heavy +19
+Heavy +20
+Heavy +21
+Heavy +22
+Heavy +23
+Heavy +24
+Heavy +25
+Keen +0
+Keen +1
+Keen +2
+Keen +3
+Keen +4
+Keen +5
+Keen +6
+Keen +7
+Keen +8
+Keen +9
+Keen +10
+Keen +11
+Keen +12
+Keen +13
+Keen +14
+Keen +15
+Keen +16
+Keen +17
+Keen +18
+Keen +19
+Keen +20
+Keen +21
+Keen +22
+Keen +23
+Keen +24
+Keen +25
+Quality +0
+Quality +1
+Quality +2
+Quality +3
+Quality +4
+Quality +5
+Quality +6
+Quality +7
+Quality +8
+Quality +9
+Quality +10
+Quality +11
+Quality +12
+Quality +13
+Quality +14
+Quality +15
+Quality +16
+Quality +17
+Quality +18
+Quality +19
+Quality +20
+Quality +21
+Quality +22
+Quality +23
+Quality +24
+Quality +25
+Fire +0
+Fire +1
+Fire +2
+Fire +3
+Fire +4
+Fire +5
+Fire +6
+Fire +7
+Fire +8
+Fire +9
+Fire +10
+Fire +11
+Fire +12
+Fire +13
+Fire +14
+Fire +15
+Fire +16
+Fire +17
+Fire +18
+Fire +19
+Fire +20
+Fire +21
+Fire +22
+Fire +23
+Fire +24
+Fire +25
+Flame Art +0
+Flame Art +1
+Flame Art +2
+Flame Art +3
+Flame Art +4
+Flame Art +5
+Flame Art +6
+Flame Art +7
+Flame Art +8
+Flame Art +9
+Flame Art +10
+Flame Art +11
+Flame Art +12
+Flame Art +13
+Flame Art +14
+Flame Art +15
+Flame Art +16
+Flame Art +17
+Flame Art +18
+Flame Art +19
+Flame Art +20
+Flame Art +21
+Flame Art +22
+Flame Art +23
+Flame Art +24
+Flame Art +25
+Lightning +0
+Lightning +1
+Lightning +2
+Lightning +3
+Lightning +4
+Lightning +5
+Lightning +6
+Lightning +7
+Lightning +8
+Lightning +9
+Lightning +10
+Lightning +11
+Lightning +12
+Lightning +13
+Lightning +14
+Lightning +15
+Lightning +16
+Lightning +17
+Lightning +18
+Lightning +19
+Lightning +20
+Lightning +21
+Lightning +22
+Lightning +23
+Lightning +24
+Lightning +25
+Sacred +0
+Sacred +1
+Sacred +2
+Sacred +3
+Sacred +4
+Sacred +5
+Sacred +6
+Sacred +7
+Sacred +8
+Sacred +9
+Sacred +10
+Sacred +11
+Sacred +12
+Sacred +13
+Sacred +14
+Sacred +15
+Sacred +16
+Sacred +17
+Sacred +18
+Sacred +19
+Sacred +20
+Sacred +21
+Sacred +22
+Sacred +23
+Sacred +24
+Sacred +25
+Magic +0
+Magic +1
+Magic +2
+Magic +3
+Magic +4
+Magic +5
+Magic +6
+Magic +7
+Magic +8
+Magic +9
+Magic +10
+Magic +11
+Magic +12
+Magic +13
+Magic +14
+Magic +15
+Magic +16
+Magic +17
+Magic +18
+Magic +19
+Magic +20
+Magic +21
+Magic +22
+Magic +23
+Magic +24
+Magic +25
+Cold +0
+Cold +1
+Cold +2
+Cold +3
+Cold +4
+Cold +5
+Cold +6
+Cold +7
+Cold +8
+Cold +9
+Cold +10
+Cold +11
+Cold +12
+Cold +13
+Cold +14
+Cold +15
+Cold +16
+Cold +17
+Cold +18
+Cold +19
+Cold +20
+Cold +21
+Cold +22
+Cold +23
+Cold +24
+Cold +25
+Poison +0
+Poison +1
+Poison +2
+Poison +3
+Poison +4
+Poison +5
+Poison +6
+Poison +7
+Poison +8
+Poison +9
+Poison +10
+Poison +11
+Poison +12
+Poison +13
+Poison +14
+Poison +15
+Poison +16
+Poison +17
+Poison +18
+Poison +19
+Poison +20
+Poison +21
+Poison +22
+Poison +23
+Poison +24
+Poison +25
+Blood +0
+Blood +1
+Blood +2
+Blood +3
+Blood +4
+Blood +5
+Blood +6
+Blood +7
+Blood +8
+Blood +9
+Blood +10
+Blood +11
+Blood +12
+Blood +13
+Blood +14
+Blood +15
+Blood +16
+Blood +17
+Blood +18
+Blood +19
+Blood +20
+Blood +21
+Blood +22
+Blood +23
+Blood +24
+Blood +25
+Occult +0
+Occult +1
+Occult +2
+Occult +3
+Occult +4
+Occult +5
+Occult +6
+Occult +7
+Occult +8
+Occult +9
+Occult +10
+Occult +11
+Occult +12
+Occult +13
+Occult +14
+Occult +15
+Occult +16
+Occult +17
+Occult +18
+Occult +19
+Occult +20
+Occult +21
+Occult +22
+Occult +23
+Occult +24
+Occult +25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Standard Catalyst +0
+Standard Catalyst +1
+Standard Catalyst +2
+Standard Catalyst +3
+Standard Catalyst +4
+Standard Catalyst +5
+Standard Catalyst +6
+Standard Catalyst +7
+Standard Catalyst +8
+Standard Catalyst +9
+Standard Catalyst +10
+Standard Catalyst +11
+Standard Catalyst +12
+Standard Catalyst +13
+Standard Catalyst +14
+Standard Catalyst +15
+Standard Catalyst +16
+Standard Catalyst +17
+Standard Catalyst +18
+Standard Catalyst +19
+Standard Catalyst +20
+Standard Catalyst +21
+Standard Catalyst +22
+Standard Catalyst +23
+Standard Catalyst +24
+Standard Catalyst +25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unique +0
+Unique +1
+Unique +2
+Unique +3
+Unique +4
+Unique +5
+Unique +6
+Unique +7
+Unique +8
+Unique +9
+Unique +10
+Unique Catalyst +0
+Unique Catalyst +1
+Unique Catalyst +2
+Unique Catalyst +3
+Unique Catalyst +4
+Unique Catalyst +5
+Unique Catalyst +6
+Unique Catalyst +7
+Unique Catalyst +8
+Unique Catalyst +9
+Unique Catalyst +10
+Unique Catalyst +11
+Unique Catalyst +12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Reinforcement
+Standard - Crossbow/Ballista +0
+Standard - Crossbow/Ballista +1
+Standard - Crossbow/Ballista +2
+Standard - Crossbow/Ballista +3
+Standard - Crossbow/Ballista +4
+Standard - Crossbow/Ballista +5
+Standard - Crossbow/Ballista +6
+Standard - Crossbow/Ballista +7
+Standard - Crossbow/Ballista +8
+Standard - Crossbow/Ballista +9
+Standard - Crossbow/Ballista +10
+Standard - Crossbow/Ballista +11
+Standard - Crossbow/Ballista +12
+Standard - Crossbow/Ballista +13
+Standard - Crossbow/Ballista +14
+Standard - Crossbow/Ballista +15
+Standard - Crossbow/Ballista +16
+Standard - Crossbow/Ballista +17
+Standard - Crossbow/Ballista +18
+Standard - Crossbow/Ballista +19
+Standard - Crossbow/Ballista +20
+Standard - Crossbow/Ballista +21
+Standard - Crossbow/Ballista +22
+Standard - Crossbow/Ballista +23
+Standard - Crossbow/Ballista +24
+Standard - Crossbow/Ballista +25
+Unique - Crossbow/Ballista +0
+Unique - Crossbow/Ballista +1
+Unique - Crossbow/Ballista +2
+Unique - Crossbow/Ballista +3
+Unique - Crossbow/Ballista +4
+Unique - Crossbow/Ballista +5
+Unique - Crossbow/Ballista +6
+Unique - Crossbow/Ballista +7
+Unique - Crossbow/Ballista +8
+Unique - Crossbow/Ballista +9
+Unique - Crossbow/Ballista +10
+Pulley Crossbow +0
+Pulley Crossbow +1
+Pulley Crossbow +2
+Pulley Crossbow +3
+Pulley Crossbow +4
+Pulley Crossbow +5
+Pulley Crossbow +6
+Pulley Crossbow +7
+Pulley Crossbow +8
+Pulley Crossbow +9
+Pulley Crossbow +10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Special - Keen +0
+Special - Keen +1
+Special - Keen +2
+Special - Keen +3
+Special - Keen +4
+Special - Keen +5
+Special - Keen +6
+Special - Keen +7
+Special - Keen +8
+Special - Keen +9
+Special - Keen +10
+Special - Keen +11
+Special - Keen +12
+Special - Keen +13
+Special - Keen +14
+Special - Keen +15
+Special - Keen +16
+Special - Keen +17
+Special - Keen +18
+Special - Keen +19
+Special - Keen +20
+Special - Keen +21
+Special - Keen +22
+Special - Keen +23
+Special - Keen +24
+Special - Keen +25
+Special - Heavy +0
+Special - Heavy +1
+Special - Heavy +2
+Special - Heavy +3
+Special - Heavy +4
+Special - Heavy +5
+Special - Heavy +6
+Special - Heavy +7
+Special - Heavy +8
+Special - Heavy +9
+Special - Heavy +10
+Special - Heavy +11
+Special - Heavy +12
+Special - Heavy +13
+Special - Heavy +14
+Special - Heavy +15
+Special - Heavy +16
+Special - Heavy +17
+Special - Heavy +18
+Special - Heavy +19
+Special - Heavy +20
+Special - Heavy +21
+Special - Heavy +22
+Special - Heavy +23
+Special - Heavy +24
+Special - Heavy +25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Small Shield +0
+Small Shield +1
+Small Shield +2
+Small Shield +3
+Small Shield +4
+Small Shield +5
+Small Shield +6
+Small Shield +7
+Small Shield +8
+Small Shield +9
+Small Shield +10
+Small Shield +11
+Small Shield +12
+Small Shield +13
+Small Shield +14
+Small Shield +15
+Small Shield +16
+Small Shield +17
+Small Shield +18
+Small Shield +19
+Small Shield +20
+Small Shield +21
+Small Shield +22
+Small Shield +23
+Small Shield +24
+Small Shield +25
+Medium Shield +0
+Medium Shield +1
+Medium Shield +2
+Medium Shield +3
+Medium Shield +4
+Medium Shield +5
+Medium Shield +6
+Medium Shield +7
+Medium Shield +8
+Medium Shield +9
+Medium Shield +10
+Medium Shield +11
+Medium Shield +12
+Medium Shield +13
+Medium Shield +14
+Medium Shield +15
+Medium Shield +16
+Medium Shield +17
+Medium Shield +18
+Medium Shield +19
+Medium Shield +20
+Medium Shield +21
+Medium Shield +22
+Medium Shield +23
+Medium Shield +24
+Medium Shield +25
+Greatshield +0
+Greatshield +1
+Greatshield +2
+Greatshield +3
+Greatshield +4
+Greatshield +5
+Greatshield +6
+Greatshield +7
+Greatshield +8
+Greatshield +9
+Greatshield +10
+Greatshield +11
+Greatshield +12
+Greatshield +13
+Greatshield +14
+Greatshield +15
+Greatshield +16
+Greatshield +17
+Greatshield +18
+Greatshield +19
+Greatshield +20
+Greatshield +21
+Greatshield +22
+Greatshield +23
+Greatshield +24
+Greatshield +25
+Unique - Greatshield +0
+Unique - Greatshield +1
+Unique - Greatshield +2
+Unique - Greatshield +3
+Unique - Greatshield +4
+Unique - Greatshield +5
+Unique - Greatshield +6
+Unique - Greatshield +7
+Unique - Greatshield +8
+Unique - Greatshield +9
+Unique - Greatshield +10
+Coil Shield +0
+Coil Shield +1
+Coil Shield +2
+Coil Shield +3
+Coil Shield +4
+Coil Shield +5
+Coil Shield +6
+Coil Shield +7
+Coil Shield +8
+Coil Shield +9
+Coil Shield +10
+
+
+
+
+
+
+
+
+
+
+
