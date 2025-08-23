@@ -6,11 +6,74 @@
 ------------------------------------------
 -- Version 4 for ER version 1.15.1
 ------------------------------------------
--- Changelog:
--- 2023-02-14 - Vawser: Cleaned up and added.
--- 2024-06-28 - Exelot: Recreated to update to ER v1.12.1 [DLC Initial Release]
--- 2024-07-30 - Exelot: Updated to ER v1.13
--- 2024-10-03 - Exelot: Named almost all remaining acts and envs thanks to a list provided by ElaDiDu. Some of the existing ones have been renamed.
+--
+------------------------------------------
+-- Mod Variable Initialization
+------------------------------------------
+-- Script Exposer
+TraversePointerChain = 10000
+GAME_BASE = 0
+CHR_INS_BASE = 1
+TARGET_CHR_INS_BASE = 2
+UNSIGNED_BYTE = 0
+SIGNED_BYTE = 1
+UNSIGNED_SHORT = 2
+SIGNED_SHORT = 3
+UNSIGNED_INT = 4
+SIGNED_INT = 5
+FLOAT = 6
+BIT = 7
+
+CHR_MODULES = 0x190
+DATA_MODULE = 0x0
+FP_MAX = 0x14C
+HP_MAX = 0x144
+FP = 0x148
+GetEventFlag = 10003
+
+------------------------------------------
+-- Nemesis
+------------------------------------------
+function ModNemesis()
+    if env(GetSpEffectType, 7597) == TRUE and env(GetSpEffectType, 7589) == FALSE then
+        if env(GetSpEffectType, 7599) == TRUE then
+            if env(GetEventFlag, "1055420000") == 1 and env(GetSpEffectID, 1626912) == FALSE then
+                act(AddSpEffect, 1626949)
+            elseif env(GetEventFlag, "1055420000") == 0 and env(GetSpEffectID, 1626912) == TRUE then
+                act(AddSpEffect, 1626928)
+                act(AddSpEffect, 1626929)
+            end
+        elseif env(GetSpEffectID, 1626912) == TRUE then
+            if env(GetSpEffectID, 5271) == TRUE then
+                act(AddSpEffect, 1626951)
+            elseif env(GetSpEffectID, 5272) == TRUE then
+                act(AddSpEffect, 1626952)
+            elseif env(GetSpEffectID, 5273) == TRUE then
+                act(AddSpEffect, 1626953)
+            else
+                act(AddSpEffect, 1626950)
+            end
+            act(AddSpEffect, 296010)
+            act(AddSpEffect, 297000)
+        elseif env(GetEventFlag, "1055420010") == 1 then
+            if env(GetSpEffectID, 5271) == TRUE then
+                act(AddSpEffect, 1626951)
+                act(AddSpEffect, 1626959)
+            elseif env(GetSpEffectID, 5272) == TRUE then
+                act(AddSpEffect, 1626952)
+                act(AddSpEffect, 1626959)
+            elseif env(GetSpEffectID, 5273) == TRUE then
+                act(AddSpEffect, 1626953)
+                act(AddSpEffect, 1626959)
+            else
+                act(AddSpEffect, 1626950)
+                act(AddSpEffect, 1626959)
+            end
+        end
+    elseif env(GetSpEffectType, 7589) == TRUE and env(GetEventFlag, "1055420010") == 1 then
+        act(AddSpEffect, 5254)
+    end
+end
 
 ------------------------------------------
 -- Core: Functions
@@ -101,40 +164,120 @@ function SoulDropUp()
         IS_INITIALIZED_SOUL_DROP_UP = TRUE
         return
     end
-    local feversoul = math.random(1000)
-    local feverchance = 0
+    -- SACRED Nemesis & Golden Eyes Chance
+    local nemesissoul = math.random(1000)
+    if env(GetEventFlag, "1055420000") == 1 then 
+        nemesissoul = 9999
+    elseif env(GetEventFlag, "1055420010") == 1 then 
+        nemesissoul = 0
+    elseif env(GetEventFlag, 187) == 1 then 
+        nemesissoul = math.random(60)
+    elseif env(GetEventFlag, 186) == 1 then 
+        nemesissoul = math.random(70)
+    elseif env(GetEventFlag, 185) == 1 then 
+        nemesissoul = math.random(80)
+    elseif env(GetEventFlag, 184) == 1 then 
+        nemesissoul = math.random(90)
+    elseif env(GetEventFlag, 183) == 1 then 
+        nemesissoul = math.random(100)
+    elseif env(GetEventFlag, 182) == 1 then 
+        nemesissoul = math.random(110)
+    elseif env(GetEventFlag, 181) == 1 then 
+        nemesissoul = math.random(120)
+    elseif env(GetEventFlag, 180) == 1 then 
+        nemesissoul = math.random(240)
+    end
+    local nemesischance = 0
     if env(GetSpEffectID, 5269) == TRUE then
-        feverchance = 1000
+        nemesischance = 1000
     elseif env(GetSpEffectID, 5268) == TRUE then
-        feverchance = 500
+        nemesischance = 500
     elseif env(GetSpEffectID, 5267) == TRUE then
-        feverchance = 300
+        nemesischance = 300
     elseif env(GetSpEffectID, 5266) == TRUE then
-        feverchance = 100
+        nemesischance = 100
     elseif env(GetSpEffectID, 5265) == TRUE then
-        feverchance = 50
+        nemesischance = 50
     elseif env(GetSpEffectID, 5264) == TRUE then
-        feverchance = 30
+        nemesischance = 30
     elseif env(GetSpEffectID, 5263) == TRUE then
-        feverchance = 20
+        nemesischance = 20
     elseif env(GetSpEffectID, 5262) == TRUE then
-        feverchance = 10
+        nemesischance = 10
     elseif env(GetSpEffectID, 5261) == TRUE then
-        feverchance = 5
+        nemesischance = 5
     end
-    if feverchance > 0 and feversoul <= feverchance then
+    if nemesischance > 0 and nemesissoul <= nemesischance then
         if env(GetSpEffectID, 5271) == TRUE then
-            act(AddSpEffect, 5251)
+            act(AddSpEffect, 1626951)
+            act(AddSpEffect, 1626959)
         elseif env(GetSpEffectID, 5272) == TRUE then
-            act(AddSpEffect, 5252)
+            act(AddSpEffect, 1626952)
+            act(AddSpEffect, 1626959)
         elseif env(GetSpEffectID, 5273) == TRUE then
-            act(AddSpEffect, 5253)
+            act(AddSpEffect, 1626953)
+            act(AddSpEffect, 1626959)
         else
-            act(AddSpEffect, 5250)
+            act(AddSpEffect, 1626950)
+            act(AddSpEffect, 1626959)
         end
-    else
-        act(AddSpEffect, 5255)
     end
+    if env(GetSpEffectType, 7599) == FALSE then
+        local feversoul = math.random(1000)
+        if env(GetEventFlag, "1055420000") == 0 then 
+            feversoul = math.random(1000)
+        elseif env(GetEventFlag, 187) == 1 then 
+            feversoul = math.random(60)
+        elseif env(GetEventFlag, 186) == 1 then 
+            feversoul = math.random(70)
+        elseif env(GetEventFlag, 185) == 1 then 
+            feversoul = math.random(80)
+        elseif env(GetEventFlag, 184) == 1 then 
+            feversoul = math.random(90)
+        elseif env(GetEventFlag, 183) == 1 then 
+            feversoul = math.random(100)
+        elseif env(GetEventFlag, 182) == 1 then 
+            feversoul = math.random(110)
+        elseif env(GetEventFlag, 181) == 1 then 
+            feversoul = math.random(120)
+        elseif env(GetEventFlag, 180) == 1 then 
+            feversoul = math.random(240)
+        end
+        local feverchance = 0
+        if env(GetSpEffectID, 5269) == TRUE then
+            feverchance = 1000
+        elseif env(GetSpEffectID, 5268) == TRUE then
+            feverchance = 500
+        elseif env(GetSpEffectID, 5267) == TRUE then
+            feverchance = 300
+        elseif env(GetSpEffectID, 5266) == TRUE then
+            feverchance = 100
+        elseif env(GetSpEffectID, 5265) == TRUE then
+            feverchance = 50
+        elseif env(GetSpEffectID, 5264) == TRUE then
+            feverchance = 30
+        elseif env(GetSpEffectID, 5263) == TRUE then
+            feverchance = 20
+        elseif env(GetSpEffectID, 5262) == TRUE then
+            feverchance = 10
+        elseif env(GetSpEffectID, 5261) == TRUE then
+            feverchance = 5
+        end
+        if feverchance > 0 and feversoul <= feverchance then
+            if env(GetSpEffectID, 5271) == TRUE then
+                act(AddSpEffect, 5251)
+            elseif env(GetSpEffectID, 5272) == TRUE then
+                act(AddSpEffect, 5252)
+            elseif env(GetSpEffectID, 5273) == TRUE then
+                act(AddSpEffect, 5253)
+            else
+                act(AddSpEffect, 5250)
+            end
+        else
+            act(AddSpEffect, 5255)
+        end
+    end
+    -- SACRED
     IS_INITIALIZED_SOUL_DROP_UP = TRUE
 end
 
@@ -11842,9 +11985,17 @@ function Update()
         SetVariable("TalkHeadBlend00", 0.10000000149011612)
         Fire("W_TalkHeadBlend00")
     end
-    SoulDropUp()
-    GolemConfusion()
-    ParryResist()
+    -- SACRED Enemy Active Functions
+    local modEnemyFrameCount = g_FrameCount % 3
+    if modEnemyFrameCount == 0 then
+        SoulDropUp()
+    elseif modEnemyFrameCount == 1 then
+        GolemConfusion()
+        ParryResist()
+    else
+        ModNemesis()
+    end
+    -- SACRED
 end
 
 

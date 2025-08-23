@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tpf>
+  <filename>WP_A_0868.tpf</filename>
+  <compression>None</compression>
+  <encoding>0x01</encoding>
+  <flag2>0x03</flag2>
+  <platform>PC</platform>
+  <textures>
+    <texture>
+      <name>WP_A_0868A_a.dds</name>
+      <format>0</format>
+      <flags1>0x00</flags1>
+    </texture>
+    <texture>
+      <name>WP_A_0868A_n.dds</name>
+      <format>106</format>
+      <flags1>0x00</flags1>
+    </texture>
+    <texture>
+      <name>WP_A_0868B_a.dds</name>
+      <format>0</format>
+      <flags1>0x00</flags1>
+    </texture>
+    <texture>
+      <name>WP_A_0868B_n.dds</name>
+      <format>106</format>
+      <flags1>0x00</flags1>
+    </texture>
+    <texture>
+      <name>WP_A_0868C_a.dds</name>
+      <format>0</format>
+      <flags1>0x00</flags1>
+    </texture>
+    <texture>
+      <name>WP_A_0868E_a.dds</name>
+      <format>106</format>
+      <flags1>0x00</flags1>
+    </texture>
+    <texture>
+      <name>WP_A_0868E_m.dds</name>
+      <format>106</format>
+      <flags1>0x00</flags1>
+    </texture>
+  </textures>
+</tpf>

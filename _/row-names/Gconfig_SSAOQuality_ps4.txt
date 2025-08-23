@@ -1,5 +1,0 @@
-Disable
-Low
-Middle
-High
-Ultra

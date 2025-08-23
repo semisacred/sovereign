@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bnd4>
+  <filename>wp_a_0868.partsbnd.dcx</filename>
+  <compression>DCX_KRAK</compression>
+  <compressionLevel>6</compressionLevel>
+  <root>N:\GR\data\INTERROOT_win64\parts\Weapon\WP_A_0868</root>
+  <version>07D7R6</version>
+  <format>IDs, Names1, Names2, Compression</format>
+  <bigendian>False</bigendian>
+  <bitbigendian>False</bitbigendian>
+  <unicode>True</unicode>
+  <extended>0x04</extended>
+  <unk04>False</unk04>
+  <unk05>False</unk05>
+  <files>
+    <file>
+      <flags>Flag1</flags>
+      <id>100</id>
+      <path>WP_A_0868.tpf</path>
+    </file>
+    <file>
+      <flags>Flag1</flags>
+      <id>200</id>
+      <path>WP_A_0868.flver</path>
+    </file>
+    <file>
+      <flags>Flag1</flags>
+      <id>800</id>
+      <path>WP_A_0867_collidable.hkx</path>
+    </file>
+    <file>
+      <flags>Flag1</flags>
+      <id>800</id>
+      <path>WP_A_0868_collidable.hkx</path>
+    </file>
+  </files>
+</bnd4>
