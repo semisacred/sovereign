@@ -1,6 +1,6 @@
-#-------------------------------------------
+# ------------------------------------------
 # SOVEREIGN by semisacred
-#-------------------------------------------
+# ------------------------------------------
 todo boss Modifier and explroe exact npc changes by remoing all modifier changes
 redo a000-a016
 damage rebalance
@@ -73,8 +73,6 @@ does faetsever needle actually work for endings
 
 
 
-
-
 # DIFFICULTY--------------------------------
 Base
     SpEffectParam(7360, 19351->19370, 296000, 20007200->20007350)
@@ -93,7 +91,7 @@ Nemesis:
     ItemLotParam_map(8000->8210)
     SpEffectParam(5250->5269, 297000, 1626949->1626998)
     SpEffectVfxParam(7505940->7505964)
-#-------------------------------------------
+# ------------------------------------------
 
 # GENERAL-----------------------------------
 Deflection:
@@ -131,7 +129,7 @@ Lava Damage:
     AtkParam_Npc(280000)
 Torrent:
     SpEffectParam(204, 291->297)
-#-------------------------------------------
+# ------------------------------------------
 
 # GREAT RUNES-------------------------------
 Godrick's Great Rune:
@@ -149,7 +147,7 @@ Mohgs's Great Rune:
     SpEffectParam(575->577, 640)
 Malenia's Great Rune:
     SpEffectParam(580, 650->653, 2015->2022)
-#-------------------------------------------
+# ------------------------------------------
 
 # OATHS-------------------------------------
 Oath of Order / Golden Order:
@@ -165,7 +163,7 @@ Oath of Sin:
     Bullet(10490003)
     SpEffectParam(1626911->1626927)
     SpEffectVfxParam(7505970->7505977)
-#-------------------------------------------
+# ------------------------------------------
 
 # BUFFS-------------------------------------
 Endure:
@@ -182,7 +180,7 @@ Divinity:
     PhantomParam(100)
     SpEffectParam(1626080->1626084, 7505195, 7505196, 7505199, 7505200)
     SpEffectVfxParam(52405, 7505000, 7505001, 7505195, 7505196, 7505199, 7505200)
-#-------------------------------------------
+# ------------------------------------------
 
 # WEAPONS-----------------------------------
 Blasphemous Blade:
@@ -247,7 +245,7 @@ Fallingstar Obliterator:
 Mohgwyn's Sacred Spear:
     BehaviorParam_PC(300000057)
     SpEffectParam(1627, 1629, 1626750->1626753)
-#-------------------------------------------
+# ------------------------------------------
 
 # SKILLS------------------------------------
 Black Sun's Zenith:
@@ -280,7 +278,7 @@ Sovereign Fury:
     SwordArtsParam(655, 656)  
 Harness Void Eye:
     SwordArtsParam(660)
-#-------------------------------------------
+# ------------------------------------------
 
 # SPELLS------------------------------------
 Dragon Communion Incantations:
@@ -334,7 +332,7 @@ Flame Fortification/Magic Fortification/Lightning Fortification/Divine Fortifica
 Black Flame's Protection/Flame, Protect Me/Barrier of Gold/Golden Lightning Fortification/Lord's Divine Fortification/Protection of the Erdtree:
     SpEffectParam(1627000, 1606000, 1633000, 1790300, 1649000, 1634000) 
     SpEffectVfxParam(1627000, 1606000, 1633000, 1790300, 1649000, 1634000) 
-#-------------------------------------------
+# ------------------------------------------
 
 # ARMOR-------------------------------------
 Scaled / Scorched Armor:
@@ -348,7 +346,7 @@ Gyre's War Hat:
     EquipParamProtector(100000, 110000)   
     ItemLotParam_map(13000831, 18000050)
     SpEffectParam(311001)
-#-------------------------------------------
+# ------------------------------------------
 
 # TALISMANS---------------------------------
 Erdtree's Favor +3:
@@ -383,7 +381,7 @@ Perfect Runeseal:
     EquipParamAccessory(6900) 
     ItemLotParam_map(6900)
     SpEffectParam(1626540)
-#-------------------------------------------
+# ------------------------------------------
 
 # ITEMS-------------------------------------
 Rune Arc:
@@ -421,7 +419,7 @@ Mohg's Shackle:
     Bullet(10214998, 10215000->10215010)
     SpEffectParam(1626118->1626153, 1626360->1626367)
     SpEffectVfxParam(7505527, 7505529)
-#-------------------------------------------
+# ------------------------------------------
 
 # PHYSICK-----------------------------------
 Flask of Wondrous Physick:
@@ -439,7 +437,7 @@ Deflecting Hardtear:
     EquipParamGoods(2011070)
     SpEffectParam(101999, 102046, 102070, 102071, 7505193, 7505194, 7505197, 7505198)
     SpEffectParamVfx(7505193, 7505194, 7505197, 7505198)
-#-------------------------------------------
+# ------------------------------------------
 
 # MISCELLANEOUS-----------------------------
     Animation Cancel/Control SpEffects:
@@ -495,7 +493,7 @@ Deflecting Hardtear:
     Bullet(10463000, 10463001)
     Magic(4630)
     SpEffectParam(1626017)
-#-------------------------------------------
+# ------------------------------------------
 
 # TEXT -------------------------------------
 GOODS
@@ -1254,7 +1252,7 @@ OTHER
     GoodsDialog(10010670): Rune loss prevented
     GoodsDialog(10010680): Rune loss prevented
     GoodsDialog(10010830): Use Miquella's Needle?
-#-------------------------------------------
+# ------------------------------------------
 
 # ANIMATIONS--------------------------------
 c0000.anibnd:
@@ -1375,7 +1373,7 @@ c0000.behbnd:
         a005_000029 = "W_Sovereign6"
     a979: 
         For each animation ending in “70”: set Start Time from Value to Binding, search TimeActEditor_10, and confirm.
-#-------------------------------------------
+# ------------------------------------------
 
 # EVENT-------------------------------------
 Event Flags:
@@ -1511,7 +1509,7 @@ m61_45_44_00.emevd:
 m61_54_39_00.emevd:
     Event 5750225 - Ancient Dragon Communion Message
     Event 5750226 - Ancient Dragon Communion Message
-#-------------------------------------------
+# ------------------------------------------
 
 # MAP---------------------------------------
 m18_00_00_00.msb:
@@ -1525,7 +1523,7 @@ m18_00_00_00.msb:
         PhantomParam(101)
 m60_43_50_00.msb:
     GEQ's Grave
-#-------------------------------------------
+# ------------------------------------------
 
 # SCRIPT------------------------------------
 m10_00_00_00.talkesdbnd:
@@ -1537,7 +1535,7 @@ m60_00_00_00.talkesdbnd:
     t112006000.esd: Award Perfect Runeseal
 m61_00_00_00.talkesdbnd:
     t630006100.esd: Ancient Dragon Communion
-#-------------------------------------------
+# ------------------------------------------
 
 # SFX---------------------------------------
 sfxbnd_commoneffects.ffxbnd
@@ -1794,13 +1792,13 @@ sfxbnd_commoneffects.ffxbnd
     Ultimate Attack:
     7505990 f007505990.fxr (Ultimate Attack Force Wave)
     7505991 f007505991.fxr (Ultimate Attack Ground Wave)
-#-------------------------------------------
+# ------------------------------------------
 
 # CREDITS-----------------------------------
 Blubber515 - Player Animation Repositories Collection
 Lraty - Chat with Melina
 VlZZO - Sekiro Deflection
-#-------------------------------------------
+# ------------------------------------------
 
 # HOW TO------------------------------------
 Editing models in Blender:
@@ -1811,4 +1809,4 @@ Editing models in Blender:
     5. use bounding box calculator patch on .flver
 Editing animations in Blender:
     https://www.youtube.com/watch?v=5M5uSVgCAZw
-#-------------------------------------------
+# ------------------------------------------
