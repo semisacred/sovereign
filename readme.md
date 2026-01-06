@@ -53,10 +53,6 @@ Simply perform the **Dejection** gesture to yield to Nemesis and gain the **Male
 
 Know this: equipping the Malefic Woundseal binds you wholly to the Blood Star’s will. Once bound, there is no hiding from its wrath. Remove the Woundseal and relentless assaults will follow. However, fate can be cheated.
 
-<p align="center">
-  <img src="https://i.imgur.com/ncRJMv5.gif" />
-</p>
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
 <br><br>
@@ -153,10 +149,6 @@ Jump attacks deal progressively more damage the longer you fall, from **+30% to 
 <h3>Deadly Lava</h3>
 Lava deals **5x damage**. No more lava baths.
 
-<p align="center">
-  <img src="https://i.imgur.com/it27pb9.gif" />
-</p>
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
 <br><br>
@@ -190,10 +182,6 @@ Lava deals **5x damage**. No more lava baths.
 
 <h3>Mohg’s Great Rune</h3>
 - **Passive:** +50% Blood Ability damage for 15s on bloodloss near you
-
-<p align="center">
-  <img src="https://i.imgur.com/it27pb9.gif" />
-</p>
 
 ![](https://i.imgur.com/nVQxyYq.png)
 
@@ -378,10 +366,6 @@ Default Skill: Barbaric Roar.
 - **1H Crouch Attack:** Crush — brutal downward strike
 - **2H Crouch Attack:** Bloody Smash — fuel a terrible bloodflame with your own blood, then smash down
 - **Special Attack:** Bloodflame Earthshaker — earth-shaking shockwave and explosive bloodflame blast
-
-<p align="center">
-  <img src="https://i.imgur.com/it27pb9.gif" />
-</p>
 
 ![](https://i.imgur.com/nVQxyYq.png)
 
