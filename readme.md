@@ -259,12 +259,6 @@ Using **Margit’s Shackle** can temporarily halt the affliction, while equippin
 
 ![](https://i.imgur.com/aEl1KPb.png)
 
-![](https://i.imgur.com/BoddBbA.png)
-
-<p align="center">
-  <img src="https://i.imgur.com/PDBhsYA.gif" />
-</p>
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
 <br><br>
@@ -319,12 +313,6 @@ Requires **Ascension Sigil** from Dragon Communion progression.
 +50 FP/s, +50 SP/s, +50% Holy damage negation, fades on damage taken. Allows animation cancelling and holds all effects at their current duration, letting you stack as many effects as possible as long as you remain undamaged. Can momentarily mitigate the overwhelming power of Destined Death.
 
 ![](https://i.imgur.com/ldFCPnt.png)
-
-![](https://i.imgur.com/BoddBbA.png)
-
-<p align="center">
-  <img src="https://i.imgur.com/mKOT8z8.gif" />
-</p>
 
 ![](https://i.imgur.com/nVQxyYq.png)
 
