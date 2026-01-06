@@ -7,13 +7,14 @@
 Tarnished warrior, fated to walk a dark and perilous path, seize the essence of dragons, for their strength is yours with each heart devoured. Seek the last vestige of the gloam-eyed, for it will be your vessel. Battle the demi-gods and open the way to the realm of shadow. Commune with the ancients and channel their primeval rage. Thwart the meddling of Miquella, and gain access to the Divine Gate. There, with an Empyrean vessel, the power of the Great Runes, and the fury of the Elderblood, grasp Divinity as a sword drawn from your own blood. Only then shall you stand against the overwhelming might of Destined Death.
 
 > ***Art thou fated to rise as Sovereign, or be unmade upon the path?***
-
+>
 <p align="center">
   <img src="https://i.imgur.com/y5pVpnf.gif" />
 </p>
 
 ![](https://i.imgur.com/nVQxyYq.png)
 
+<br><br>
 
 <h1 align="center">Installation & Information</h1>
 
@@ -24,9 +25,9 @@ Tarnished warrior, fated to walk a dark and perilous path, seize the essence of 
 <p align="center">
   <img src="https://i.imgur.com/ncRJMv5.gif" />
 </p>
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
+<br><br>
 
 <h1 align="center">Difficulty & Nemesis</h1>
 
@@ -57,9 +58,9 @@ Know this: equipping the Malefic Woundseal binds you wholly to the Blood Star’
 <p align="center">
   <img src="https://i.imgur.com/ncRJMv5.gif" />
 </p>
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
+<br><br>
 
 <h1 align="center">Overview & Features</h1>
 
@@ -156,9 +157,9 @@ Lava deals **5x damage**. No more lava baths.
 <p align="center">
   <img src="https://i.imgur.com/it27pb9.gif" />
 </p>
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
+<br><br>
 
 <h1 align="center">Great Runes</h1>
 
@@ -193,9 +194,9 @@ Lava deals **5x damage**. No more lava baths.
 <p align="center">
   <img src="https://i.imgur.com/it27pb9.gif" />
 </p>
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
+<br><br>
 
 <h1 align="center">Gestures</h1>
 
@@ -220,9 +221,9 @@ Requires Mohg’s Shackle and sufficiently high VGR: Sacrifice nearly all of you
 <p align="center">
   <img src="https://i.imgur.com/it27pb9.gif" />
 </p>
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
+<br><br>
 
 <h1 align="center">Progression & Afflictions</h1>
 
@@ -263,9 +264,9 @@ Using **Margit’s Shackle** can temporarily halt the affliction, while equippin
 <p align="center">
   <img src="https://i.imgur.com/PDBhsYA.gif" />
 </p>
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
+<br><br>
 
 <h1 align="center">Skills & Buffs</h1>
 
@@ -323,9 +324,9 @@ Requires **Ascension Sigil** from Dragon Communion progression.
 <p align="center">
   <img src="https://i.imgur.com/mKOT8z8.gif" />
 </p>
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
+<br><br>
 
 <h1 align="center">Weapons</h1>
 
@@ -394,9 +395,9 @@ Default Skill: Barbaric Roar.
 <p align="center">
   <img src="https://i.imgur.com/it27pb9.gif" />
 </p>
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
+<br><br>
 
 <h1 align="center">Spells</h1>
 
@@ -453,9 +454,9 @@ Flame Fortification, Magic Fortification, Lightning Fortification, Divine Fortif
 <h3>Major Fortification Incantations</h3>
 Black Flame’s Protection, Flame Protect Me, Barrier of Gold, Golden Lightning Fortification, Lord’s Divine Fortification, Protection of the Erdtree  
 180s duration.
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
+<br><br>
 
 <h1 align="center">Armor</h1>
 
@@ -474,9 +475,9 @@ Black Flame’s Protection, Flame Protect Me, Barrier of Gold, Golden Lightning 
 Bonus resistances removed. 79% holy guard absorption.
 
 **New Skill: Black Sun’s Zenith (50 FP)** — Expel a shockwave and grant temporary invincibility. Repel magic and, if timed perfectly, can parry. Can be cast with no FP but will build up Death Blight instead.
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
+<br><br>
 
 <h1 align="center">Talismans</h1>
 
@@ -511,9 +512,9 @@ Increased attributes and damage taken removed.
 
 An Empyrean vessel for channeling Soulflame. +30% Godslayer incantation damage.  
 Acquired by finding the Gloam-Eyed Queen’s grave in the southern part of Altus Plateau.
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
+<br><br>
 
 <h1 align="center">Items</h1>
 
@@ -575,9 +576,9 @@ Heal 40% HP over 2s / 60% HP over 3s. 10 uses per rest.
 
 - Dragon Flesh drops from Dragonbarrow dragons.
 - Dragonscale Flesh drops from Jagged Peak dragons.
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
+<br><br>
 
 <h1 align="center">Crystal Tears</h1>
 
@@ -589,9 +590,9 @@ Turns body to steel for 40s: Hyperarmor, +40% physical damage negation, Tier 4 H
 <h3>Stonebarb Cracked Tear</h3>
   
 40s duration, new VFX.
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
+<br><br>
 
 <h1 align="center">Recommended</h1>
 
@@ -603,5 +604,4 @@ Turns body to steel for 40s: Hyperarmor, +40% physical damage negation, Tier 4 H
 - https://www.nexusmods.com/eldenring/mods/5456 — Ride Anywhere
 - https://www.nexusmods.com/eldenring/mods/6423 — Sovereign Loadscreens
 - https://www.nexusmods.com/eldenring/mods/94 — Sovereign ReShade
-
 ![](https://i.imgur.com/nVQxyYq.png)
