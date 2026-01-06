@@ -16,7 +16,7 @@ Tarnished warrior, fated to walk a dark and perilous path, seize the essence of 
   <img src="https://i.imgur.com/y5pVpnf.gif" />
 </p>
 
----
+
 
 ## -- Installation & Information --
 
@@ -32,7 +32,7 @@ Tarnished warrior, fated to walk a dark and perilous path, seize the essence of 
   <img src="https://i.imgur.com/ncRJMv5.gif" />
 </p>
 
----
+
 
 ## -- Difficulty & Nemesis --
 
@@ -68,7 +68,7 @@ Know this: equipping the Malefic Woundseal binds you wholly to the Blood Star’
   <img src="https://i.imgur.com/ncRJMv5.gif" />
 </p>
 
----
+
 
 ## -- Overview & Features --
 
@@ -170,7 +170,7 @@ Lava deals **5x damage**. No more lava baths.
   <img src="https://i.imgur.com/it27pb9.gif" />
 </p>
 
----
+
 
 ## -- Great Runes --
 
@@ -209,7 +209,7 @@ Lava deals **5x damage**. No more lava baths.
   <img src="https://i.imgur.com/it27pb9.gif" />
 </p>
 
----
+
 
 ## -- Gestures --
 
@@ -236,7 +236,7 @@ Requires Mohg’s Shackle and sufficiently high VGR: Sacrifice nearly all of you
   <img src="https://i.imgur.com/it27pb9.gif" />
 </p>
 
----
+
 
 ## -- Progression & Afflictions --
 
@@ -280,7 +280,7 @@ Using **Margit’s Shackle** can temporarily halt the affliction, while equippin
   <img src="https://i.imgur.com/PDBhsYA.gif" />
 </p>
 
----
+
 
 ## -- Skills & Buffs --
 
@@ -341,7 +341,7 @@ Requires **Ascension Sigil** from Dragon Communion progression.
   <img src="https://i.imgur.com/mKOT8z8.gif" />
 </p>
 
----
+
 
 ## -- Weapons --
 
@@ -415,7 +415,7 @@ Default Skill: Barbaric Roar.
   <img src="https://i.imgur.com/it27pb9.gif" />
 </p>
 
----
+
 
 ## -- Spells --
 
@@ -477,7 +477,7 @@ Black Flame’s Protection, Flame Protect Me, Barrier of Gold, Golden Lightning 
 
 ![](https://i.imgur.com/qLZWKh9.png)
 
----
+
 
 ## Armor
 
@@ -501,7 +501,7 @@ Bonus resistances removed. 79% holy guard absorption.
 
 ![](https://i.imgur.com/qLZWKh9.png)
 
----
+
 
 ## Talismans
 
@@ -540,7 +540,7 @@ Acquired by finding the Gloam-Eyed Queen’s grave in the southern part of Altus
 
 ![](https://i.imgur.com/qLZWKh9.png)
 
----
+
 
 ## Items
 
@@ -607,7 +607,7 @@ Heal 40% HP over 2s / 60% HP over 3s. 10 uses per rest.
 
 ![](https://i.imgur.com/qLZWKh9.png)
 
----
+
 
 ## Crystal Tears
 
@@ -624,7 +624,7 @@ https://eldenring.wiki.fextralife.com/Stonebarb+Cracked+Tear
 
 ![](https://i.imgur.com/qLZWKh9.png)
 
----
+
 
 ## Recommended
 
@@ -639,6 +639,6 @@ https://eldenring.wiki.fextralife.com/Stonebarb+Cracked+Tear
 - https://www.nexusmods.com/eldenring/mods/6423 — Sovereign Loadscreens
 - https://www.nexusmods.com/eldenring/mods/94 — Sovereign ReShade
 
----
 
----------------------------------------------------------------------------------------
+
+
