@@ -219,12 +219,7 @@ Requires Mohg’s Shackle and sufficiently high VGR: Sacrifice nearly all of you
 - Apply **Bloodflame Blasphemy**, or **Exalted Bloodflame Blasphemy** if Mohg’s Rune is active
 - Apply **Flame Grant Me Strength**
 
-![](https://i.imgur.com/NyCUc2Q.png) ![](https://i.imgur.com/Fc3UhOg.png) ![](https://i.imgur.com/CKUCF1o.png)  
-![](https://i.imgur.com/BoddBbA.png)
-
-<p align="center">
-  <img src="https://i.imgur.com/it27pb9.gif" />
-</p>
+![](https://i.imgur.com/Fc3UhOg.png) ![](https://i.imgur.com/CKUCF1o.png)  
 
 ![](https://i.imgur.com/nVQxyYq.png)
 
