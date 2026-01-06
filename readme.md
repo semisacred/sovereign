@@ -8,9 +8,6 @@ Tarnished warrior, fated to walk a dark and perilous path, seize the essence of 
 
 > ***Art thou fated to rise as Sovereign, or be unmade upon the path?***
 >
-<p align="center">
-  <img src="https://i.imgur.com/y5pVpnf.gif" />
-</p>
 
 ![](https://i.imgur.com/nVQxyYq.png)
 
