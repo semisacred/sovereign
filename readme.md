@@ -19,10 +19,6 @@ Tarnished warrior, fated to walk a dark and perilous path, seize the essence of 
 - Installation and technical information: **[Sovereign Repository](https://github.com/semisacred/sovereign)**
 - Make regular backups of your save file: `user\AppData\Roaming\EldenRing`
 
-<p align="center">
-  <img src="https://i.imgur.com/ncRJMv5.gif" />
-</p>
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
 <br><br>
