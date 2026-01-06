@@ -1,7 +1,5 @@
 <h1 align="center">Description</h1>
 
-![banner](https://i.imgur.com/WiiRlNG.png)
-
 > *Thou wouldst lay claim to the Elden Ring?*  
 > *The flame devours as it grants power. The blood remembers every sin.*  
 > *To ascend is to suffer, to claim is to forsake. None tread this path unchanged.*
@@ -18,8 +16,6 @@ Tarnished warrior, fated to walk a dark and perilous path, seize the essence of 
 
 <h1 align="center">Installation & Information</h1>
 
-![banner](https://i.imgur.com/WiiRlNG.png)
-
 - Disable Anti-Cheat and play offline: **[Anti-Cheat Toggler](https://www.nexusmods.com/eldenring/mods/90)**
 - Installation and technical information: **[Sovereign Repository](https://github.com/semisacred/sovereign)**
 - Make regular backups of your save file: `user\AppData\Roaming\EldenRing`
@@ -31,8 +27,6 @@ Tarnished warrior, fated to walk a dark and perilous path, seize the essence of 
 ![](https://i.imgur.com/nVQxyYq.png)
 
 <h1 align="center">Difficulty & Nemesis</h1>
-
-![banner](https://i.imgur.com/WiiRlNG.png)
 
 <h3>Nightmare Difficulty</h3>
 Enemies have **1.5x HP/FP/SP**, defenses, and damage. They have increased perception and engage from a greater distance.
@@ -65,8 +59,6 @@ Know this: equipping the Malefic Woundseal binds you wholly to the Blood Star’
 ![](https://i.imgur.com/nVQxyYq.png)
 
 <h1 align="center">Overview & Features</h1>
-
-![banner](https://i.imgur.com/WiiRlNG.png)
 
 <h3>Bloodflame Blasphemy</h3>
 By using **Mohg’s Shackle** and **Rapture**, you can invoke **Bloodflame Blasphemy**, a potent buff that strips away all holy blessings in exchange for immense power. When struck down, you erupt in blood and flame, annihilating nearby foes and cheating death as the blasphemy consumes itself.
@@ -166,7 +158,6 @@ Lava deals **5x damage**. No more lava baths.
 
 <h1 align="center">Great Runes</h1>
 
-![banner](https://i.imgur.com/WiiRlNG.png)
 
 <h3>Godrick’s Great Rune</h3>
 - **Active:** +5 all attributes
@@ -203,7 +194,6 @@ Lava deals **5x damage**. No more lava baths.
 
 <h1 align="center">Gestures</h1>
 
-![banner](https://i.imgur.com/WiiRlNG.png)
 
 <h3>Golden Order Totality *(HOTKEY Action + L1)*</h3>
 Requires a Scarseal or Soreseal: Apply Law of Regression and expel a charged **Wrath of Gold** costing 40 FP. Enemies attacking you trigger Wrath of Gold and Sacred Ward, granting you near invincibility as long as you have the FP to maintain it. Strong enough attacks will stagger you out of the pose.
@@ -229,8 +219,6 @@ Requires Mohg’s Shackle and sufficiently high VGR: Sacrifice nearly all of you
 ![](https://i.imgur.com/nVQxyYq.png)
 
 <h1 align="center">Progression & Afflictions</h1>
-
-![banner](https://i.imgur.com/WiiRlNG.png)
 
 <h3>Dragon Communion</h3>
 For every dragon heart consumed, you gain **+1 ARC** but will also progress your **Dragonrot**, which rots your blood slowly starting at **10% HP**. Dragonrot gets worse over time. With each Great Rune acquired, your blood starts rotting at a higher HP threshold: **10% → 20% → 30% HP** and so on.
@@ -273,8 +261,6 @@ Using **Margit’s Shackle** can temporarily halt the affliction, while equippin
 ![](https://i.imgur.com/nVQxyYq.png)
 
 <h1 align="center">Skills & Buffs</h1>
-
-![banner](https://i.imgur.com/WiiRlNG.png)
 
 <h3>Quick Buff</h3>
 Use **Numen’s Runes** and **Rune Arcs** to dynamically apply buffs if you have obtained them and meet their requirements:
@@ -334,8 +320,6 @@ Requires **Ascension Sigil** from Dragon Communion progression.
 ![](https://i.imgur.com/nVQxyYq.png)
 
 <h1 align="center">Weapons</h1>
-
-![banner](https://i.imgur.com/WiiRlNG.png)
 
 <h3>Stormblessed Zweihander</h3>
 
@@ -407,8 +391,6 @@ Default Skill: Barbaric Roar.
 
 <h1 align="center">Spells</h1>
 
-![banner](https://i.imgur.com/WiiRlNG.png)
-
 <h3>Fireball Incantations</h3>
 - Flame Sling — 
 - Black Flame — 
@@ -469,8 +451,6 @@ Black Flame’s Protection, Flame Protect Me, Barrier of Gold, Golden Lightning 
 
 <h1 align="center">Armor</h1>
 
-![banner](https://i.imgur.com/WiiRlNG.png)
-
 ![](https://i.imgur.com/HltvWgB.png)
 
 <h3>Dragonlord’s Plate *(Scaled Set)</h3>
@@ -495,7 +475,6 @@ Bonus resistances removed. 79% holy guard absorption.
 
 <h1 align="center">Talismans</h1>
 
-![banner](https://i.imgur.com/WiiRlNG.png)
 
 ![](https://i.imgur.com/HltvWgB.png)
 
@@ -536,9 +515,6 @@ Acquired by finding the Gloam-Eyed Queen’s grave in the southern part of Altus
 
 <h1 align="center">Items</h1>
 
-![banner](https://i.imgur.com/WiiRlNG.png)
-
-![](https://i.imgur.com/HltvWgB.png)
 
 <h3>Rune Arc</h3>
 
@@ -598,15 +574,9 @@ Heal 40% HP over 2s / 60% HP over 3s. 10 uses per rest.
 - Dragon Flesh drops from Dragonbarrow dragons.
 - Dragonscale Flesh drops from Jagged Peak dragons.
 
-![](https://i.imgur.com/qLZWKh9.png)
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
 <h1 align="center">Crystal Tears</h1>
-
-![banner](https://i.imgur.com/WiiRlNG.png)
-
-![](https://i.imgur.com/HltvWgB.png)
 
 <h3>Leaden Hardtear</h3>
 
@@ -617,15 +587,9 @@ Turns body to steel for 40s: Hyperarmor, +40% physical damage negation, Tier 4 H
   
 40s duration, new VFX.
 
-![](https://i.imgur.com/qLZWKh9.png)
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
 <h1 align="center">Recommended</h1>
-
-![banner](https://i.imgur.com/WiiRlNG.png)
-
-![](https://i.imgur.com/HltvWgB.png)
 
 - https://www.nexusmods.com/eldenring/mods/1587 — Chat with Melina
 - https://www.nexusmods.com/eldenring/mods/87 — Compass Be Gone
