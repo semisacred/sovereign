@@ -1,4 +1,4 @@
-## -- Description --
+ -- Description --
 
 ![banner](https://i.imgur.com/WiiRlNG.png)
 
@@ -18,7 +18,7 @@ Tarnished warrior, fated to walk a dark and perilous path, seize the essence of 
 
 
 
-## -- Installation & Information --
+ -- Installation & Information --
 
 ![banner](https://i.imgur.com/WiiRlNG.png)
 
@@ -34,11 +34,11 @@ Tarnished warrior, fated to walk a dark and perilous path, seize the essence of 
 
 
 
-## -- Difficulty & Nemesis --
+ -- Difficulty & Nemesis --
 
 ![banner](https://i.imgur.com/WiiRlNG.png)
 
-### Nightmare Difficulty
+# Nightmare Difficulty
 Enemies have **1.5x HP/FP/SP**, defenses, and damage. They have increased perception and engage from a greater distance.
 
 Four tiers of enemies:
@@ -53,7 +53,7 @@ Nightmare Bosses are the most powerful in-universe, possessing exceptional resil
 - Malenia’s attacks heal her for double the amount and **cannot be dodged**.
 - Maliketh’s Destined Death attacks deal immense holy damage and **cannot be dodged**. Full HP for phase 2.
 
-### Optional Hardcore Mode — Nemesis
+# Optional Hardcore Mode — Nemesis
 For ages, **Nemesis**, the Blood Star glimpsed only in eternal darkness, has schemed to wrest dominion over the Elden Ring. Exultant from recent victories in realms beyond mortal sight, it now casts its crimson omen over the Lands Between.
 
 Claim a Great Rune, and it fastens its crimson gaze upon you, discerning both your peril and your promise. Gripped by its will, foes rise to hunt you with unrelenting, murderous intent. Enemies may spawn with crimson eyes, granting them **double health and damage**, and they yield significantly more runes upon death. Worse still, the Blood Star periodically unleashes an onslaught, turning every nearby creature against you. With each Great Rune you acquire, Nemesis sends more enemies your way, and these onslaughts grow more frequent.
@@ -70,14 +70,14 @@ Know this: equipping the Malefic Woundseal binds you wholly to the Blood Star’
 
 
 
-## -- Overview & Features --
+ -- Overview & Features --
 
 ![banner](https://i.imgur.com/WiiRlNG.png)
 
-### Bloodflame Blasphemy
+# Bloodflame Blasphemy
 By using **Mohg’s Shackle** and **Rapture**, you can invoke **Bloodflame Blasphemy**, a potent buff that strips away all holy blessings in exchange for immense power. When struck down, you erupt in blood and flame, annihilating nearby foes and cheating death as the blasphemy consumes itself.
 
-### Dragon Communion Progression
+# Dragon Communion Progression
 With each communion, your power grows, revealing a path toward Divinity.
 
 - Each **Dragon Heart** consumed gives **+1 ARC** and **+5% Dragon Communion incantation damage**.
@@ -85,7 +85,7 @@ With each communion, your power grows, revealing a path toward Divinity.
 
 **Formless Sigil +10** and **8 Dragon Communion incantations learned** bestows: **Elderblood Sigil** with **Sovereign Fury** skill.
 
-### Ritual of Ancient Dragon Communion
+# Ritual of Ancient Dragon Communion
 Ancient dragons are not so different from their drake kin, not to a seasoned devourer of dragons. Hunt and consume their **Ancient Dragon Hearts** at the **Grand Altar of Dragon Communion** to unlock powerful new incantations.
 
 - Each **Ancient Dragon Heart** consumed gives **+2 ARC** and **+10% Dragon Communion incantation damage**.
@@ -96,7 +96,7 @@ With **all Great Runes** collected and the **Entwining Umbilical Cord** found, c
 
 Such power, however, demands a terrible price.
 
-### Afflictions: Dragonrot, Frenzied Flame, and Bayle’s Cursed Blood
+# Afflictions: Dragonrot, Frenzied Flame, and Bayle’s Cursed Blood
 Consuming dragon hearts afflicts you with **Dragonrot**. At low health, your blood starts to decay. Dragonrot progressively worsens throughout your playthrough if left untreated, depending on the number of Great Runes acquired. Communing with ancient dragons will bring on advanced Dragonrot.
 
 - **Frenzied Flame**: +30% Frenzied Flame incantation damage, -30% Madness resistance, and halts Dragonrot but leaves you prone to bursts of madness. Using **Margit’s Shackle** can suppress the Frenzied Flame for a time.
@@ -104,7 +104,7 @@ Consuming dragon hearts afflicts you with **Dragonrot**. At low health, your blo
 
 All afflictions can be halted by equipping the **Fatesever Needle Talisman**.
 
-### Special Attack *(HOTKEY L2 + R2)*
+# Special Attack *(HOTKEY L2 + R2)*
 When wielding a Sovereign weapon with both hands, press **L2 + R2** to execute a powerful special attack.
 
 - Cooldown: **30s** (available when the icon is showing)
@@ -112,56 +112,56 @@ When wielding a Sovereign weapon with both hands, press **L2 + R2** to execute a
 
 ![](https://i.imgur.com/Acka9TQ.png)
 
-### Crouch Attack *(HOTKEY L3 + R1)*
+# Crouch Attack *(HOTKEY L3 + R1)*
 When wielding a Sovereign weapon with one or both hands, press **L3 + R1** to execute a special attack.
 
-### Perfect Block / Deflection
+# Perfect Block / Deflection
 Tap block with precise timing to deflect with Sekiro-style VFX. No tear required.
 
-### Dynamic Attack Movement
+# Dynamic Attack Movement
 Most modified attacks and abilities will travel farther if you hold the button used. Usually subtle, but dramatic for moves with significant movement.
 
-### Quick Buff
+# Quick Buff
 Apply buffs dynamically using **Numen’s Runes** and **Rune Arcs**, both of which are now craftable.
 
-### Quick Endure / Blasphemous Claw *(HOTKEY Dodge)*
+# Quick Endure / Blasphemous Claw *(HOTKEY Dodge)*
 If acquired, dodging in place executes **Endure** and eventually **Blasphemous Claw**.
 
 - Endure lets you tank damage and poise through attacks.
 - Blasphemous Claw has a new parry effect.
 - Replaces backstep functionality (moved into the **Moon of Nokstella** talisman).
 
-### Quick Gesture *(HOTKEY Action + L1 / Action + R1)*
+# Quick Gesture *(HOTKEY Action + L1 / Action + R1)*
 If acquired, **Golden Order Totality** and **Rapture** provide utility and offensive abilities via button combinations.
 
-### Quick Shackle *(HOTKEY Action + Dodge / Action + Jump)*
+# Quick Shackle *(HOTKEY Action + Dodge / Action + Jump)*
 If acquired, **Margit’s** and **Mohg’s Shackles** provide utility and offensive abilities via button combinations.
 
-### Quick Lantern *(HOTKEY Action + L2)*
+# Quick Lantern *(HOTKEY Action + L2)*
 If acquired, toggle Lantern via button combination. Replaces two-hand left-hand weapon functionality. Change the setting in `action\script\c0000.hks` to disable this.
 
-### Great Rune Passives
+# Great Rune Passives
 **Restore a Great Rune at its Divine Tower to unlock its passive effect.**
 
-### Flask of Wondrous Physick
+# Flask of Wondrous Physick
 Now has **3 charges**. No reason not to use it.
 
-### Reworked Sites of Grace
+# Reworked Sites of Grace
 Enemies do not respawn after resting at grace, and certain long-lasting buffs/debuffs do not expire.
 
-### Maidenless No Longer
+# Maidenless No Longer
 Provided that she is alive and willing, **Melina** will assist with leveling up and can be summoned and talked to at sites of grace.
 
-### Double Jump
+# Double Jump
 **Torrent grants you the ability to perform a second jump in midair.**
 
-### Survive Lethal Falls
+# Survive Lethal Falls
 Survive falls from extreme heights with **Longtail Cat Talisman**, **Opaline Bubbletear**, **Opaline Bubblesoap**, **Sacred Ward**, **Leaden Hardtear**, or **Ironjar Aromatic**.
 
-### Plunging Attack Damage
+# Plunging Attack Damage
 Jump attacks deal progressively more damage the longer you fall, from **+30% to +300%**. Being heavy from **Leaden Hardtear** or **Ironjar Aromatic** doubles this bonus.
 
-### Deadly Lava
+# Deadly Lava
 Lava deals **5x damage**. No more lava baths.
 
 ![](https://i.imgur.com/nVQxyYq.png)
@@ -172,35 +172,35 @@ Lava deals **5x damage**. No more lava baths.
 
 
 
-## -- Great Runes --
+ -- Great Runes --
 
 ![banner](https://i.imgur.com/WiiRlNG.png)
 
-### Godrick’s Great Rune
+# Godrick’s Great Rune
 - **Active:** +5 all attributes
 - **Passive:** +1 all attributes
 
-### Rennala’s Great Rune
+# Rennala’s Great Rune
 - **Active:** Rebirth
 - **Passive:** +5 MND
 
-### Radahn’s Great Rune
+# Radahn’s Great Rune
 - **Active:** +10 STR, +20% FP, +20% SP
 - **Passive:** +20% Equip Load
 
-### Rykard’s Great Rune
+# Rykard’s Great Rune
 - **Active:** Restore 14% + 160 HP on kill
 - **Passive:** Stack +1% max HP/FP/SP for 10 minutes per kill
 
-### Morgott’s Great Rune
+# Morgott’s Great Rune
 - **Active:** +20% Holy damage, Rune Loss prevented upon death, +50% resistance to Madness and Death Blight
 - **Passive:** +5 FTH
 
-### Malenia’s Great Rune
+# Malenia’s Great Rune
 - **Active:** +10 DEX, attacks dealt after taking damage recover HP, boost attack power on consecutive hits (10%/15%/20%), +50% resistance to Scarlet Rot
 - **Passive:** -50% attack stamina consumption
 
-### Mohg’s Great Rune
+# Mohg’s Great Rune
 - **Passive:** +50% Blood Ability damage for 15s on bloodloss near you
 
 ![](https://i.imgur.com/nVQxyYq.png)
@@ -211,11 +211,11 @@ Lava deals **5x damage**. No more lava baths.
 
 
 
-## -- Gestures --
+ -- Gestures --
 
 ![banner](https://i.imgur.com/WiiRlNG.png)
 
-### Golden Order Totality *(HOTKEY Action + L1)*
+# Golden Order Totality *(HOTKEY Action + L1)*
 Requires a Scarseal or Soreseal: Apply Law of Regression and expel a charged **Wrath of Gold** costing 40 FP. Enemies attacking you trigger Wrath of Gold and Sacred Ward, granting you near invincibility as long as you have the FP to maintain it. Strong enough attacks will stagger you out of the pose.
 
 Grants **Blessing of the Erdtree**, **Golden Vow**, and **Sacred Ward** to yourself and nearby allies.
@@ -224,7 +224,7 @@ Grants **Blessing of the Erdtree**, **Golden Vow**, and **Sacred Ward** to yours
 
 ![](https://i.imgur.com/Zr6rJCj.png) ![](https://i.imgur.com/6puWWj9.png) ![](https://i.imgur.com/eiKagYp.png)
 
-### Rapture *(HOTKEY Action + R1)*
+# Rapture *(HOTKEY Action + R1)*
 Requires Mohg’s Shackle and sufficiently high VGR: Sacrifice nearly all of your HP to become Raptured. Once Raptured:
 - Apply **Bloodflame Blasphemy**, or **Exalted Bloodflame Blasphemy** if Mohg’s Rune is active
 - Apply **Flame Grant Me Strength**
@@ -238,11 +238,11 @@ Requires Mohg’s Shackle and sufficiently high VGR: Sacrifice nearly all of you
 
 
 
-## -- Progression & Afflictions --
+ -- Progression & Afflictions --
 
 ![banner](https://i.imgur.com/WiiRlNG.png)
 
-### Dragon Communion
+# Dragon Communion
 For every dragon heart consumed, you gain **+1 ARC** but will also progress your **Dragonrot**, which rots your blood slowly starting at **10% HP**. Dragonrot gets worse over time. With each Great Rune acquired, your blood starts rotting at a higher HP threshold: **10% → 20% → 30% HP** and so on.
 
 - **Lesser Dragonrot:** after consuming several dragon hearts, blood rots slowly starting at 10% HP
@@ -260,7 +260,7 @@ You can halt all Dragonrot by inheriting the **Frenzied Flame** or equipping the
 
 ![](https://i.imgur.com/gP1F7Td.png) ![](https://i.imgur.com/jmqLEYL.png) ![](https://i.imgur.com/FHUA1nP.png) ![](https://i.imgur.com/JHSamp1.png) ![](https://i.imgur.com/e7c99bn.png)
 
-### Frenzied Flame
+# Frenzied Flame
 Inheriting the Frenzied Flame will halt Dragonrot but will leave you prone to madness, giving you:
 - **+30%** Frenzied Flame damage
 - **-30%** Madness resistance
@@ -282,11 +282,11 @@ Using **Margit’s Shackle** can temporarily halt the affliction, while equippin
 
 
 
-## -- Skills & Buffs --
+ -- Skills & Buffs --
 
 ![banner](https://i.imgur.com/WiiRlNG.png)
 
-### Quick Buff
+# Quick Buff
 Use **Numen’s Runes** and **Rune Arcs** to dynamically apply buffs if you have obtained them and meet their requirements:
 
 - Blessing’s Boon / Blessing of the Erdtree / Golden Vow: requires incantation and Scarseal or Soreseal equipped
@@ -297,7 +297,7 @@ Use **Numen’s Runes** and **Rune Arcs** to dynamically apply buffs if you have
 
 ![](https://i.imgur.com/SYR9yJR.png) ![](https://i.imgur.com/Zr6rJCj.png) ![](https://i.imgur.com/6puWWj9.png) ![](https://i.imgur.com/5YZeAIO.png) ![](https://i.imgur.com/eiKagYp.png) ![](https://i.imgur.com/8QZTRLH.png) ![](https://i.imgur.com/wsRzmJz.png) ![](https://i.imgur.com/e24TRdc.png) ![](https://i.imgur.com/Q0YGPZ9.png)
 
-### Bloodflame Blasphemy
+# Bloodflame Blasphemy
 Once Raptured, apply Bloodflame Blasphemy with **Rapture**, **Mohg’s Shackle**, or **Quick Buff**. Removes all holy buffs.
 
 - **Bloodflame Blasphemy (180s):** +30% damage, restores 2% HP/FP/SP per second, applies Flame Grant Me Strength. When reaching 0 HP, explode in bloodflame, heal 10% HP, and lose Raptured status.
@@ -305,7 +305,7 @@ Once Raptured, apply Bloodflame Blasphemy with **Rapture**, **Mohg’s Shackle**
 
 ![](https://i.imgur.com/e24TRdc.png) ![](https://i.imgur.com/Q0YGPZ9.png)
 
-### Sovereign Fury
+# Sovereign Fury
 Requires **Elderblood Sigil** from Dragon Communion progression. Harness the raw fury of the ancient dragons. Each cast consumes **3% max HP/FP/SP for 10m**.
 
 **Sovereign Fury (60s):**
@@ -323,7 +323,7 @@ Chains: Vyke’s Dragonbolt.
 
 ![](https://i.imgur.com/JHSamp1.png)
 
-### Sovereign Ascension // Soulflame Divinity
+# Sovereign Ascension // Soulflame Divinity
 Requires **Ascension Sigil** from Dragon Communion progression.
 
 - On the ground, cast **Sovereign Fury**.
@@ -343,11 +343,11 @@ Requires **Ascension Sigil** from Dragon Communion progression.
 
 
 
-## -- Weapons --
+ -- Weapons --
 
 ![banner](https://i.imgur.com/WiiRlNG.png)
 
-### Stormblessed Zweihander *(WIKI)*
+# Stormblessed Zweihander *(WIKI)*
 https://eldenring.wiki.fextralife.com/Zweihander
 
 Greatsword moveset, increased attack speed, found deep within **Fringefolk Hero’s Grave**.
@@ -358,7 +358,7 @@ Greatsword moveset, increased attack speed, found deep within **Fringefolk Hero�
 - **2H Crouch Attack:** Skyward Slash — Jump into the air and perform a high leaping slash that sends a wind projectile
 - **Special Attack:** Whirlwind Slash — Overwhelm foes with a whirlwind attack
 
-### Blasphemous Blade *(WIKI)*
+# Blasphemous Blade *(WIKI)*
 https://eldenring.wiki.fextralife.com/Blasphemous+Blade
 
 Straight sword moveset, **FTH > STR > DEX** scaling, passive bleed effect, on-crit heal, area bloodloss heal.
@@ -373,7 +373,7 @@ Straight sword moveset, **FTH > STR > DEX** scaling, passive bleed effect, on-cr
   - 1–6 stacks: deadly dynamic bloodflame blast based on player HP  
   - 7 stacks: exalted bloodflame explosion
 
-### Godslayer’s Greatsword *(30 STR / 30 FTH / 16 DEX) — WIKI*
+# Godslayer’s Greatsword *(30 STR / 30 FTH / 16 DEX) — WIKI*
 https://eldenring.wiki.fextralife.com/Godslayer's+Greatsword
 
 Greatsword moveset, **FTH > STR > DEX** scaling, low base damage.
@@ -387,7 +387,7 @@ Greatsword moveset, **FTH > STR > DEX** scaling, low base damage.
 - **1H / 2H Crouch Attack:** God Hunt — powerful shockwave while Black Flame is active (empowered by Soulflame)
 - **Special Attack:** Queen’s Black Flame — godslaying sweeping slash, with an optional follow-up attack
 
-### Black Blade *(WIKI)*
+# Black Blade *(WIKI)*
 https://eldenring.wiki.fextralife.com/Maliketh's+Black+Blade
 
 **New Skill: Destined Death (100 FP)** — Destined Death for 10m; Awakened Destined Death for 30s.
@@ -399,7 +399,7 @@ https://eldenring.wiki.fextralife.com/Maliketh's+Black+Blade
 - **2H Crouch Attack:** Mortal Rend — fierce spinning slash with deadly projectile
 - **Special Attack:** Deliver Destined Death — plunge the greatsword into the ground to summon a myriad of blades
 
-### Great Stars *(44 STR) — WIKI*
+# Great Stars *(44 STR) — WIKI*
 https://eldenring.wiki.fextralife.com/Great+Stars
 
 Heavy affinity, increased STR scaling, 20 weight.  
@@ -417,11 +417,11 @@ Default Skill: Barbaric Roar.
 
 
 
-## -- Spells --
+ -- Spells --
 
 ![banner](https://i.imgur.com/WiiRlNG.png)
 
-### Fireball Incantations
+# Fireball Incantations
 - Flame Sling — https://eldenring.wiki.fextralife.com/Flame+Sling
 - Black Flame — https://eldenring.wiki.fextralife.com/Black+Flame
 - Giantsflame Take Thee — https://eldenring.wiki.fextralife.com/Giantsflame+Take+Thee
@@ -429,27 +429,27 @@ Default Skill: Barbaric Roar.
 
 Bigger AOE when charged, longer range.
 
-### Flame Grant Me Strength *(WIKI)*
+# Flame Grant Me Strength *(WIKI)*
 https://eldenring.wiki.fextralife.com/Flame+Grant+me+Strength  
 180s duration, +20% Fire/Physical Damage, +5 Stamina Recovery, +20 cast speed.
 
-### Fire Giant Incantations *(WIKI)*
+# Fire Giant Incantations *(WIKI)*
 https://eldenring.wiki.fextralife.com/Fire+Giant+Incantations  
 1.5x FP cost, +100% bonus damage. Each cast reduces this bonus damage by 20%. While reduced, the bonus damage recharges by 20% every 60s until reaching +100% again.
 
-### Flame of the Fell God *(WIKI)*
+# Flame of the Fell God *(WIKI)*
 https://eldenring.wiki.fextralife.com/Flame+of+the+Fell+God  
 2x FP cost, much bigger AOE, longer range.
 
-### Dragonbolt Blessing *(WIKI)*
+# Dragonbolt Blessing *(WIKI)*
 https://eldenring.wiki.fextralife.com/Dragonbolt+Blessing  
 90s duration, +5 SP/s, Tier 2 Hardness, -35% lightning damage negation, +5% status effect resistance, +5% movement speed.
 
-### Vyke’s Dragonbolt *(WIKI)*
+# Vyke’s Dragonbolt *(WIKI)*
 https://eldenring.wiki.fextralife.com/Vyke's+Dragonbolt  
 90s duration, +10 SP/s, Tier 2 Hardness, -35% lightning damage negation, +10% status effect resistance, +10% movement speed.
 
-### Dragon Communion Incantations *(WIKI)*
+# Dragon Communion Incantations *(WIKI)*
 https://eldenring.wiki.fextralife.com/Ancient+Dragons'+Lightning+Strike  
 No FP cost, 2x SP cost, limited uses per rest, +100% damage after obtaining 4 Dragon Communion incantations.
 
@@ -459,19 +459,19 @@ No FP cost, 2x SP cost, limited uses per rest, +100% damage after obtaining 4 Dr
 - Betrayer’s Dragonbolt *(Dragonbolt of Florissax)* — https://eldenring.wiki.fextralife.com/Fortissax's+Lightning+Spear  
   - 180s duration, +15 SP/s, Tier 2 Hardness, -35% lightning damage negation, +15% status effect resistance, +15% movement speed, +25% ancient lightning damage
 
-### Elderblood Greatbow *(NEW)*
+# Elderblood Greatbow *(NEW)*
 Requires 3 Ancient Dragon Communion incantations. Fires a great arrow from an arcane greatbow with potent anti-dragon and anti-healing effect.
 
-### Blessing’s Boon *(WIKI)* // Blessing of the Erdtree *(WIKI)*
+# Blessing’s Boon *(WIKI)* // Blessing of the Erdtree *(WIKI)*
 https://eldenring.wiki.fextralife.com/Blessing's+Boon  
 https://eldenring.wiki.fextralife.com/Blessing+of+the+Erdtree  
 2x duration.
 
-### Minor Fortification Incantations
+# Minor Fortification Incantations
 Flame Fortification, Magic Fortification, Lightning Fortification, Divine Fortification  
 300s duration.
 
-### Major Fortification Incantations
+# Major Fortification Incantations
 Black Flame’s Protection, Flame Protect Me, Barrier of Gold, Golden Lightning Fortification, Lord’s Divine Fortification, Protection of the Erdtree  
 180s duration.
 
@@ -479,11 +479,11 @@ Black Flame’s Protection, Flame Protect Me, Barrier of Gold, Golden Lightning 
 
 
 
-## Armor
+ Armor
 
 ![](https://i.imgur.com/HltvWgB.png)
 
-### Dragonlord’s Plate *(Scaled Set) — WIKI*
+# Dragonlord’s Plate *(Scaled Set) — WIKI*
 https://eldenring.wiki.fextralife.com/Scaled+Set
 
 - **Dragonlord’s Armor:** Apply Sovereign’s Fury while HP is below 30% and Ancient Dragonbolt is active.
@@ -492,7 +492,7 @@ https://eldenring.wiki.fextralife.com/Scaled+Set
 
 *Use Entwining Umbilical Cord if you want to wear your own armor but still have all the effects of the Dragonlord’s Plate armor set.*
 
-### Eclipse Crest Greatshield *(32 STR / 32 FTH) — WIKI*
+# Eclipse Crest Greatshield *(32 STR / 32 FTH) — WIKI*
 https://eldenring.wiki.fextralife.com/Eclipse+Crest+Greatshield
 
 Bonus resistances removed. 79% holy guard absorption.
@@ -503,36 +503,36 @@ Bonus resistances removed. 79% holy guard absorption.
 
 
 
-## Talismans
+ Talismans
 
 ![](https://i.imgur.com/HltvWgB.png)
 
-### Radagon’s Scarseal *(WIKI)* // Radagon’s Soreseal *(WIKI)*
+# Radagon’s Scarseal *(WIKI)* // Radagon’s Soreseal *(WIKI)*
 https://eldenring.wiki.fextralife.com/Radagon's+Scarseal  
 https://eldenring.wiki.fextralife.com/Radagon's+Soreseal
 
 +5/+10 Stamina Recovery, +15/+30 Cast Speed, +15%/+30% Holy damage, -15%/-30% Holy damage negation.  
 Increased attributes and damage taken removed.
 
-### Marika’s Soreseal *(WIKI)* // Marika’s Scarseal *(WIKI)*
+# Marika’s Soreseal *(WIKI)* // Marika’s Scarseal *(WIKI)*
 https://eldenring.wiki.fextralife.com/Marika's+Soreseal  
 https://eldenring.wiki.fextralife.com/Marika's+Scarseal
 
 +1%/+2% FP/s, +15%/+30% Holy damage, -15%/-30% Holy damage negation.  
 Increased attributes and damage taken removed.
 
-### Arsenal Charm *(WIKI)* // Arsenal Charm +1 *(WIKI)* // Great-jar’s Arsenal *(WIKI)*
+# Arsenal Charm *(WIKI)* // Arsenal Charm +1 *(WIKI)* // Great-jar’s Arsenal *(WIKI)*
 https://eldenring.wiki.fextralife.com/Arsenal+Charm  
 https://eldenring.wiki.fextralife.com/Great-Jar's+Arsenal
 
 +20%/+25%/+30% Equip Load.
 
-### Moon of Nokstella *(WIKI)*
+# Moon of Nokstella *(WIKI)*
 https://eldenring.wiki.fextralife.com/Moon+of+Nokstella  
 +4 Memory Slots, +10 Intelligence.  
 *Now you can reach the max cap of 14 slots.*
 
-### Entwining Umbilical Cord *(WIKI)*
+# Entwining Umbilical Cord *(WIKI)*
 https://eldenring.wiki.fextralife.com/Entwining+Umbilical+Cord
 
 An Empyrean vessel for channeling Soulflame. +30% Godslayer incantation damage.  
@@ -542,23 +542,23 @@ Acquired by finding the Gloam-Eyed Queen’s grave in the southern part of Altus
 
 
 
-## Items
+ Items
 
 ![](https://i.imgur.com/HltvWgB.png)
 
-### Rune Arc *(WIKI)*
+# Rune Arc *(WIKI)*
 https://eldenring.wiki.fextralife.com/Rune+Arc
 
 Restore 100% HP/FP/SP and apply Great Rune effect.  
 Craftable: 4000 runes.
 
-### Numen’s Rune *(WIKI)*
+# Numen’s Rune *(WIKI)*
 https://eldenring.wiki.fextralife.com/Numen's+Rune
 
 Apply Quick Buffs.  
 Craftable: 1000 runes and 1 Ruin Fragment.
 
-### Margit’s Shackle *(WIKI)* — *(HOTKEY Action + Dodge)*
+# Margit’s Shackle *(WIKI)* — *(HOTKEY Action + Dodge)*
 https://eldenring.wiki.fextralife.com/Margit's+Shackle
 
 Casts the Darkness incantation on use. Blinds everything in a large radius briefly.  
@@ -566,7 +566,7 @@ Removes Death Blight and Madness buildup. Halts the Frenzied Flame Curse for a t
 
 ![](https://i.imgur.com/N5LAw2Q.gif)
 
-### Mohg’s Shackle *(WIKI)* — *(HOTKEY Action + Jump)*
+# Mohg’s Shackle *(WIKI)* — *(HOTKEY Action + Jump)*
 https://eldenring.wiki.fextralife.com/Margit's+Shackle
 
 Light your blood aflame to damage and bleed surrounding enemies. Take 9% + 160 HP damage. Removes Bleed buildup.  
@@ -575,7 +575,7 @@ The bloodflame blast dynamically increases in size and intensity the lower HP yo
 
 ![](https://i.imgur.com/eoclGlJ.gif)
 
-### Opaline Bubblesoap *(Soap) — WIKI*
+# Opaline Bubblesoap *(Soap) — WIKI*
 http://https//eldenring.wiki.fextralife.com/Soap
 
 Grants Opaline Bubble and removes accumulations.
@@ -587,7 +587,7 @@ Merchant: Siofra River Merchant (2200 runes).
 
 *90% damage reduction for 1 hit. Also lets you survive falls from great heights. Now very worth a trip to the Eternal City.*
 
-### Starlight Shards *(WIKI)*
+# Starlight Shards *(WIKI)*
 https://eldenring.wiki.fextralife.com/Starlight+Shards
 
 Restore 100% FP.
@@ -595,7 +595,7 @@ Restore 100% FP.
 Craftable: 3 Cracked Crystal, 2 Crystal Bud, 2 Glintstone Firefly, 1 Nascent Butterfly.  
 Merchant: Sorceress Sellen (3500 runes).
 
-### Dragon Flesh *(Dragon Communion Flesh) — WIKI* // Dragonscale Flesh *(WIKI)*
+# Dragon Flesh *(Dragon Communion Flesh) — WIKI* // Dragonscale Flesh *(WIKI)*
 https://eldenring.wiki.fextralife.com/Dragon+Communion+Flesh  
 https://eldenring.wiki.fextralife.com/Dragonscale+Flesh
 
@@ -609,16 +609,16 @@ Heal 40% HP over 2s / 60% HP over 3s. 10 uses per rest.
 
 
 
-## Crystal Tears
+ Crystal Tears
 
 ![](https://i.imgur.com/HltvWgB.png)
 
-### Leaden Hardtear *(WIKI)*
+# Leaden Hardtear *(WIKI)*
 https://eldenring.wiki.fextralife.com/Leaden+Hardtear
 
 Turns body to steel for 40s: Hyperarmor, +40% physical damage negation, Tier 4 Hardness, -60% lightning damage negation, -50% status effects, -50% guard stamina consumption. Limits movement speed, jumps, and rolls.
 
-### Stonebarb Cracked Tear *(WIKI)*
+# Stonebarb Cracked Tear *(WIKI)*
 https://eldenring.wiki.fextralife.com/Stonebarb+Cracked+Tear  
 40s duration, new VFX.
 
@@ -626,7 +626,7 @@ https://eldenring.wiki.fextralife.com/Stonebarb+Cracked+Tear
 
 
 
-## Recommended
+ Recommended
 
 ![](https://i.imgur.com/HltvWgB.png)
 
