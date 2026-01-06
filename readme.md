@@ -14,6 +14,7 @@ Tarnished warrior, fated to walk a dark and perilous path, seize the essence of 
 
 ![](https://i.imgur.com/nVQxyYq.png)
 
+
 <h1 align="center">Installation & Information</h1>
 
 - Disable Anti-Cheat and play offline: **[Anti-Cheat Toggler](https://www.nexusmods.com/eldenring/mods/90)**
@@ -25,6 +26,7 @@ Tarnished warrior, fated to walk a dark and perilous path, seize the essence of 
 </p>
 
 ![](https://i.imgur.com/nVQxyYq.png)
+
 
 <h1 align="center">Difficulty & Nemesis</h1>
 
@@ -57,6 +59,7 @@ Know this: equipping the Malefic Woundseal binds you wholly to the Blood Star’
 </p>
 
 ![](https://i.imgur.com/nVQxyYq.png)
+
 
 <h1 align="center">Overview & Features</h1>
 
@@ -156,6 +159,7 @@ Lava deals **5x damage**. No more lava baths.
 
 ![](https://i.imgur.com/nVQxyYq.png)
 
+
 <h1 align="center">Great Runes</h1>
 
 
@@ -192,6 +196,7 @@ Lava deals **5x damage**. No more lava baths.
 
 ![](https://i.imgur.com/nVQxyYq.png)
 
+
 <h1 align="center">Gestures</h1>
 
 
@@ -217,6 +222,7 @@ Requires Mohg’s Shackle and sufficiently high VGR: Sacrifice nearly all of you
 </p>
 
 ![](https://i.imgur.com/nVQxyYq.png)
+
 
 <h1 align="center">Progression & Afflictions</h1>
 
@@ -259,6 +265,7 @@ Using **Margit’s Shackle** can temporarily halt the affliction, while equippin
 </p>
 
 ![](https://i.imgur.com/nVQxyYq.png)
+
 
 <h1 align="center">Skills & Buffs</h1>
 
@@ -318,6 +325,7 @@ Requires **Ascension Sigil** from Dragon Communion progression.
 </p>
 
 ![](https://i.imgur.com/nVQxyYq.png)
+
 
 <h1 align="center">Weapons</h1>
 
@@ -389,6 +397,7 @@ Default Skill: Barbaric Roar.
 
 ![](https://i.imgur.com/nVQxyYq.png)
 
+
 <h1 align="center">Spells</h1>
 
 <h3>Fireball Incantations</h3>
@@ -445,13 +454,10 @@ Flame Fortification, Magic Fortification, Lightning Fortification, Divine Fortif
 Black Flame’s Protection, Flame Protect Me, Barrier of Gold, Golden Lightning Fortification, Lord’s Divine Fortification, Protection of the Erdtree  
 180s duration.
 
-![](https://i.imgur.com/qLZWKh9.png)
-
 ![](https://i.imgur.com/nVQxyYq.png)
 
-<h1 align="center">Armor</h1>
 
-![](https://i.imgur.com/HltvWgB.png)
+<h1 align="center">Armor</h1>
 
 <h3>Dragonlord’s Plate *(Scaled Set)</h3>
 
@@ -469,14 +475,11 @@ Bonus resistances removed. 79% holy guard absorption.
 
 **New Skill: Black Sun’s Zenith (50 FP)** — Expel a shockwave and grant temporary invincibility. Repel magic and, if timed perfectly, can parry. Can be cast with no FP but will build up Death Blight instead.
 
-![](https://i.imgur.com/qLZWKh9.png)
-
 ![](https://i.imgur.com/nVQxyYq.png)
+
 
 <h1 align="center">Talismans</h1>
 
-
-![](https://i.imgur.com/HltvWgB.png)
 
 <h3>Radagon’s Scarseal // Radagon’s Soreseal</h3>
   
@@ -509,9 +512,8 @@ Increased attributes and damage taken removed.
 An Empyrean vessel for channeling Soulflame. +30% Godslayer incantation damage.  
 Acquired by finding the Gloam-Eyed Queen’s grave in the southern part of Altus Plateau.
 
-![](https://i.imgur.com/qLZWKh9.png)
-
 ![](https://i.imgur.com/nVQxyYq.png)
+
 
 <h1 align="center">Items</h1>
 
@@ -576,6 +578,7 @@ Heal 40% HP over 2s / 60% HP over 3s. 10 uses per rest.
 
 ![](https://i.imgur.com/nVQxyYq.png)
 
+
 <h1 align="center">Crystal Tears</h1>
 
 <h3>Leaden Hardtear</h3>
@@ -588,6 +591,7 @@ Turns body to steel for 40s: Hyperarmor, +40% physical damage negation, Tier 4 H
 40s duration, new VFX.
 
 ![](https://i.imgur.com/nVQxyYq.png)
+
 
 <h1 align="center">Recommended</h1>
 
