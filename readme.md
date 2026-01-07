@@ -564,18 +564,3 @@ Turns body to steel for 40s: Hyperarmor, +40% physical damage negation, Tier 4 H
 40s duration, new VFX.
 
 ![](https://i.imgur.com/nVQxyYq.png)
-
-<br><br>
-
-<h1 align="center">Recommended</h1>
-
-- https://www.nexusmods.com/eldenring/mods/1587 — Chat with Melina
-- https://www.nexusmods.com/eldenring/mods/87 — Compass Be Gone
-- https://www.nexusmods.com/eldenring/mods/3022 — Fast Torrent
-- https://www.nexusmods.com/eldenring/mods/2828 — Long-Horn Torrent
-- https://www.nexusmods.com/eldenring/mods/2575 — Pass Time Anywhere
-- https://www.nexusmods.com/eldenring/mods/5456 — Ride Anywhere
-- https://www.nexusmods.com/eldenring/mods/6423 — Sovereign Loadscreens
-- https://www.nexusmods.com/eldenring/mods/94 — Sovereign ReShade
-
-![](https://i.imgur.com/nVQxyYq.png)
